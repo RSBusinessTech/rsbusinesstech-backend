@@ -49,6 +49,25 @@
 			<artifactId>spring-boot-starter-mail</artifactId>
 		</dependency>
 
+		<!--db-->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-jpa</artifactId>
+		</dependency>
+		<!--MySQL-->
+<!--		<dependency>-->
+<!--	     	<groupId>mysql</groupId>-->
+<!--		    <artifactId>mysql-connector-java</artifactId>-->
+<!--		    <version>5.1.48</version>-->
+<!--		</dependency>-->
+		<!--PostgreSQL-->
+		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<version>42.7.2</version>
+		</dependency>
+
+		<!--starter:it is a dependency required to start a springboot application, it contains a set of required dependencies like spring-core,beans,boot etc.-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>

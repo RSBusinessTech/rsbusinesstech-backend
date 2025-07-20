@@ -1,6 +1,7 @@
 package com.rsbusinesstech.rsbusinesstech_backend.contact.service;
 
 import com.rsbusinesstech.rsbusinesstech_backend.contact.model.EmailRequest;
+import com.rsbusinesstech.rsbusinesstech_backend.contact.repository.CompanyRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
