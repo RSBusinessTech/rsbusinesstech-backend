@@ -31,4 +31,16 @@ public class ContactController
        }
         return ResponseEntity.ok("Email sent successfully...");
     }
+
+    @PostMapping("/sendEmailLashMapBeautyStudio")
+    public ResponseEntity<String> sendEmailLashMapBeautyStudio(@RequestBody EmailRequest emailRequest){
+        try{
+            if(emailRequest != null){
+                emailService.sendEmailLashMapBeautyStudio(emailRequest);
+            }
+        }catch (Exception e){
+            ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to send email");
+        }
+        return ResponseEntity.ok("Email sent successfully...");
+    }
 }
