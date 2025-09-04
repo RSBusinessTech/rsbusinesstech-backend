@@ -15,6 +15,7 @@ public class BookingRequest
     private String email;
     private String phone;
     private String serviceId;
+    private String serviceName;
     private String stylist;
     private String date;
     private String time;

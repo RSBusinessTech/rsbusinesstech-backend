@@ -41,12 +41,12 @@ public class EmailService
     public void sendEmailLashMapBeautyStudio(EmailRequest emailRequest){
         SimpleMailMessage message = new SimpleMailMessage();
 
-        message.setTo("lashmap.beautystudio@gmail.com");                                                                     //setting "to".
-        message.setSubject("Enquiry from Customer || "+emailRequest.getName() +" || "+emailRequest.getEmail());       //setting "subject".
+        message.setTo("lashmap.beautystudio@gmail.com");
+        message.setSubject("Enquiry from Customer || "+emailRequest.getName() +" || "+emailRequest.getEmail());
         message.setText(
-                "You have a new message from your website:\n\n" +                                                     //setting "body".
+                "You have a new message from your website:\n\n" +
                         "Message:\n" + emailRequest.getMessage());
-        message.setFrom("lashmap.beautystudio@gmail.com");                                                                  //setting "from".
+        message.setFrom("lashmap.beautystudio@gmail.com");
 
         lashMapBeautyStudioMailSender.send(message);
     }
