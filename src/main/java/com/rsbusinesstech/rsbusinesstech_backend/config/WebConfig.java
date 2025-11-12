@@ -13,7 +13,7 @@ public class WebConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")
-                        .allowedOrigins("http://localhost:4200", "https://www.rsbusinesstech.com","https://www.lashmapbeautystudio.com")
+                        .allowedOrigins("http://localhost:4200", "https://www.rsbusinesstech.com","https://www.lashmapbeautystudio.com","https://vyenpropertyadvisor.com/")
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowCredentials(true);
             }
