@@ -40,6 +40,15 @@ public class PropertyService
                     "24-hour security"
             ));
 
+            List<String> imageUrls = new ArrayList<>(Arrays.asList(
+                    "assets/images/commercial-hero.webp",
+                    "assets/images/kl.webp",
+                    "assets/images/kl-rent-bg.webp",
+                    "assets/images/commercial-hero.webp",
+                    "assets/images/buy-hero.webp",
+                    "assets/images/kl-rent-bg.webp"
+            ));
+
             PropertyDTO propertyDTO = new PropertyDTO();
             propertyDTO.setId(1l);
             propertyDTO.setName("Axis Crown @ Axis Pandan");
@@ -53,6 +62,7 @@ public class PropertyService
             propertyDTO.setAmenities(amenities);
             propertyDTO.setCommonFacilities(commonFacilities);
             propertyDTO.setLocation("https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15930.970407806825!2d101.68405868809338!3d3.1390036499999967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc37d111111111%3A0x7a0b1d362bc3a0!2sKuala%20Lumpur%2C%20Federal%20Territory%20of%20Kuala%20Lumpur%2C%20Malaysia!5e0!3m2!1sen!2smy!4v1661430783654!5m2!1sen!2smy");
+            propertyDTO.setImageUrls(imageUrls);
 
             PropertyDTO propertyDTO2 = new PropertyDTO();
             propertyDTO2.setId(2l);
@@ -67,6 +77,7 @@ public class PropertyService
             propertyDTO2.setAmenities(amenities);
             propertyDTO2.setCommonFacilities(commonFacilities);
             propertyDTO2.setLocation("https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15930.970407806825!2d101.68405868809338!3d3.1390036499999967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc37d111111111%3A0x7a0b1d362bc3a0!2sKuala%20Lumpur%2C%20Federal%20Territory%20of%20Kuala%20Lumpur%2C%20Malaysia!5e0!3m2!1sen!2smy!4v1661430783654!5m2!1sen!2smy");
+            propertyDTO2.setImageUrls(imageUrls);
 
             PropertyDTO propertyDTO3 = new PropertyDTO();
             propertyDTO3.setId(3l);
@@ -81,6 +92,7 @@ public class PropertyService
             propertyDTO3.setAmenities(amenities);
             propertyDTO3.setCommonFacilities(commonFacilities);
             propertyDTO3.setLocation("https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15930.970407806825!2d101.68405868809338!3d3.1390036499999967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc37d111111111%3A0x7a0b1d362bc3a0!2sKuala%20Lumpur%2C%20Federal%20Territory%20of%20Kuala%20Lumpur%2C%20Malaysia!5e0!3m2!1sen!2smy!4v1661430783654!5m2!1sen!2smy");
+            propertyDTO2.setImageUrls(imageUrls);
 
             properties.add(propertyDTO);
             properties.add(propertyDTO2);
