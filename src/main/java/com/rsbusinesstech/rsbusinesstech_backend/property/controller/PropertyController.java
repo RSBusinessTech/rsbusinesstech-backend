@@ -29,9 +29,48 @@ public class PropertyController
                 properties = propertyService.getPropertiesByType(type);
             }
         }catch (Exception e){
-            ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to send email");
+            ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to Fetch Properties");
         }
         return ResponseEntity.ok(properties);
     }
+
+    @PostMapping("/addPropertyByType")
+    public ResponseEntity<String> addPropertyByType(@RequestParam String type, @RequestBody PropertyDTO property){
+        String response = "Something went wrong";
+        try{
+            if(!StringUtils.isEmpty(type) && property != null){
+                response = propertyService.addPropertyByType(type,property);
+            }
+        }catch (Exception e){
+            ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to Add Property");
+        }
+        return ResponseEntity.ok(response);
+    }
+
+    @PutMapping("/updatePropertyByType")
+    public ResponseEntity<String> updatePropertyByType(@RequestParam String type, @RequestBody PropertyDTO property, @RequestParam String id){
+        String response = "Something went wrong";
+        try{
+            if(!StringUtils.isEmpty(type) && property != null && id != null){
+                response = propertyService.updatePropertyByType(type,property,Long.parseLong(id));
+            }
+        }catch (Exception e){
+            ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to Update Property");
+        }
+        return ResponseEntity.ok(response);
+    }
+
+    @DeleteMapping("/deletePropertyByType")
+    public ResponseEntity<String> deletePropertyByType(@RequestParam String type, @RequestParam String id){
+        try{
+            if(!StringUtils.isEmpty(type) && id != null){
+                propertyService.deletePropertyByType(type,Long.parseLong(id));
+            }
+        }catch (Exception e){
+            ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to Delete Property");
+        }
+        return ResponseEntity.ok("Property Deleted Suuceesfully");
+    }
+
 
 }
