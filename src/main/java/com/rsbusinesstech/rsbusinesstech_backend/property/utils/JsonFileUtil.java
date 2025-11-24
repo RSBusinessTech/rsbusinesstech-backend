@@ -11,33 +11,43 @@ import java.util.List;
 
 public class JsonFileUtil {
 
-    private static final String BASE_PATH = "src/main/resources/data/";
+    private static final String EXTERNAL_BASE_PATH = "/opt/app/data/"; // server path
+    private static final String CLASS_PATH_BASE = "data/";              // packaged defaults
     private static final ObjectMapper objectMapper = new ObjectMapper();
 
-    //read JSON file.
-    public static List<PropertyDTO> readPropertiesByType(String type){
-        String filePath = BASE_PATH + type.toLowerCase()+".json";
-//        File file = new File(filePath); for local only
-        ClassPathResource resource = new ClassPathResource("data/" + type.toLowerCase() + ".json");
+    // Read JSON file
+    public static List<PropertyDTO> readPropertiesByType(String type) {
+        String externalFilePath = EXTERNAL_BASE_PATH + type.toLowerCase() + ".json";
+        File externalFile = new File(externalFilePath);
 
-        TypeReference<List<PropertyDTO>> typeReference = new TypeReference <List<PropertyDTO>>() {};
+        TypeReference<List<PropertyDTO>> typeReference = new TypeReference<>() {};
+
         try {
-//            return objectMapper.readValue(file, typeReference);
-            return objectMapper.readValue(resource.getInputStream(), typeReference);
+            if (externalFile.exists()) {
+                // Read from external file if it exists
+                return objectMapper.readValue(externalFile, typeReference);
+            } else {
+                // Fallback: read from classpath resource
+                ClassPathResource resource = new ClassPathResource(CLASS_PATH_BASE + type.toLowerCase() + ".json");
+                return objectMapper.readValue(resource.getInputStream(), typeReference);
+            }
         } catch (IOException e) {
-            throw new RuntimeException("Error reading JSON: " + filePath, e);
+            throw new RuntimeException("Error reading JSON: " + externalFilePath, e);
         }
     }
 
-    //write into JSON file.
-    public static void writePropertiesByType(String type, List<PropertyDTO> properties){
-//      String filePath = BASE_PATH + type.toLowerCase()+".json";
-        String EXTERNAL_BASE_PATH = "data/"; // relative to the server working directory
-        File file = new File(EXTERNAL_BASE_PATH + type.toLowerCase() + ".json");
+    // Write JSON file
+    public static void writePropertiesByType(String type, List<PropertyDTO> properties) {
+        String externalFilePath = EXTERNAL_BASE_PATH + type.toLowerCase() + ".json";
+        File file = new File(externalFilePath);
+
+        // Ensure the parent directory exists
+        file.getParentFile().mkdirs();
+
         try {
             objectMapper.writerWithDefaultPrettyPrinter().writeValue(file, properties);
         } catch (IOException e) {
-            throw new RuntimeException("Error writing JSON: " + EXTERNAL_BASE_PATH + type.toLowerCase() + ".json", e);
+            throw new RuntimeException("Error writing JSON: " + externalFilePath, e);
         }
     }
 }
