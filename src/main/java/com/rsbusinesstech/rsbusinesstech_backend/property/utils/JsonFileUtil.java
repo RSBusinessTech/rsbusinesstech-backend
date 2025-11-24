@@ -31,13 +31,13 @@ public class JsonFileUtil {
 
     //write into JSON file.
     public static void writePropertiesByType(String type, List<PropertyDTO> properties){
-        String filePath = BASE_PATH + type.toLowerCase()+".json";
-        File file = new File(filePath);
-//        ClassPathResource resource = new ClassPathResource("data/" + type.toLowerCase() + ".json");
+//      String filePath = BASE_PATH + type.toLowerCase()+".json";
+        String EXTERNAL_BASE_PATH = "data/"; // relative to the server working directory
+        File file = new File(EXTERNAL_BASE_PATH + type.toLowerCase() + ".json");
         try {
             objectMapper.writerWithDefaultPrettyPrinter().writeValue(file, properties);
         } catch (IOException e) {
-            throw new RuntimeException("Error writing JSON: " + filePath, e);
+            throw new RuntimeException("Error writing JSON: " + EXTERNAL_BASE_PATH + type.toLowerCase() + ".json", e);
         }
     }
 }
