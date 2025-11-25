@@ -28,7 +28,7 @@ public class PropertyService
         properties.add(property);
 
         JsonFileUtil.writePropertiesByType(type,properties);
-        return "Property Updated Successfully";
+        return "Property Added Successfully";
     }
 
     //This method will update a Property by it's Type.
