@@ -11,11 +11,12 @@ import java.util.List;
 
 public class JsonFileUtil {
 
-    private static final String EXTERNAL_BASE_PATH = "/opt/app/data/"; // server path
-    private static final String CLASS_PATH_BASE = "data/";              // packaged defaults
+    private static final String EXTERNAL_BASE_PATH = "/opt/app/data/"; // server path.
+    private static final String LOCAL_BASE_PATH = "data/";              // packaged defaults.
+
     private static final ObjectMapper objectMapper = new ObjectMapper();
 
-    // Read JSON file
+    // Read JSON file.
     public static List<PropertyDTO> readPropertiesByType(String type) {
         String externalFilePath = EXTERNAL_BASE_PATH + type.toLowerCase() + ".json";
         File externalFile = new File(externalFilePath);
@@ -24,11 +25,11 @@ public class JsonFileUtil {
 
         try {
             if (externalFile.exists()) {
-                // Read from external file if it exists
+                // Read from external file if it exists.
                 return objectMapper.readValue(externalFile, typeReference);
             } else {
-                // Fallback: read from classpath resource
-                ClassPathResource resource = new ClassPathResource(CLASS_PATH_BASE + type.toLowerCase() + ".json");
+                // Fallback: read from classpath resource.
+                ClassPathResource resource = new ClassPathResource(LOCAL_BASE_PATH + type.toLowerCase() + ".json");
                 return objectMapper.readValue(resource.getInputStream(), typeReference);
             }
         } catch (IOException e) {
@@ -36,7 +37,7 @@ public class JsonFileUtil {
         }
     }
 
-    // Write JSON file
+    // Write JSON file.
     public static void writePropertiesByType(String type, List<PropertyDTO> properties) {
         String externalFilePath = EXTERNAL_BASE_PATH + type.toLowerCase() + ".json";
         File externalFile = new File(externalFilePath);
