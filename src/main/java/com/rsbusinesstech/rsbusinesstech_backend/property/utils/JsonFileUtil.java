@@ -39,13 +39,13 @@ public class JsonFileUtil {
     // Write JSON file
     public static void writePropertiesByType(String type, List<PropertyDTO> properties) {
         String externalFilePath = EXTERNAL_BASE_PATH + type.toLowerCase() + ".json";
-        File file = new File(externalFilePath);
+        File externalFile = new File(externalFilePath);
 
-        // Ensure the parent directory exists
-        file.getParentFile().mkdirs();
+        // Ensure the parent directory exists (/opt/app/data/)
+        externalFile.getParentFile().mkdirs();
 
         try {
-            objectMapper.writerWithDefaultPrettyPrinter().writeValue(file, properties);
+            objectMapper.writerWithDefaultPrettyPrinter().writeValue(externalFile, properties);
         } catch (IOException e) {
             throw new RuntimeException("Error writing JSON: " + externalFilePath, e);
         }
