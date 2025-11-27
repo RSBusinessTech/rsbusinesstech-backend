@@ -22,4 +22,5 @@ public class PropertyDTO {
     private List<String> amenities;
     private List<String> commonFacilities;
     private String location;
+    private String videoURL;
 }

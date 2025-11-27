@@ -39,6 +39,11 @@ public class PropertyController
         String response = "Something went wrong";
         try{
             if(!StringUtils.isEmpty(type) && property != null){
+                String videoURL = property.getVideoURL();
+                if(!StringUtils.isEmpty(videoURL) && videoURL.contains("watch?v=")){
+                    videoURL = videoURL.replace("watch?v=","embed/");
+                    property.setVideoURL(videoURL);
+                }
                 response = propertyService.addPropertyByType(type,property);
             }
         }catch (Exception e){
@@ -52,6 +57,11 @@ public class PropertyController
         String response = "Something went wrong";
         try{
             if(!StringUtils.isEmpty(type) && property != null && id != null){
+                String videoURL = property.getVideoURL();
+                if(!StringUtils.isEmpty(videoURL) && videoURL.contains("watch?v=")){
+                    videoURL = videoURL.replace("watch?v=","embed/");
+                    property.setVideoURL(videoURL);
+                }
                 response = propertyService.updatePropertyByType(type,property,Long.parseLong(id));
             }
         }catch (Exception e){
