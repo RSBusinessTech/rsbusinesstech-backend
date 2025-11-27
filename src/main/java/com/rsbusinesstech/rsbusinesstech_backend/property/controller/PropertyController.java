@@ -1,6 +1,5 @@
 package com.rsbusinesstech.rsbusinesstech_backend.property.controller;
 
-import com.rsbusinesstech.rsbusinesstech_backend.contact.model.EmailRequest;
 import com.rsbusinesstech.rsbusinesstech_backend.property.dto.PropertyDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.property.service.PropertyService;
 import io.micrometer.common.util.StringUtils;
@@ -9,14 +8,15 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.List;
 
 @CrossOrigin(origins = {"http://localhost:4200", "https://rsbusinesstech.com","https://vyenpropertyadvisor.com"})
 @RestController
 @RequestMapping("/property")
-public class PropertyController
-{
+public class PropertyController {
 
     @Autowired
     PropertyService propertyService;
@@ -28,8 +28,8 @@ public class PropertyController
             if(!StringUtils.isEmpty(type)){
                 properties = propertyService.getPropertiesByType(type);
             }
-        }catch (Exception e){
-            ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to Fetch Properties");
+        } catch (Exception e){
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(properties);
         }
         return ResponseEntity.ok(properties);
     }
@@ -39,15 +39,11 @@ public class PropertyController
         String response = "Something went wrong";
         try{
             if(!StringUtils.isEmpty(type) && property != null){
-                String videoURL = property.getVideoURL();
-                if(!StringUtils.isEmpty(videoURL) && videoURL.contains("watch?v=")){
-                    videoURL = videoURL.replace("watch?v=","embed/");
-                    property.setVideoURL(videoURL);
-                }
-                response = propertyService.addPropertyByType(type,property);
+                property.setVideoURL(propertyService.convertToEmbedURL(property.getVideoURL()));
+                response = propertyService.addPropertyByType(type, property);
             }
-        }catch (Exception e){
-            ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to Add Property");
+        } catch (Exception e){
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to Add Property");
         }
         return ResponseEntity.ok(response);
     }
@@ -57,15 +53,11 @@ public class PropertyController
         String response = "Something went wrong";
         try{
             if(!StringUtils.isEmpty(type) && property != null && id != null){
-                String videoURL = property.getVideoURL();
-                if(!StringUtils.isEmpty(videoURL) && videoURL.contains("watch?v=")){
-                    videoURL = videoURL.replace("watch?v=","embed/");
-                    property.setVideoURL(videoURL);
-                }
-                response = propertyService.updatePropertyByType(type,property,Long.parseLong(id));
+                property.setVideoURL(propertyService.convertToEmbedURL(property.getVideoURL()));
+                response = propertyService.updatePropertyByType(type, property, Long.parseLong(id));
             }
-        }catch (Exception e){
-            ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to Update Property");
+        } catch (Exception e){
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to Update Property");
         }
         return ResponseEntity.ok(response);
     }
@@ -74,13 +66,12 @@ public class PropertyController
     public ResponseEntity<String> deletePropertyByType(@RequestParam String type, @RequestParam String id){
         try{
             if(!StringUtils.isEmpty(type) && id != null){
-                propertyService.deletePropertyByType(type,Long.parseLong(id));
+                propertyService.deletePropertyByType(type, Long.parseLong(id));
             }
-        }catch (Exception e){
-            ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to Delete Property");
+        } catch (Exception e){
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to Delete Property");
         }
-        return ResponseEntity.ok("Property Deleted Suuceesfully");
+        return ResponseEntity.ok("Property Deleted Successfully");
     }
-
 
 }
