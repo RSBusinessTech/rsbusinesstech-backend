@@ -7,6 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.multipart.MultipartFile;
 
 import java.net.URI;
 import java.net.URISyntaxException;
@@ -35,10 +36,24 @@ public class PropertyController {
     }
 
     @PostMapping("/addPropertyByType")
-    public ResponseEntity<String> addPropertyByType(@RequestParam String type, @RequestBody PropertyDTO property){
+    public ResponseEntity<String> addPropertyByType(@RequestParam String type, @RequestPart("property") PropertyDTO property,
+                                                    @RequestPart (value = "images", required = false)List<MultipartFile> images){
         String response = "Something went wrong";
         try{
             if(!StringUtils.isEmpty(type) && property != null){
+
+//                // 1. Upload images to cloud
+//                List<String> uploadedUrls = new ArrayList<>();
+//                if (images != null) {
+//                    for (MultipartFile file : images) {
+//                        String url = cloudService.uploadFile(file); // your cloud upload logic
+//                        uploadedUrls.add(url);
+//                    }
+//                }
+//
+//                // 2. Set URLs to property
+//                property.setImageUrls(uploadedUrls);
+
                 property.setVideoURL(propertyService.convertToEmbedURL(property.getVideoURL()));
                 response = propertyService.addPropertyByType(type, property);
             }
@@ -49,10 +64,24 @@ public class PropertyController {
     }
 
     @PutMapping("/updatePropertyByType")
-    public ResponseEntity<String> updatePropertyByType(@RequestParam String type, @RequestBody PropertyDTO property, @RequestParam String id){
+    public ResponseEntity<String> updatePropertyByType(@RequestParam String type, @RequestPart("property") PropertyDTO property, @RequestParam String id,
+                                                       @RequestPart (value = "images", required = false) List<MultipartFile> images ){
         String response = "Something went wrong";
         try{
             if(!StringUtils.isEmpty(type) && property != null && id != null){
+
+                //                // 1. Upload images to cloud
+//                List<String> uploadedUrls = new ArrayList<>();
+//                if (images != null) {
+//                    for (MultipartFile file : images) {
+//                        String url = cloudService.uploadFile(file); // your cloud upload logic
+//                        uploadedUrls.add(url);
+//                    }
+//                }
+//
+//                // 2. Set URLs to property
+//                property.setImageUrls(uploadedUrls);
+
                 property.setVideoURL(propertyService.convertToEmbedURL(property.getVideoURL()));
                 response = propertyService.updatePropertyByType(type, property, Long.parseLong(id));
             }
