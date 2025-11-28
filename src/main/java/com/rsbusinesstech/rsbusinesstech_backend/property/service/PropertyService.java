@@ -21,7 +21,7 @@ public class PropertyService
 
 
     //This method will add a Property by it's Type.
-    public String addPropertyByType(String type, PropertyDTO property){
+    public PropertyDTO addPropertyByType(String type, PropertyDTO property){
 
         List<PropertyDTO> properties = JsonFileUtil.readPropertiesByType(type);
         long nextId = properties.stream().mapToLong(PropertyDTO::getId).max().orElse(0)+1;
@@ -31,18 +31,18 @@ public class PropertyService
         properties.add(property);
 
         JsonFileUtil.writePropertiesByType(type,properties);
-        return "Property Added Successfully";
+        return property;
     }
 
     //This method will update a Property by it's Type.
-    public String updatePropertyByType(String type, PropertyDTO updatedProperty, Long id){
+    public PropertyDTO updatePropertyByType(String type, PropertyDTO updatedProperty, Long id){
         List<PropertyDTO> properties = JsonFileUtil.readPropertiesByType(type);
         for(int i = 0; i < properties.size() ; i++){
             if(properties.get(i).getId().equals(id)){
                 updatedProperty.setId(id);
                 properties.set(i,updatedProperty);
                 JsonFileUtil.writePropertiesByType(type,properties);
-              return "Property Updated Successfully";
+              return updatedProperty;
             }
         }
         throw new RuntimeException("Property not found");

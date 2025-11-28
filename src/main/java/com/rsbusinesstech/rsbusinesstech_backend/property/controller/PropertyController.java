@@ -36,9 +36,9 @@ public class PropertyController {
     }
 
     @PostMapping("/addPropertyByType")
-    public ResponseEntity<String> addPropertyByType(@RequestParam String type, @RequestPart("property") PropertyDTO property,
-                                                    @RequestPart (value = "images", required = false)List<MultipartFile> images){
-        String response = "Something went wrong";
+    public ResponseEntity<PropertyDTO> addPropertyByType(@RequestParam String type, @RequestPart("property") PropertyDTO property,
+                                                    @RequestPart (value = "images", required = false) List<MultipartFile> images){
+        PropertyDTO newProperty = null;
         try{
             if(!StringUtils.isEmpty(type) && property != null){
 
@@ -55,18 +55,18 @@ public class PropertyController {
 //                property.setImageUrls(uploadedUrls);
 
                 property.setVideoURL(propertyService.convertToEmbedURL(property.getVideoURL()));
-                response = propertyService.addPropertyByType(type, property);
+                newProperty = propertyService.addPropertyByType(type, property);
             }
         } catch (Exception e){
-            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to Add Property");
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(newProperty);
         }
-        return ResponseEntity.ok(response);
+        return ResponseEntity.ok(newProperty);
     }
 
     @PutMapping("/updatePropertyByType")
-    public ResponseEntity<String> updatePropertyByType(@RequestParam String type, @RequestPart("property") PropertyDTO property, @RequestParam String id,
+    public ResponseEntity<PropertyDTO> updatePropertyByType(@RequestParam String type, @RequestPart("property") PropertyDTO property, @RequestParam String id,
                                                        @RequestPart (value = "images", required = false) List<MultipartFile> images ){
-        String response = "Something went wrong";
+        PropertyDTO updatedProperty = null;
         try{
             if(!StringUtils.isEmpty(type) && property != null && id != null){
 
@@ -83,12 +83,12 @@ public class PropertyController {
 //                property.setImageUrls(uploadedUrls);
 
                 property.setVideoURL(propertyService.convertToEmbedURL(property.getVideoURL()));
-                response = propertyService.updatePropertyByType(type, property, Long.parseLong(id));
+                updatedProperty = propertyService.updatePropertyByType(type, property, Long.parseLong(id));
             }
         } catch (Exception e){
-            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to Update Property");
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(updatedProperty);
         }
-        return ResponseEntity.ok(response);
+        return ResponseEntity.ok(updatedProperty);
     }
 
     @DeleteMapping("/deletePropertyByType")
