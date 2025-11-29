@@ -3,6 +3,7 @@ package com.rsbusinesstech.rsbusinesstech_backend.property.service;
 import com.rsbusinesstech.rsbusinesstech_backend.property.dto.PropertyDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.property.utils.JsonFileUtil;
 import io.micrometer.common.util.StringUtils;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.net.URI;
@@ -14,6 +15,9 @@ import java.util.List;
 @Service
 public class PropertyService
 {
+    @Autowired
+    CloudinaryService cloudinaryService;
+
     //This method will give all the properties for a particular Type.
     public List<PropertyDTO> getPropertiesByType(String type){
         return JsonFileUtil.readPropertiesByType(type);
@@ -37,9 +41,15 @@ public class PropertyService
     //This method will update a Property by it's Type.
     public PropertyDTO updatePropertyByType(String type, PropertyDTO updatedProperty, Long id){
         List<PropertyDTO> properties = JsonFileUtil.readPropertiesByType(type);
+
         for(int i = 0; i < properties.size() ; i++){
             if(properties.get(i).getId().equals(id)){
                 updatedProperty.setId(id);
+
+                // 1. Delete existing images from Cloudinary
+                if (properties.get(i)!= null && !properties.get(i).getImagePublicIds().isEmpty()) {
+                    cloudinaryService.deleteImages(properties.get(i).getImagePublicIds());
+                }
                 properties.set(i,updatedProperty);
                 JsonFileUtil.writePropertiesByType(type,properties);
               return updatedProperty;
@@ -48,15 +58,33 @@ public class PropertyService
         throw new RuntimeException("Property not found");
     }
 
-    //This method will delete a Property by it's Type & Id.
-    public boolean deletePropertyByType(String type, Long id){
+    // This method will delete a Property by its Type & Id, including Cloudinary images.
+    public boolean deletePropertyByType(String type, Long id) {
         List<PropertyDTO> properties = JsonFileUtil.readPropertiesByType(type);
-        boolean removed = properties.removeIf(property -> property.getId().equals(id));
-        if (removed) {
-            JsonFileUtil.writePropertiesByType(type,properties);
+
+        // Find the property to delete
+        PropertyDTO propertyToDelete = properties.stream()
+                .filter(property -> property.getId().equals(id))
+                .findFirst()
+                .orElse(null);
+
+        if (propertyToDelete != null) {
+            // 1. Delete existing images from Cloudinary.
+            if (propertyToDelete.getImagePublicIds() != null && !propertyToDelete.getImagePublicIds().isEmpty()) {
+                cloudinaryService.deleteImages(propertyToDelete.getImagePublicIds());
+            }
+
+            // 2. Remove property from list.
+            properties.remove(propertyToDelete);
+
+            // 3. Write updated list back to JSON.
+            JsonFileUtil.writePropertiesByType(type, properties);
+            return true;
         }
-        return removed;
+
+        return false; // Property not found.
     }
+
 
     //This method will handle the YouTube video link.
     public String convertToEmbedURL(String videoURL) {

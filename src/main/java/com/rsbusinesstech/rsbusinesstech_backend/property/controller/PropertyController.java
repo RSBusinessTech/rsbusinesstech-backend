@@ -1,6 +1,8 @@
 package com.rsbusinesstech.rsbusinesstech_backend.property.controller;
 
+import com.cloudinary.Cloudinary;
 import com.rsbusinesstech.rsbusinesstech_backend.property.dto.PropertyDTO;
+import com.rsbusinesstech.rsbusinesstech_backend.property.service.CloudinaryService;
 import com.rsbusinesstech.rsbusinesstech_backend.property.service.PropertyService;
 import io.micrometer.common.util.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,7 +14,9 @@ import org.springframework.web.multipart.MultipartFile;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 @CrossOrigin(origins = {"http://localhost:4200", "https://rsbusinesstech.com","https://vyenpropertyadvisor.com"})
 @RestController
@@ -21,6 +25,9 @@ public class PropertyController {
 
     @Autowired
     PropertyService propertyService;
+
+    @Autowired
+    CloudinaryService cloudinaryService;
 
     @GetMapping("/getPropertyByType")
     public ResponseEntity<List<PropertyDTO>> getPropertyByType(@RequestParam String type){
@@ -41,18 +48,17 @@ public class PropertyController {
         PropertyDTO newProperty = null;
         try{
             if(!StringUtils.isEmpty(type) && property != null){
-
-//                // 1. Upload images to cloud
-//                List<String> uploadedUrls = new ArrayList<>();
-//                if (images != null) {
-//                    for (MultipartFile file : images) {
-//                        String url = cloudService.uploadFile(file); // your cloud upload logic
-//                        uploadedUrls.add(url);
-//                    }
-//                }
-//
-//                // 2. Set URLs to property
-//                property.setImageUrls(uploadedUrls);
+                // 1. Upload images to cloudinary.
+                List<String> urls = new ArrayList<>();
+                List<String> publicIDs = new ArrayList<>();
+                if (images != null && images.size() > 0) {
+                    Map<String,List<String>> responseMap  = cloudinaryService.uploadFiles(images); // your cloud upload logic.
+                    urls = responseMap.get("urls");
+                    publicIDs = responseMap.get("publicIDs");
+                }
+                // 2. Set URLs to property
+                property.setImageUrls(urls);
+                property.setImagePublicIds(publicIDs);
 
                 property.setVideoURL(propertyService.convertToEmbedURL(property.getVideoURL()));
                 newProperty = propertyService.addPropertyByType(type, property);
@@ -65,22 +71,21 @@ public class PropertyController {
 
     @PutMapping("/updatePropertyByType")
     public ResponseEntity<PropertyDTO> updatePropertyByType(@RequestParam String type, @RequestPart("property") PropertyDTO property, @RequestParam String id,
-                                                       @RequestPart (value = "images", required = false) List<MultipartFile> images ){
+                                                            @RequestPart (value = "images", required = false) List<MultipartFile> images ){
         PropertyDTO updatedProperty = null;
         try{
             if(!StringUtils.isEmpty(type) && property != null && id != null){
-
-                //                // 1. Upload images to cloud
-//                List<String> uploadedUrls = new ArrayList<>();
-//                if (images != null) {
-//                    for (MultipartFile file : images) {
-//                        String url = cloudService.uploadFile(file); // your cloud upload logic
-//                        uploadedUrls.add(url);
-//                    }
-//                }
-//
-//                // 2. Set URLs to property
-//                property.setImageUrls(uploadedUrls);
+                // 1. Upload images to cloudinary.
+                List<String> urls = new ArrayList<>();
+                List<String> publicIDs = new ArrayList<>();
+                if (images != null && images.size() > 0) {
+                    Map<String,List<String>> responseMap = cloudinaryService.uploadFiles(images); // your cloud upload logic.
+                    urls = responseMap.get("urls");
+                    publicIDs = responseMap.get("publicIDs");
+                }
+                // 2. Set URLs to property
+                property.setImageUrls(urls);
+                property.setImagePublicIds(publicIDs);
 
                 property.setVideoURL(propertyService.convertToEmbedURL(property.getVideoURL()));
                 updatedProperty = propertyService.updatePropertyByType(type, property, Long.parseLong(id));

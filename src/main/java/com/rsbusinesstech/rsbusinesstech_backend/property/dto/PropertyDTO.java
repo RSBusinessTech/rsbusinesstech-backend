@@ -19,6 +19,7 @@ public class PropertyDTO {
     private String furnishing;
     private double sizeSqft;
     private List<String> imageUrls;
+    private List<String> imagePublicIds;  //to delete images from clouds.
     private List<String> amenities;
     private List<String> commonFacilities;
     private String location;
