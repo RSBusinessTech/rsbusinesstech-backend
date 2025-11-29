@@ -46,10 +46,17 @@ public class PropertyService
             if(properties.get(i).getId().equals(id)){
                 updatedProperty.setId(id);
 
-                // 1. Delete existing images from Cloudinary
-                if (properties.get(i)!= null && !properties.get(i).getImagePublicIds().isEmpty()) {
-                    cloudinaryService.deleteImages(properties.get(i).getImagePublicIds());
+                // Only delete and replace images if new images are provided.
+                if(updatedProperty.getImageUrls() != null && !updatedProperty.getImageUrls().isEmpty()) {
+                    if(properties.get(i).getImagePublicIds() != null && !properties.get(i).getImagePublicIds().isEmpty()) {
+                        cloudinaryService.deleteImages(properties.get(i).getImagePublicIds());
+                    }
+                } else {
+                    // Keep existing images if no new images are uploaded.
+                    updatedProperty.setImageUrls(properties.get(i).getImageUrls());
+                    updatedProperty.setImagePublicIds(properties.get(i).getImagePublicIds());
                 }
+
                 properties.set(i,updatedProperty);
                 JsonFileUtil.writePropertiesByType(type,properties);
               return updatedProperty;
