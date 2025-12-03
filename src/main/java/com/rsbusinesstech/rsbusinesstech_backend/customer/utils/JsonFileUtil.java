@@ -30,7 +30,7 @@ public class JsonFileUtil {
                 return objectMapper.readValue(externalFile, typeReference);
             } else {
                 // Fallback: read from classpath resource.
-                ClassPathResource resource = new ClassPathResource(LOCAL_BASE_PATH + ".json");
+                ClassPathResource resource = new ClassPathResource(LOCAL_BASE_PATH + "customer.json");
                 return objectMapper.readValue(resource.getInputStream(), typeReference);
             }
         } catch (IOException e) {
