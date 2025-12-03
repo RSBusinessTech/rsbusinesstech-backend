@@ -1,8 +1,7 @@
 package com.rsbusinesstech.rsbusinesstech_backend.property.controller;
 
-import com.cloudinary.Cloudinary;
 import com.rsbusinesstech.rsbusinesstech_backend.property.dto.PropertyDTO;
-import com.rsbusinesstech.rsbusinesstech_backend.property.service.CloudinaryService;
+import com.rsbusinesstech.rsbusinesstech_backend.commonUtils.CloudinaryService;
 import com.rsbusinesstech.rsbusinesstech_backend.property.service.PropertyService;
 import io.micrometer.common.util.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -11,10 +10,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
-import java.net.URI;
-import java.net.URISyntaxException;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 

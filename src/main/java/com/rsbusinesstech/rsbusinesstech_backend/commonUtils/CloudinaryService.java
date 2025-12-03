@@ -1,4 +1,4 @@
-package com.rsbusinesstech.rsbusinesstech_backend.property.service;
+package com.rsbusinesstech.rsbusinesstech_backend.commonUtils;
 
 import com.cloudinary.Cloudinary;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -48,6 +48,15 @@ public class CloudinaryService {
             for(String publicID: publicIDs){
                 cloudinary.uploader().destroy(publicID,new HashMap<>());
             }
+        }
+        catch(Exception e){
+            throw new RuntimeException("Failed to delete image: " + e.getMessage(), e);
+        }
+    }
+
+    public void deleteImage(String publicID){
+        try{
+                cloudinary.uploader().destroy(publicID,new HashMap<>());
         }
         catch(Exception e){
             throw new RuntimeException("Failed to delete image: " + e.getMessage(), e);

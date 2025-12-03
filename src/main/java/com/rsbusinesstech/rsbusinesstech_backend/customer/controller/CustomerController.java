@@ -1,0 +1,99 @@
+package com.rsbusinesstech.rsbusinesstech_backend.customer.controller;
+
+import com.rsbusinesstech.rsbusinesstech_backend.customer.dto.CustomerDTO;
+import com.rsbusinesstech.rsbusinesstech_backend.customer.service.CustomerService;
+import com.rsbusinesstech.rsbusinesstech_backend.commonUtils.CloudinaryService;
+import io.micrometer.common.util.StringUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
+import org.springframework.web.multipart.MultipartFile;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+@CrossOrigin(origins = {"http://localhost:4200", "https://rsbusinesstech.com","https://vyenpropertyadvisor.com"})
+@RestController
+@RequestMapping("/customer")
+public class CustomerController {
+
+    @Autowired
+    CustomerService customerService;
+
+    @Autowired
+    CloudinaryService cloudinaryService;
+
+    @GetMapping("/getAllCustomers")
+    public ResponseEntity<List<CustomerDTO>> getAllCustomers(){
+        List<CustomerDTO> customers = new ArrayList<>();
+        try{
+            customers = customerService.getAllCustomers();
+        } catch (Exception e){
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(customers);
+        }
+        return ResponseEntity.ok(customers);
+    }
+
+    @PostMapping("/addCustomer")
+    public ResponseEntity<CustomerDTO> addCustomer(@RequestPart("customer") CustomerDTO customer,
+                                                   @RequestPart (value = "images", required = false) List<MultipartFile> images){
+        CustomerDTO newCustomer = null;
+        try{
+                // 1. Upload images to cloudinary.
+                List<String> urls = new ArrayList<>();
+                List<String> publicIDs = new ArrayList<>();
+                if (images != null && images.size() > 0) {
+                    Map<String,List<String>> responseMap  = cloudinaryService.uploadFiles(images); // your cloud upload logic.
+                    urls = responseMap.get("urls");
+                    publicIDs = responseMap.get("publicIDs");
+                }
+                // 2. Set URLs to property
+            customer.setImageUrl(urls.get(0));
+            customer.setImagePublicId(publicIDs.get(0));
+            newCustomer = customerService.addCustomer(customer);
+        } catch (Exception e){
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(newCustomer);
+        }
+        return ResponseEntity.ok(newCustomer);
+    }
+
+    @PutMapping("/updateCustomer")
+    public ResponseEntity<CustomerDTO> updateCustomer(@RequestPart("customer") CustomerDTO customer, @RequestParam String id,
+                                                            @RequestPart (value = "images", required = false) List<MultipartFile> images ){
+        CustomerDTO updatedCustomer = null;
+        try{
+            if(customer != null && !StringUtils.isEmpty(id)){
+                // 1. Upload images to cloudinary.
+                List<String> urls = new ArrayList<>();
+                List<String> publicIDs = new ArrayList<>();
+                if (images != null && images.size() > 0) {
+                    Map<String,List<String>> responseMap = cloudinaryService.uploadFiles(images); // your cloud upload logic.
+                    urls = responseMap.get("urls");
+                    publicIDs = responseMap.get("publicIDs");
+                }
+                // 2. Set URLs to property
+                customer.setImageUrl(urls.get(0));
+                customer.setImagePublicId(publicIDs.get(0));
+                updatedCustomer = customerService.updateCustomer(customer, Long.parseLong(id));
+            }
+        } catch (Exception e){
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(updatedCustomer);
+        }
+        return ResponseEntity.ok(updatedCustomer);
+    }
+
+    @DeleteMapping("/deleteCustomer")
+    public ResponseEntity<String> deleteCustomer(@RequestParam String id){
+        try{
+            if(!StringUtils.isEmpty(id)){
+                customerService.deleteCustomer( Long.parseLong(id));
+            }
+        } catch (Exception e){
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to Delete Customer");
+        }
+        return ResponseEntity.ok("Customer Deleted Successfully");
+    }
+
+}

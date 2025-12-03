@@ -1,5 +1,6 @@
 package com.rsbusinesstech.rsbusinesstech_backend.property.service;
 
+import com.rsbusinesstech.rsbusinesstech_backend.commonUtils.CloudinaryService;
 import com.rsbusinesstech.rsbusinesstech_backend.property.dto.PropertyDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.property.utils.JsonFileUtil;
 import io.micrometer.common.util.StringUtils;
@@ -8,8 +9,6 @@ import org.springframework.stereotype.Service;
 
 import java.net.URI;
 import java.net.URISyntaxException;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 @Service
