@@ -31,7 +31,7 @@ public class JsonUploadScheduler {
 
     String backupFolder = "Vyen_Property_Advisor/Backup";
 
-    @Scheduled (initialDelay = 0, fixedRate =  2 * 60 * 1000)
+    //@Scheduled (initialDelay = 0, fixedRate =  2 * 60 * 1000)
 //    @Scheduled (initialDelay = 0, fixedRate = 24 * 60 * 60 * 1000)
     public void uploadJsonFile() throws IOException {
         System.out.println("======= Scheduler started at "+ new Date() +" ======");
