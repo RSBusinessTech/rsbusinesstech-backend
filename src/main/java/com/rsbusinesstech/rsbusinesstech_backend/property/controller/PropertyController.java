@@ -26,7 +26,6 @@ public class PropertyController {
     CloudinaryService cloudinaryService;
 
     String mediaFolder = "Vyen_Property_Advisor";
-    String backupFolder = "Vyen_Property_Advisor/Backup";
 
     @GetMapping("/getPropertyByType")
     public ResponseEntity<List<PropertyDTO>> getPropertyByType(@RequestParam String type){
