@@ -14,6 +14,8 @@ import org.springframework.web.multipart.MultipartFile;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.StandardCopyOption;
 import java.time.LocalDateTime;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
@@ -22,7 +24,7 @@ import java.util.concurrent.ConcurrentHashMap;
 public class JsonUploadScheduler {
 
     private static final String EXTERNAL_BASE_PATH = "/opt/app/data/"; // server path.
-    private static final String LOCAL_BASE_PATH = "data/";             // packaged defaults.
+    private static final String LOCAL_BASE_PATH = "data/";
 
     @Autowired
     CloudinaryService cloudinaryService;
@@ -31,7 +33,7 @@ public class JsonUploadScheduler {
 
     @Scheduled (initialDelay = 0, fixedRate =  2 * 60 * 1000)
 //    @Scheduled (initialDelay = 0, fixedRate = 24 * 60 * 60 * 1000)
-    public void uploadJsonFile(){
+    public void uploadJsonFile() throws IOException {
         System.out.println("======= Scheduler started at "+ new Date() +" ======");
 
         int success = 0;
@@ -46,8 +48,22 @@ public class JsonUploadScheduler {
             cloudinaryService.deleteRawFile(publicID);
             System.out.println("Deleted old file: "+publicID);
 
+            File folder = new File(EXTERNAL_BASE_PATH);
+            if(!folder.exists()){
+               folder.mkdirs();
+            }
+
             File externalFile = new File(externalFilePath);
-            if (externalFile.exists()) {
+
+            if(!externalFile.exists()){
+                Resource resource = new ClassPathResource("data/" + file.toLowerCase() + ".json");
+                if(resource.exists()) {
+                    Files.copy(resource.getInputStream(), externalFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
+                    System.out.println("Copied " + file + ".json to " + EXTERNAL_BASE_PATH);
+                } else {
+                    System.out.println("Backup resource not found: " + file + ".json");
+                }
+            }else if (externalFile.exists()) {
                 // Read from external file if it exists.
                 try{
                     responseMap = cloudinaryService.uploadRawFile(externalFile, backupFolder, file);
