@@ -45,7 +45,7 @@ public class CustomerService
                 // Only delete and replace images if new images are provided.
                 if(updatedCustomer.getImageUrl() != null && !updatedCustomer.getImageUrl().isEmpty()) {
                     if(customers.get(i).getImagePublicId() != null && !customers.get(i).getImagePublicId().isEmpty()) {
-                        cloudinaryService.deleteImage(customers.get(i).getImagePublicId());
+                        cloudinaryService.deleteFile(customers.get(i).getImagePublicId());
                     }
                 } else {
                     // Keep existing images if no new images are uploaded.
@@ -74,7 +74,7 @@ public class CustomerService
         if (customerToDelete != null) {
             // 1. Delete existing images from Cloudinary.
             if (customerToDelete.getImagePublicId() != null && !customerToDelete.getImagePublicId().isEmpty()) {
-                cloudinaryService.deleteImage(customerToDelete.getImagePublicId());
+                cloudinaryService.deleteFile(customerToDelete.getImagePublicId());
             }
 
             // 2. Remove property from list.

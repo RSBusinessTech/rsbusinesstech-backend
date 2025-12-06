@@ -25,6 +25,9 @@ public class CustomerController {
     @Autowired
     CloudinaryService cloudinaryService;
 
+    String mediaFolder = "Vyen_Property_Advisor";
+    String backupFolder = "Vyen_Property_Advisor/Backup";
+
     @GetMapping("/getAllCustomers")
     public ResponseEntity<List<CustomerDTO>> getAllCustomers(){
         List<CustomerDTO> customers = new ArrayList<>();
@@ -45,7 +48,7 @@ public class CustomerController {
                 List<String> urls = new ArrayList<>();
                 List<String> publicIDs = new ArrayList<>();
                 if (images != null && images.size() > 0) {
-                    Map<String,List<String>> responseMap  = cloudinaryService.uploadFiles(images); // your cloud upload logic.
+                    Map<String,List<String>> responseMap  = cloudinaryService.uploadFiles(images, mediaFolder); // your cloud upload logic.
                     urls = responseMap.get("urls");
                     publicIDs = responseMap.get("publicIDs");
                 }
@@ -69,7 +72,7 @@ public class CustomerController {
                 List<String> urls = new ArrayList<>();
                 List<String> publicIDs = new ArrayList<>();
                 if (images != null && images.size() > 0) {
-                    Map<String,List<String>> responseMap = cloudinaryService.uploadFiles(images); // your cloud upload logic.
+                    Map<String,List<String>> responseMap = cloudinaryService.uploadFiles(images, mediaFolder); // your cloud upload logic.
                     urls = responseMap.get("urls");
                     publicIDs = responseMap.get("publicIDs");
                 }

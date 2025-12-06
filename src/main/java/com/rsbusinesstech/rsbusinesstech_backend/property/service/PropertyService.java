@@ -48,7 +48,7 @@ public class PropertyService
                 // Only delete and replace images if new images are provided.
                 if(updatedProperty.getImageUrls() != null && !updatedProperty.getImageUrls().isEmpty()) {
                     if(properties.get(i).getImagePublicIds() != null && !properties.get(i).getImagePublicIds().isEmpty()) {
-                        cloudinaryService.deleteImages(properties.get(i).getImagePublicIds());
+                        cloudinaryService.deleteFiles(properties.get(i).getImagePublicIds());
                     }
                 } else {
                     // Keep existing images if no new images are uploaded.
@@ -77,7 +77,7 @@ public class PropertyService
         if (propertyToDelete != null) {
             // 1. Delete existing images from Cloudinary.
             if (propertyToDelete.getImagePublicIds() != null && !propertyToDelete.getImagePublicIds().isEmpty()) {
-                cloudinaryService.deleteImages(propertyToDelete.getImagePublicIds());
+                cloudinaryService.deleteFiles(propertyToDelete.getImagePublicIds());
             }
 
             // 2. Remove property from list.
