@@ -48,6 +48,7 @@ public class JsonUploadScheduler {
 
             File externalFile = new File(externalFilePath);
             if (externalFile.exists()) {
+                System.out.println("inside if line 51");
                 // Read from external file if it exists.
                 try{
                     responseMap = cloudinaryService.uploadRawFile(externalFile, backupFolder, file);
@@ -57,6 +58,7 @@ public class JsonUploadScheduler {
                     System.out.println("Upload failed for "+ file + ": "+e.getMessage());
                 }
             } else {
+                System.out.println("inside else line 51");
                // Fallback: read from classpath resource.
                 String localFilePath = LOCAL_BASE_PATH + file.toLowerCase() + ".json";
                 Resource resource = new ClassPathResource(localFilePath);
