@@ -17,29 +17,32 @@ public class PropertyService
     @Autowired
     CloudinaryService cloudinaryService;
 
+    @Autowired
+    JsonFileUtil jsonFileUtil;
+
     //This method will give all the properties for a particular Type.
     public List<PropertyDTO> getPropertiesByType(String type){
-        return JsonFileUtil.readPropertiesByType(type);
+        return jsonFileUtil.readPropertiesByType(type);
     }
 
 
     //This method will add a Property by it's Type.
     public PropertyDTO addPropertyByType(String type, PropertyDTO property){
 
-        List<PropertyDTO> properties = JsonFileUtil.readPropertiesByType(type);
+        List<PropertyDTO> properties = jsonFileUtil.readPropertiesByType(type);
         long nextId = properties.stream().mapToLong(PropertyDTO::getId).max().orElse(0)+1;
 
         property.setId(nextId);
 
         properties.add(property);
 
-        JsonFileUtil.writePropertiesByType(type,properties);
+        jsonFileUtil.writePropertiesByType(type,properties);
         return property;
     }
 
     //This method will update a Property by it's Type.
     public PropertyDTO updatePropertyByType(String type, PropertyDTO updatedProperty, Long id){
-        List<PropertyDTO> properties = JsonFileUtil.readPropertiesByType(type);
+        List<PropertyDTO> properties = jsonFileUtil.readPropertiesByType(type);
 
         for(int i = 0; i < properties.size() ; i++){
             if(properties.get(i).getId().equals(id)){
@@ -57,7 +60,7 @@ public class PropertyService
                 }
 
                 properties.set(i,updatedProperty);
-                JsonFileUtil.writePropertiesByType(type,properties);
+                jsonFileUtil.writePropertiesByType(type,properties);
               return updatedProperty;
             }
         }
@@ -66,7 +69,7 @@ public class PropertyService
 
     // This method will delete a Property by its Type & Id, including Cloudinary images.
     public boolean deletePropertyByType(String type, Long id) {
-        List<PropertyDTO> properties = JsonFileUtil.readPropertiesByType(type);
+        List<PropertyDTO> properties = jsonFileUtil.readPropertiesByType(type);
 
         // Find the property to delete
         PropertyDTO propertyToDelete = properties.stream()
@@ -84,7 +87,7 @@ public class PropertyService
             properties.remove(propertyToDelete);
 
             // 3. Write updated list back to JSON.
-            JsonFileUtil.writePropertiesByType(type, properties);
+            jsonFileUtil.writePropertiesByType(type, properties);
             return true;
         }
 

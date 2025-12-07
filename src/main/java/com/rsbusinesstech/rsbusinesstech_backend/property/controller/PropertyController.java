@@ -54,7 +54,7 @@ public class PropertyController {
                     urls = responseMap.get("urls");
                     publicIDs = responseMap.get("publicIDs");
                 }
-                // 2. Set URLs to property
+                // 2. Set URLs to property.
                 property.setImageUrls(urls);
                 property.setImagePublicIds(publicIDs);
 
