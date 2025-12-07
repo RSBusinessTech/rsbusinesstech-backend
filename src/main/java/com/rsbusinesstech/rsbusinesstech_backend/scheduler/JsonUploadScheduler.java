@@ -27,7 +27,6 @@ public class JsonUploadScheduler {
        Schedule:This method will be executed once only, immediately after deployment/restarting server.
        Purpose: Create "/opt/app/data/" folder and Place JSON files there because render free instance will delete it if server restarted.
      */
-
     @PostConstruct
     public void performBackupOnStartup() throws IOException{
         performBackup();

@@ -15,6 +15,8 @@ public class CustomerDTO {
     private String fullName;
     private String fatherName;
     private String dateOfBirth;
+    private String customerID;        //may be IC/passport Number.
+    private String customerIDType;    //IC,Passport etc.
 
     // Contact Information
     private String email;
@@ -77,9 +79,5 @@ public class CustomerDTO {
         if (stampingFee != null) total += stampingFee;
         return total;
     }
-
-    // ===== Getters and Setters =====
-    // (You can generate them via IDE or Lombok @Data annotation)
-
 }
 
