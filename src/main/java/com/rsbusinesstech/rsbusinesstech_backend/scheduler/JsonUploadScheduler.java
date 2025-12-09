@@ -1,6 +1,7 @@
 package com.rsbusinesstech.rsbusinesstech_backend.scheduler;
 
 import com.rsbusinesstech.rsbusinesstech_backend.commonUtils.CloudinaryService;
+import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
@@ -26,7 +27,7 @@ public class JsonUploadScheduler {
        Schedule:This method will be executed once only, immediately after deployment/restarting server.
        Purpose: Create "/opt/app/data/" folder and Place JSON files there because render free instance will delete it if server restarted.
      */
-    //@PostConstruct
+    @PostConstruct
     public void performBackupOnStartup() throws IOException{
         performBackup();
     }
