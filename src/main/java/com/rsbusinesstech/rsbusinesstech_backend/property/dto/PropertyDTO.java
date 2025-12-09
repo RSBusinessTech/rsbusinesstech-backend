@@ -10,6 +10,7 @@ import java.util.List;
 @AllArgsConstructor
 public class PropertyDTO {
     private Long id;
+    private Long propertyId;
     private String name;
     private double price;
     private String address;
@@ -24,4 +25,5 @@ public class PropertyDTO {
     private List<String> commonFacilities;
     private String location;
     private String videoURL;
+    private String isActive = "YES";  //Yes = show in UI, No = Don't show in UI.
 }

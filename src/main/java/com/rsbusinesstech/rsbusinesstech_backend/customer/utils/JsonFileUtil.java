@@ -3,7 +3,6 @@ package com.rsbusinesstech.rsbusinesstech_backend.customer.utils;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.rsbusinesstech.rsbusinesstech_backend.customer.dto.CustomerDTO;
-import com.rsbusinesstech.rsbusinesstech_backend.property.dto.PropertyDTO;
 import org.springframework.core.io.ClassPathResource;
 
 import java.io.File;
@@ -13,7 +12,7 @@ import java.util.List;
 public class JsonFileUtil {
 
     private static final String EXTERNAL_BASE_PATH = "/opt/app/data/"; // server path.
-    private static final String LOCAL_BASE_PATH = "data/";              // packaged defaults.
+    private static final String LOCAL_BASE_PATH = "opt/app.data/";              // packaged defaults.
 
     private static final ObjectMapper objectMapper = new ObjectMapper();
 

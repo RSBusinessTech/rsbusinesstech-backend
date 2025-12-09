@@ -20,7 +20,7 @@ public class JsonFileUtil {
     CloudinaryService cloudinaryService;
 
     private static final String EXTERNAL_BASE_PATH = "/opt/app/data/"; // server path.
-    private static final String LOCAL_BASE_PATH = "data/";              // packaged defaults.
+    private static final String LOCAL_BASE_PATH = "opt/app.data/";              // packaged defaults.
     private static final String BACKUP_FOLDER = "Vyen_Property_Advisor/Backup";
 
     private static final ObjectMapper objectMapper = new ObjectMapper();

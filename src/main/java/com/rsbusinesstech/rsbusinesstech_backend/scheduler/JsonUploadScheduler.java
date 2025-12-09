@@ -1,7 +1,6 @@
 package com.rsbusinesstech.rsbusinesstech_backend.scheduler;
 
 import com.rsbusinesstech.rsbusinesstech_backend.commonUtils.CloudinaryService;
-import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
@@ -20,14 +19,14 @@ public class JsonUploadScheduler {
     CloudinaryService cloudinaryService;
 
     private static final String EXTERNAL_BASE_PATH = "/opt/app/data/"; // server path.
-    private static final String LOCAL_BASE_PATH = "data/";
+    private static final String LOCAL_BASE_PATH = "opt/app.data/";
     private static final String BACKUP_FOLDER = "Vyen_Property_Advisor/Backup";
 
     /*
        Schedule:This method will be executed once only, immediately after deployment/restarting server.
        Purpose: Create "/opt/app/data/" folder and Place JSON files there because render free instance will delete it if server restarted.
      */
-    @PostConstruct
+    //@PostConstruct
     public void performBackupOnStartup() throws IOException{
         performBackup();
     }
@@ -70,7 +69,7 @@ public class JsonUploadScheduler {
             File externalFile = new File(externalFilePath);
 
             if(!externalFile.exists()){
-                Resource resource = new ClassPathResource("data/" + file.toLowerCase() + ".json");
+                Resource resource = new ClassPathResource("opt/app.data/" + file.toLowerCase() + ".json");
                 if(resource.exists()) {
                     Files.copy(resource.getInputStream(), externalFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
                     System.out.println("Copied " + file + ".json to " + EXTERNAL_BASE_PATH);
