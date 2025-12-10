@@ -44,17 +44,17 @@ public class CustomerController {
                                                    @RequestPart (value = "images", required = false) List<MultipartFile> images){
         CustomerDTO newCustomer = null;
         try{
-                // 1. Upload images to cloudinary.
-                List<String> urls = new ArrayList<>();
-                List<String> publicIDs = new ArrayList<>();
-                if (images != null && images.size() > 0) {
-                    Map<String,List<String>> responseMap  = cloudinaryService.uploadFiles(images, mediaFolder); // your cloud upload logic.
-                    urls = responseMap.get("urls");
-                    publicIDs = responseMap.get("publicIDs");
-                }
-                // 2. Set URLs to property
-            customer.setImageUrl(urls.get(0));
-            customer.setImagePublicId(publicIDs.get(0));
+            // 1. Upload images to cloudinary.
+             List<String> urls = new ArrayList<>();
+             List<String> publicIDs = new ArrayList<>();
+             if (images != null && images.size() > 0) {
+                 Map<String,List<String>> responseMap  = cloudinaryService.uploadFiles(images, mediaFolder); // your cloud upload logic.
+                 urls = responseMap.get("urls");
+                 publicIDs = responseMap.get("publicIDs");
+                 // 2. Set URLs to property
+                 customer.setImageUrl(urls.get(0));
+                 customer.setImagePublicId(publicIDs.get(0));
+             }
             newCustomer = customerService.addCustomer(customer);
         } catch (Exception e){
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(newCustomer);
