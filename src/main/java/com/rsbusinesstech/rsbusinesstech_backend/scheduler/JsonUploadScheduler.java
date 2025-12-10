@@ -42,7 +42,7 @@ public class JsonUploadScheduler {
 
     //Schedule: This cron job will be executed every night at 11:00PM MYT(Malaysian time).
     //Purpose: Take backup from Render server and upload in cloudinary.
-    @Scheduled (cron = "0 0 23 * * *", zone = "Asia/Kuala_Lumpur")
+    @Scheduled (cron = "0 30 23 * * *", zone = "Asia/Kuala_Lumpur")
     public void uploadJsonFile() throws IOException {
         performBackup();
     }

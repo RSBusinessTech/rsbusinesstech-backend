@@ -75,10 +75,12 @@ public class CustomerController {
                     Map<String,List<String>> responseMap = cloudinaryService.uploadFiles(images, mediaFolder); // your cloud upload logic.
                     urls = responseMap.get("urls");
                     publicIDs = responseMap.get("publicIDs");
+
+                    // 2. Set URLs to property
+                    customer.setImageUrl(urls.get(0));
+                    customer.setImagePublicId(publicIDs.get(0));
                 }
-                // 2. Set URLs to property
-                customer.setImageUrl(urls.get(0));
-                customer.setImagePublicId(publicIDs.get(0));
+
                 updatedCustomer = customerService.updateCustomer(customer, Long.parseLong(id));
             }
         } catch (Exception e){
