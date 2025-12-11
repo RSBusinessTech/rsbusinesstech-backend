@@ -12,31 +12,34 @@ import java.util.List;
 public class CustomerService
 {
     @Autowired
+    com.rsbusinesstech.rsbusinesstech_backend.customer.utils.JsonFileUtil jsonFileUtil;
+
+    @Autowired
     CloudinaryService cloudinaryService;
 
     //This method will give all the customers for a particular Type.
     public List<CustomerDTO> getAllCustomers(){
-        return JsonFileUtil.readCustomers();
+        return jsonFileUtil.readCustomers();
     }
 
 
     //This method will add a Property by it's Type.
     public CustomerDTO addCustomer(CustomerDTO customer){
 
-        List<CustomerDTO> customers = JsonFileUtil.readCustomers();
+        List<CustomerDTO> customers = jsonFileUtil.readCustomers();
         long nextId = customers.stream().mapToLong(CustomerDTO::getId).max().orElse(0)+1;
 
         customer.setId(nextId);
 
         customers.add(customer);
 
-        JsonFileUtil.writeCustomers(customers);
+        jsonFileUtil.writeCustomers(customers);
         return customer;
     }
 
     //This method will update a Property by it's Type.
     public CustomerDTO updateCustomer(CustomerDTO updatedCustomer, Long id){
-        List<CustomerDTO> customers = JsonFileUtil.readCustomers();
+        List<CustomerDTO> customers = jsonFileUtil.readCustomers();
 
         for(int i = 0; i < customers.size() ; i++){
             if(customers.get(i).getId().equals(id)){
@@ -54,7 +57,7 @@ public class CustomerService
                 }
 
                 customers.set(i,updatedCustomer);
-                JsonFileUtil.writeCustomers(customers);
+                jsonFileUtil.writeCustomers(customers);
               return updatedCustomer;
             }
         }
@@ -63,7 +66,7 @@ public class CustomerService
 
     // This method will delete a Property by its Type & Id, including Cloudinary images.
     public boolean deleteCustomer(Long id) {
-        List<CustomerDTO> customers = JsonFileUtil.readCustomers();
+        List<CustomerDTO> customers = jsonFileUtil.readCustomers();
 
         // Find the customer to delete.
         CustomerDTO customerToDelete = customers.stream()
@@ -81,7 +84,7 @@ public class CustomerService
             customers.remove(customerToDelete);
 
             // 3. Write updated list back to JSON.
-            JsonFileUtil.writeCustomers(customers);
+            jsonFileUtil.writeCustomers(customers);
             return true;
         }
         return false; // Property not found.
