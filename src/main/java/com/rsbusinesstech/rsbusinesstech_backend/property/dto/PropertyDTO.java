@@ -10,7 +10,7 @@ import java.util.List;
 @AllArgsConstructor
 public class PropertyDTO {
     private Long id;
-    private Long propertyId;
+    private Long customerId;
     private String name;
     private double price;
     private String address;
