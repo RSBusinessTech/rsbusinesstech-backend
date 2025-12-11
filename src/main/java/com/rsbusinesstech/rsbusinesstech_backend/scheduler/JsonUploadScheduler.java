@@ -52,7 +52,7 @@ public class JsonUploadScheduler {
 
         int success = 0;
         int failed = 0;
-        List<String> files = Arrays.asList("buy","commercial","mm2h","newprojects","rent");
+        List<String> files = Arrays.asList("buy","commercial","mm2h","newprojects","rent","customer");
 
         for(String file: files){
             Map<String, String> responseMap = new HashMap<>();
