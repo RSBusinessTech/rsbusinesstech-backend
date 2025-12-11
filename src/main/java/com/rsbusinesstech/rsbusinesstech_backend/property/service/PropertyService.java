@@ -2,7 +2,7 @@ package com.rsbusinesstech.rsbusinesstech_backend.property.service;
 
 import com.rsbusinesstech.rsbusinesstech_backend.commonUtils.CloudinaryService;
 import com.rsbusinesstech.rsbusinesstech_backend.property.dto.PropertyDTO;
-import com.rsbusinesstech.rsbusinesstech_backend.property.utils.JsonFileUtil;
+import com.rsbusinesstech.rsbusinesstech_backend.utils.JsonFileUtil;
 import io.micrometer.common.util.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

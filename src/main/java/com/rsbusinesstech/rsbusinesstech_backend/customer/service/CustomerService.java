@@ -2,7 +2,7 @@ package com.rsbusinesstech.rsbusinesstech_backend.customer.service;
 
 import com.rsbusinesstech.rsbusinesstech_backend.commonUtils.CloudinaryService;
 import com.rsbusinesstech.rsbusinesstech_backend.customer.dto.CustomerDTO;
-import com.rsbusinesstech.rsbusinesstech_backend.customer.utils.JsonFileUtil;
+import com.rsbusinesstech.rsbusinesstech_backend.utils.JsonFileUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -12,7 +12,7 @@ import java.util.List;
 public class CustomerService
 {
     @Autowired
-    com.rsbusinesstech.rsbusinesstech_backend.customer.utils.JsonFileUtil jsonFileUtil;
+    JsonFileUtil jsonFileUtil;
 
     @Autowired
     CloudinaryService cloudinaryService;
@@ -89,5 +89,4 @@ public class CustomerService
         }
         return false; // Property not found.
     }
-
 }
