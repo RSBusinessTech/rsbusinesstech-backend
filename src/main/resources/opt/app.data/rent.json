@@ -1,5 +1,6 @@
 [ {
   "id" : 1,
+  "customerId" : null,
   "name" : "K Residence @KLCC",
   "price" : 7500.0,
   "address" : "156, Jln Ampang, Kampung Baru, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
@@ -13,9 +14,11 @@
   "amenities" : [ "Private bathroom", "Family room", "Flat screen TV", "Balcony", "Air conditioning", "Kitchen", "Washing machine", "Pets allowed", "Dining table", "Microwave oven", "Sofa", "High-speed WiFi", "24-hour security" ],
   "commonFacilities" : [ "Gym", "Outdoor swimming pool", "Sauna", "Terrace", "Park", "Water slide", "24-hour security" ],
   "location" : "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d12428.70105649954!2d101.74099514999999!3d3.1411148000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x31cc37cf5480dd95%3A0x1f471db2cddad550!2s156%2C%20Jln%20Ampang%2C%20Kampung%20Baru%2C%2050450%20Kuala%20Lumpur%2C%20Wilayah%20Persekutuan%20Kuala%20Lumpur!3m2!1d3.1596442!2d101.71310679999999!5e1!3m2!1sen!2smy!4v1765059755152!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
-  "videoURL" : ""
+  "videoURL" : "",
+  "isActive" : "YES"
 }, {
   "id" : 2,
+  "customerId" : null,
   "name" : "The Manhattan, Bukit Bintang",
   "price" : 3600.0,
   "address" : "61, Raja Chulan Rd, Bukit Bintang, 50200 Kuala Lumpur, Federal Territory of Kuala Lumpur",
@@ -29,9 +32,11 @@
   "amenities" : [ "Private bathroom", "Family room", "Flat screen TV", "Balcony", "Air conditioning", "Kitchen", "Washing machine", "Pets allowed", "Dining table", "Microwave oven", "Sofa", "High-speed WiFi", "24-hour security" ],
   "commonFacilities" : [ "Gym", "Outdoor swimming pool", "Sauna", "Terrace", "Park", "Water slide", "24-hour security" ],
   "location" : "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d12428.70105649954!2d101.74099514999999!3d3.1411148000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x31cc362abb422737%3A0x96013d366cf5de0f!2s61%2C%20Raja%20Chulan%20Rd%2C%20Bukit%20Bintang%2C%2050200%20Kuala%20Lumpur%2C%20Federal%20Territory%20of%20Kuala%20Lumpur!3m2!1d3.1504836!2d101.7076321!5e1!3m2!1sen!2smy!4v1765059956845!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
-  "videoURL" : ""
+  "videoURL" : "",
+  "isActive" : "YES"
 }, {
   "id" : 3,
+  "customerId" : null,
   "name" : "Dua Residency @KLCC",
   "price" : 7500.0,
   "address" : "Dua Residency, 211, Jln Tun Razak, Kuala Lumpur, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
@@ -45,9 +50,11 @@
   "amenities" : [ "Private bathroom", "Family room", "Flat screen TV", "Balcony", "Air conditioning", "Kitchen", "Washing machine", "Pets allowed", "Dining table", "Microwave oven", "Sofa", "High-speed WiFi", "24-hour security" ],
   "commonFacilities" : [ "Gym", "Outdoor swimming pool", "Sauna", "Terrace", "Park", "Water slide", "24-hour security" ],
   "location" : "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d12428.70105649954!2d101.74099514999999!3d3.1411148000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x31cc372b8adbac3f%3A0x96f25dd156b62db!2sDua%20Residency%2C%20211%2C%20Jln%20Tun%20Razak%2C%20Kuala%20Lumpur%2C%2050400%20Kuala%20Lumpur%2C%20Wilayah%20Persekutuan%20Kuala%20Lumpur!3m2!1d3.1547435!2d101.7216449!5e1!3m2!1sen!2smy!4v1765060480103!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
-  "videoURL" : ""
+  "videoURL" : "",
+  "isActive" : "YES"
 }, {
   "id" : 4,
+  "customerId" : null,
   "name" : "D'Brightton",
   "price" : 2700.0,
   "address" : "28, Jln Tiara Titiwangsa, Titiwangsa, 53200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
@@ -61,9 +68,11 @@
   "amenities" : [ "Private bathroom", "Family room", "Air conditioning", "Kitchen", "Washing machine", "Pets allowed", "Dining table", "Microwave oven", "Sofa", "High-speed WiFi", "24-hour security" ],
   "commonFacilities" : [ "Gym", "Outdoor swimming pool", "Sauna", "Terrace", "Park", "Water slide", "24-hour security" ],
   "location" : "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d12428.70105649954!2d101.74099514999999!3d3.1411148000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x31cc370000a4b9a1%3A0x30feec130ad2aee4!2s28%2C%20Jln%20Tiara%20Titiwangsa%2C%20Titiwangsa%2C%2053200%20Kuala%20Lumpur%2C%20Wilayah%20Persekutuan%20Kuala%20Lumpur!3m2!1d3.1878404!2d101.7085343!5e1!3m2!1sen!2smy!4v1765060691971!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
-  "videoURL" : "https://www.youtube.com/embed/fUrixVnNBZ4"
+  "videoURL" : "https://www.youtube.com/embed/fUrixVnNBZ4",
+  "isActive" : "YES"
 }, {
   "id" : 5,
+  "customerId" : null,
   "name" : "Apart Ampang , Taman Bukit Indah",
   "price" : 1500.0,
   "address" : "Taman Bukit Indah ",
@@ -77,9 +86,11 @@
   "amenities" : [ "Private bathroom", "Family room", "Air conditioning", "Kitchen", "Washing machine", "Pets allowed", "Dining table", "Microwave oven", "Sofa", "High-speed WiFi", "24-hour security" ],
   "commonFacilities" : [ "Gym", "Outdoor swimming pool", "Sauna", "Terrace", "Park", "Water slide", "24-hour security" ],
   "location" : "",
-  "videoURL" : ""
+  "videoURL" : "",
+  "isActive" : "YES"
 }, {
   "id" : 6,
+  "customerId" : null,
   "name" : "M Vertica, Cheras",
   "price" : 3800.0,
   "address" : "Residensi M Vertica, 555, Jln Cheras, Taman Pertama, 56000 Kuala Lumpur, Federal Territory of Kuala Lumpur",
@@ -93,9 +104,11 @@
   "amenities" : [ "Private bathroom", "Family room", "Air conditioning", "Kitchen", "Washing machine", "Pets allowed", "Dining table", "Microwave oven", "Sofa", "High-speed WiFi", "24-hour security" ],
   "commonFacilities" : [ "Gym", "Outdoor swimming pool", "Sauna", "Terrace", "Park", "Water slide", "24-hour security" ],
   "location" : "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d12428.70105649954!2d101.74099514999999!3d3.1411148000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x31cc37dcf8fed0af%3A0xe4dcaaff1147458b!2sResidensi%20M%20Vertica%2C%20555%2C%20Jln%20Cheras%2C%20Taman%20Pertama%2C%2056000%20Kuala%20Lumpur%2C%20Federal%20Territory%20of%20Kuala%20Lumpur!3m2!1d3.1185411!2d101.7272555!5e1!3m2!1sen!2smy!4v1765061513528!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
-  "videoURL" : ""
+  "videoURL" : "",
+  "isActive" : "YES"
 }, {
   "id" : 7,
+  "customerId" : null,
   "name" : "Sun Complex (Apartment)",
   "price" : 3000.0,
   "address" : "Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
@@ -109,5 +122,24 @@
   "amenities" : [ "Private bathroom", "Family room", "Balcony", "Air conditioning", "Kitchen", "Washing machine", "Pets allowed", "Dining table", "Sofa", "24-hour security" ],
   "commonFacilities" : [ "Gym", "Outdoor swimming pool", "Sauna", "Terrace", "Park", "Water slide", "24-hour security" ],
   "location" : "https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d24857.421251352884!2d101.70483105440164!3d3.1403108474432146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d3.1411148!2d101.74099509999999!4m5!1s0x31cc36284f55bc9d%3A0xdff39473b875a035!2sSun%20Complex%2C%20Bukit%20Bintang%2C%2055100%20Kuala%20Lumpur%2C%20Wilayah%20Persekutuan%20Kuala%20Lumpur!3m2!1d3.1433641!2d101.70865309999999!5e1!3m2!1sen!2smy!4v1765061729907!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
-  "videoURL" : ""
+  "videoURL" : "",
+  "isActive" : "YES"
+}, {
+  "id" : 8,
+  "customerId" : 1,
+  "name" : "Axis Crown @ Axis Pandan",
+  "price" : 1600.0,
+  "address" : "Jalan Cempaka, Taman Cempaka, 68000 Ampang, Selangor",
+  "bedrooms" : 3,
+  "bathrooms" : 2,
+  "carParks" : 2,
+  "furnishing" : "Partly Furnished",
+  "sizeSqft" : 1000.0,
+  "imageUrls" : [ ],
+  "imagePublicIds" : [ ],
+  "amenities" : [ "Private bathroom", "Family room", "Balcony", "Air conditioning", "Kitchen", "Washing machine", "Pets allowed" ],
+  "commonFacilities" : [ "Gym", "Outdoor swimming pool", "Sauna", "Terrace", "Water slide", "24-hour security" ],
+  "location" : "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d12428.724148253781!2d101.73868230000001!3d3.1391744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x31cc375b13886b03%3A0x4629d5452c6f7ca!2sJalan%20Cempaka%2C%20Taman%20Cempaka%2C%2068000%20Ampang%2C%20Selangor!3m2!1d3.1362163!2d101.7465399!5e1!3m2!1sen!2smy!4v1765467897392!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
+  "videoURL" : "",
+  "isActive" : "YES"
 } ]
