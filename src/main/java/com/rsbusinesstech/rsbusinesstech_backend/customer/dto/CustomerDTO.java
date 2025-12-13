@@ -59,6 +59,7 @@ public class CustomerDTO {
     private String rentalDueDate;
     private String contractStartDate;
     private String contractEndDate;
+    private int gracePeriodInDays;
 
     // Buy Details
     private Double propertyPrice;
