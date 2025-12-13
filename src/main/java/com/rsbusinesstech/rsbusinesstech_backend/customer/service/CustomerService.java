@@ -38,7 +38,7 @@ public class CustomerService
         List<CustomerDTO> customers = jsonFileUtil.readCustomers();
         long nextId = customers.stream().mapToLong(CustomerDTO::getId).max().orElse(0)+1;
         customer.setId(nextId);
-        customer.setCreatedAt(LocalDateTime.now().format(DateTimeFormatter.ofPattern("dd-MM-yyyy hh:mm:ss a")));  //a → AM/PM marker.
+        customer.setCreatedAt(LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss a")));  //a → AM/PM marker.
         customer.setCreatedBy("admin");
         setRentalStartDueDates(customer);
 
@@ -55,7 +55,7 @@ public class CustomerService
         for(int i = 0; i < customers.size() ; i++){
             if(customers.get(i).getId().equals(id)){
                 updatedCustomer.setId(id);
-                updatedCustomer.setUpdatedAt(LocalDateTime.now().format(DateTimeFormatter.ofPattern("dd-MM-yyyy hh:mm:ss a"))); //a → AM/PM marker.
+                updatedCustomer.setUpdatedAt(LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss a"))); //a → AM/PM marker.
                 updatedCustomer.setUpdatedBy("admin");
 
                 // Only delete and replace images if new images are provided.
