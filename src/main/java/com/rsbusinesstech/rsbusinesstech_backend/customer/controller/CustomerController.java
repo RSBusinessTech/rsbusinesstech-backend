@@ -13,6 +13,7 @@ import org.springframework.web.multipart.MultipartFile;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+import java.util.Optional;
 
 @CrossOrigin(origins = {"http://localhost:4200", "https://rsbusinesstech.com","https://vyenpropertyadvisor.com"})
 @RestController
@@ -37,6 +38,22 @@ public class CustomerController {
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(customers);
         }
         return ResponseEntity.ok(customers);
+    }
+
+    @GetMapping("/getCustomerById/{id}")
+    public ResponseEntity<CustomerDTO> getCustomerById(@PathVariable String id){
+        List<CustomerDTO> customers = new ArrayList<>();
+        CustomerDTO customer = null;
+        try{
+            customers = customerService.getAllCustomers();
+            Optional<CustomerDTO> customerDTOOptional = customers.stream().filter(customerDTO -> String.valueOf(customerDTO.getId()).equalsIgnoreCase(id)).findFirst();
+            if(customerDTOOptional.isPresent()){
+                customer =  customerDTOOptional.get();
+            }
+        } catch (Exception e){
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(customer);
+        }
+        return ResponseEntity.ok(customer);
     }
 
     @PostMapping("/addCustomer")
