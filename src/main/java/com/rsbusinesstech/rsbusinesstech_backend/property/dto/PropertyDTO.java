@@ -26,4 +26,10 @@ public class PropertyDTO {
     private String location;
     private String videoURL;
     private String isActive = "YES";  //Yes = show in UI, No = Don't show in UI.
+
+    // System Metadata
+    private String createdAt;
+    private String updatedAt;
+    private String createdBy;
+    private String updatedBy;
 }
