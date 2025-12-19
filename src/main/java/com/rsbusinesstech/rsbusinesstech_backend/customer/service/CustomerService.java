@@ -7,9 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.YearMonth;
+import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
 
@@ -38,7 +36,7 @@ public class CustomerService
         List<CustomerDTO> customers = jsonFileUtil.readCustomers();
         long nextId = customers.stream().mapToLong(CustomerDTO::getId).max().orElse(0)+1;
         customer.setId(nextId);
-        customer.setCreatedAt(LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss a")));  //a → AM/PM marker.
+        customer.setCreatedAt(ZonedDateTime.now(ZoneId.of("Asia/Kuala_Lumpur")).format(DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss a")));  //a → AM/PM marker.
         customer.setCreatedBy("admin");
         setRentalStartDueDates(customer);
 
@@ -55,7 +53,7 @@ public class CustomerService
         for(int i = 0; i < customers.size() ; i++){
             if(customers.get(i).getId().equals(id)){
                 updatedCustomer.setId(id);
-                updatedCustomer.setUpdatedAt(LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss a"))); //a → AM/PM marker.
+                updatedCustomer.setUpdatedAt(ZonedDateTime.now(ZoneId.of("Asia/Kuala_Lumpur")).format(DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss a"))); //a → AM/PM marker.
                 updatedCustomer.setUpdatedBy("admin");
 
                 // Only delete and replace images if new images are provided.
