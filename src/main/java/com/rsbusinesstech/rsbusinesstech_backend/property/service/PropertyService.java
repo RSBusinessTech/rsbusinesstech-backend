@@ -9,6 +9,8 @@ import org.springframework.stereotype.Service;
 
 import java.net.URI;
 import java.net.URISyntaxException;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.List;
 
 @Service
@@ -31,9 +33,9 @@ public class PropertyService
 
         List<PropertyDTO> properties = jsonFileUtil.readPropertiesByType(type);
         long nextId = properties.stream().mapToLong(PropertyDTO::getId).max().orElse(0)+1;
-
         property.setId(nextId);
-
+        property.setCreatedAt(LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss a")));  //a → AM/PM marker.
+        property.setCreatedBy("admin");
         properties.add(property);
 
         jsonFileUtil.writePropertiesByType(type,properties);
@@ -47,6 +49,8 @@ public class PropertyService
         for(int i = 0; i < properties.size() ; i++){
             if(properties.get(i).getId().equals(id)){
                 updatedProperty.setId(id);
+                updatedProperty.setUpdatedAt(LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss a"))); //a → AM/PM marker.
+                updatedProperty.setUpdatedBy("admin");
 
                 // Only delete and replace images if new images are provided.
                 if(updatedProperty.getImageUrls() != null && !updatedProperty.getImageUrls().isEmpty()) {
