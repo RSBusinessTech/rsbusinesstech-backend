@@ -1,8 +1,8 @@
-package com.rsbusinesstech.rsbusinesstech_backend.property.controller;
+package com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.controller;
 
-import com.rsbusinesstech.rsbusinesstech_backend.property.dto.PropertyDTO;
+import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.dto.PropertyDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.commonUtils.CloudinaryService;
-import com.rsbusinesstech.rsbusinesstech_backend.property.service.PropertyService;
+import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.service.PropertyService;
 import io.micrometer.common.util.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -18,7 +18,6 @@ import java.util.Map;
 @RestController
 @RequestMapping("/property")
 public class PropertyController {
-
     @Autowired
     PropertyService propertyService;
 

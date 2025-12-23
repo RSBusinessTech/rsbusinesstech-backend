@@ -1,4 +1,4 @@
-package com.rsbusinesstech.rsbusinesstech_backend.property.dto;
+package com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.dto;
 
 import lombok.*;
 

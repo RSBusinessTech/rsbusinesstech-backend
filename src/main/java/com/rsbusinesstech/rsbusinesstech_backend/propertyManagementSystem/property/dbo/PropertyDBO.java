@@ -1,4 +1,4 @@
-package com.rsbusinesstech.rsbusinesstech_backend.property.dbo;
+package com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.dbo;
 
 //import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

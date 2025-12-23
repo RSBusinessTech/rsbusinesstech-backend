@@ -1,7 +1,7 @@
-package com.rsbusinesstech.rsbusinesstech_backend.customer.controller;
+package com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.customer.controller;
 
-import com.rsbusinesstech.rsbusinesstech_backend.customer.dto.CustomerDTO;
-import com.rsbusinesstech.rsbusinesstech_backend.customer.service.CustomerService;
+import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.customer.dto.CustomerDTO;
+import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.customer.service.CustomerService;
 import com.rsbusinesstech.rsbusinesstech_backend.commonUtils.CloudinaryService;
 import io.micrometer.common.util.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,11 +15,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
-@CrossOrigin(origins = {"http://localhost:4200", "https://rsbusinesstech.com","https://vyenpropertyadvisor.com"})
+@CrossOrigin(origins = {"http://localhost:4200", "https://rsbusinesstech.com"})
 @RestController
 @RequestMapping("/customer")
 public class CustomerController {
-
     @Autowired
     CustomerService customerService;
 

@@ -1,4 +1,4 @@
-package com.rsbusinesstech.rsbusinesstech_backend.customer.dto;
+package com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.customer.dto;
 
 import lombok.*;
 

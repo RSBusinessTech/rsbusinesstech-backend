@@ -1,7 +1,7 @@
-package com.rsbusinesstech.rsbusinesstech_backend.customer.service;
+package com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.customer.service;
 
 import com.rsbusinesstech.rsbusinesstech_backend.commonUtils.CloudinaryService;
-import com.rsbusinesstech.rsbusinesstech_backend.customer.dto.CustomerDTO;
+import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.customer.dto.CustomerDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.utils.JsonFileUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

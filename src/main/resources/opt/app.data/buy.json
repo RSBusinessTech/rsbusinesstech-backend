@@ -1,5 +1,6 @@
 [ {
   "id" : 1,
+  "customerId" : null,
   "name" : "Lavile Residence",
   "price" : 735000.0,
   "address" : "5, Lorong Peel, Maluri, 55100 Cheras, Wilayah Persekutuan Kuala Lumpur",
@@ -14,12 +15,14 @@
   "commonFacilities" : [ "Gym", "Outdoor swimming pool", "Sauna", "Terrace", "Park", "Water slide", "24-hour security" ],
   "location" : "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d18902.41512933403!2d101.74099514999999!3d3.1411148000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x31cc37aba1bf0507%3A0x6b42371ae637e1b4!2s5%2C%20Lorong%20Peel%2C%20Maluri%2C%2055100%20Cheras%2C%20Wilayah%20Persekutuan%20Kuala%20Lumpur!3m2!1d3.127716!2d101.72781839999999!5e1!3m2!1sen!2smy!4v1765056556983!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
   "videoURL" : "",
-  "createdBy": "vyenpropertyadvisor",
-  "createdAt": "2025-12-13 07:24:55 PM",
-  "updatedBy": "vyenpropertyadvisor",
-  "updatedAt": "2025-12-13 07:24:55 PM"
+  "isActive" : "YES",
+  "createdAt" : "2025-12-13 07:24:55 PM",
+  "updatedAt" : "2025-12-13 07:24:55 PM",
+  "createdBy" : "vyenpropertyadvisor",
+  "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 2,
+  "customerId" : null,
   "name" : "Lavile Residence\t",
   "price" : 830000.0,
   "address" : "5, Lorong Peel, Maluri, 55100 Cheras, Wilayah Persekutuan Kuala Lumpur\t",
@@ -34,12 +37,14 @@
   "commonFacilities" : [ "Gym", "Outdoor swimming pool", "Sauna", "Terrace", "Park", "Water slide", "24-hour security" ],
   "location" : "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d18902.41512933403!2d101.74099514999999!3d3.1411148000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x31cc37aba1bf0507%3A0x6b42371ae637e1b4!2s5%2C%20Lorong%20Peel%2C%20Maluri%2C%2055100%20Cheras%2C%20Wilayah%20Persekutuan%20Kuala%20Lumpur!3m2!1d3.127716!2d101.72781839999999!5e1!3m2!1sen!2smy!4v1765056556983!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\t",
   "videoURL" : "",
-  "createdBy": "vyenpropertyadvisor",
-  "createdAt": "2025-12-13 07:24:55 PM",
-  "updatedBy": "vyenpropertyadvisor",
-  "updatedAt": "2025-12-13 07:24:55 PM"
+  "isActive" : "YES",
+  "createdAt" : "2025-12-13 07:24:55 PM",
+  "updatedAt" : "2025-12-13 07:24:55 PM",
+  "createdBy" : "vyenpropertyadvisor",
+  "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 3,
+  "customerId" : null,
   "name" : "Lavile Residence\t",
   "price" : 938000.0,
   "address" : "5, Lorong Peel, Maluri, 55100 Cheras, Wilayah Persekutuan Kuala Lumpur\t",
@@ -54,12 +59,14 @@
   "commonFacilities" : [ "Gym", "Outdoor swimming pool", "Sauna", "Terrace", "Park", "Water slide", "24-hour security" ],
   "location" : "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d18902.41512933403!2d101.74099514999999!3d3.1411148000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x31cc37aba1bf0507%3A0x6b42371ae637e1b4!2s5%2C%20Lorong%20Peel%2C%20Maluri%2C%2055100%20Cheras%2C%20Wilayah%20Persekutuan%20Kuala%20Lumpur!3m2!1d3.127716!2d101.72781839999999!5e1!3m2!1sen!2smy!4v1765056556983!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\t",
   "videoURL" : "",
-  "createdBy": "vyenpropertyadvisor",
-  "createdAt": "2025-12-13 07:24:55 PM",
-  "updatedBy": "vyenpropertyadvisor",
-  "updatedAt": "2025-12-13 07:24:55 PM"
+  "isActive" : "YES",
+  "createdAt" : "2025-12-13 07:24:55 PM",
+  "updatedAt" : "2025-12-13 07:24:55 PM",
+  "createdBy" : "vyenpropertyadvisor",
+  "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 4,
+  "customerId" : null,
   "name" : "Lavile Residence\t",
   "price" : 1700000.0,
   "address" : "5, Lorong Peel, Maluri, 55100 Cheras, Wilayah Persekutuan Kuala Lumpur\t",
@@ -74,8 +81,31 @@
   "commonFacilities" : [ "Gym", "Outdoor swimming pool", "Sauna", "Terrace", "Park", "Water slide", "24-hour security" ],
   "location" : "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d18902.41512933403!2d101.74099514999999!3d3.1411148000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x31cc37aba1bf0507%3A0x6b42371ae637e1b4!2s5%2C%20Lorong%20Peel%2C%20Maluri%2C%2055100%20Cheras%2C%20Wilayah%20Persekutuan%20Kuala%20Lumpur!3m2!1d3.127716!2d101.72781839999999!5e1!3m2!1sen!2smy!4v1765056556983!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\t",
   "videoURL" : "",
-  "createdBy": "vyenpropertyadvisor",
-  "createdAt": "2025-12-13 07:24:55 PM",
-  "updatedBy": "vyenpropertyadvisor",
-  "updatedAt": "2025-12-13 07:24:55 PM"
+  "isActive" : "YES",
+  "createdAt" : "2025-12-13 07:24:55 PM",
+  "updatedAt" : "2025-12-13 07:24:55 PM",
+  "createdBy" : "vyenpropertyadvisor",
+  "updatedBy" : "vyenpropertyadvisor"
+}, {
+  "id" : 5,
+  "customerId" : null,
+  "name" : "Taman Cheras Idaman 2",
+  "price" : 700000.0,
+  "address" : "Taman Cheras Idaman 2, Cheras, Selangor",
+  "bedrooms" : 4,
+  "bathrooms" : 3,
+  "carParks" : 2,
+  "furnishing" : "Partly Furnished",
+  "sizeSqft" : 1400.0,
+  "imageUrls" : [ "https://res.cloudinary.com/divjzb0t3/image/upload/v1766315612/Vyen_Property_Advisor/wyg09uzfy1x50clxndti.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1766315613/Vyen_Property_Advisor/quadpandgekfbc870m1o.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1766315613/Vyen_Property_Advisor/id5oudochtyq5cxchw1t.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1766315614/Vyen_Property_Advisor/cmwqibjfzvzxflva1jwq.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1766315615/Vyen_Property_Advisor/tstxoxjwyhxshn0dlr2r.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1766315615/Vyen_Property_Advisor/d1xauiv5btk7ijiypxke.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1766315616/Vyen_Property_Advisor/ajsouhrkcy2d43nuhou0.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1766315616/Vyen_Property_Advisor/nfydfpac1bfrxzp8ep9j.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1766315617/Vyen_Property_Advisor/jcyxz9upf3fes8nbpeh1.jpg" ],
+  "imagePublicIds" : [ "Vyen_Property_Advisor/wyg09uzfy1x50clxndti", "Vyen_Property_Advisor/quadpandgekfbc870m1o", "Vyen_Property_Advisor/id5oudochtyq5cxchw1t", "Vyen_Property_Advisor/cmwqibjfzvzxflva1jwq", "Vyen_Property_Advisor/tstxoxjwyhxshn0dlr2r", "Vyen_Property_Advisor/d1xauiv5btk7ijiypxke", "Vyen_Property_Advisor/ajsouhrkcy2d43nuhou0", "Vyen_Property_Advisor/nfydfpac1bfrxzp8ep9j", "Vyen_Property_Advisor/jcyxz9upf3fes8nbpeh1" ],
+  "amenities" : [ "Private bathroom", "Family room", "Balcony", "Fridge", "Kitchen", "Pets allowed", "Dining table", "Sofa" ],
+  "commonFacilities" : [ "Entrance porch / car porch", "Front yard", "Fencing / boundary wal", "Main gate", "Car porch (open or covered)", "Driveway" ],
+  "location" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4725.921136304908!2d101.75795339999999!3d3.0701997999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc34ff2d6dbfd7%3A0xc0c50162ee6fa913!2s22%2C%20Jalan%20Mas%206%2C%20Taman%20Cheras%20Mas%2C%2043200%20Cheras%2C%20Selangor!5e1!3m2!1sen!2smy!4v1766315261934!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
+  "videoURL" : "",
+  "isActive" : "YES",
+  "createdAt" : "2025-12-21 07:13:37 PM",
+  "updatedAt" : "2025-12-21 07:27:00 PM",
+  "createdBy" : "admin",
+  "updatedBy" : "admin"
 } ]
