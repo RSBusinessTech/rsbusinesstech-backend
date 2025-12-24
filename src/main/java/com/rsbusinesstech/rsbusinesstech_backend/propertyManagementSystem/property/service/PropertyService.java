@@ -12,6 +12,7 @@ import java.net.URISyntaxException;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
+import java.util.Arrays;
 import java.util.List;
 
 @Service
@@ -149,5 +150,19 @@ public class PropertyService
         } catch (URISyntaxException e) {
             return videoURL;
         }
+    }
+
+    public long getAllPropertiesCount(){
+        long count = 0;
+        List<String> allProperties = Arrays.asList("buy","commercial","mm2h","newprojects","rent");
+        for(String type : allProperties){
+            long propertiesCount = jsonFileUtil.countPropertiesByType(type);
+            count = count + propertiesCount;
+        }
+        return count;
+    }
+
+    public long getPropertiesCountByType(String type){
+        return jsonFileUtil.countPropertiesByType(type);
     }
 }

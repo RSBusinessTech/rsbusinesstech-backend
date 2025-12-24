@@ -9,7 +9,9 @@ import org.springframework.util.StringUtils;
 
 import java.time.*;
 import java.time.format.DateTimeFormatter;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 @Service
 public class CustomerService
@@ -119,5 +121,23 @@ public class CustomerService
                 customer.setRentalDueDate(rentalDueDate.toString());
             }
         }
+    }
+
+    public Map<String,Long> getCustomersInfo(){
+        Map<String,Long> customersInfoMap = new HashMap<>();
+        List<CustomerDTO> customers = jsonFileUtil.readCustomers();
+
+        long totalTenants = customers.stream()
+                .filter(c -> "Rental".equalsIgnoreCase(c.getPropertyType()))
+                .count();
+
+        long totalBuyers = customers.stream()
+                .filter(c -> "Buy".equalsIgnoreCase(c.getPropertyType()))
+                .count();
+
+        customersInfoMap.put("totalTenants",totalTenants);
+        customersInfoMap.put("totalBuyers",totalBuyers);
+
+        return customersInfoMap;
     }
 }

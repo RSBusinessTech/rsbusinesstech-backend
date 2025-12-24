@@ -108,4 +108,21 @@ public class JsonFileUtil {
             throw new RuntimeException("Error writing JSON: " + externalFilePath, e);
         }
     }
+
+    public long countPropertiesByType(String type) {
+        String externalFilePath = EXTERNAL_BASE_PATH + type.toLowerCase() + ".json";
+        File externalFile = new File(externalFilePath);
+        try {
+            if (externalFile.exists()) {
+                // Read from external file if it exists.
+                return objectMapper.readTree(externalFile).size();
+            } else {
+                // Fallback: read from classpath resource.
+                ClassPathResource resource = new ClassPathResource(LOCAL_BASE_PATH + type.toLowerCase() + ".json");
+                return objectMapper.readTree(resource.getInputStream()).size();
+            }
+        } catch (IOException e) {
+            throw new RuntimeException("Error reading JSON: " + externalFilePath, e);
+        }
+    }
 }

@@ -1,18 +1,31 @@
 package com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.dashboard.service;
 
+import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.customer.service.CustomerService;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.dashboard.dto.LeaseInfoDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.dashboard.dto.PMSDashboardSummaryDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.dashboard.dto.PropertyStatusChartDTO;
+import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.service.PropertyService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 @Service
 public class DashboardService {
+
+    @Autowired
+    PropertyService propertyService;
+
+    @Autowired
+    CustomerService customerService;
+
     public PMSDashboardSummaryDTO getPMSDashboardSummary(){
         PMSDashboardSummaryDTO pmsDashboardSummaryDTO = new PMSDashboardSummaryDTO();
         PropertyStatusChartDTO propertyStatusChartDTO = new PropertyStatusChartDTO();
+        Map<String,Long> customersInfoMap = customerService.getCustomersInfo();
 
         List<LeaseInfoDTO> pendingRentalsThisMonth = new ArrayList<>();
         List<LeaseInfoDTO> contractsExpiringThisMonth = new ArrayList<>();
@@ -20,24 +33,23 @@ public class DashboardService {
         List<LeaseInfoDTO> propertiesSoldThisMonth = new ArrayList<>();
 
         //Property Info
-        pmsDashboardSummaryDTO.setTotalProperties(20);
-        pmsDashboardSummaryDTO.setTotalRentalProperties(12);
-        pmsDashboardSummaryDTO.setTotalSaleProperties(8);
-        pmsDashboardSummaryDTO.setTotalCommercialProperties(0);
-        pmsDashboardSummaryDTO.setTotalMm2hProperties(8);
-        pmsDashboardSummaryDTO.setTotalNewProjects(10);
+        pmsDashboardSummaryDTO.setTotalProperties(propertyService.getAllPropertiesCount());
+        pmsDashboardSummaryDTO.setTotalRentalProperties(propertyService.getPropertiesCountByType("rent"));
+        pmsDashboardSummaryDTO.setTotalSaleProperties(propertyService.getPropertiesCountByType("buy"));
+        pmsDashboardSummaryDTO.setTotalCommercialProperties(propertyService.getPropertiesCountByType("commercial"));
+        pmsDashboardSummaryDTO.setTotalMm2hProperties(pmsDashboardSummaryDTO.getTotalSaleProperties());
+        pmsDashboardSummaryDTO.setTotalNewProjects(propertyService.getPropertiesCountByType("newprojects"));
 
         //Property Customer Info
-        pmsDashboardSummaryDTO.setTotalTenants(12);
-        pmsDashboardSummaryDTO.setTotalBuyers(5);
-        pmsDashboardSummaryDTO.setTotalOwners(30);
+        pmsDashboardSummaryDTO.setTotalTenants(customersInfoMap.getOrDefault("totalTenants",0L));
+        pmsDashboardSummaryDTO.setTotalBuyers(customersInfoMap.getOrDefault("totalBuyers", 0L));
+        pmsDashboardSummaryDTO.setTotalOwners(0);
 
         //Lists
         pmsDashboardSummaryDTO.setPendingRentalsThisMonth(pendingRentalsThisMonth);
         pmsDashboardSummaryDTO.setContractsExpiringThisMonth(contractsExpiringThisMonth);
         pmsDashboardSummaryDTO.setPropertiesRentedThisMonth(propertiesRentedThisMonth);
         pmsDashboardSummaryDTO.setPropertiesSoldThisMonth(propertiesSoldThisMonth);
-
 
         propertyStatusChartDTO.setOccupied(12);
         propertyStatusChartDTO.setVacant(20);

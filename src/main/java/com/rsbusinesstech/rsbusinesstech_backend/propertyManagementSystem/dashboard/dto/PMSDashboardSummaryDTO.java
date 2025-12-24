@@ -14,15 +14,15 @@ import java.util.List;
 public class PMSDashboardSummaryDTO {
 
     // =================== KPIs ===================
-    private int totalProperties;
-    private int totalRentalProperties;
-    private int totalSaleProperties;
-    private int totalCommercialProperties;
-    private int totalMm2hProperties;
-    private int totalNewProjects;
-    private int totalTenants;
-    private int totalBuyers;
-    private int totalOwners;
+    private long totalProperties;
+    private long totalRentalProperties;
+    private long totalSaleProperties;
+    private long totalCommercialProperties;
+    private long totalMm2hProperties;
+    private long totalNewProjects;
+    private long totalTenants;
+    private long totalBuyers;
+    private long totalOwners;
 
     // =================== Lists ===================
     private List<LeaseInfoDTO> pendingRentalsThisMonth;
