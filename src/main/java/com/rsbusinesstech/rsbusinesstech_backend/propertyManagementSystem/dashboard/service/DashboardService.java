@@ -4,14 +4,12 @@ import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.custom
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.dashboard.dto.LeaseInfoDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.dashboard.dto.PMSDashboardSummaryDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.dashboard.dto.PropertyStatusChartDTO;
+import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.dto.PropertyDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.service.PropertyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 @Service
 public class DashboardService {
@@ -25,7 +23,18 @@ public class DashboardService {
     public PMSDashboardSummaryDTO getPMSDashboardSummary(){
         PMSDashboardSummaryDTO pmsDashboardSummaryDTO = new PMSDashboardSummaryDTO();
         PropertyStatusChartDTO propertyStatusChartDTO = new PropertyStatusChartDTO();
+
         Map<String,Long> customersInfoMap = customerService.getCustomersInfo();
+        Map<String,Object> rentedPropertiesInfo = propertyService.getPropertiesInfoByType("rent");
+        Map<String,Object> salesPropertiesInfo = propertyService.getPropertiesInfoByType("buy");
+
+        List<PropertyDTO> allRentalProperties = (List<PropertyDTO>) rentedPropertiesInfo.getOrDefault("totalProperties", Collections.emptyList());
+        List<PropertyDTO> rentedOutProperties = (List<PropertyDTO>) rentedPropertiesInfo.getOrDefault("occupiedProperties", Collections.emptyList());
+        List<PropertyDTO> toBeRentedProperties = (List<PropertyDTO>) rentedPropertiesInfo.getOrDefault("vacantProperties", Collections.emptyList());
+
+        List<PropertyDTO> allSalesProperties = (List<PropertyDTO>) salesPropertiesInfo.getOrDefault("totalProperties", Collections.emptyList());
+        List<PropertyDTO> soldOutProperties = (List<PropertyDTO>) salesPropertiesInfo.getOrDefault("occupiedProperties", Collections.emptyList());
+        List<PropertyDTO> toBeSoldProperties = (List<PropertyDTO>) salesPropertiesInfo.getOrDefault("vacantProperties", Collections.emptyList());
 
         List<LeaseInfoDTO> pendingRentalsThisMonth = new ArrayList<>();
         List<LeaseInfoDTO> contractsExpiringThisMonth = new ArrayList<>();
@@ -34,8 +43,15 @@ public class DashboardService {
 
         //Property Info
         pmsDashboardSummaryDTO.setTotalProperties(propertyService.getAllPropertiesCount());
-        pmsDashboardSummaryDTO.setTotalRentalProperties(propertyService.getPropertiesCountByType("rent"));
-        pmsDashboardSummaryDTO.setTotalSaleProperties(propertyService.getPropertiesCountByType("buy"));
+
+        pmsDashboardSummaryDTO.setTotalRentalProperties(allRentalProperties.size());
+        pmsDashboardSummaryDTO.setTotalRentedOutProperties(rentedOutProperties.size()); //rented out properties
+        pmsDashboardSummaryDTO.setTotalToBeRentedProperties(toBeRentedProperties.size()); //to be rented properties
+
+        pmsDashboardSummaryDTO.setTotalSaleProperties(allSalesProperties.size());
+        pmsDashboardSummaryDTO.setTotalSoldOutProperties(soldOutProperties.size());  //sold out properties
+        pmsDashboardSummaryDTO.setTotalToBeSoldProperties(toBeSoldProperties.size());  //to be sold properties
+
         pmsDashboardSummaryDTO.setTotalCommercialProperties(propertyService.getPropertiesCountByType("commercial"));
         pmsDashboardSummaryDTO.setTotalMm2hProperties(pmsDashboardSummaryDTO.getTotalSaleProperties());
         pmsDashboardSummaryDTO.setTotalNewProjects(propertyService.getPropertiesCountByType("newprojects"));

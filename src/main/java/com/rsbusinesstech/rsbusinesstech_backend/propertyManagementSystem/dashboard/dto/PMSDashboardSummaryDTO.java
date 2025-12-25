@@ -16,7 +16,11 @@ public class PMSDashboardSummaryDTO {
     // =================== KPIs ===================
     private long totalProperties;
     private long totalRentalProperties;
+    private long totalRentedOutProperties;
+    private long totalToBeRentedProperties;
     private long totalSaleProperties;
+    private long totalSoldOutProperties;
+    private long totalToBeSoldProperties;
     private long totalCommercialProperties;
     private long totalMm2hProperties;
     private long totalNewProjects;

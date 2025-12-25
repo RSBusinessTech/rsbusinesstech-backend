@@ -12,8 +12,8 @@ import java.net.URISyntaxException;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
+import java.util.stream.Collectors;
 
 @Service
 public class PropertyService
@@ -96,10 +96,36 @@ public class PropertyService
             jsonFileUtil.writePropertiesByType(type, properties);
             return true;
         }
-
         return false; // Property not found.
     }
 
+    public long getAllPropertiesCount(){
+        long count = 0;
+        List<String> allProperties = Arrays.asList("buy","commercial","mm2h","newprojects","rent");
+        for(String type : allProperties){
+            long propertiesCount = jsonFileUtil.countPropertiesByType(type);
+            count = count + propertiesCount;
+        }
+        return count;
+    }
+
+    public long getPropertiesCountByType(String type){
+        return jsonFileUtil.countPropertiesByType(type);
+    }
+
+    public Map<String,Object> getPropertiesInfoByType(String type){
+        Map<String,Object> propertiesInfoMap = new HashMap<>();
+
+        List<PropertyDTO> properties =  Optional.ofNullable(jsonFileUtil.readPropertiesByType(type)).orElse(Collections.emptyList());
+        List<PropertyDTO> occupiedProperties = properties.stream().filter(propertyDTO -> propertyDTO.getCustomerId() != null && propertyDTO.getCustomerId() > 0).collect(Collectors.toList());
+        List<PropertyDTO> vacantProperties = properties.stream().filter(propertyDTO -> propertyDTO.getCustomerId() == null || propertyDTO.getCustomerId() <= 0).collect(Collectors.toList());
+
+        propertiesInfoMap.put("totalProperties",properties);
+        propertiesInfoMap.put("occupiedProperties",occupiedProperties);
+        propertiesInfoMap.put("vacantProperties",vacantProperties);
+
+        return propertiesInfoMap;
+    }
 
     //This method will handle the YouTube video link.
     public String convertToEmbedURL(String videoURL) {
@@ -150,19 +176,5 @@ public class PropertyService
         } catch (URISyntaxException e) {
             return videoURL;
         }
-    }
-
-    public long getAllPropertiesCount(){
-        long count = 0;
-        List<String> allProperties = Arrays.asList("buy","commercial","mm2h","newprojects","rent");
-        for(String type : allProperties){
-            long propertiesCount = jsonFileUtil.countPropertiesByType(type);
-            count = count + propertiesCount;
-        }
-        return count;
-    }
-
-    public long getPropertiesCountByType(String type){
-        return jsonFileUtil.countPropertiesByType(type);
     }
 }
