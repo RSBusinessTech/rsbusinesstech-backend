@@ -1,5 +1,6 @@
 [ {
   "id" : 1,
+  "agentId":"vyenpropertyadvisor",
   "customerId" : null,
   "name" : "Lavile Residence",
   "price" : 735000.0,
@@ -22,6 +23,7 @@
   "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 2,
+  "agentId":"vyenpropertyadvisor",
   "customerId" : null,
   "name" : "Lavile Residence\t",
   "price" : 830000.0,
@@ -44,6 +46,7 @@
   "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 3,
+  "agentId":"vyenpropertyadvisor",
   "customerId" : null,
   "name" : "Lavile Residence\t",
   "price" : 938000.0,
@@ -66,6 +69,7 @@
   "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 4,
+  "agentId":"vyenpropertyadvisor",
   "customerId" : null,
   "name" : "Lavile Residence\t",
   "price" : 1700000.0,
@@ -88,6 +92,7 @@
   "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 5,
+  "agentId":"vyenpropertyadvisor",
   "customerId" : null,
   "name" : "Taman Cheras Idaman 2",
   "price" : 700000.0,

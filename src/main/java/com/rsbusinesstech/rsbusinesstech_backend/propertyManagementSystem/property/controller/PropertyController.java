@@ -27,11 +27,11 @@ public class PropertyController {
     String mediaFolder = "Vyen_Property_Advisor";
 
     @GetMapping("/getPropertyByType")
-    public ResponseEntity<List<PropertyDTO>> getPropertyByType(@RequestParam String type){
+    public ResponseEntity<List<PropertyDTO>> getPropertyByType(@RequestParam String type, @RequestParam String agentId){
         List<PropertyDTO> properties = new ArrayList<>();
         try{
-            if(!StringUtils.isEmpty(type)){
-                properties = propertyService.getPropertiesByType(type);
+            if(!StringUtils.isEmpty(type) && !StringUtils.isEmpty(agentId)){
+                properties = propertyService.getPropertiesByType(type, agentId);
             }
         } catch (Exception e){
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(properties);
@@ -41,7 +41,7 @@ public class PropertyController {
 
     @PostMapping("/addPropertyByType")
     public ResponseEntity<PropertyDTO> addPropertyByType(@RequestParam String type, @RequestPart("property") PropertyDTO property,
-                                                    @RequestPart (value = "images", required = false) List<MultipartFile> images){
+                                                         @RequestPart (value = "images", required = false) List<MultipartFile> images){
         PropertyDTO newProperty = null;
         try{
             if(!StringUtils.isEmpty(type) && property != null){

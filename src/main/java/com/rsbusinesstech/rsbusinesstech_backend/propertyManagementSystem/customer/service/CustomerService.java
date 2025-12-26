@@ -2,6 +2,7 @@ package com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.custo
 
 import com.rsbusinesstech.rsbusinesstech_backend.commonUtils.CloudinaryService;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.customer.dto.CustomerDTO;
+import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.dto.PropertyDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.utils.JsonFileUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -9,9 +10,8 @@ import org.springframework.util.StringUtils;
 
 import java.time.*;
 import java.time.format.DateTimeFormatter;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
+import java.util.stream.Collectors;
 
 @Service
 public class CustomerService
@@ -22,9 +22,14 @@ public class CustomerService
     @Autowired
     CloudinaryService cloudinaryService;
 
-    //This method will give all the customers for a particular Type.
-    public List<CustomerDTO> getAllCustomers(){
-        return jsonFileUtil.readCustomers();
+    //This method will give all the customers for a particular agent.
+    public List<CustomerDTO> getAllCustomers(String agentId){
+        if(agentId == null || agentId.length() == 0){
+            throw new IllegalArgumentException("AgentId is required");
+        }
+        List<CustomerDTO> allCustomers = Optional.ofNullable(jsonFileUtil.readCustomers()).orElse(Collections.emptyList());
+        List<CustomerDTO> agentCustomers = allCustomers.stream().filter(customerDTO -> agentId.equalsIgnoreCase(customerDTO.getAgentId())).collect(Collectors.toList());
+        return agentCustomers;
     }
 
 
@@ -33,6 +38,9 @@ public class CustomerService
 
         if(customer == null){
            throw new IllegalArgumentException("Customer cann't be null");
+        }
+        if(customer.getAgentId() == null || customer.getAgentId().length() == 0){
+            throw new IllegalArgumentException("AgentId is required");
         }
 
         List<CustomerDTO> customers = jsonFileUtil.readCustomers();
@@ -123,16 +131,16 @@ public class CustomerService
         }
     }
 
-    public Map<String,Long> getCustomersInfo(){
+    public Map<String,Long> getCustomersInfo(String agentId){
         Map<String,Long> customersInfoMap = new HashMap<>();
         List<CustomerDTO> customers = jsonFileUtil.readCustomers();
 
         long totalTenants = customers.stream()
-                .filter(c -> "Rental".equalsIgnoreCase(c.getPropertyType()))
+                .filter(customerDTO -> "Rental".equalsIgnoreCase(customerDTO.getPropertyType()) && agentId.equalsIgnoreCase(customerDTO.getAgentId()))
                 .count();
 
         long totalBuyers = customers.stream()
-                .filter(c -> "Buy".equalsIgnoreCase(c.getPropertyType()))
+                .filter(customerDTO -> "Buy".equalsIgnoreCase(customerDTO.getPropertyType()) && agentId.equalsIgnoreCase(customerDTO.getAgentId()))
                 .count();
 
         customersInfoMap.put("totalTenants",totalTenants);

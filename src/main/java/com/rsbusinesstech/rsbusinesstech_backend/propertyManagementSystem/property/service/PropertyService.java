@@ -24,15 +24,22 @@ public class PropertyService
     @Autowired
     JsonFileUtil jsonFileUtil;
 
-    //This method will give all the properties for a particular Type.
-    public List<PropertyDTO> getPropertiesByType(String type){
-        return jsonFileUtil.readPropertiesByType(type);
+    //This method will give all the properties for a particular Type & agent..
+    public List<PropertyDTO> getPropertiesByType(String type, String agentId){
+        if(StringUtils.isEmpty(type) || StringUtils.isEmpty(agentId)){
+            return Collections.emptyList();
+        }
+        List<PropertyDTO> allProperties = Optional.ofNullable(jsonFileUtil.readPropertiesByType(type)).orElse(Collections.emptyList());
+        List<PropertyDTO> agentProperties = allProperties.stream().filter(propertyDTO -> agentId.equalsIgnoreCase(propertyDTO.getAgentId())).collect(Collectors.toList());
+        return agentProperties;
     }
 
 
     //This method will add a Property by it's Type.
     public PropertyDTO addPropertyByType(String type, PropertyDTO property){
-
+        if (StringUtils.isEmpty(property.getAgentId())) {
+            throw new IllegalArgumentException("AgentId is required");
+        }
         List<PropertyDTO> properties = jsonFileUtil.readPropertiesByType(type);
         long nextId = properties.stream().mapToLong(PropertyDTO::getId).max().orElse(0)+1;
         property.setId(nextId);
@@ -99,24 +106,27 @@ public class PropertyService
         return false; // Property not found.
     }
 
-    public long getAllPropertiesCount(){
+    public long getAllPropertiesCount(String agentId){
         long count = 0;
-        List<String> allProperties = Arrays.asList("buy","commercial","mm2h","newprojects","rent");
-        for(String type : allProperties){
-            long propertiesCount = jsonFileUtil.countPropertiesByType(type);
+        List<String> allPropertiesTypes = Arrays.asList("buy","commercial","mm2h","newprojects","rent");
+        for(String type : allPropertiesTypes){
+            List<PropertyDTO> allProperties = getPropertiesByType(type, agentId);
+            long propertiesCount = allProperties.size();
             count = count + propertiesCount;
         }
         return count;
     }
 
-    public long getPropertiesCountByType(String type){
-        return jsonFileUtil.countPropertiesByType(type);
+    public long getPropertiesCountByType(String type, String agentId){
+        List<PropertyDTO> allProperties = getPropertiesByType(type, agentId);
+        long propertiesCount = allProperties.size();
+        return propertiesCount;
     }
 
-    public Map<String,Object> getPropertiesInfoByType(String type){
+    public Map<String,Object> getPropertiesInfoByType(String type, String agentId){
         Map<String,Object> propertiesInfoMap = new HashMap<>();
 
-        List<PropertyDTO> properties =  Optional.ofNullable(jsonFileUtil.readPropertiesByType(type)).orElse(Collections.emptyList());
+        List<PropertyDTO> properties =  getPropertiesByType(type, agentId);
         List<PropertyDTO> occupiedProperties = properties.stream().filter(propertyDTO -> propertyDTO.getCustomerId() != null && propertyDTO.getCustomerId() > 0).collect(Collectors.toList());
         List<PropertyDTO> vacantProperties = properties.stream().filter(propertyDTO -> propertyDTO.getCustomerId() == null || propertyDTO.getCustomerId() <= 0).collect(Collectors.toList());
 

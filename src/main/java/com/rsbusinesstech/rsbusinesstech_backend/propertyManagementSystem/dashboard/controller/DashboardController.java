@@ -14,11 +14,11 @@ public class DashboardController {
     @Autowired
     DashboardService dashboardService;
 
-    @GetMapping("/getPMSDashboardSummary")
-    public ResponseEntity<PMSDashboardSummaryDTO> getPropertyByType(){
+    @GetMapping("/getPMSDashboardSummary/{agentId}")
+    public ResponseEntity<PMSDashboardSummaryDTO> getPropertyByType(@PathVariable String agentId){
         PMSDashboardSummaryDTO pmsDashboardSummaryDTO = null;
         try{
-            pmsDashboardSummaryDTO = dashboardService.getPMSDashboardSummary();
+            pmsDashboardSummaryDTO = dashboardService.getPMSDashboardSummary(agentId);
         } catch (Exception e){
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(pmsDashboardSummaryDTO);
         }

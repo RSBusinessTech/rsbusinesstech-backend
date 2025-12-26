@@ -10,6 +10,7 @@ public class CustomerDTO {
 
     // Basic Identification
     private Long id;
+    private String agentId;
     private Long propertyId;
     private String propertyType;
     private String fullName;

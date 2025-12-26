@@ -1,5 +1,6 @@
 [ {
   "id" : 1,
+  "agentId":"vyenpropertyadvisor",
   "customerId" : null,
   "name" : "K Residence @KLCC",
   "price" : 7500.0,
@@ -22,6 +23,7 @@
   "updatedBy" : "admin"
 }, {
   "id" : 2,
+  "agentId":"vyenpropertyadvisor",
   "customerId" : null,
   "name" : "The Manhattan, Bukit Bintang",
   "price" : 3600.0,
@@ -44,6 +46,7 @@
   "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 3,
+  "agentId":"vyenpropertyadvisor",
   "customerId" : null,
   "name" : "Dua Residency @KLCC",
   "price" : 7500.0,
@@ -66,6 +69,7 @@
   "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 4,
+  "agentId":"vyenpropertyadvisor",
   "customerId" : null,
   "name" : "D'Brightton",
   "price" : 2700.0,
@@ -88,6 +92,7 @@
   "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 5,
+  "agentId":"vyenpropertyadvisor",
   "customerId" : null,
   "name" : "Apart Ampang , Taman Bukit Indah",
   "price" : 1500.0,
@@ -110,6 +115,7 @@
   "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 6,
+  "agentId":"vyenpropertyadvisor",
   "customerId" : null,
   "name" : "M Vertica, Cheras",
   "price" : 3800.0,
@@ -132,6 +138,7 @@
   "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 7,
+  "agentId":"vyenpropertyadvisor",
   "customerId" : null,
   "name" : "Sun Complex (Apartment)",
   "price" : 3000.0,
@@ -154,6 +161,7 @@
   "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 8,
+  "agentId":"vyenpropertyadvisor",
   "customerId" : 1,
   "name" : "Axis Crown @ Axis Pandan",
   "price" : 1600.0,

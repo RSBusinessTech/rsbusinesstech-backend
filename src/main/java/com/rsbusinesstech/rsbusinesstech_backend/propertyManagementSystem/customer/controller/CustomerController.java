@@ -28,23 +28,23 @@ public class CustomerController {
     String mediaFolder = "Vyen_Property_Advisor";
     String backupFolder = "Vyen_Property_Advisor/Backup";
 
-    @GetMapping("/getAllCustomers")
-    public ResponseEntity<List<CustomerDTO>> getAllCustomers(){
+    @GetMapping("/getAllCustomers/{agentId}")
+    public ResponseEntity<List<CustomerDTO>> getAllCustomers(@PathVariable String agentId){
         List<CustomerDTO> customers = new ArrayList<>();
         try{
-            customers = customerService.getAllCustomers();
+            customers = customerService.getAllCustomers(agentId);
         } catch (Exception e){
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(customers);
         }
         return ResponseEntity.ok(customers);
     }
 
-    @GetMapping("/getCustomerById/{id}")
-    public ResponseEntity<CustomerDTO> getCustomerById(@PathVariable String id){
+    @GetMapping("/getCustomerById/{id}/{agentId}")
+    public ResponseEntity<CustomerDTO> getCustomerById(@PathVariable String id, @PathVariable String agentId){
         List<CustomerDTO> customers = new ArrayList<>();
         CustomerDTO customer = null;
         try{
-            customers = customerService.getAllCustomers();
+            customers = customerService.getAllCustomers(agentId);
             Optional<CustomerDTO> customerDTOOptional = customers.stream().filter(customerDTO -> String.valueOf(customerDTO.getId()).equalsIgnoreCase(id)).findFirst();
             if(customerDTOOptional.isPresent()){
                 customer =  customerDTOOptional.get();

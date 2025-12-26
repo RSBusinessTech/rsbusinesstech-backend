@@ -1,5 +1,6 @@
 [ {
   "id" : 1,
+  "agentId":"vyenpropertyadvisor",
   "name" : "The Maxxon, Cheras",
   "price" : 0.0,
   "address" : "Persiaran Damai Perdana, Bandar Damai Perdana, 43200 Cheras, Selangor",
@@ -20,6 +21,7 @@
   "updatedAt": "2025-12-13 07:24:55 PM"
 }, {
   "id" : 2,
+  "agentId":"vyenpropertyadvisor",
   "name" : "The Maxxon, Cheras",
   "price" : 0.0,
   "address" : "Persiaran Damai Perdana, Bandar Damai Perdana, 43200 Cheras, Selangor",
@@ -40,6 +42,7 @@
   "updatedAt": "2025-12-13 07:24:55 PM"
 }, {
   "id" : 3,
+  "agentId":"vyenpropertyadvisor",
   "name" : "The Maxxon, Cheras",
   "price" : 0.0,
   "address" : "Persiaran Damai Perdana, Bandar Damai Perdana, 43200 Cheras, Selangor",
@@ -60,6 +63,7 @@
   "updatedAt": "2025-12-13 07:24:55 PM"
 }, {
   "id" : 4,
+  "agentId":"vyenpropertyadvisor",
   "name" : "Sungai Long Residence, Cheras",
   "price" : 0.0,
   "address" : "Jalan Sungai Long, Bandar Sungai Long, 43000 Kajang, Selangor",
@@ -80,6 +84,7 @@
   "updatedAt": "2025-12-13 07:24:55 PM"
 }, {
   "id" : 5,
+  "agentId":"vyenpropertyadvisor",
   "name" : "Sungai Long Residence, Cheras",
   "price" : 0.0,
   "address" : "Jalan Sungai Long, Bandar Sungai Long, 43000 Kajang, Selangor",
@@ -100,6 +105,7 @@
   "updatedAt": "2025-12-13 07:24:55 PM"
 }, {
   "id" : 6,
+  "agentId":"vyenpropertyadvisor",
   "name" : "Palm Elite Residence, Cheras",
   "price" : 0.0,
   "address" : "Jalan Palma Utama, 43200 Cheras, Selangor",
@@ -120,6 +126,7 @@
   "updatedAt": "2025-12-13 07:24:55 PM"
 }, {
   "id" : 7,
+  "agentId":"vyenpropertyadvisor",
   "name" : "Palm Elite Residence, Cheras",
   "price" : 0.0,
   "address" : "Jalan Palma Utama, 43200 Cheras, Selangor",
