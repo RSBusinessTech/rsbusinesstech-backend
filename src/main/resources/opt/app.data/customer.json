@@ -1,6 +1,6 @@
 [ {
   "id" : 1,
-  "agentId":"vyenpropertyadvisor",
+  "agentId" : "vyenpropertyadvisor",
   "propertyId" : 8,
   "propertyType" : "Rental",
   "fullName" : "Rohit Kumar",
@@ -49,8 +49,8 @@
   "totalAmountPaid" : 0.0
 }, {
   "id" : 2,
-  "agentId":"vyenpropertyadvisor",
-  "propertyId" : 8,
+  "agentId" : "rsbusinesstech",
+  "propertyId" : 9,
   "propertyType" : "Rental",
   "fullName" : "Fred Wiremu John",
   "fatherName" : "-",
@@ -74,7 +74,7 @@
   "imageUrl" : "https://res.cloudinary.com/divjzb0t3/image/upload/v1766316849/Vyen_Property_Advisor/xjrxvtti2hfjuolab3hr.jpg",
   "imagePublicId" : "Vyen_Property_Advisor/xjrxvtti2hfjuolab3hr",
   "createdAt" : "2025-12-21 07:34:10 PM",
-  "updatedAt" : "2025-12-21 08:00:23 PM",
+  "updatedAt" : "2025-12-27 09:34:03 PM",
   "createdBy" : "admin",
   "updatedBy" : "admin",
   "rentalAmount" : 1600.0,

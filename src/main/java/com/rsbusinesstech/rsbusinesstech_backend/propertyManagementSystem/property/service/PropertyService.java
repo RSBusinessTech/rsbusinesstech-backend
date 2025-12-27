@@ -44,7 +44,7 @@ public class PropertyService
         long nextId = properties.stream().mapToLong(PropertyDTO::getId).max().orElse(0)+1;
         property.setId(nextId);
         property.setCreatedAt(ZonedDateTime.now(ZoneId.of("Asia/Kuala_Lumpur")).format(DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss a")));  //a → AM/PM marker.
-        property.setCreatedBy("admin");
+        property.setCreatedBy(property.getAgentId());
         properties.add(property);
 
         jsonFileUtil.writePropertiesByType(type,properties);
@@ -59,7 +59,7 @@ public class PropertyService
             if(properties.get(i).getId().equals(id)){
                 updatedProperty.setId(id);
                 updatedProperty.setUpdatedAt(ZonedDateTime.now(ZoneId.of("Asia/Kuala_Lumpur")).format(DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss a"))); //a → AM/PM marker.
-                updatedProperty.setUpdatedBy("admin");
+                updatedProperty.setUpdatedBy(updatedProperty.getAgentId());
 
                 // Only delete and replace images if new images are provided.
                 if(updatedProperty.getImageUrls() != null && !updatedProperty.getImageUrls().isEmpty()) {

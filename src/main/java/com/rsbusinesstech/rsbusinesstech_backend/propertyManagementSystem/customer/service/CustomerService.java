@@ -47,7 +47,7 @@ public class CustomerService
         long nextId = customers.stream().mapToLong(CustomerDTO::getId).max().orElse(0)+1;
         customer.setId(nextId);
         customer.setCreatedAt(ZonedDateTime.now(ZoneId.of("Asia/Kuala_Lumpur")).format(DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss a")));  //a → AM/PM marker.
-        customer.setCreatedBy("admin");
+        customer.setCreatedBy(customer.getAgentId());
         setRentalStartDueDates(customer);
 
         customers.add(customer);
@@ -64,7 +64,7 @@ public class CustomerService
             if(customers.get(i).getId().equals(id)){
                 updatedCustomer.setId(id);
                 updatedCustomer.setUpdatedAt(ZonedDateTime.now(ZoneId.of("Asia/Kuala_Lumpur")).format(DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss a"))); //a → AM/PM marker.
-                updatedCustomer.setUpdatedBy("admin");
+                updatedCustomer.setUpdatedBy(updatedCustomer.getAgentId());
 
                 // Only delete and replace images if new images are provided.
                 if(updatedCustomer.getImageUrl() != null && !updatedCustomer.getImageUrl().isEmpty()) {
