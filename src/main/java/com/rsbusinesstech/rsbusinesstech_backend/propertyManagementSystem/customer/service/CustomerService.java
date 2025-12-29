@@ -125,9 +125,12 @@ public class CustomerService
             if(!rentalStartDate.isBefore(contractStartDate) && !rentalStartDate.isAfter(contractEndDate)){
                 LocalDate rentalDueDate = rentalStartDate.plusDays(customer.getGracePeriodInDays());
 
+                // Only reset isRentalPaid if null or empty or rentalStartDate changed (new rental-cycle).
+                if(customer.getIsRentalPaid() == null || customer.getIsRentalPaid().isEmpty() || rentalStartDateHasChanged(customer, rentalStartDate)) {
+                    customer.setIsRentalPaid("No");
+                }
                 customer.setRentalStartDate(rentalStartDate.toString());
                 customer.setRentalDueDate(rentalDueDate.toString());
-                customer.setIsRentalPaid("No");
             }
         }
     }
@@ -148,5 +151,12 @@ public class CustomerService
         customersInfoMap.put("totalBuyers",totalBuyers);
 
         return customersInfoMap;
+    }
+
+    // Helper method to detect if rentalStartDate changed from previous (new rental-cycle).
+    private boolean rentalStartDateHasChanged(CustomerDTO customer, LocalDate newRentalStartDate){
+        if(customer.getRentalStartDate() == null) return true;
+        LocalDate oldDate = LocalDate.parse(customer.getRentalStartDate());
+        return !oldDate.equals(newRentalStartDate);
     }
 }
