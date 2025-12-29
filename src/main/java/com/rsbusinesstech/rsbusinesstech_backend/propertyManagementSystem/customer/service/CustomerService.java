@@ -127,6 +127,7 @@ public class CustomerService
 
                 customer.setRentalStartDate(rentalStartDate.toString());
                 customer.setRentalDueDate(rentalDueDate.toString());
+                customer.setIsRentalPaid("No");
             }
         }
     }
