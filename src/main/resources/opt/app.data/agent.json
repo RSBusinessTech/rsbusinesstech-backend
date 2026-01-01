@@ -1,0 +1,50 @@
+[
+  {
+    "id": "vyenpropertyadvisor",
+    "fullName": "Viven Chia",
+
+    "email": "rsbusinesstechclient@gmail.com",
+    "mobileNumber": "+60162907662",
+    "alternatePhoneNumber": "+60162907662",
+    "whatsappNumber": "+60162907662",
+
+    "addressLine1": "Axis Crown @ Axis Pandan",
+    "addressLine2": "Jalan Cempaka, Taman Cempaka, 68000 Ampang, Selangor",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan",
+    "postalCode": "50000",
+    "country": "Malaysia",
+
+    "preferredContactMethod": "Whatsapp",
+    "gender": "Female",
+    "imageUrl": "https://example.com/images/john-doe.jpg",
+    "imagePublicId": "john-doe-12345",
+
+    "createdAt": "2025-12-13 07:24:55 PM",
+    "updatedAt": "2025-12-13 07:24:55 PM",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "id": "rsbusinesstech",
+    "fullName": "Admin",
+    "email": "rsbusinesstechclient@gmail.com",
+    "mobileNumber": "+601114278964",
+    "alternatePhoneNumber": "+601114278964",
+    "whatsappNumber": "+601114278964",
+    "addressLine1": "Axis Crown @ Axis Pandan",
+    "addressLine2": "Jalan Cempaka, Taman Cempaka, 68000 Ampang, Selangor",
+    "city": "Kuala Lumpur",
+    "state": "Wilayah Persekutuan",
+    "postalCode": "50000",
+    "country": "Malaysia",
+    "preferredContactMethod": "Whatsapp",
+    "gender": "Male",
+    "imageUrl": "https://example.com/images/john-doe.jpg",
+    "imagePublicId": "john-doe-12345",
+    "createdAt": "2025-12-13 07:24:55 PM",
+    "updatedAt": "2025-12-13 07:24:55 PM",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  }
+]

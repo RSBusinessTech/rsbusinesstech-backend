@@ -43,6 +43,12 @@
 			<optional>true</optional>
 		</dependency>
 
+		<!--validation - for validating Request/Model/DTO etc.-->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-validation</artifactId>
+		</dependency>
+
 		<!--mail API-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
