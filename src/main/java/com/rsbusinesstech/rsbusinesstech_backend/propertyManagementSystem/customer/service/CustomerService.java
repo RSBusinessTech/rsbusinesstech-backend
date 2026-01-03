@@ -32,6 +32,19 @@ public class CustomerService
         return agentCustomers;
     }
 
+    //This method will give all the customers for a particular agent & propertyType.
+    public List<CustomerDTO> getAllCustomersByPropertyType(String agentId, String propertyType){
+        if(agentId == null || agentId.length() == 0){
+            throw new IllegalArgumentException("AgentId is required");
+        }
+        if(propertyType == null || propertyType.length() == 0){
+            throw new IllegalArgumentException("Property Type is required");
+        }
+        List<CustomerDTO> allCustomers = Optional.ofNullable(jsonFileUtil.readCustomers()).orElse(Collections.emptyList());
+        List<CustomerDTO> agentCustomers = allCustomers.stream().filter(customerDTO -> agentId.equalsIgnoreCase(customerDTO.getAgentId()) && propertyType.equalsIgnoreCase(customerDTO.getPropertyType())).collect(Collectors.toList());
+        return agentCustomers;
+    }
+
 
     //This method will add a Property by it's Type.
     public CustomerDTO addCustomer(CustomerDTO customer){
@@ -155,7 +168,7 @@ public class CustomerService
 
     // Helper method to detect if rentalStartDate changed from previous (new rental-cycle).
     private boolean rentalStartDateHasChanged(CustomerDTO customer, LocalDate newRentalStartDate){
-        if(customer.getRentalStartDate() == null) return true;
+        if(customer.getRentalStartDate() == null || customer.getRentalStartDate().trim().isEmpty()) return true;
         LocalDate oldDate = LocalDate.parse(customer.getRentalStartDate());
         return !oldDate.equals(newRentalStartDate);
     }

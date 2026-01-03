@@ -39,6 +39,17 @@ public class CustomerController {
         return ResponseEntity.ok(customers);
     }
 
+    @GetMapping("/getAllCustomers/{agentId}/{propertyType}")
+    public ResponseEntity<List<CustomerDTO>> getAllCustomersByPropertyType(@PathVariable String agentId, @PathVariable String propertyType){
+        List<CustomerDTO> customers = new ArrayList<>();
+        try{
+            customers = customerService.getAllCustomersByPropertyType(agentId, propertyType);
+        } catch (Exception e){
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(customers);
+        }
+        return ResponseEntity.ok(customers);
+    }
+
     @GetMapping("/getCustomerById/{id}/{agentId}")
     public ResponseEntity<CustomerDTO> getCustomerById(@PathVariable String id, @PathVariable String agentId){
         List<CustomerDTO> customers = new ArrayList<>();
