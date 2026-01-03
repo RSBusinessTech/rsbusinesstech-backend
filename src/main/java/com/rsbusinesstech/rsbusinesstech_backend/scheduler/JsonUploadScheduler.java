@@ -17,6 +17,8 @@ import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
+import org.springframework.util.StringUtils;
+
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -48,7 +50,7 @@ public class JsonUploadScheduler {
        Schedule:This method will be executed once only, immediately after deployment/restarting server.
        Purpose: Create "/opt/app/data/" folder and Place JSON files there because render free instance will delete it if server restarted.
      */
-    @PostConstruct
+    //PostConstruct
     public void performBackupOnStartup() throws IOException{
         performBackup();
     }
@@ -63,14 +65,14 @@ public class JsonUploadScheduler {
 
     //Schedule: This cron job will be executed every night at 11:00PM MYT(Malaysian time).
     //Purpose: To send rental payment reminder emails to tenants who have not paid the rentals of current month.
-    @Scheduled (cron = "0 00  23 * * *", zone = "Asia/Kuala_Lumpur")
+    //@Scheduled (cron = "0 00  23 * * *", zone = "Asia/Kuala_Lumpur")
     public void sendRentalPaymentReminderEmails() throws IOException {
         sendRentalPaymentReminderEmail();
     }
 
     //Schedule: This cron job will be executed every night at 11:30PM MYT(Malaysian time).
     //Purpose: Take backup from Render server and upload in cloudinary.
-    @Scheduled (cron = "0 30 23 * * *", zone = "Asia/Kuala_Lumpur")
+    //@Scheduled (cron = "0 30 23 * * *", zone = "Asia/Kuala_Lumpur")
     public void uploadJsonFile() throws IOException {
         performBackup();
     }
@@ -157,7 +159,9 @@ public class JsonUploadScheduler {
         List<AgentDTO> agents = Optional.ofNullable(jsonFileUtil.readAgents()).orElse(Collections.emptyList());
 
         for(CustomerDTO customer: customers){
-           if(customer != null && "Rental".equalsIgnoreCase(customer.getPropertyType()) && dateFormatterUtil.isBeforeOrToday(customer.getRentalStartDate())){
+           if(customer != null && "Rental".equalsIgnoreCase(customer.getPropertyType())
+                   && "No".equalsIgnoreCase(customer.getIsRentalPaid())
+                   && dateFormatterUtil.isBeforeOrToday(customer.getRentalStartDate())){
                Optional<PropertyDTO> rentalPropertyOptional =  allRentalProperties
                                                               .stream()
                                                               .filter(property -> Objects.equals(customer.getPropertyId(), property.getId()) &&

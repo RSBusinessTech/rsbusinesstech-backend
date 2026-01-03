@@ -54,8 +54,8 @@ public class ContactController
     public ResponseEntity<String> sendEmailToTenant(@Valid @RequestBody RentalPaymentReminderRequest rentalPaymentReminderRequest){
         try{
             if(rentalPaymentReminderRequest != null){
-                emailService.sendRentalPaymentReminderEmail(rentalPaymentReminderRequest);
-                 //jsonUploadScheduler.sendRentalPaymentReminderEmails();
+                //emailService.sendRentalPaymentReminderEmail(rentalPaymentReminderRequest);
+                 jsonUploadScheduler.sendRentalPaymentReminderEmails();
             }
         }catch (Exception e){
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to send email");
