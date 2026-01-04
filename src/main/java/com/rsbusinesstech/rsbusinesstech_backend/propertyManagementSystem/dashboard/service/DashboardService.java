@@ -4,6 +4,7 @@ import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.custom
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.dashboard.dto.LeaseInfoDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.dashboard.dto.PMSDashboardSummaryDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.dashboard.dto.PropertyStatusChartDTO;
+import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.owner.service.OwnerService;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.dto.PropertyDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.service.PropertyService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,11 +21,15 @@ public class DashboardService {
     @Autowired
     CustomerService customerService;
 
+    @Autowired
+    OwnerService ownerService;
+
     public PMSDashboardSummaryDTO getPMSDashboardSummary(String agentId){
         PMSDashboardSummaryDTO pmsDashboardSummaryDTO = new PMSDashboardSummaryDTO();
         PropertyStatusChartDTO propertyStatusChartDTO = new PropertyStatusChartDTO();
 
         Map<String,Long> customersInfoMap = customerService.getCustomersInfo(agentId);
+        Map<String,Long> ownersInfoMap = ownerService.getOwnersInfo(agentId);
         Map<String,Object> rentedPropertiesInfo = propertyService.getPropertiesInfoByType("rent", agentId);
         Map<String,Object> salesPropertiesInfo = propertyService.getPropertiesInfoByType("buy", agentId);
 
@@ -59,7 +64,7 @@ public class DashboardService {
         //Property Customer Info
         pmsDashboardSummaryDTO.setTotalTenants(customersInfoMap.getOrDefault("totalTenants",0L));
         pmsDashboardSummaryDTO.setTotalBuyers(customersInfoMap.getOrDefault("totalBuyers", 0L));
-        pmsDashboardSummaryDTO.setTotalOwners(0);
+        pmsDashboardSummaryDTO.setTotalOwners(ownersInfoMap.getOrDefault("totalOwners",0L));
 
         //Lists
         pmsDashboardSummaryDTO.setPendingRentalsThisMonth(pendingRentalsThisMonth);

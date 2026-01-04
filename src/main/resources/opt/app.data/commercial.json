@@ -1,1 +1,24 @@
-[]
+[ {
+  "id" : 1,
+  "agentId" : "rsbusinesstech",
+  "customerId" : 9,
+  "name" : "Taman Cheras Idaman 2",
+  "price" : 500000.0,
+  "address" : "Malaysia",
+  "bedrooms" : 4,
+  "bathrooms" : 3,
+  "carParks" : 2,
+  "furnishing" : "Fully Furnished",
+  "sizeSqft" : 1000.0,
+  "imageUrls" : [ "https://res.cloudinary.com/divjzb0t3/image/upload/v1767543384/Vyen_Property_Advisor/vs9ysgetsntzrmpz7764.jpg" ],
+  "imagePublicIds" : [ "Vyen_Property_Advisor/vs9ysgetsntzrmpz7764" ],
+  "amenities" : [ "Private bathroom", "Family room", "Flat screen TV", "Balcony", "Fridge", "Air conditioning", "Kitchen", "Washing machine", "Pets allowed", "Dining table", "Microwave oven", "Sofa", "High-speed WiFi", "24-hour security" ],
+  "commonFacilities" : [ "Gym", "Outdoor swimming pool", "Sauna", "Terrace", "Park", "Water slide", "24-hour security", "Entrance porch / car porch", "Front yard", "Fencing / boundary wal", "Main gate", "Car porch (open or covered)", "Driveway" ],
+  "location" : "",
+  "videoURL" : "",
+  "isActive" : "YES",
+  "createdAt" : "2026-01-05 12:16:24 AM",
+  "updatedAt" : "2026-01-05 12:23:55 AM",
+  "createdBy" : "rsbusinesstech",
+  "updatedBy" : "rsbusinesstech"
+} ]

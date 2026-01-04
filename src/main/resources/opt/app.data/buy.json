@@ -1,6 +1,6 @@
 [ {
   "id" : 1,
-  "agentId":"vyenpropertyadvisor",
+  "agentId" : "vyenpropertyadvisor",
   "customerId" : null,
   "name" : "Lavile Residence",
   "price" : 735000.0,
@@ -23,7 +23,7 @@
   "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 2,
-  "agentId":"vyenpropertyadvisor",
+  "agentId" : "vyenpropertyadvisor",
   "customerId" : null,
   "name" : "Lavile Residence\t",
   "price" : 830000.0,
@@ -46,7 +46,7 @@
   "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 3,
-  "agentId":"vyenpropertyadvisor",
+  "agentId" : "vyenpropertyadvisor",
   "customerId" : null,
   "name" : "Lavile Residence\t",
   "price" : 938000.0,
@@ -69,7 +69,7 @@
   "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 4,
-  "agentId":"vyenpropertyadvisor",
+  "agentId" : "vyenpropertyadvisor",
   "customerId" : null,
   "name" : "Lavile Residence\t",
   "price" : 1700000.0,
@@ -92,7 +92,7 @@
   "updatedBy" : "vyenpropertyadvisor"
 }, {
   "id" : 5,
-  "agentId":"vyenpropertyadvisor",
+  "agentId" : "vyenpropertyadvisor",
   "customerId" : null,
   "name" : "Taman Cheras Idaman 2",
   "price" : 700000.0,
@@ -113,4 +113,27 @@
   "updatedAt" : "2025-12-21 07:27:00 PM",
   "createdBy" : "admin",
   "updatedBy" : "admin"
+}, {
+  "id" : 6,
+  "agentId" : "rsbusinesstech",
+  "customerId" : 8,
+  "name" : "Lavile Residence",
+  "price" : 500000.0,
+  "address" : "Kuala Lumpur",
+  "bedrooms" : 4,
+  "bathrooms" : 2,
+  "carParks" : 2,
+  "furnishing" : "Fully Furnished",
+  "sizeSqft" : 850.0,
+  "imageUrls" : [ "https://res.cloudinary.com/divjzb0t3/image/upload/v1767543260/Vyen_Property_Advisor/o54pke0yawnlqxdxvk0n.jpg" ],
+  "imagePublicIds" : [ "Vyen_Property_Advisor/o54pke0yawnlqxdxvk0n" ],
+  "amenities" : [ "Private bathroom", "Family room", "Flat screen TV", "Balcony", "Fridge", "Air conditioning", "Kitchen", "Washing machine", "Pets allowed", "Dining table", "Microwave oven", "Sofa", "High-speed WiFi", "24-hour security" ],
+  "commonFacilities" : [ "Gym", "Outdoor swimming pool", "Sauna", "Terrace", "Park", "Water slide", "24-hour security", "Entrance porch / car porch", "Front yard", "Fencing / boundary wal", "Main gate", "Car porch (open or covered)", "Driveway" ],
+  "location" : "",
+  "videoURL" : "",
+  "isActive" : "YES",
+  "createdAt" : "2026-01-04 10:30:21 PM",
+  "updatedAt" : "2026-01-05 12:14:20 AM",
+  "createdBy" : "rsbusinesstech",
+  "updatedBy" : "rsbusinesstech"
 } ]
