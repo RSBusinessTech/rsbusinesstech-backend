@@ -5,6 +5,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.rsbusinesstech.rsbusinesstech_backend.commonUtils.CloudinaryService;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.agent.dto.AgentDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.customer.dto.CustomerDTO;
+import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.owner.dto.OwnerDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.dto.PropertyDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
@@ -90,6 +91,28 @@ public class JsonFileUtil {
         }
     }
 
+    // Read JSON file.
+    public List<OwnerDTO> readOwners() {
+        String externalFilePath = EXTERNAL_BASE_PATH + "owner.json";
+        File externalFile = new File(externalFilePath);
+
+        TypeReference<List<OwnerDTO>> typeReference = new TypeReference<>() {};
+
+        try {
+            if (externalFile.exists()) {
+                // Read from external file if it exists.
+                return objectMapper.readValue(externalFile, typeReference);
+            } else {
+                // Fallback: read from classpath resource.
+                ClassPathResource resource = new ClassPathResource(LOCAL_BASE_PATH + "owner.json");
+                return objectMapper.readValue(resource.getInputStream(), typeReference);
+            }
+        } catch (IOException e) {
+            throw new RuntimeException("Error reading JSON: " + externalFilePath, e);
+        }
+    }
+
+
     // Write JSON file.
     public void writeCustomers(List<CustomerDTO> customers) {
         String externalFilePath = EXTERNAL_BASE_PATH + "customer.json";
@@ -102,6 +125,26 @@ public class JsonFileUtil {
 
             //upload the file to cloudinary for backup.
             Map<String, String> responseMap = cloudinaryService.uploadRawFile(externalFile, BACKUP_FOLDER, "customer");
+
+            String newPublicID = responseMap.get("publicID");
+            System.out.println("File uploaded successfully for backup, newPublicID: "+ newPublicID);
+        } catch (IOException e) {
+            throw new RuntimeException("Error writing JSON: " + externalFilePath, e);
+        }
+    }
+
+    // Write JSON file.
+    public void writeOwners(List<OwnerDTO> owners) {
+        String externalFilePath = EXTERNAL_BASE_PATH + "owner.json";
+        File externalFile = new File(externalFilePath);
+
+        // Ensure the parent directory exists (/opt/app/data/)
+        externalFile.getParentFile().mkdirs();
+        try {
+            objectMapper.writerWithDefaultPrettyPrinter().writeValue(externalFile, owners);
+
+            //upload the file to cloudinary for backup.
+            Map<String, String> responseMap = cloudinaryService.uploadRawFile(externalFile, BACKUP_FOLDER, "owner");
 
             String newPublicID = responseMap.get("publicID");
             System.out.println("File uploaded successfully for backup, newPublicID: "+ newPublicID);

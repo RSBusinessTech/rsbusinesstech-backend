@@ -46,7 +46,7 @@ public class CustomerService
     }
 
 
-    //This method will add a Property by it's Type.
+    //This method will add a Customer by it's Type.
     public CustomerDTO addCustomer(CustomerDTO customer){
 
         if(customer == null){
@@ -69,7 +69,7 @@ public class CustomerService
         return customer;
     }
 
-    //This method will update a Property by it's Type.
+    //This method will update a Customer by it's Type.
     public CustomerDTO updateCustomer(CustomerDTO updatedCustomer, Long id){
         List<CustomerDTO> customers = jsonFileUtil.readCustomers();
 
@@ -98,7 +98,7 @@ public class CustomerService
         throw new RuntimeException("Property not found");
     }
 
-    // This method will delete a Property by its Type & Id, including Cloudinary images.
+    // This method will delete a Customer by its Type & Id, including Cloudinary images.
     public boolean deleteCustomer(Long id) {
         List<CustomerDTO> customers = jsonFileUtil.readCustomers();
 
