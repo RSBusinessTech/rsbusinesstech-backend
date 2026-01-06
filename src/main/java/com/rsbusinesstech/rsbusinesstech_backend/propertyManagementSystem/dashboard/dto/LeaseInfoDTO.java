@@ -16,11 +16,17 @@ public class LeaseInfoDTO {
     //Tenant Info
     private Long tenantId;
     private String tenantName;
+    private String tenantWhatsappNumber;
 
     //Property Info
     private Long propertyId;
     private String propertyName;
-    private String propertyType;
+
+    //Rental Info
+    private String rentalStartDate;
+    private Double rentalAmount;
+
+    //Contract Info
     private String expiryDate;
 }
 

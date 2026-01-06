@@ -1,12 +1,19 @@
 package com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.dashboard.service;
 
+import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.agent.dto.AgentDTO;
+import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.customer.dto.CustomerDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.customer.service.CustomerService;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.dashboard.dto.LeaseInfoDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.dashboard.dto.PMSDashboardSummaryDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.dashboard.dto.PropertyStatusChartDTO;
+import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.email.model.RentalPaymentReminderRequest;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.owner.service.OwnerService;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.dto.PropertyDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.service.PropertyService;
+import com.rsbusinesstech.rsbusinesstech_backend.utils.DateFormatterUtil;
+import com.rsbusinesstech.rsbusinesstech_backend.utils.JsonFileUtil;
+import jakarta.mail.MessagingException;
+import jakarta.validation.ConstraintViolation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -24,24 +31,29 @@ public class DashboardService {
     @Autowired
     OwnerService ownerService;
 
+    @Autowired
+    JsonFileUtil jsonFileUtil;
+
+    @Autowired
+    DateFormatterUtil dateFormatterUtil;
+
     public PMSDashboardSummaryDTO getPMSDashboardSummary(String agentId){
         PMSDashboardSummaryDTO pmsDashboardSummaryDTO = new PMSDashboardSummaryDTO();
         PropertyStatusChartDTO propertyStatusChartDTO = new PropertyStatusChartDTO();
 
         Map<String,Long> customersInfoMap = customerService.getCustomersInfo(agentId);
         Map<String,Long> ownersInfoMap = ownerService.getOwnersInfo(agentId);
-        Map<String,Object> rentedPropertiesInfo = propertyService.getPropertiesInfoByType("rent", agentId);
+        Map<String,Object> rentalPropertiesInfo = propertyService.getPropertiesInfoByType("rent", agentId);
         Map<String,Object> salesPropertiesInfo = propertyService.getPropertiesInfoByType("buy", agentId);
 
-        List<PropertyDTO> allRentalProperties = (List<PropertyDTO>) rentedPropertiesInfo.getOrDefault("totalProperties", Collections.emptyList());
-        List<PropertyDTO> rentedOutProperties = (List<PropertyDTO>) rentedPropertiesInfo.getOrDefault("occupiedProperties", Collections.emptyList());
-        List<PropertyDTO> toBeRentedProperties = (List<PropertyDTO>) rentedPropertiesInfo.getOrDefault("vacantProperties", Collections.emptyList());
+        List<PropertyDTO> allRentalProperties = (List<PropertyDTO>) rentalPropertiesInfo.getOrDefault("totalProperties", Collections.emptyList());
+        List<PropertyDTO> rentedOutProperties = (List<PropertyDTO>) rentalPropertiesInfo.getOrDefault("occupiedProperties", Collections.emptyList());
+        List<PropertyDTO> toBeRentedProperties = (List<PropertyDTO>) rentalPropertiesInfo.getOrDefault("vacantProperties", Collections.emptyList());
 
         List<PropertyDTO> allSalesProperties = (List<PropertyDTO>) salesPropertiesInfo.getOrDefault("totalProperties", Collections.emptyList());
         List<PropertyDTO> soldOutProperties = (List<PropertyDTO>) salesPropertiesInfo.getOrDefault("occupiedProperties", Collections.emptyList());
         List<PropertyDTO> toBeSoldProperties = (List<PropertyDTO>) salesPropertiesInfo.getOrDefault("vacantProperties", Collections.emptyList());
 
-        List<LeaseInfoDTO> pendingRentalsThisMonth = new ArrayList<>();
         List<LeaseInfoDTO> contractsExpiringThisMonth = new ArrayList<>();
         List<LeaseInfoDTO> propertiesRentedThisMonth = new ArrayList<>();
         List<LeaseInfoDTO> propertiesSoldThisMonth = new ArrayList<>();
@@ -67,7 +79,7 @@ public class DashboardService {
         pmsDashboardSummaryDTO.setTotalOwners(ownersInfoMap.getOrDefault("totalOwners",0L));
 
         //Lists
-        pmsDashboardSummaryDTO.setPendingRentalsThisMonth(pendingRentalsThisMonth);
+        pmsDashboardSummaryDTO.setPendingRentalsThisMonth(getPendingRentalsThisMonth());
         pmsDashboardSummaryDTO.setContractsExpiringThisMonth(contractsExpiringThisMonth);
         pmsDashboardSummaryDTO.setPropertiesRentedThisMonth(propertiesRentedThisMonth);
         pmsDashboardSummaryDTO.setPropertiesSoldThisMonth(propertiesSoldThisMonth);
@@ -79,5 +91,54 @@ public class DashboardService {
         pmsDashboardSummaryDTO.setPropertyStatusChart(propertyStatusChartDTO);
 
         return pmsDashboardSummaryDTO;
+    }
+
+    public List<LeaseInfoDTO> getPendingRentalsThisMonth(){
+        List<LeaseInfoDTO> pendingRentalsThisMonthList = new ArrayList<>();
+
+        List<PropertyDTO> allRentalProperties = Optional.ofNullable(jsonFileUtil.readPropertiesByType("rent")).orElse(Collections.emptyList());
+        List<CustomerDTO> customers = Optional.ofNullable(jsonFileUtil.readCustomers()).orElse(Collections.emptyList());
+        List<AgentDTO> agents = Optional.ofNullable(jsonFileUtil.readAgents()).orElse(Collections.emptyList());
+
+        for(CustomerDTO customer: customers){
+            if(customer != null && "Rental".equalsIgnoreCase(customer.getPropertyType())
+                    && "No".equalsIgnoreCase(customer.getIsRentalPaid())
+                    && dateFormatterUtil.isBeforeOrToday(customer.getRentalStartDate())){
+                LeaseInfoDTO leaseInfoDTO = new LeaseInfoDTO();
+
+                Optional<PropertyDTO> rentalPropertyOptional =  allRentalProperties
+                        .stream()
+                        .filter(property -> Objects.equals(customer.getPropertyId(), property.getId()) &&
+                                Objects.equals(customer.getAgentId(), property.getAgentId()))
+                        .findFirst();
+
+                Optional<AgentDTO> agentOptional = agents
+                        .stream().filter(agent -> agent != null && Objects.equals(agent.getId(), customer.getAgentId()))
+                        .findFirst();
+
+                //Tenant Info
+                leaseInfoDTO.setTenantId(customer.getId());
+                leaseInfoDTO.setTenantName(customer.getFullName());
+                leaseInfoDTO.setTenantWhatsappNumber(customer.getWhatsappNumber());
+
+                //Property Info
+                rentalPropertyOptional.ifPresent(property -> {
+                    leaseInfoDTO.setPropertyId(property.getId());
+                    leaseInfoDTO.setPropertyName(property.getName());
+                });
+//                agentOptional.ifPresent(agent -> {
+//                    rentalPaymentReminderRequest.setAgentName(agent.getFullName());
+//                    rentalPaymentReminderRequest.setAgentEmail(agent.getEmail());
+//                    rentalPaymentReminderRequest.setAgentMobileNo(agent.getMobileNumber());
+//                });
+
+                //Rental Info
+                leaseInfoDTO.setRentalAmount(customer.getRentalAmount());
+                leaseInfoDTO.setRentalStartDate(dateFormatterUtil.getFormattedDate(customer.getRentalStartDate()));
+
+                pendingRentalsThisMonthList.add(leaseInfoDTO);
+            }
+        }
+        return pendingRentalsThisMonthList;
     }
 }
