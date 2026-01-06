@@ -16,8 +16,10 @@ import jakarta.mail.MessagingException;
 import jakarta.validation.ConstraintViolation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.util.StringUtils;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 @Service
 public class DashboardService {
@@ -79,7 +81,7 @@ public class DashboardService {
         pmsDashboardSummaryDTO.setTotalOwners(ownersInfoMap.getOrDefault("totalOwners",0L));
 
         //Lists
-        pmsDashboardSummaryDTO.setPendingRentalsThisMonth(getPendingRentalsThisMonth());
+        pmsDashboardSummaryDTO.setPendingRentalsThisMonth(getPendingRentalsThisMonth(allRentalProperties,agentId));
         pmsDashboardSummaryDTO.setContractsExpiringThisMonth(contractsExpiringThisMonth);
         pmsDashboardSummaryDTO.setPropertiesRentedThisMonth(propertiesRentedThisMonth);
         pmsDashboardSummaryDTO.setPropertiesSoldThisMonth(propertiesSoldThisMonth);
@@ -93,14 +95,18 @@ public class DashboardService {
         return pmsDashboardSummaryDTO;
     }
 
-    public List<LeaseInfoDTO> getPendingRentalsThisMonth(){
+    public List<LeaseInfoDTO> getPendingRentalsThisMonth(List<PropertyDTO> allRentalProperties, String agentId){
         List<LeaseInfoDTO> pendingRentalsThisMonthList = new ArrayList<>();
 
-        List<PropertyDTO> allRentalProperties = Optional.ofNullable(jsonFileUtil.readPropertiesByType("rent")).orElse(Collections.emptyList());
         List<CustomerDTO> customers = Optional.ofNullable(jsonFileUtil.readCustomers()).orElse(Collections.emptyList());
+        List<CustomerDTO> agentCustomers = customers
+                                                    .stream()
+                                                    .filter(customer -> StringUtils.hasText(customer.getAgentId()) && StringUtils.hasText(agentId)
+                                                                        && customer.getAgentId().equalsIgnoreCase(agentId))
+                                                    .collect(Collectors.toList());
         List<AgentDTO> agents = Optional.ofNullable(jsonFileUtil.readAgents()).orElse(Collections.emptyList());
 
-        for(CustomerDTO customer: customers){
+        for(CustomerDTO customer: agentCustomers){
             if(customer != null && "Rental".equalsIgnoreCase(customer.getPropertyType())
                     && "No".equalsIgnoreCase(customer.getIsRentalPaid())
                     && dateFormatterUtil.isBeforeOrToday(customer.getRentalStartDate())){
