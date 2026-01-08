@@ -27,6 +27,8 @@ public class LeaseInfoDTO {
     private Double rentalAmount;
 
     //Contract Info
-    private String expiryDate;
+    private Integer rentalDurationInMonths;
+    private String contractStartDate;
+    private String contractEndDate;
 }
 

@@ -18,13 +18,25 @@ public class DateFormatterUtil
       return date;
     }
 
-    //This method give true if the date passed as parameter os past or today's date.
+    //This method give true if the date passed as parameter is past or today's date.
     public boolean isBeforeOrToday(String date){
         if(StringUtils.hasText(date)){
-            LocalDate localDate = LocalDate.parse(date, DateTimeFormatter.ofPattern("yyyy-MM-dd"));
-            if(!localDate.isAfter(LocalDate.now())){    // true if before or today.
+            LocalDate givenDate = LocalDate.parse(date, DateTimeFormatter.ofPattern("yyyy-MM-dd"));
+            if(!givenDate.isAfter(LocalDate.now())){    // true if before or today.
                 return true;
             }
+        }
+        return false;
+    }
+
+    //This method give true if the date passed as parameter belongs to current month & year.
+    public boolean isInCurrentMonthYear(String date){
+        if(StringUtils.hasText(date)){
+            LocalDate givenDate = LocalDate.parse(date, DateTimeFormatter.ofPattern("yyyy-MM-dd"));
+            LocalDate now = LocalDate.now();
+
+            return givenDate.getMonth() == now.getMonth()
+                    && givenDate.getYear() == now.getYear();
         }
         return false;
     }

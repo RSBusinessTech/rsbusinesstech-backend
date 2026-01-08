@@ -56,7 +56,6 @@ public class DashboardService {
         List<PropertyDTO> soldOutProperties = (List<PropertyDTO>) salesPropertiesInfo.getOrDefault("occupiedProperties", Collections.emptyList());
         List<PropertyDTO> toBeSoldProperties = (List<PropertyDTO>) salesPropertiesInfo.getOrDefault("vacantProperties", Collections.emptyList());
 
-        List<LeaseInfoDTO> contractsExpiringThisMonth = new ArrayList<>();
         List<LeaseInfoDTO> propertiesRentedThisMonth = new ArrayList<>();
         List<LeaseInfoDTO> propertiesSoldThisMonth = new ArrayList<>();
 
@@ -82,7 +81,7 @@ public class DashboardService {
 
         //Lists
         pmsDashboardSummaryDTO.setPendingRentalsThisMonth(getPendingRentalsThisMonth(allRentalProperties,agentId));
-        pmsDashboardSummaryDTO.setContractsExpiringThisMonth(contractsExpiringThisMonth);
+        pmsDashboardSummaryDTO.setContractsExpiringThisMonth(getContractsExpiringThisMonth(allRentalProperties,agentId));
         pmsDashboardSummaryDTO.setPropertiesRentedThisMonth(propertiesRentedThisMonth);
         pmsDashboardSummaryDTO.setPropertiesSoldThisMonth(propertiesSoldThisMonth);
 
@@ -100,27 +99,28 @@ public class DashboardService {
 
         List<CustomerDTO> customers = Optional.ofNullable(jsonFileUtil.readCustomers()).orElse(Collections.emptyList());
         List<CustomerDTO> agentCustomers = customers
-                                                    .stream()
-                                                    .filter(customer -> StringUtils.hasText(customer.getAgentId()) && StringUtils.hasText(agentId)
-                                                                        && customer.getAgentId().equalsIgnoreCase(agentId))
-                                                    .collect(Collectors.toList());
+                                           .stream()
+                                           .filter(customer -> StringUtils.hasText(customer.getAgentId()) && StringUtils.hasText(agentId) &&
+                                                                                   customer.getAgentId().equalsIgnoreCase(agentId))
+                                           .collect(Collectors.toList());
         List<AgentDTO> agents = Optional.ofNullable(jsonFileUtil.readAgents()).orElse(Collections.emptyList());
 
         for(CustomerDTO customer: agentCustomers){
             if(customer != null && "Rental".equalsIgnoreCase(customer.getPropertyType())
-                    && "No".equalsIgnoreCase(customer.getIsRentalPaid())
-                    && dateFormatterUtil.isBeforeOrToday(customer.getRentalStartDate())){
+                && "No".equalsIgnoreCase(customer.getIsRentalPaid())
+                && dateFormatterUtil.isBeforeOrToday(customer.getRentalStartDate())){
                 LeaseInfoDTO leaseInfoDTO = new LeaseInfoDTO();
 
                 Optional<PropertyDTO> rentalPropertyOptional =  allRentalProperties
-                        .stream()
-                        .filter(property -> Objects.equals(customer.getPropertyId(), property.getId()) &&
-                                Objects.equals(customer.getAgentId(), property.getAgentId()))
-                        .findFirst();
+                                                                .stream()
+                                                                .filter(property -> Objects.equals(customer.getPropertyId(), property.getId()) &&
+                                                                                    Objects.equals(customer.getAgentId(), property.getAgentId()))
+                                                                .findFirst();
 
-                Optional<AgentDTO> agentOptional = agents
-                        .stream().filter(agent -> agent != null && Objects.equals(agent.getId(), customer.getAgentId()))
-                        .findFirst();
+//                Optional<AgentDTO> agentOptional = agents
+//                                                   .stream()
+//                                                   .filter(agent -> agent != null && Objects.equals(agent.getId(), customer.getAgentId()))
+//                                                   .findFirst();
 
                 //Tenant Info
                 leaseInfoDTO.setTenantId(customer.getId());
@@ -146,5 +146,59 @@ public class DashboardService {
             }
         }
         return pendingRentalsThisMonthList;
+    }
+
+    public List<LeaseInfoDTO> getContractsExpiringThisMonth(List<PropertyDTO> allRentalProperties, String agentId){
+        List<LeaseInfoDTO> contractsExpiringThisMonth = new ArrayList<>();
+
+        List<CustomerDTO> customers = Optional.ofNullable(jsonFileUtil.readCustomers()).orElse(Collections.emptyList());
+        List<CustomerDTO> agentCustomers = customers
+                                          .stream()
+                                          .filter(customer -> StringUtils.hasText(customer.getAgentId()) && StringUtils.hasText(agentId) &&
+                                                                                  customer.getAgentId().equalsIgnoreCase(agentId))
+                                          .collect(Collectors.toList());
+        List<AgentDTO> agents = Optional.ofNullable(jsonFileUtil.readAgents()).orElse(Collections.emptyList());
+
+        for(CustomerDTO customer: agentCustomers){
+            if(customer != null && "Rental".equalsIgnoreCase(customer.getPropertyType())
+                && dateFormatterUtil.isInCurrentMonthYear(customer.getContractEndDate())){
+                LeaseInfoDTO leaseInfoDTO = new LeaseInfoDTO();
+
+                Optional<PropertyDTO> rentalPropertyOptional =  allRentalProperties
+                                                                .stream()
+                                                                .filter(property -> Objects.equals(customer.getPropertyId(), property.getId()) &&
+                                                                                    Objects.equals(customer.getAgentId(), property.getAgentId()))
+                                                                .findFirst();
+
+//                Optional<AgentDTO> agentOptional = agents
+//                                                   .stream()
+//                                                   .filter(agent -> agent != null && Objects.equals(agent.getId(), customer.getAgentId()))
+//                                                   .findFirst();
+
+                //Tenant Info
+                leaseInfoDTO.setTenantId(customer.getId());
+                leaseInfoDTO.setTenantName(customer.getFullName());
+                leaseInfoDTO.setTenantWhatsappNumber(customer.getWhatsappNumber());
+
+                //Property Info
+                rentalPropertyOptional.ifPresent(property -> {
+                    leaseInfoDTO.setPropertyId(property.getId());
+                    leaseInfoDTO.setPropertyName(property.getName());
+                });
+//                agentOptional.ifPresent(agent -> {
+//                    rentalPaymentReminderRequest.setAgentName(agent.getFullName());
+//                    rentalPaymentReminderRequest.setAgentEmail(agent.getEmail());
+//                    rentalPaymentReminderRequest.setAgentMobileNo(agent.getMobileNumber());
+//                });
+
+                //Contract Info
+                leaseInfoDTO.setRentalDurationInMonths(customer.getRentalDurationInMonths());
+                leaseInfoDTO.setContractStartDate(dateFormatterUtil.getFormattedDate(customer.getContractStartDate()));
+                leaseInfoDTO.setContractEndDate(dateFormatterUtil.getFormattedDate(customer.getContractEndDate()));
+
+                contractsExpiringThisMonth.add(leaseInfoDTO);
+            }
+        }
+        return contractsExpiringThisMonth;
     }
 }
