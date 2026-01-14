@@ -47,6 +47,8 @@ public class DashboardService {
         Map<String,Long> ownersInfoMap = ownerService.getOwnersInfo(agentId);
         Map<String,Object> rentalPropertiesInfo = propertyService.getPropertiesInfoByType("rent", agentId);
         Map<String,Object> salesPropertiesInfo = propertyService.getPropertiesInfoByType("buy", agentId);
+        long totalCommercialProperties = propertyService.getPropertiesCountByType("commercial", agentId);
+        long totalNewProjects = propertyService.getPropertiesCountByType("newprojects", agentId);
 
         List<PropertyDTO> allRentalProperties = (List<PropertyDTO>) rentalPropertiesInfo.getOrDefault("totalProperties", Collections.emptyList());
         List<PropertyDTO> rentedOutProperties = (List<PropertyDTO>) rentalPropertiesInfo.getOrDefault("occupiedProperties", Collections.emptyList());
@@ -62,17 +64,25 @@ public class DashboardService {
         //Property Info
         pmsDashboardSummaryDTO.setTotalProperties(propertyService.getAllPropertiesCount(agentId));
 
+
+        //Rental Properties
         pmsDashboardSummaryDTO.setTotalRentalProperties(allRentalProperties.size());
         pmsDashboardSummaryDTO.setTotalRentedOutProperties(rentedOutProperties.size()); //rented out properties
         pmsDashboardSummaryDTO.setTotalToBeRentedProperties(toBeRentedProperties.size()); //to be rented properties
 
+        //Sale Properties
         pmsDashboardSummaryDTO.setTotalSaleProperties(allSalesProperties.size());
         pmsDashboardSummaryDTO.setTotalSoldOutProperties(soldOutProperties.size());  //sold out properties
         pmsDashboardSummaryDTO.setTotalToBeSoldProperties(toBeSoldProperties.size());  //to be sold properties
 
-        pmsDashboardSummaryDTO.setTotalCommercialProperties(propertyService.getPropertiesCountByType("commercial", agentId));
+        //Commercial Properties
+        pmsDashboardSummaryDTO.setTotalCommercialProperties(totalCommercialProperties);
+
+        //MM2H Properties
         pmsDashboardSummaryDTO.setTotalMm2hProperties(pmsDashboardSummaryDTO.getTotalSaleProperties());
-        pmsDashboardSummaryDTO.setTotalNewProjects(propertyService.getPropertiesCountByType("newprojects", agentId));
+
+        //New Projects
+        pmsDashboardSummaryDTO.setTotalNewProjects(totalNewProjects);
 
         //Property Customer Info
         pmsDashboardSummaryDTO.setTotalTenants(customersInfoMap.getOrDefault("totalTenants",0L));
@@ -85,10 +95,12 @@ public class DashboardService {
         pmsDashboardSummaryDTO.setPropertiesRentedThisMonth(propertiesRentedThisMonth);
         pmsDashboardSummaryDTO.setPropertiesSoldThisMonth(propertiesSoldThisMonth);
 
-        propertyStatusChartDTO.setOccupied(12);
-        propertyStatusChartDTO.setVacant(20);
-        propertyStatusChartDTO.setUnderMaintenance(2);
-        propertyStatusChartDTO.setReserved(5);
+        //Property Status Chart.
+        propertyStatusChartDTO.setTotalRentalProperties(allRentalProperties.size());
+        propertyStatusChartDTO.setTotalSaleProperties(allSalesProperties.size());
+        propertyStatusChartDTO.setTotalCommercialProperties(totalCommercialProperties);
+        propertyStatusChartDTO.setTotalMm2hProperties(allSalesProperties.size());
+        propertyStatusChartDTO.setTotalNewProjects(totalNewProjects);
         pmsDashboardSummaryDTO.setPropertyStatusChart(propertyStatusChartDTO);
 
         return pmsDashboardSummaryDTO;

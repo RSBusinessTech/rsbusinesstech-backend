@@ -10,9 +10,10 @@ import lombok.*;
 @NoArgsConstructor
 @AllArgsConstructor
  public  class PropertyStatusChartDTO {
-  private int occupied;
-  private int vacant;
-  private int underMaintenance;
-  private int reserved; // Booked but not yet occupied.
+  private long totalRentalProperties;
+  private long totalSaleProperties;
+  private long totalCommercialProperties;
+  private long totalMm2hProperties;
+  private long totalNewProjects;
 }
 
