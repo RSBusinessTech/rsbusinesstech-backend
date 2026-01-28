@@ -65,7 +65,7 @@ public class JsonUploadScheduler {
 
     //Schedule: This cron job will be executed every night at 11:00PM MYT(Malaysian time).
     //Purpose: To send rental payment reminder emails to tenants who have not paid the rentals of current month.
-    @Scheduled (cron = "0 00  23 * * *", zone = "Asia/Kuala_Lumpur")
+    //@Scheduled (cron = "0 00  23 * * *", zone = "Asia/Kuala_Lumpur")
     public void sendRentalPaymentReminderEmails() throws IOException {
         sendRentalPaymentReminderEmail();
     }
