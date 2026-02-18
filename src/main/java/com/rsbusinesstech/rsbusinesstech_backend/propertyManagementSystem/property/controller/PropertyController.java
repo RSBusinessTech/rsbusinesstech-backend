@@ -104,5 +104,4 @@ public class PropertyController {
         }
         return ResponseEntity.ok("Property Deleted Successfully");
     }
-
 }

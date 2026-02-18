@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "username": "vyenpropertyadvisor",
+    "password": "$2a$10$hX9TxvmuudU0M0pgjEC3DOIeL2SXcBDyyHr9dt1OEEKV.EkUQl/ue",
+    "roles": [
+      {
+        "name": "ADMIN",
+        "permissions": [
+          "USER_READ",
+          "USER_CREATE",
+          "USER_UPDATE",
+          "USER_DELETE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "rsbusinesstech",
+    "password": "$2a$10$3oN.JBiGY/caepLbH9iLkeDEg5NHVzE7H0IN3lns8OrKF8LKZ1Gry",
+    "roles": [
+      {
+        "name": "ADMIN",
+        "permissions": [
+          "USER_READ",
+          "USER_CREATE",
+          "USER_UPDATE",
+          "USER_DELETE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "rsbusinesstechclient",
+    "password": "$2a$10$NIzeZvC.takhR8GP7Y3Fz.swJk7MnQPCTAH.vOEkYu/PzK/XkuuUe",
+    "roles": [
+      {
+        "name": "AGENT",
+        "permissions": [
+          "USER_READ",
+          "USER_CREATE",
+          "USER_UPDATE"
+        ]
+      }
+    ]
+  }
+]

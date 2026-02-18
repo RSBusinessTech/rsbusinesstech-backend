@@ -65,7 +65,7 @@ public class JsonUploadScheduler {
 
     //Schedule: This cron job will be executed every night at 11:00PM MYT(Malaysian time).
     //Purpose: To send rental payment reminder emails to tenants who have not paid the rentals of current month.
-    //@Scheduled (cron = "0 00  23 * * *", zone = "Asia/Kuala_Lumpur")
+    @Scheduled (cron = "0 00  23 * * *", zone = "Asia/Kuala_Lumpur")
     public void sendRentalPaymentReminderEmails() throws IOException {
         sendRentalPaymentReminderEmail();
     }
@@ -82,7 +82,7 @@ public class JsonUploadScheduler {
 
         int success = 0;
         int failed = 0;
-        List<String> files = Arrays.asList("buy","commercial","mm2h","newprojects","rent","customer","owner","agent");
+        List<String> files = Arrays.asList("buy","commercial","mm2h","newprojects","rent","customer","owner","agent","user");
 
         for(String file: files){
             Map<String, String> responseMap = new HashMap<>();

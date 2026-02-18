@@ -40,6 +40,5 @@ public class AgentDTO {
     private String updatedAt;
     private String createdBy;
     private String updatedBy;
-
 }
 
