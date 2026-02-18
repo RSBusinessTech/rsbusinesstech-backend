@@ -69,9 +69,10 @@ public class Configurer
               .authorizeHttpRequests(auth -> auth                                                              //Authorization rules.
                                              .requestMatchers(HttpMethod.OPTIONS,"/**").permitAll()   //permit all URLs for OPTIONS requests..
                                              .requestMatchers("/jwt/public/**").permitAll()                  //permit all "/public/**" requests.
+                                             .requestMatchers("/property/getPropertyByType").permitAll()                  //permit all "/public/**" requests.
                                              .requestMatchers("/property/secure/**").authenticated()              //authenticate all "/secure/**" requests.
-//                                           .anyRequest().permitAll()
-                                             .anyRequest().authenticated()//permit all other requests.
+                                             //.anyRequest().permitAll() //permit all other requests.
+                                             .anyRequest().authenticated()
                                      )
                /*
                      👉 STATELESS SESSION MANAGEMENT:
