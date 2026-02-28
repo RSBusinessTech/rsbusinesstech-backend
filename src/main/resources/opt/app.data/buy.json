@@ -251,4 +251,27 @@
   "updatedAt" : "",
   "createdBy" : "vyenpropertyadvisor",
   "updatedBy" : ""
+}, {
+  "id" : 12,
+  "agentId" : "vyenpropertyadvisor",
+  "customerId" : null,
+  "name" : "Apartment Arena Shamelin",
+  "price" : 320000.0,
+  "address" : " Address: Jalan 3/91a, Taman Shamelin Perkasa, Cheras, 55300, Kuala Lumpur",
+  "bedrooms" : 3,
+  "bathrooms" : 2,
+  "carParks" : 1,
+  "furnishing" : "Partly Furnished",
+  "sizeSqft" : 1000.0,
+  "imageUrls" : [ "https://res.cloudinary.com/divjzb0t3/image/upload/v1772162160/Vyen_Property_Advisor/ptbyoxj8ozdvdgbpgdr4.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1772162161/Vyen_Property_Advisor/bqakrwdnlzrhm9x1fha9.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1772162161/Vyen_Property_Advisor/vqzxmf5ihvx45lvozib2.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1772162162/Vyen_Property_Advisor/k8fm6217hpslrdd2nwme.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1772162163/Vyen_Property_Advisor/omojwson5ks4ctauk7pv.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1772162164/Vyen_Property_Advisor/otkcktxlj5apm9fx9l2j.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1772162165/Vyen_Property_Advisor/dbj6tnosqvfamqf6vm3m.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1772162165/Vyen_Property_Advisor/ouysmy1mfyjus1z0riff.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1772162166/Vyen_Property_Advisor/o6uhpvzimitq5zal7sbe.jpg" ],
+  "imagePublicIds" : [ "Vyen_Property_Advisor/ptbyoxj8ozdvdgbpgdr4", "Vyen_Property_Advisor/bqakrwdnlzrhm9x1fha9", "Vyen_Property_Advisor/vqzxmf5ihvx45lvozib2", "Vyen_Property_Advisor/k8fm6217hpslrdd2nwme", "Vyen_Property_Advisor/omojwson5ks4ctauk7pv", "Vyen_Property_Advisor/otkcktxlj5apm9fx9l2j", "Vyen_Property_Advisor/dbj6tnosqvfamqf6vm3m", "Vyen_Property_Advisor/ouysmy1mfyjus1z0riff", "Vyen_Property_Advisor/o6uhpvzimitq5zal7sbe" ],
+  "amenities" : [ "Balcony", "Kitchen", "24-hour security" ],
+  "commonFacilities" : [ "Gym", "Outdoor swimming pool", "24-hour security" ],
+  "location" : "",
+  "videoURL" : "",
+  "isActive" : "YES",
+  "createdAt" : "2026-02-27 11:16:07 AM",
+  "updatedAt" : "",
+  "createdBy" : "vyenpropertyadvisor",
+  "updatedBy" : ""
 } ]
