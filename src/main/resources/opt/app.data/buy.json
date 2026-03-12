@@ -412,4 +412,27 @@
   "updatedAt" : "",
   "createdBy" : "vyenpropertyadvisor",
   "updatedBy" : ""
+}, {
+  "id" : 20,
+  "agentId" : "vyenpropertyadvisor",
+  "customerId" : null,
+  "name" : "Scarletz Suites",
+  "price" : 990000.0,
+  "address" : "Jalan Yap Kwan Seng, KLCC, KL City Centre, Kuala Lumpur",
+  "bedrooms" : 2,
+  "bathrooms" : 2,
+  "carParks" : 0,
+  "furnishing" : "Fully Furnished",
+  "sizeSqft" : 575.0,
+  "imageUrls" : [ ],
+  "imagePublicIds" : [ ],
+  "amenities" : [ "Private bathroom", "Fridge" ],
+  "commonFacilities" : [ "Gym", "Outdoor swimming pool" ],
+  "location" : "",
+  "videoURL" : "",
+  "isActive" : "YES",
+  "createdAt" : "2026-03-12 12:05:26 AM",
+  "updatedAt" : "",
+  "createdBy" : "vyenpropertyadvisor",
+  "updatedBy" : ""
 } ]
