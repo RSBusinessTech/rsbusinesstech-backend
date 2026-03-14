@@ -120,7 +120,7 @@
   "name" : "Lavile Residence",
   "price" : 500000.0,
   "address" : "Kuala Lumpur",
-  "bedrooms" : 4,
+  "bedrooms" : 3,
   "bathrooms" : 2,
   "carParks" : 2,
   "furnishing" : "Fully Furnished",
