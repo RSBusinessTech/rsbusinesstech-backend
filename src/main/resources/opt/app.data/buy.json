@@ -424,15 +424,15 @@
   "carParks" : 0,
   "furnishing" : "Fully Furnished",
   "sizeSqft" : 575.0,
-  "imageUrls" : [ "https://res.cloudinary.com/divjzb0t3/image/upload/v1773376307/Vyen_Property_Advisor/glogebkw94vfyste6aaz.webp", "https://res.cloudinary.com/divjzb0t3/image/upload/v1773376308/Vyen_Property_Advisor/kusrp71iwuutbnaoz6nn.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1773376309/Vyen_Property_Advisor/nneemgiqc2ncb41src2y.jpg" ],
-  "imagePublicIds" : [ "Vyen_Property_Advisor/glogebkw94vfyste6aaz", "Vyen_Property_Advisor/kusrp71iwuutbnaoz6nn", "Vyen_Property_Advisor/nneemgiqc2ncb41src2y" ],
+  "imageUrls" : [ "https://res.cloudinary.com/divjzb0t3/image/upload/v1773503566/Vyen_Property_Advisor/rhlbfndlpbjl0trqltyb.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1773503567/Vyen_Property_Advisor/otrg2ytkllpamizn6h9f.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1773503567/Vyen_Property_Advisor/olbks0sbum8urmxg5arz.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1773503568/Vyen_Property_Advisor/jn8cfutgelrbpg8alt8l.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1773503569/Vyen_Property_Advisor/tcrpbehcmbujjxpaikv3.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1773503570/Vyen_Property_Advisor/ht8gawdexwxotcyquj2s.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1773503571/Vyen_Property_Advisor/th8hvdyw4ao3skydiefh.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1773503571/Vyen_Property_Advisor/prbmhsbqgytnerhdwfkf.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1773503572/Vyen_Property_Advisor/tf4ursp2oslds3kt0vc4.jpg" ],
+  "imagePublicIds" : [ "Vyen_Property_Advisor/rhlbfndlpbjl0trqltyb", "Vyen_Property_Advisor/otrg2ytkllpamizn6h9f", "Vyen_Property_Advisor/olbks0sbum8urmxg5arz", "Vyen_Property_Advisor/jn8cfutgelrbpg8alt8l", "Vyen_Property_Advisor/tcrpbehcmbujjxpaikv3", "Vyen_Property_Advisor/ht8gawdexwxotcyquj2s", "Vyen_Property_Advisor/th8hvdyw4ao3skydiefh", "Vyen_Property_Advisor/prbmhsbqgytnerhdwfkf", "Vyen_Property_Advisor/tf4ursp2oslds3kt0vc4" ],
   "amenities" : [ "Private bathroom", "Fridge" ],
   "commonFacilities" : [ "Gym", "Outdoor swimming pool" ],
   "location" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3786.629147002995!2d101.7106680749712!3d3.162713096812633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sScarletz%20suites%20klcc!5e1!3m2!1sen!2smy!4v1773372860472!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
   "videoURL" : "",
   "isActive" : "YES",
   "createdAt" : "2026-03-12 12:05:26 AM",
-  "updatedAt" : "2026-03-13 12:31:50 PM",
+  "updatedAt" : "2026-03-14 11:52:53 PM",
   "createdBy" : "vyenpropertyadvisor",
   "updatedBy" : "vyenpropertyadvisor"
 }, {
