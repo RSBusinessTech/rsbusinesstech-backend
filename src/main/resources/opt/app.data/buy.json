@@ -458,4 +458,27 @@
   "updatedAt" : "2026-03-13 11:54:09 AM",
   "createdBy" : "vyenpropertyadvisor",
   "updatedBy" : "vyenpropertyadvisor"
+}, {
+  "id" : 22,
+  "agentId" : "vyenpropertyadvisor",
+  "customerId" : null,
+  "name" : " K Residence @ KLCC",
+  "price" : 2700000.0,
+  "address" : "K Residence Jalan Mayang Off Jalan Ampang, KLCC, KL City Centre, Kuala Lumpur",
+  "bedrooms" : 4,
+  "bathrooms" : 5,
+  "carParks" : 1,
+  "furnishing" : "Partly Furnished",
+  "sizeSqft" : 2420.0,
+  "imageUrls" : [ "https://res.cloudinary.com/divjzb0t3/image/upload/v1774358636/Vyen_Property_Advisor/at4p9dl1enqkiftjnnng.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774358637/Vyen_Property_Advisor/c1qtd9jd9dldit8wxdiw.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774358638/Vyen_Property_Advisor/p8x10ijkjholij7508pq.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774358639/Vyen_Property_Advisor/c8r5r33ysm8xhctny0dx.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774358640/Vyen_Property_Advisor/r98s5malxfjmngvzb021.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774358641/Vyen_Property_Advisor/qjfcrf0bex25nap7vvjp.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774358641/Vyen_Property_Advisor/pxnalof89en1yb5volm3.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774358642/Vyen_Property_Advisor/htnvq7rhszgrwf2q3lac.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774358648/Vyen_Property_Advisor/dxlpmeebkbtruvjcajjx.jpg" ],
+  "imagePublicIds" : [ "Vyen_Property_Advisor/at4p9dl1enqkiftjnnng", "Vyen_Property_Advisor/c1qtd9jd9dldit8wxdiw", "Vyen_Property_Advisor/p8x10ijkjholij7508pq", "Vyen_Property_Advisor/c8r5r33ysm8xhctny0dx", "Vyen_Property_Advisor/r98s5malxfjmngvzb021", "Vyen_Property_Advisor/qjfcrf0bex25nap7vvjp", "Vyen_Property_Advisor/pxnalof89en1yb5volm3", "Vyen_Property_Advisor/htnvq7rhszgrwf2q3lac", "Vyen_Property_Advisor/dxlpmeebkbtruvjcajjx" ],
+  "amenities" : [ "Private bathroom", "Air conditioning", "Kitchen", "Washing machine", "Dining table", "Sofa", "24-hour security" ],
+  "commonFacilities" : [ "Gym", "Outdoor swimming pool" ],
+  "location" : "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d30293.90812979927!2d101.7479168!3d3.1326208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x31cc37cf5480dd95%3A0x1f471db2cddad550!2sK%20Residence%2C%20156%2C%20Jln%20Ampang%2C%20Kampung%20Baru%2C%2050450%20Kuala%20Lumpur%2C%20Federal%20Territory%20of%20Kuala%20Lumpur!3m2!1d3.1596442!2d101.71310679999999!5e1!3m2!1sen!2smy!4v1774358573028!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
+  "videoURL" : "",
+  "isActive" : "YES",
+  "createdAt" : "2026-03-24 09:24:15 PM",
+  "updatedAt" : "",
+  "createdBy" : "vyenpropertyadvisor",
+  "updatedBy" : ""
 } ]
