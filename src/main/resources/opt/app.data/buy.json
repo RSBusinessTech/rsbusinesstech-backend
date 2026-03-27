@@ -481,4 +481,27 @@
   "updatedAt" : "",
   "createdBy" : "vyenpropertyadvisor",
   "updatedBy" : ""
+}, {
+  "id" : 23,
+  "agentId" : "vyenpropertyadvisor",
+  "customerId" : null,
+  "name" : "The Mark @ Cheras",
+  "price" : 520000.0,
+  "address" : "Jalan Cemara 1 Jalan Cheras Hartamas, Ampang, Selangor",
+  "bedrooms" : 2,
+  "bathrooms" : 2,
+  "carParks" : 2,
+  "furnishing" : "Fully Furnished",
+  "sizeSqft" : 833.0,
+  "imageUrls" : [ "https://res.cloudinary.com/divjzb0t3/image/upload/v1774537960/Vyen_Property_Advisor/iqob4mnmzyiyrdbrimrp.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774537961/Vyen_Property_Advisor/fzmfpz4azwkxzrime16b.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774537962/Vyen_Property_Advisor/gijhembwpuiromr7vntf.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774537963/Vyen_Property_Advisor/ypetcblk1toffpbqm7ru.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774537965/Vyen_Property_Advisor/dvyeev9y7ncum4r0m9oy.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774537966/Vyen_Property_Advisor/j559f1mzpptiqhzlrogd.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774537967/Vyen_Property_Advisor/jxx9xrdsklifeojbddhj.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774537968/Vyen_Property_Advisor/ud7f3abfrv9pf8b8ch8l.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1774537969/Vyen_Property_Advisor/egod2da2nzvannsikmer.jpg" ],
+  "imagePublicIds" : [ "Vyen_Property_Advisor/iqob4mnmzyiyrdbrimrp", "Vyen_Property_Advisor/fzmfpz4azwkxzrime16b", "Vyen_Property_Advisor/gijhembwpuiromr7vntf", "Vyen_Property_Advisor/ypetcblk1toffpbqm7ru", "Vyen_Property_Advisor/dvyeev9y7ncum4r0m9oy", "Vyen_Property_Advisor/j559f1mzpptiqhzlrogd", "Vyen_Property_Advisor/jxx9xrdsklifeojbddhj", "Vyen_Property_Advisor/ud7f3abfrv9pf8b8ch8l", "Vyen_Property_Advisor/egod2da2nzvannsikmer" ],
+  "amenities" : [ "Private bathroom", "Fridge", "Air conditioning", "Kitchen", "Washing machine", "Dining table", "Sofa", "24-hour security" ],
+  "commonFacilities" : [ "Gym", "Outdoor swimming pool", "24-hour security" ],
+  "location" : "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d30293.90812979927!2d101.74695285!3d3.1326208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x31cc3434d7cb7a11%3A0x6141f21170ab696b!2sThe%20Mark%20%40%20Cheras%2C%20Jalan%20Cheras%20Hartamas%2C%20Taman%20Bukit%20Segar%2C%2043200%20Cheras%2C%20Selangor!3m2!1d3.0942572!2d101.75324719999999!5e1!3m2!1sen!2smy!4v1774537903308!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
+  "videoURL" : "",
+  "isActive" : "YES",
+  "createdAt" : "2026-03-26 11:12:50 PM",
+  "updatedAt" : "",
+  "createdBy" : "vyenpropertyadvisor",
+  "updatedBy" : ""
 } ]
