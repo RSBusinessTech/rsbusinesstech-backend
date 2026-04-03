@@ -550,4 +550,27 @@
   "updatedAt" : "",
   "createdBy" : "vyenpropertyadvisor",
   "updatedBy" : ""
+}, {
+  "id" : 26,
+  "agentId" : "vyenpropertyadvisor",
+  "customerId" : null,
+  "name" : "M Vertica",
+  "price" : 760000.0,
+  "address" : "",
+  "bedrooms" : 4,
+  "bathrooms" : 2,
+  "carParks" : 2,
+  "furnishing" : "Fully Furnished",
+  "sizeSqft" : 1000.0,
+  "imageUrls" : [ "https://res.cloudinary.com/divjzb0t3/image/upload/v1775189997/Vyen_Property_Advisor/iwbiaov1m20nw9umuas1.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1775189998/Vyen_Property_Advisor/uthsehjzfuh4chql6834.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1775189999/Vyen_Property_Advisor/oi9ylxczx736l9whsqjx.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1775189999/Vyen_Property_Advisor/oessophwhnuxwn1lqxct.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1775190000/Vyen_Property_Advisor/nmfw8wpnsjnmhul103tv.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1775190001/Vyen_Property_Advisor/kdz7rhkhvgxlgxrkwhpl.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1775190002/Vyen_Property_Advisor/tbybey59an5hmcirpgal.jpg" ],
+  "imagePublicIds" : [ "Vyen_Property_Advisor/iwbiaov1m20nw9umuas1", "Vyen_Property_Advisor/uthsehjzfuh4chql6834", "Vyen_Property_Advisor/oi9ylxczx736l9whsqjx", "Vyen_Property_Advisor/oessophwhnuxwn1lqxct", "Vyen_Property_Advisor/nmfw8wpnsjnmhul103tv", "Vyen_Property_Advisor/kdz7rhkhvgxlgxrkwhpl", "Vyen_Property_Advisor/tbybey59an5hmcirpgal" ],
+  "amenities" : [ "Flat screen TV", "Fridge", "Air conditioning", "Kitchen", "Washing machine", "Dining table", "Sofa", "24-hour security" ],
+  "commonFacilities" : [ "Gym", "Outdoor swimming pool" ],
+  "location" : "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d30293.71829123626!2d101.75022965!3d3.1391744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x31cc37dcf8fed0af%3A0xe4dcaaff1147458b!2sM%20Vertica%20KL%20City%20Residences%2C%20Residensi%20M%20Vertica%2C%20555%2C%20Jln%20Cheras%2C%20Taman%20Pertama%2C%2056000%20Kuala%20Lumpur%2C%20Federal%20Territory%20of%20Kuala%20Lumpur!3m2!1d3.1185411!2d101.7272555!5e1!3m2!1sen!2smy!4v1775189951646!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
+  "videoURL" : "",
+  "isActive" : "YES",
+  "createdAt" : "2026-04-03 12:20:02 PM",
+  "updatedAt" : "",
+  "createdBy" : "vyenpropertyadvisor",
+  "updatedBy" : ""
 } ]
