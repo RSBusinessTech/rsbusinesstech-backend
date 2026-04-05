@@ -37,7 +37,7 @@ public class EmailService
                  "Message:\n" + emailRequest.getMessage());
         message.setFrom("rsbusinesstech@gmail.com");                                                                  //setting "from".
 
-//        mailSender.send(message);
+        //mailSender.send(message);
         rsBusinessTechMailSender.send(message);
     }
 
@@ -50,9 +50,26 @@ public class EmailService
         message.setText(
                 "You have a new message from your website:\n\n" +
                         "Message:\n" + emailRequest.getMessage());
-        message.setFrom("lashmap.beautystudio@gmail.com");
+        //message.setFrom("lashmap.beautystudio@gmail.com");
+        message.setFrom("rsbusinesstech@gmail.com");
 
-        lashMapBeautyStudioMailSender.send(message);
+        //lashMapBeautyStudioMailSender.send(message);
+        rsBusinessTechMailSender.send(message);
+    }
+
+    //method to send email to Vyen Property Advisor from "Contact" section.
+    public void sendEmailVyenPropertyAdvisor(EmailRequest emailRequest){
+        SimpleMailMessage message = new SimpleMailMessage();
+
+        message.setTo("wuiyuan338@gmail.com");                                                                        //setting "to".
+        message.setSubject("Enquiry from Customer || "+emailRequest.getName() +" || "+emailRequest.getEmail());       //setting "subject".
+        message.setText(
+                "You have a new message from your website:\n\n" +                                                     //setting "body".
+                        "Message:\n" + emailRequest.getMessage());
+        message.setFrom("rsbusinesstech@gmail.com");                                                                  //setting "from".
+
+        //mailSender.send(message);
+        rsBusinessTechMailSender.send(message);
     }
 
     //method to send email to Tenant as a Payment Reminder from Property Management System (PMS).

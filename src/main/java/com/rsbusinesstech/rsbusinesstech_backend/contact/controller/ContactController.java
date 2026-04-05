@@ -50,6 +50,18 @@ public class ContactController
         return ResponseEntity.ok("Email sent successfully...");
     }
 
+    @PostMapping("/sendEmailVyenPropertyAdvisor")
+    public ResponseEntity<String> sendEmailVyenPropertyAdvisor(@RequestBody EmailRequest emailRequest){
+        try{
+            if(emailRequest != null){
+                emailService.sendEmailVyenPropertyAdvisor(emailRequest);
+            }
+        }catch (Exception e){
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to send email");
+        }
+        return ResponseEntity.ok("Email sent successfully...");
+    }
+
     @PostMapping("/sendEmailToTenant")
     public ResponseEntity<String> sendEmailToTenant(@Valid @RequestBody RentalPaymentReminderRequest rentalPaymentReminderRequest){
         try{
