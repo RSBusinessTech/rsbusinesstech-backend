@@ -27,87 +27,32 @@ public class EmailService
     }
 
     //method to send email to RS BusinessTech from "Contact" section.
-//    public void sendEmail(EmailRequest emailRequest){
-////        SimpleMailMessage message = new SimpleMailMessage();
-////
-////        message.setTo("rsbusinesstech@gmail.com");                                                                     //setting "to".
-////        message.setSubject("Enquiry from Customer || "+emailRequest.getName() +" || "+emailRequest.getEmail());       //setting "subject".
-////        message.setText(
-////                "You have a new message from your website:\n\n" +                                                     //setting "body".
-////                 "Message:\n" + emailRequest.getMessage());
-////        message.setFrom("rsbusinesstech@gmail.com");                                                                  //setting "from".
-////
-//////        mailSender.send(message);
-////        rsBusinessTechMailSender.send(message);
-//    }
+    public void sendEmail(EmailRequest emailRequest){
+        SimpleMailMessage message = new SimpleMailMessage();
 
-    public void sendEmail(EmailRequest emailRequest) throws MessagingException {
+        message.setTo("rsbusinesstech@gmail.com");                                                                     //setting "to".
+        message.setSubject("Enquiry from Customer || "+emailRequest.getName() +" || "+emailRequest.getEmail());       //setting "subject".
+        message.setText(
+                "You have a new message from your website:\n\n" +                                                     //setting "body".
+                 "Message:\n" + emailRequest.getMessage());
+        message.setFrom("rsbusinesstech@gmail.com");                                                                  //setting "from".
 
-        MimeMessage mimeMessage =
-                rsBusinessTechMailSender.createMimeMessage();
-
-        MimeMessageHelper helper =
-                new MimeMessageHelper(mimeMessage, false, "UTF-8");
-
-        helper.setTo("rsbusinesstech@gmail.com");
-        helper.setSubject(
-                "Enquiry from Customer || "
-                        + emailRequest.getName()
-                        + " || "
-                        + emailRequest.getEmail()
-        );
-
-        helper.setText(
-                "You have a new message from your website:\n\n"
-                        + "Message:\n"
-                        + emailRequest.getMessage()
-        );
-
-        helper.setFrom("rsbusinesstech@gmail.com");
-
-        rsBusinessTechMailSender.send(mimeMessage);
+//        mailSender.send(message);
+        rsBusinessTechMailSender.send(message);
     }
 
     //method to send email to LashMapBeautyStudio from "Contact" section.
-//    public void sendEmailLashMapBeautyStudio(EmailRequest emailRequest){
-//        SimpleMailMessage message = new SimpleMailMessage();
-//
-//        message.setTo("lashmap.beautystudio@gmail.com");
-//        message.setSubject("Enquiry from Customer || "+emailRequest.getName() +" || "+emailRequest.getEmail());
-//        message.setText(
-//                "You have a new message from your website:\n\n" +
-//                        "Message:\n" + emailRequest.getMessage());
-//        message.setFrom("lashmap.beautystudio@gmail.com");
-//
-//        lashMapBeautyStudioMailSender.send(message);
-//    }
-    public void sendEmailLashMapBeautyStudio(EmailRequest emailRequest)
-            throws MessagingException {
+    public void sendEmailLashMapBeautyStudio(EmailRequest emailRequest){
+        SimpleMailMessage message = new SimpleMailMessage();
 
-        MimeMessage mimeMessage =
-                lashMapBeautyStudioMailSender.createMimeMessage();
+        message.setTo("lashmap.beautystudio@gmail.com");
+        message.setSubject("Enquiry from Customer || "+emailRequest.getName() +" || "+emailRequest.getEmail());
+        message.setText(
+                "You have a new message from your website:\n\n" +
+                        "Message:\n" + emailRequest.getMessage());
+        message.setFrom("lashmap.beautystudio@gmail.com");
 
-        MimeMessageHelper helper =
-                new MimeMessageHelper(mimeMessage, false, "UTF-8");
-
-        helper.setTo("lashmap.beautystudio@gmail.com");
-
-        helper.setSubject(
-                "Enquiry from Customer || "
-                        + emailRequest.getName()
-                        + " || "
-                        + emailRequest.getEmail()
-        );
-
-        helper.setText(
-                "You have a new message from your website:\n\n"
-                        + "Message:\n"
-                        + emailRequest.getMessage()
-        );
-
-        helper.setFrom("lashmap.beautystudio@gmail.com");
-
-        lashMapBeautyStudioMailSender.send(mimeMessage);
+        lashMapBeautyStudioMailSender.send(message);
     }
 
     //method to send email to Tenant as a Payment Reminder from Property Management System (PMS).
@@ -178,7 +123,7 @@ public class EmailService
                 "                <!-- Footer -->\n" +
                 "                <tr>\n" +
                 "                    <td style=\"background:#000; padding: 15px; text-align:center; font-size: 12px; color: white;\">\n" +
-                "                        © 2025 RS BusinessTech · All Rights Reserved<br/>\n" +
+                "                        © 2026 RS BusinessTech · All Rights Reserved<br/>\n" +
                 "                        <a href=\"https://www.rsbusinesstech.com\" style=\"color: white; text-decoration: none;\">\uD83C\uDF10 www.rsbusinesstech.com</a>\n" +
                 "                    </td>\n" +
                 "                </tr>\n" +

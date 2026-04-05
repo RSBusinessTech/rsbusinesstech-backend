@@ -67,12 +67,20 @@ public class Configurer
               .csrf(csrf -> csrf.disable())                                                                    //Disable CSRF(Cross-Site Request Forgery)
               .cors(cors -> cors.configurationSource(corsConfigurationSource()))                               //Enable CORS-configuration rules (customized)
               .authorizeHttpRequests(auth -> auth                                                              //Authorization rules.
+                                             // Permit all URLs for OPTIONS requests.
                                              .requestMatchers(HttpMethod.OPTIONS,"/**").permitAll()   //permit all URLs for OPTIONS requests..
+
+                                              // PUBLIC APIs
                                              .requestMatchers("/jwt/public/**").permitAll()                  //permit all "/public/**" requests.
                                              .requestMatchers("/property/getPropertyByType").permitAll()                  //permit all "/public/**" requests.
+                                             .requestMatchers("/contact/**").permitAll()
+
+                                              // SECURED APIs
                                              .requestMatchers("/property/secure/**").authenticated()              //authenticate all "/secure/**" requests.
-                                             //.anyRequest().permitAll() //permit all other requests.
+
+                                              // everything else is protected,
                                              .anyRequest().authenticated()
+                                             //.anyRequest().permitAll() //permit all other requests.
                                      )
                /*
                      👉 STATELESS SESSION MANAGEMENT:
