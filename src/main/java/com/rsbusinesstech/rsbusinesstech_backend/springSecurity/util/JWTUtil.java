@@ -94,7 +94,7 @@ public class JWTUtil
              .setSubject(userDetails.getUsername())                                     //sub => claim that represents the username so that can recognize this token belongs to which user.
              .setIssuedAt(new Date(System.currentTimeMillis()))                         //iat => claim related to issuing time.
              //.setExpiration(new Date (System.currentTimeMillis() + 1000 * 60 * 60 * 4)) //exp => claim related to expiry time => 4 hours.
-              .setExpiration(new Date (System.currentTimeMillis() + 1000 * 60 * 15))    //exp => claim related to expiry time => 4 hours.
+              .setExpiration(new Date (System.currentTimeMillis() + 1000 * 60 * 60))    //exp => claim related to expiry time => 1 hours.
              .signWith(getSigningKey(),SignatureAlgorithm.HS256)                        //lock the above claims with secret-key and algo.
              .compact();                                                                //converts above stuff into a string i.e final token (hhh.ppp.ssss).
    }
