@@ -15,6 +15,7 @@ public class WebConfig {
                 registry.addMapping("/**")
                         .allowedOrigins("http://localhost:4200",                                                 //allowed Origins.
                                         "https://www.rsbusinesstech.com",      "https://rsbusinesstech.com" ,    //because both are different origins in browser's eye.
+                                        "https://www.rssupermart.com",         "https://rssupermart.com" ,
                                         "https://www.lashmapbeautystudio.com", "https://lashmapbeautystudio.com",
                                         "https://www.vyenpropertyadvisor.com", "https://vyenpropertyadvisor.com",
                                         "https://rsbusinesstech.netlify.app")                                     //for HttpOnly cookie, used in JWT authentication.

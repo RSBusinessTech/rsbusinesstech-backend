@@ -28,20 +28,20 @@ public class JWTUtil
     private String SECRET_KEY;
 
     /*
-      * This method is used to generate a secret-key.
-    */
-   public static String generateSecretKey(){
-       Key key = Keys.secretKeyFor(SignatureAlgorithm.HS256);        //it will generate a random 256-bit secret-key.
-       return Base64.getEncoder().encodeToString(key.getEncoded());  //Base64 encoded, 256-bit secret-key.
-   }
+     * This method is used to generate a secret-key.
+     */
+    public static String generateSecretKey(){
+        Key key = Keys.secretKeyFor(SignatureAlgorithm.HS256);        //it will generate a random 256-bit secret-key.
+        return Base64.getEncoder().encodeToString(key.getEncoded());  //Base64 encoded, 256-bit secret-key.
+    }
 
-   /*
-      * This method convert back the secret-key back into Key object in order to lock/unlock the JWTs.
-   */
-   private Key getSigningKey(){
-      byte[] keyBytes = Base64.getDecoder().decode(SECRET_KEY);   //Base64 Decoding of secret-key.
-      return Keys.hmacShaKeyFor(keyBytes);
-   }
+    /*
+     * This method convert back the secret-key back into Key object in order to lock/unlock the JWTs.
+     */
+    private Key getSigningKey(){
+        byte[] keyBytes = Base64.getDecoder().decode(SECRET_KEY);   //Base64 Decoding of secret-key.
+        return Keys.hmacShaKeyFor(keyBytes);
+    }
 
     /*
     {
@@ -52,66 +52,66 @@ public class JWTUtil
         "permissions": ["READ", "UPDATE", "CREATE", "DELETE"]
     }
     */
-   //This method is used to generate the token.
-   public String generateToken(UserDetails userDetails) {
-      //fetching "User"
-      UserDetailsImpl userDetailsImpl = (UserDetailsImpl) userDetails;
-      User user = userDetailsImpl.getUser();
+    //This method is used to generate the token.
+    public String generateToken(UserDetails userDetails) {
+        //fetching "User"
+        UserDetailsImpl userDetailsImpl = (UserDetailsImpl) userDetails;
+        User user = userDetailsImpl.getUser();
 
-      //extract roles
-      Set<String> roles = user.getRoles()
-              .stream()
-              .map(role -> role.getName())
-              .collect(Collectors.toSet());
+        //extract roles
+        Set<String> roles = user.getRoles()
+                .stream()
+                .map(role -> role.getName())
+                .collect(Collectors.toSet());
 
-      //extract permissions
-       Set<String> permissions = user.getRoles()
-               .stream()
-               .flatMap(role -> role.getPermissions().stream())
-               /* flatmap: flatten(combines) multiple streams into single stream
-                           eg. From
-                               [
-                                 ["USER_READ", "USER_CREATE"],
-                                 ["USER_READ", "USER_UPDATE"]
-                               ]
-                               To
-                               ["USER_READ", "USER_CREATE", "USER_READ", "USER_UPDATE"]
-               */
-               .collect(Collectors.toSet());
+        //extract permissions
+        Set<String> permissions = user.getRoles()
+                .stream()
+                .flatMap(role -> role.getPermissions().stream())
+                /* flatmap: flatten(combines) multiple streams into single stream
+                            eg. From
+                                [
+                                  ["USER_READ", "USER_CREATE"],
+                                  ["USER_READ", "USER_UPDATE"]
+                                ]
+                                To
+                                ["USER_READ", "USER_CREATE", "USER_READ", "USER_UPDATE"]
+                */
+                .collect(Collectors.toSet());
 
      /*
         * Claims are the pieces of extra info inside the tokens like notes.
         * we can store any kind of info inside these claims.
           eg. roles,permissions,email etc.
      */
-      Map<String, Object> claimsMap = new HashMap<>();
-       claimsMap.put("roles", roles);
-       claimsMap.put("permissions", permissions);                                       //The permissions that user actually can do.
+        Map<String, Object> claimsMap = new HashMap<>();
+        claimsMap.put("roles", roles);
+        claimsMap.put("permissions", permissions);                                       //The permissions that user actually can do.
 
-      return Jwts
-             .builder()
-             .setClaims(claimsMap)
-             .setSubject(userDetails.getUsername())                                     //sub => claim that represents the username so that can recognize this token belongs to which user.
-             .setIssuedAt(new Date(System.currentTimeMillis()))                         //iat => claim related to issuing time.
-             //.setExpiration(new Date (System.currentTimeMillis() + 1000 * 60 * 60 * 4)) //exp => claim related to expiry time => 4 hours.
-              .setExpiration(new Date (System.currentTimeMillis() + 1000 * 60 * 60))    //exp => claim related to expiry time => 1 hours.
-             .signWith(getSigningKey(),SignatureAlgorithm.HS256)                        //lock the above claims with secret-key and algo.
-             .compact();                                                                //converts above stuff into a string i.e final token (hhh.ppp.ssss).
-   }
+        return Jwts
+                .builder()
+                .setClaims(claimsMap)
+                .setSubject(userDetails.getUsername())                                     //sub => claim that represents the username so that can recognize this token belongs to which user.
+                .setIssuedAt(new Date(System.currentTimeMillis()))                         //iat => claim related to issuing time.
+                //.setExpiration(new Date (System.currentTimeMillis() + 1000 * 60 * 60 * 4)) //exp => claim related to expiry time => 4 hours.
+                .setExpiration(new Date (System.currentTimeMillis() + 1000 * 60 * 60))    //exp => claim related to expiry time => 1 hours.
+                .signWith(getSigningKey(),SignatureAlgorithm.HS256)                        //lock the above claims with secret-key and algo.
+                .compact();                                                                //converts above stuff into a string i.e final token (hhh.ppp.ssss).
+    }
 
-   /*
-      * This method will extract all the claims from token.
-   */
-   public Claims extractClaims(String token){
-       //parse the token.
-       Claims claims = Jwts
-                         .parserBuilder()
-                         .setSigningKey(getSigningKey())       //getting signing-key in order to decode the token.
-                         .build()
-                         .parseClaimsJws(token)                //fetching claims from token using signing-key.
-                         .getBody();
-       return claims;
-   }
+    /*
+     * This method will extract all the claims from token.
+     */
+    public Claims extractClaims(String token){
+        //parse the token.
+        Claims claims = Jwts
+                .parserBuilder()
+                .setSigningKey(getSigningKey())       //getting signing-key in order to decode the token.
+                .build()
+                .parseClaimsJws(token)                //fetching claims from token using signing-key.
+                .getBody();
+        return claims;
+    }
 
     /*
        This method will extract username("sub" claim) from token.
@@ -143,9 +143,9 @@ public class JWTUtil
             String username = extractUsername(token);
             //validating username.
             if(username.equalsIgnoreCase(userDetails.getUsername())){
-              return true;
+                return true;
             }
         }
-       return false;
+        return false;
     }
 }

@@ -130,6 +130,7 @@ public class Configurer
         CorsConfiguration corsConfiguration = new CorsConfiguration();
         corsConfiguration.setAllowedOrigins(List.of("http://localhost:4200",    //mapping the allowed Origins.
                                                     "https://www.rsbusinesstech.com",      "https://rsbusinesstech.com" ,    //because both are different origins in browser's eye.
+                                                    "https://www.rssupermart.com",         "https://rssupermart.com" ,
                                                     "https://www.lashmapbeautystudio.com", "https://lashmapbeautystudio.com",
                                                     "https://www.vyenpropertyadvisor.com", "https://vyenpropertyadvisor.com"
                                                     )
