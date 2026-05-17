@@ -148,6 +148,13 @@ public class BookingEmailService
           isp = (String) response.get("isp");
 //          latitude = (Double) response.get("lat");
 //          longitude = (Double) response.get("lon");
+
+          if (city != null && region != null && city.equalsIgnoreCase(region)) {
+              location = city + ", " + country;
+           } else {
+              location = city + ", " + region + ", " + country;
+          }
+
           location = city + ", " +region +", "+ country;
 
           // 3. Build email.
