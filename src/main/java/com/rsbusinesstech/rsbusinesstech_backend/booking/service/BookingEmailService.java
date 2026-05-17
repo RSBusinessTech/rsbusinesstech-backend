@@ -162,7 +162,7 @@ public class BookingEmailService
            message.setTo(ownerEmail);
            message.setSubject("Book Appointment Clicked");
            message.setText(
-                    "A customer tried to book an appointment from your website\n\n" +
+                    "A customer tried to book an appointment from your website.\n\n" +
                        "Location: " + location + "\n" +
                        "IP: " + ipAddress + "\n" +
                        "ISP: " + isp
