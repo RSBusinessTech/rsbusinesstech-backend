@@ -2,6 +2,7 @@ package com.rsbusinesstech.rsbusinesstech_backend.booking.controller;
 
 import com.rsbusinesstech.rsbusinesstech_backend.booking.model.BookingRequest;
 import com.rsbusinesstech.rsbusinesstech_backend.booking.service.BookingEmailService;
+import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -29,7 +30,7 @@ public class BookingController
        }catch (Exception e){
           ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to send email...");
        }
-        return ResponseEntity.ok("Email sent successfully...");
+        return ResponseEntity.ok("email sent SUCCESSFULLY...");
     }
 
     @PostMapping("/sendBookingEmailLashMapBeautyStudio")
@@ -41,6 +42,13 @@ public class BookingController
         }catch (Exception e){
             ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to send email");
         }
-        return ResponseEntity.ok("Email sent successfully...");
+        return ResponseEntity.ok("email sent SUCCESSFULLY...");
+    }
+
+    @GetMapping("/trackBooking/{ownerEmail}")
+    public ResponseEntity<String> trackBooking(HttpServletRequest request, @PathVariable String ownerEmail){
+        bookingEmailService.trackBookingClick(request, ownerEmail);
+
+        return ResponseEntity.ok("Booking Tracked SUCCESSFULLY");
     }
 }

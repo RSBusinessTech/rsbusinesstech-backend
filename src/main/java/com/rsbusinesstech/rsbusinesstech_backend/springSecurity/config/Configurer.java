@@ -72,8 +72,9 @@ public class Configurer
 
                                               // PUBLIC APIs
                                              .requestMatchers("/jwt/public/**").permitAll()                  //permit all "/public/**" requests.
-                                             .requestMatchers("/property/getPropertyByType").permitAll()                  //permit all "/public/**" requests.
-                                             .requestMatchers("/contact/**").permitAll()
+                                             .requestMatchers("/property/getPropertyByType").permitAll()     //permit all "property/getPropertyByType" requests.
+                                             .requestMatchers("/contact/**").permitAll()                     //permit all "/contact/**" requests.
+                                             .requestMatchers("/booking/**").permitAll()                     //permit all "/booking/**" requests.
 
                                               // SECURED APIs
                                              .requestMatchers("/property/secure/**").authenticated()              //authenticate all "/secure/**" requests.

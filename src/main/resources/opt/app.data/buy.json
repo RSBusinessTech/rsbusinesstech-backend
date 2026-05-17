@@ -688,4 +688,27 @@
   "updatedAt" : "",
   "createdBy" : "vyenpropertyadvisor",
   "updatedBy" : ""
+}, {
+  "id" : 32,
+  "agentId" : "vyenpropertyadvisor",
+  "customerId" : null,
+  "name" : "10 Stonor",
+  "price" : 1800000.0,
+  "address" : "10 Stonor Persiaran Stonor, KLCC, KL City Centre, Kuala Lumpur",
+  "bedrooms" : 3,
+  "bathrooms" : 2,
+  "carParks" : 1,
+  "furnishing" : "Fully Furnished",
+  "sizeSqft" : 801.0,
+  "imageUrls" : [ "https://res.cloudinary.com/divjzb0t3/image/upload/v1777212809/Vyen_Property_Advisor/aovhz2muysqo3fytxpfy.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1777212810/Vyen_Property_Advisor/jul4oueyzclqgpidxrvr.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1777212811/Vyen_Property_Advisor/df5fo8r8euhhx0fpjhx3.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1777212812/Vyen_Property_Advisor/vphh8nmhbjwxlnalcgnz.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1777212812/Vyen_Property_Advisor/cq52pbathaczyozdcxva.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1777212813/Vyen_Property_Advisor/vqkcbsbk8unre06zzjjc.jpg", "https://res.cloudinary.com/divjzb0t3/image/upload/v1777212814/Vyen_Property_Advisor/iqkfvdrxx5rrz2a2k1s4.jpg" ],
+  "imagePublicIds" : [ "Vyen_Property_Advisor/aovhz2muysqo3fytxpfy", "Vyen_Property_Advisor/jul4oueyzclqgpidxrvr", "Vyen_Property_Advisor/df5fo8r8euhhx0fpjhx3", "Vyen_Property_Advisor/vphh8nmhbjwxlnalcgnz", "Vyen_Property_Advisor/cq52pbathaczyozdcxva", "Vyen_Property_Advisor/vqkcbsbk8unre06zzjjc", "Vyen_Property_Advisor/iqkfvdrxx5rrz2a2k1s4" ],
+  "amenities" : [ "Private bathroom", "Flat screen TV", "Fridge", "Air conditioning", "Kitchen", "Washing machine", "Dining table", "Microwave oven", "Sofa", "24-hour security" ],
+  "commonFacilities" : [ "Gym", "Outdoor swimming pool", "24-hour security" ],
+  "location" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3786.663016031676!2d101.71842097473034!3d3.1534248968219623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc37cd033e84bf%3A0x16d3b820522c29d9!2s10%20Stonor!5e1!3m2!1sen!2smy!4v1777194551336!5m2!1sen!2smy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
+  "videoURL" : "",
+  "isActive" : "YES",
+  "createdAt" : "2026-04-26 05:10:10 PM",
+  "updatedAt" : "2026-04-26 10:13:34 PM",
+  "createdBy" : "vyenpropertyadvisor",
+  "updatedBy" : "vyenpropertyadvisor"
 } ]

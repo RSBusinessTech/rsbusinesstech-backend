@@ -3,11 +3,14 @@ package com.rsbusinesstech.rsbusinesstech_backend.booking.service;
 import ch.qos.logback.core.util.StringUtil;
 import com.rsbusinesstech.rsbusinesstech_backend.booking.model.BookingRequest;
 import com.rsbusinesstech.rsbusinesstech_backend.contact.model.EmailRequest;
+import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.mail.MailException;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.stereotype.Service;
+import org.springframework.util.StringUtils;
+import org.springframework.web.client.RestTemplate;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -105,6 +108,63 @@ public class BookingEmailService
             } catch (MailException e) {
             }
         }
+    }
 
+    public void trackBookingClick(HttpServletRequest request, String ownerEmail){
+        SimpleMailMessage message = new SimpleMailMessage();
+        RestTemplate restTemplate = new RestTemplate();
+
+        Map response = null;
+        String city = null;
+        String region = null;
+        String country = null;
+        String isp = null;
+//        Double latitude = null;
+//        Double longitude = null;
+        String location = null;
+
+        try{
+          // 1. Get IP Address.
+          String ipAddress = request.getHeader("X-Forwarded-For");
+
+          if(ipAddress == null || ipAddress.isEmpty()){
+              ipAddress = request.getRemoteAddr();
+          }
+
+         /*
+             123.45.67.89, 10.0.0.1, 72.16.0.5 → real user IP, proxy server, another proxy layer
+         */
+          if(ipAddress.contains(",")){
+             ipAddress = ipAddress.split(",")[0].trim();
+          }
+
+          // 2. Call free API.
+          String apiUrl =  "http://ip-api.com/json/" + ipAddress;
+          response = restTemplate.getForObject(apiUrl, Map.class);
+
+          city = (String) response.get("city");
+          region = (String) response.get("regionName");
+          country = (String) response.get("country");
+          isp = (String) response.get("isp");
+//          latitude = (Double) response.get("lat");
+//          longitude = (Double) response.get("lon");
+          location = city + ", " +region +", "+ country;
+
+          // 3. Build email.
+           message.setFrom("rsbusinesstech@gmail.com");
+           message.setTo(ownerEmail);
+           message.setSubject("Book Appointment Clicked");
+           message.setText(
+                    "A user tried to book an appointment from your website\n\n" +
+                       "Location: " + location + "\n" +
+                       "IP: " + ipAddress + "\n" +
+                       "ISP: " + isp
+            );
+
+          // 4.Send email.
+           rsBusinessTechMailSender.send(message);
+      }catch (Exception e){
+        e.printStackTrace();
+      }
     }
 }
