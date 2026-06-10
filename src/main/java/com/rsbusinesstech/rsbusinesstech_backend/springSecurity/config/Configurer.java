@@ -75,6 +75,7 @@ public class Configurer
                                              .requestMatchers("/property/getPropertyByType").permitAll()     //permit all "property/getPropertyByType" requests.
                                              .requestMatchers("/contact/**").permitAll()                     //permit all "/contact/**" requests.
                                              .requestMatchers("/booking/**").permitAll()                     //permit all "/booking/**" requests.
+                                             .requestMatchers("/roomrentalkl/areas/**").permitAll()                     //permit all "/booking/**" requests.
 
                                               // SECURED APIs
                                              .requestMatchers("/property/secure/**").authenticated()              //authenticate all "/secure/**" requests.

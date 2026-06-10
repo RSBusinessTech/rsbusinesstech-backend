@@ -7,6 +7,7 @@ import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.agent.
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.customer.dto.CustomerDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.owner.dto.OwnerDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.dto.PropertyDTO;
+import com.rsbusinesstech.rsbusinesstech_backend.roomrentalkl.areas.dto.AreasResponseDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.springSecurity.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
@@ -206,6 +207,26 @@ public class JsonFileUtil {
             } else {
                 // Fallback: read from classpath resource.
                 ClassPathResource resource = new ClassPathResource(LOCAL_BASE_PATH + "user.json");
+                return objectMapper.readValue(resource.getInputStream(), typeReference);
+            }
+        } catch (IOException e) {
+            throw new RuntimeException("Error reading JSON: " + externalFilePath, e);
+        }
+    }
+
+    // Read JSON file.
+    public AreasResponseDTO getAreaByName(String areaName) {
+        String externalFilePath = EXTERNAL_BASE_PATH + areaName.toLowerCase() + ".json";
+        File externalFile = new File(externalFilePath);
+
+        TypeReference<AreasResponseDTO> typeReference = new TypeReference<>() {};
+        try {
+            if (externalFile.exists()) {
+                // Read from external file if it exists.
+                return objectMapper.readValue(externalFile, typeReference);
+            } else {
+                // Fallback: read from classpath resource.
+                ClassPathResource resource = new ClassPathResource(LOCAL_BASE_PATH + areaName.toLowerCase() + ".json");
                 return objectMapper.readValue(resource.getInputStream(), typeReference);
             }
         } catch (IOException e) {
