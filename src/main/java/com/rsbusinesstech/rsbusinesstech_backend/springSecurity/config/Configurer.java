@@ -134,7 +134,9 @@ public class Configurer
                                                     "https://www.rsbusinesstech.com",      "https://rsbusinesstech.com" ,    //because both are different origins in browser's eye.
                                                     "https://www.rssupermart.com",         "https://rssupermart.com" ,
                                                     "https://www.lashmapbeautystudio.com", "https://lashmapbeautystudio.com",
-                                                    "https://www.vyenpropertyadvisor.com", "https://vyenpropertyadvisor.com"
+                                                    "https://www.vyenpropertyadvisor.com", "https://vyenpropertyadvisor.com",
+                                                    "https://www.roomrentalkl.com",        "https://roomrentalkl.com",
+                                                     "https://roomrentalkl.netlify.app"
                                                     )
                                             );
         corsConfiguration.setAllowedMethods(List.of("GET","POST","PUT","DELETE","OPTIONS"));  //mapping the allowed methods.  [OPTIONS - Browser sends preflight requests to server to verify CORS before sending actual request.]

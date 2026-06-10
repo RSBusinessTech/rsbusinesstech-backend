@@ -8,7 +8,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-@CrossOrigin(origins = {"http://localhost:4200", "https://rsbusinesstech.com","https://roomrentalkl.com"})
+@CrossOrigin(origins = {"http://localhost:4200", "https://rsbusinesstech.com","https://roomrentalkl.com", "https://roomrentalkl.netlify.app"})
 @RequestMapping("/roomrentalkl/areas")
 @RestController
 public class AreasController {
