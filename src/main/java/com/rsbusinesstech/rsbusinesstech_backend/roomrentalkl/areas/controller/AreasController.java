@@ -20,14 +20,12 @@ public class AreasController {
     public ResponseEntity<AreasResponseDTO> getArea(@PathVariable String areaName){
         AreasResponseDTO areasResponseDTO = null;
         try{
-            System.out.println("==== getArea() started for "+ areaName + " ====" );
             if(!StringUtils.isEmpty(areaName)){
                 areasResponseDTO = areasService.getAreaByName(areaName);
             }
         } catch (Exception e){
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(areasResponseDTO);
         }
-        System.out.println("==== getArea() ended successfully" );
         return ResponseEntity.ok(areasResponseDTO);
     }
 }

@@ -288,12 +288,107 @@
   ],
 
   "areaGuide": {
-    "introduction": "KLCC is one of Kuala Lumpur's most desirable residential and commercial districts, attracting professionals, expatriates and students.",
-    "transportation": "KLCC MRT, Ampang Park MRT, LRT stations and major highways provide excellent connectivity.",
-    "shopping": "Residents enjoy easy access to Suria KLCC, Avenue K and Pavilion Kuala Lumpur.",
-    "food": "The area offers local food courts, cafes, international restaurants and premium dining experiences.",
-    "students": "Students prefer KLCC because of direct public transport connections to universities and colleges.",
-    "professionals": "Working professionals choose KLCC due to proximity to offices, embassies and multinational companies."
+    "title": "Living in KLCC – Complete Guide to Room Rental in Kuala Lumpur City Centre",
+
+    "description": "KLCC (Kuala Lumpur City Centre) is one of the most sought-after locations for room rental in Malaysia. The area attracts expatriates, professionals, entrepreneurs, medical staff, university students and remote workers seeking premium city-centre living. Whether you are searching for a master room for rent in KLCC, a single room near KLCC MRT, a fully furnished room close to Petronas Twin Towers, a studio room in Kuala Lumpur City Centre or a budget-friendly shared room, KLCC offers a wide range of accommodation options. Residents enjoy excellent public transportation, modern residential developments, world-class shopping malls, international dining, corporate offices and vibrant lifestyle amenities, making KLCC one of the best places to rent a room in Kuala Lumpur.",
+
+    "buttonText": "Explore KLCC Rental Guide",
+
+    "buttonLink": "/room-rental-klcc",
+
+    "highlights": [
+      "Large selection of master rooms, medium rooms, single rooms, studio rooms and shared rooms for rent in KLCC",
+      "Walking distance to Petronas Twin Towers, Suria KLCC, KLCC Park and Kuala Lumpur Convention Centre",
+      "Excellent connectivity via KLCC MRT Station, Ampang Park MRT Station and Dang Wangi LRT Station",
+      "Popular among expatriates, working professionals, corporate executives and students",
+      "Close to major business districts including TRX, Bukit Bintang and Kuala Lumpur City Centre",
+      "Wide range of fully furnished, semi-furnished and budget-friendly room rental options",
+      "Premium condominiums with security, swimming pools, gyms and lifestyle facilities",
+      "One of Kuala Lumpur's most established and desirable residential neighbourhoods"
+    ],
+
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Transportation & MRT Connectivity",
+        "description": "KLCC provides excellent connectivity through KLCC MRT Station, Ampang Park MRT Station, Dang Wangi LRT Station and multiple RapidKL bus routes. Residents enjoy convenient access to Bukit Bintang, TRX, KL Sentral, Mid Valley, Bangsar, Mont Kiara and Kuala Lumpur International Airport."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Popular Condominiums & Rental Choices",
+        "description": "KLCC offers accommodation options ranging from master bedrooms and single rooms to studio units and co-living spaces. Popular developments include Binjai Residency, Marc Residence, The Avare, Platinum Suites, Parkview Serviced Apartments, Four Seasons Place and Troika."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Entertainment",
+        "description": "Residents enjoy direct access to Suria KLCC, Avenue K, Pavilion Kuala Lumpur, Fahrenheit88, Starhill Gallery and The Exchange TRX. The area provides premium shopping, entertainment venues, cinemas, wellness centres and lifestyle attractions."
+      },
+      {
+        "icon": "fas fa-utensils",
+        "title": "Food & Dining",
+        "description": "KLCC offers one of the most diverse dining scenes in Kuala Lumpur, featuring local Malaysian food, international cuisine, rooftop restaurants, luxury dining establishments, cafes, coffee shops and food courts."
+      },
+      {
+        "icon": "fas fa-user-tie",
+        "title": "Ideal for Professionals & Expats",
+        "description": "Many residents work in multinational corporations, financial institutions, embassies and major companies located around Kuala Lumpur City Centre. The area remains a preferred choice for expatriates and corporate professionals."
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "title": "Safety & Quality Living",
+        "description": "Most KLCC residential developments feature 24-hour security, access card systems, CCTV monitoring and professional property management, providing a secure and comfortable living environment."
+      }
+    ],
+
+    "popularResidences": [
+      "Binjai Residency",
+      "Marc Residence",
+      "The Avare",
+      "Platinum Suites",
+      "Parkview Serviced Apartments",
+      "Four Seasons Place",
+      "Troika",
+      "Hampshire Residences",
+      "Avenue K Residences",
+      "Soho Suites KLCC"
+    ],
+
+    "nearbyLandmarks": [
+      "Petronas Twin Towers",
+      "Suria KLCC",
+      "KLCC Park",
+      "Avenue K",
+      "Kuala Lumpur Convention Centre",
+      "The Exchange TRX",
+      "Pavilion Kuala Lumpur",
+      "Bukit Bintang",
+      "Starhill Gallery",
+      "Aquaria KLCC"
+    ],
+
+    "nearbyUniversities": [
+      "University of Malaya",
+      "INTI International College",
+      "SEGi College Kuala Lumpur",
+      "Open University Malaysia",
+      "Asia Pacific University City Campus",
+      "Taylor's University City Campus"
+    ],
+
+    "majorEmployers": [
+      "Petronas",
+      "ExxonMobil",
+      "Shell",
+      "HSBC",
+      "Maybank",
+      "CIMB",
+      "Standard Chartered",
+      "PwC",
+      "Deloitte",
+      "KPMG",
+      "EY",
+      "Accenture"
+    ]
   },
 
   "mrtStations": [
