@@ -390,22 +390,224 @@
       "Accenture"
     ]
   },
-
-  "mrtStations": [
+  "transitStations": [
     {
-      "name": "KLCC MRT",
+      "name": "KLCC MRT Station",
       "slug": "klcc-mrt",
-      "distance": "2 mins"
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "2 mins walk",
+      "distanceMeters": 150,
+      "distanceText": "2 mins walk (150 m)",
+      "title": "KLCC MRT Station",
+      "shortDescription": "KLCC MRT Station is the main transit hub in Kuala Lumpur City Centre, directly connecting to TRX, Bukit Bintang, and major business districts. It is surrounded by luxury condos, offices, and shopping malls making it ideal for professionals.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "Petronas Twin Towers",
+        "Suria KLCC",
+        "KLCC Park",
+        "Avenue K"
+      ],
+      "nearbyResidences": [
+        "Binjai Residency",
+        "Marc Residence",
+        "Troika KLCC",
+        "Four Seasons Place"
+      ],
+      "popularSearches": [
+        "Room near KLCC MRT",
+        "KLCC MRT room rent",
+        "Studio near KLCC MRT"
+      ]
     },
+
     {
-      "name": "Ampang Park MRT",
-      "slug": "ampang-park-mrt",
-      "distance": "5 mins"
-    },
-    {
-      "name": "Persiaran KLCC MRT",
+      "name": "Persiaran KLCC MRT Station",
       "slug": "persiaran-klcc-mrt",
-      "distance": "7 mins"
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "8 mins walk",
+      "distanceMeters": 650,
+      "distanceText": "8 mins walk (650 m)",
+      "title": "Persiaran KLCC MRT Station",
+      "shortDescription": "Persiaran KLCC MRT provides easy access to KLCC residential towers and business zones. Popular among tenants working in Kuala Lumpur City Centre.",
+      "averageRoomRent": 1200,
+      "nearbyLandmarks": [
+        "KLCC Park",
+        "Avenue K",
+        "Petronas Twin Towers"
+      ],
+      "nearbyResidences": [
+        "Parkview Serviced Apartment",
+        "Soho Suites KLCC",
+        "Platinum Suites"
+      ],
+      "popularSearches": [
+        "Room near Persiaran KLCC MRT",
+        "KLCC studio room rent"
+      ]
+    },
+
+    {
+      "name": "Ampang Park MRT Station",
+      "slug": "ampang-park-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "5 mins walk",
+      "distanceMeters": 350,
+      "distanceText": "5 mins walk (350 m)",
+      "title": "Ampang Park MRT Station",
+      "shortDescription": "Ampang Park MRT connects Embassy Row and KLCC business district. Highly preferred by expatriates and professionals.",
+      "averageRoomRent": 1250,
+      "nearbyLandmarks": [
+        "Intermark Mall",
+        "Embassy Row",
+        "Gleneagles Hospital"
+      ],
+      "nearbyResidences": [
+        "The Elements",
+        "Binjai 8",
+        "M Suites"
+      ],
+      "popularSearches": [
+        "Room near Ampang Park MRT",
+        "KL embassy room rent"
+      ]
+    },
+
+    {
+      "name": "Conlay MRT Station",
+      "slug": "conlay-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "10 mins walk",
+      "distanceMeters": 800,
+      "distanceText": "10 mins walk (800 m)",
+      "title": "Conlay MRT Station",
+      "shortDescription": "Conlay MRT connects KLCC with Bukit Bintang and TRX financial district. A strategic location for working professionals.",
+      "averageRoomRent": 1150,
+      "nearbyLandmarks": [
+        "Pavilion KL",
+        "TRX Exchange",
+        "KLCC Corridor"
+      ],
+      "nearbyResidences": [
+        "St Mary Residences",
+        "The Ritz Residence",
+        "Sky Suites"
+      ],
+      "popularSearches": [
+        "Room near Conlay MRT",
+        "Bukit Bintang MRT room"
+      ]
+    },
+
+    {
+      "name": "Bukit Bintang Monorail",
+      "slug": "bukit-bintang-monorail",
+      "stationType": "MONORAIL",
+      "line": "KL Monorail Line",
+      "walkingTime": "12 mins walk",
+      "distanceMeters": 1000,
+      "distanceText": "12 mins walk (1 km)",
+      "title": "Bukit Bintang Monorail Station",
+      "shortDescription": "Bukit Bintang Monorail is located in Kuala Lumpur’s main shopping and entertainment district. Highly searched for room rentals due to strong nightlife and retail access.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "Pavilion KL",
+        "Fahrenheit 88",
+        "Jalan Alor"
+      ],
+      "nearbyResidences": [
+        "Bintang Fairlane",
+        "Verdant Hill",
+        "Agile Bukit Bintang"
+      ],
+      "popularSearches": [
+        "Room near Bukit Bintang Monorail",
+        "Bukit Bintang studio room"
+      ]
+    },
+
+    {
+      "name": "Raja Chulan Monorail",
+      "slug": "raja-chulan-monorail",
+      "stationType": "MONORAIL",
+      "line": "KL Monorail Line",
+      "walkingTime": "14 mins walk",
+      "distanceMeters": 1100,
+      "distanceText": "14 mins walk (1.1 km)",
+      "title": "Raja Chulan Monorail Station",
+      "shortDescription": "Raja Chulan Monorail connects KLCC and Bukit Bintang business corridor. Ideal for tenants working in central Kuala Lumpur.",
+      "averageRoomRent": 1350,
+      "nearbyLandmarks": [
+        "KL Tower",
+        "Menara Hap Seng",
+        "Bukit Bintang"
+      ],
+      "nearbyResidences": [
+        "The Ritz Residence",
+        "Dorsett Residences",
+        "Verdant Hill"
+      ],
+      "popularSearches": [
+        "Room near Raja Chulan Monorail",
+        "KL monorail room rent"
+      ]
+    },
+
+    {
+      "name": "Imbi Monorail Station",
+      "slug": "imbi-monorail",
+      "stationType": "MONORAIL",
+      "line": "KL Monorail Line",
+      "walkingTime": "15 mins walk",
+      "distanceMeters": 1200,
+      "distanceText": "15 mins walk (1.2 km)",
+      "title": "Imbi Monorail Station",
+      "shortDescription": "Imbi Monorail is located near major shopping malls like Berjaya Times Square and Bukit Bintang corridor.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "Berjaya Times Square",
+        "Jalan Alor",
+        "Bukit Bintang"
+      ],
+      "nearbyResidences": [
+        "Times Square Residences",
+        "Lavile KL",
+        "Lucentia Residence"
+      ],
+      "popularSearches": [
+        "Room near Imbi Monorail",
+        "Bukit Bintang cheap room"
+      ]
+    },
+
+    {
+      "name": "TRX MRT Station",
+      "slug": "trx-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "12 mins walk",
+      "distanceMeters": 900,
+      "distanceText": "12 mins walk (900 m)",
+      "title": "Tun Razak Exchange MRT Station",
+      "shortDescription": "TRX MRT is Malaysia’s international financial district hub connecting KLCC and Bukit Bintang. High demand rental zone for professionals.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "The Exchange TRX",
+        "Bukit Bintang",
+        "KLCC Corridor"
+      ],
+      "nearbyResidences": [
+        "The Exchange Residence",
+        "St Regis Residences",
+        "TRX City Towers"
+      ],
+      "popularSearches": [
+        "Room near TRX MRT",
+        "TRX KL room rent"
+      ]
     }
   ],
 

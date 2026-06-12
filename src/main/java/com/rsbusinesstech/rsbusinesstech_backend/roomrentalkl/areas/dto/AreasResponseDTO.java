@@ -16,7 +16,7 @@ public class AreasResponseDTO {
     private List<RoomDTO> featuredRooms;
     private List<RoomDTO> latestRooms;
     private AreaGuideDTO areaGuide;
-    private List<MrtStationDTO> mrtStations;
+    private List<TransitStationDTO> transitStations;
     private List<PriceGuideDTO> priceGuide;
     private MarketInsightsDTO marketInsights;
     private List<NearbyAreaDTO> nearbyAreas;
