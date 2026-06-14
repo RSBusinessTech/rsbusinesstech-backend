@@ -643,20 +643,234 @@
 
   "nearbyAreas": [
     {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 0,
+      "popularFor": "Professionals, Expats, Luxury Living",
+      "description": "Kuala Lumpur's prime business district with premium residences, offices, shopping malls and excellent MRT connectivity."
+    },
+    {
       "name": "Bukit Bintang",
       "slug": "bukit-bintang",
-      "averageRent": 1200
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 2,
+      "popularFor": "Professionals, Expats, Tourists",
+      "description": "Luxury lifestyle destination offering premium rooms, shopping malls, nightlife, offices and excellent MRT connectivity."
     },
+
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 1400,
+      "mrtAccess": false,
+      "distanceFromArea": 6,
+      "popularFor": "Expats, Families",
+      "description": "Premium residential neighbourhood popular among expatriates with luxury condos, international schools and fully furnished rooms."
+    },
+
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Young Professionals, Expats",
+      "description": "High-demand rental area known for cafes, restaurants, offices, nightlife and convenient public transport access."
+    },
+
+    {
+      "name": "Cheras",
+      "slug": "cheras",
+      "averageRent": 800,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Students, Budget Renters",
+      "description": "One of the best areas for cheap rooms, affordable rentals, MRT accessibility and convenient daily amenities."
+    },
+
     {
       "name": "Ampang",
       "slug": "ampang",
-      "averageRent": 950
+      "averageRent": 950,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Families, Professionals",
+      "description": "Affordable rental area close to embassies, business districts, shopping centres and Kuala Lumpur city centre."
     },
+
+    {
+      "name": "Bukit Jalil",
+      "slug": "bukit-jalil",
+      "averageRent": 900,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Students, Professionals",
+      "description": "Growing residential hub with affordable rooms, universities, sports facilities and convenient rail connections."
+    },
+
+    {
+      "name": "Setapak",
+      "slug": "setapak",
+      "averageRent": 750,
+      "mrtAccess": true,
+      "distanceFromArea": 9,
+      "popularFor": "Students, Working Adults",
+      "description": "Popular choice for affordable room rentals near universities, shopping centres and LRT stations."
+    },
+
+    {
+      "name": "Kepong",
+      "slug": "kepong",
+      "averageRent": 700,
+      "mrtAccess": true,
+      "distanceFromArea": 13,
+      "popularFor": "Families, Budget Renters",
+      "description": "Affordable residential district offering cheap rooms, good food options and improving MRT connectivity."
+    },
+
     {
       "name": "KL Sentral",
       "slug": "kl-sentral",
-      "averageRent": 1100
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Professionals, Students",
+      "description": "Major transportation hub with easy access to offices, universities, shopping malls and city destinations."
+    },
+
+    {
+      "name": "Damansara",
+      "slug": "damansara",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Professionals, Families",
+      "description": "Well-established neighbourhood with modern residences, offices, lifestyle facilities and MRT accessibility."
+    },
+
+    {
+      "name": "Bandar Utama",
+      "slug": "bandar-utama",
+      "averageRent": 1050,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Families, Professionals",
+      "description": "Popular rental destination near One Utama, offices, educational institutions and public transportation."
+    },
+
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 15,
+      "popularFor": "Students, Professionals",
+      "description": "Large city offering affordable rooms, co-living spaces, offices, universities and excellent connectivity."
+    },
+
+    {
+      "name": "Sunway",
+      "slug": "sunway",
+      "averageRent": 950,
+      "mrtAccess": true,
+      "distanceFromArea": 16,
+      "popularFor": "Students, Young Professionals",
+      "description": "Highly popular student area with universities, shopping malls, hospitals and many furnished room options."
+    },
+
+    {
+      "name": "Subang Jaya",
+      "slug": "subang-jaya",
+      "averageRent": 900,
+      "mrtAccess": true,
+      "distanceFromArea": 18,
+      "popularFor": "Students, Families",
+      "description": "Established residential location with affordable rooms, colleges, commercial centres and train stations."
+    },
+
+    {
+      "name": "USJ",
+      "slug": "usj",
+      "averageRent": 850,
+      "mrtAccess": true,
+      "distanceFromArea": 20,
+      "popularFor": "Families, Working Professionals",
+      "description": "Affordable suburban area offering comfortable rooms, shopping facilities and convenient transport links."
+    },
+
+    {
+      "name": "Brickfields",
+      "slug": "brickfields",
+      "averageRent": 900,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Students, Professionals",
+      "description": "Strategic location near KL Sentral offering affordable rooms, cultural attractions and excellent transport."
+    },
+
+    {
+      "name": "Pudu",
+      "slug": "pudu",
+      "averageRent": 800,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Budget Renters, Workers",
+      "description": "Central Kuala Lumpur neighbourhood with affordable room rentals, markets, food spots and MRT access."
+    },
+
+    {
+      "name": "Chow Kit",
+      "slug": "chow-kit",
+      "averageRent": 750,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Budget Renters, Workers",
+      "description": "City-centre location with low-cost rooms, local amenities and easy access to business districts."
+    },
+
+    {
+      "name": "Seputeh",
+      "slug": "seputeh",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 7,
+      "popularFor": "Families, Professionals",
+      "description": "Peaceful residential area near Mid Valley with quality accommodation and convenient transport connections."
+    },
+
+    {
+      "name": "TTDI",
+      "slug": "ttdi",
+      "averageRent": 1250,
+      "mrtAccess": true,
+      "distanceFromArea": 11,
+      "popularFor": "Expats, Professionals",
+      "description": "Premium neighbourhood famous for cafes, parks, MRT access and comfortable rooms for professionals."
+    },
+
+    {
+      "name": "Cyberjaya",
+      "slug": "cyberjaya",
+      "averageRent": 850,
+      "mrtAccess": false,
+      "distanceFromArea": 28,
+      "popularFor": "Students, IT Professionals",
+      "description": "Technology city with affordable rentals, universities, co-living spaces and modern facilities."
+    },
+
+    {
+      "name": "Putrajaya",
+      "slug": "putrajaya",
+      "averageRent": 900,
+      "mrtAccess": true,
+      "distanceFromArea": 30,
+      "popularFor": "Government Staff, Families",
+      "description": "Well-planned city offering peaceful surroundings, affordable rooms and excellent infrastructure."
     }
+
   ],
 
   "popularSearches": [
