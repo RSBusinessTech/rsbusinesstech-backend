@@ -922,23 +922,158 @@
       "occupation": "Student"
     }
   ],
-
   "faqs": [
     {
-      "question": "How much does a room cost in KLCC?",
-      "answer": "Room rentals in KLCC typically range from RM700 to RM1800 depending on room type, furnishing and location."
+      "question": "How much does a room for rent in KLCC cost?",
+      "answer": "Room rental prices in KLCC generally range from RM700 to RM2000 per month depending on room size, condominium facilities, furnishing level and distance to MRT stations."
+    },
+    {
+      "question": "Where can I find cheap rooms for rent near KLCC?",
+      "answer": "Affordable rooms near KLCC can be found in nearby areas such as Ampang, Pudu, Cheras and Setapak while still offering convenient MRT, LRT and road access to KLCC."
+    },
+    {
+      "question": "Are there fully furnished rooms available in KLCC?",
+      "answer": "Yes. Many KLCC room rentals are fully furnished with beds, wardrobes, air conditioning, WiFi, washing machines, kitchen access and security facilities."
+    },
+    {
+      "question": "What types of rooms are available in KLCC?",
+      "answer": "KLCC offers master rooms, medium rooms, single rooms, shared rooms, studio rooms and private rooms in condominiums, apartments and serviced residences."
+    },
+    {
+      "question": "How much is a master room for rent in KLCC?",
+      "answer": "Master room rentals in KLCC usually range between RM1200 and RM2500 per month depending on the condominium, room size, furnishing and facilities."
+    },
+    {
+      "question": "How much is a medium room for rent in KLCC?",
+      "answer": "Medium room rentals in KLCC generally range from RM900 to RM1600 per month based on location, property facilities and furnishing quality."
+    },
+    {
+      "question": "How much is a single room for rent in KLCC?",
+      "answer": "Single room rental prices in KLCC commonly range from RM700 to RM1300 per month depending on the property, location and included facilities."
+    },
+    {
+      "question": "Are studio rooms available for rent in KLCC?",
+      "answer": "Yes. Studio units and private studio rooms are available in KLCC and provide independent living spaces with private bathrooms, kitchens and modern facilities."
+    },
+    {
+      "question": "Can I find monthly room rental in KLCC?",
+      "answer": "Yes. Most KLCC rooms are offered on monthly rental agreements, with some landlords providing flexible short-term and long-term rental options."
+    },
+    {
+      "question": "Are there rooms near Petronas Twin Towers KLCC?",
+      "answer": "Yes. Many KLCC condominiums offer rooms within walking distance to Petronas Twin Towers, Suria KLCC, offices, restaurants and MRT stations."
+    },
+    {
+      "question": "Is KLCC a good location for working professionals?",
+      "answer": "Yes. KLCC is one of Kuala Lumpur's largest business districts, making it an ideal location for professionals who want easy access to offices and corporate towers."
+    },
+    {
+      "question": "Can I find rooms near KLCC office buildings?",
+      "answer": "Yes. Many rental rooms are located close to major office towers in KLCC, allowing professionals to reduce daily commuting time."
     },
     {
       "question": "Is KLCC suitable for students?",
-      "answer": "Yes. KLCC offers excellent public transport connections and access to universities across Kuala Lumpur."
+      "answer": "Yes. KLCC provides excellent MRT and LRT connectivity, making it convenient for students travelling to universities across Kuala Lumpur."
     },
     {
-      "question": "Which MRT stations serve KLCC?",
-      "answer": "KLCC MRT and Ampang Park MRT are the most commonly used stations in the area."
+      "question": "Is KLCC popular among expatriates?",
+      "answer": "Yes. KLCC is highly preferred by expatriates due to its luxury residences, international community, premium lifestyle and proximity to multinational companies."
     },
     {
-      "question": "Are utilities included in room rental?",
-      "answer": "This depends on the landlord and property. Some rentals include utilities while others charge separately."
+      "question": "Can foreigners rent a room in KLCC?",
+      "answer": "Yes. Many KLCC landlords accept foreign tenants, especially in condominiums and serviced residences popular among expatriates."
+    },
+    {
+      "question": "Are female-only rooms available in KLCC?",
+      "answer": "Yes. Some landlords provide female-only rooms to offer additional privacy, comfort and security for female tenants."
+    },
+    {
+      "question": "Are couple-friendly rooms available in KLCC?",
+      "answer": "Yes. Certain landlords offer rooms suitable for couples, especially master rooms and studio units, subject to their rental policies."
+    },
+    {
+      "question": "Which MRT and LRT stations are near KLCC?",
+      "answer": "KLCC MRT, Ampang Park MRT and nearby LRT stations provide excellent public transport connectivity to major areas of Kuala Lumpur."
+    },
+    {
+      "question": "Can I rent a room near KLCC without owning a car?",
+      "answer": "Yes. KLCC has excellent public transportation, including MRT, LRT, buses and pedestrian-friendly walkways, making car-free living convenient."
+    },
+    {
+      "question": "Are utilities included in KLCC room rentals?",
+      "answer": "Some room rentals include electricity, water, internet and maintenance charges, while others may charge utilities separately depending on the landlord."
+    },
+    {
+      "question": "Do KLCC rooms include WiFi and high-speed internet?",
+      "answer": "Many fully furnished rooms in KLCC include high-speed WiFi, making them suitable for students, professionals and remote workers."
+    },
+    {
+      "question": "Are KLCC rooms suitable for remote workers?",
+      "answer": "Yes. Many KLCC rental properties provide reliable internet, comfortable work spaces and easy access to cafes and coworking environments."
+    },
+    {
+      "question": "Are there rooms with private bathrooms in KLCC?",
+      "answer": "Yes. Master rooms and premium rental rooms in KLCC usually come with attached private bathrooms."
+    },
+    {
+      "question": "Are condominium rooms available for rent in KLCC?",
+      "answer": "Yes. KLCC has many condominium room rentals offering facilities such as swimming pools, gyms, security, parking and recreational areas."
+    },
+    {
+      "question": "What facilities are commonly included in KLCC condominiums?",
+      "answer": "Common facilities include swimming pools, fitness gyms, 24-hour security, CCTV surveillance, parking spaces, gardens and recreational areas."
+    },
+    {
+      "question": "Is parking available with KLCC room rentals?",
+      "answer": "Many condominiums and serviced apartments provide parking facilities, although availability depends on the landlord and rental package."
+    },
+    {
+      "question": "Are there move-in ready rooms in KLCC?",
+      "answer": "Yes. Many KLCC rooms are fully furnished and ready to move in with beds, wardrobes, air conditioning, internet access and household facilities."
+    },
+    {
+      "question": "Are shared rooms available in KLCC?",
+      "answer": "Yes. Shared rooms are available in KLCC and are popular among students and tenants looking for more affordable monthly rental costs."
+    },
+    {
+      "question": "Are short-term room rentals available in KLCC?",
+      "answer": "Some landlords offer short-term rental arrangements, depending on property rules, availability and tenancy agreements."
+    },
+    {
+      "question": "What documents are required to rent a room in KLCC?",
+      "answer": "Tenants typically need identification documents, rental deposits and a signed tenancy agreement before moving into a property."
+    },
+    {
+      "question": "How much deposit is required for KLCC room rental?",
+      "answer": "Most landlords require a security deposit and utility deposit, usually equivalent to one or two months of rental."
+    },
+    {
+      "question": "Are KLCC rooms pet-friendly?",
+      "answer": "Pet policies vary depending on the landlord and condominium management, so tenants should confirm the rules before renting."
+    },
+    {
+      "question": "Which areas near KLCC have cheaper room rentals?",
+      "answer": "Nearby areas such as Ampang, Pudu, Cheras, Setapak and Brickfields often provide more affordable room rental options while maintaining good connectivity to KLCC."
+    },
+    {
+      "question": "How can I find the best room rental deals in KLCC?",
+      "answer": "Comparing multiple listings, checking nearby areas and searching early can help tenants secure affordable, fully furnished and conveniently located rooms."
+    },
+    {
+      "question": "Why is KLCC one of the most popular rental areas in Kuala Lumpur?",
+      "answer": "KLCC offers world-class offices, shopping malls, restaurants, entertainment venues, luxury residences and excellent public transportation."
+    },
+    {
+      "question": "What property types are available for room rental in KLCC?",
+      "answer": "Tenants can find rooms in condominiums, apartments, serviced residences, SOHO units and other residential developments around KLCC."
+    },
+    {
+      "question": "Can I find budget-friendly rooms near KLCC?",
+      "answer": "Yes. Budget-friendly rooms can be found in nearby neighbourhoods with MRT access, allowing tenants to stay close to KLCC while paying lower monthly rent."
+    },
+    {
+      "question": "How do I choose the best room for rent in KLCC?",
+      "answer": "Compare rental price, room type, furnishing, MRT accessibility, building facilities, safety, surrounding amenities and your monthly budget before choosing a room."
     }
   ]
 }
