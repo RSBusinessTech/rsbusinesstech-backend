@@ -8,7 +8,6 @@
     "averageRent": 1300,
     "totalListings": 128
   },
-
   "featuredRooms": [
     {
       "id": 1001,
@@ -19,7 +18,7 @@
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
       ],
-      "thumbnail":  "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
       "roomType": "MASTER",
       "propertyType": "CONDO",
       "price": 1500,
@@ -51,11 +50,14 @@
       "views": 1200,
       "likes": 98,
       "isLiked": false,
-      "tags": ["Near MRT", "City View", "Premium Condo"],
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
       "videoTourUrl": "",
       "floorPlanUrl": ""
     },
-
     {
       "id": 1002,
       "title": "Single Room at Binjai Residency",
@@ -65,7 +67,7 @@
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
       ],
-      "thumbnail":  "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
       "roomType": "SINGLE",
       "propertyType": "CONDO",
       "price": 850,
@@ -97,11 +99,13 @@
       "views": 860,
       "likes": 54,
       "isLiked": false,
-      "tags": ["Budget Friendly", "Clean Unit"],
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
       "videoTourUrl": "",
       "floorPlanUrl": ""
     },
-
     {
       "id": 1003,
       "title": "Medium Room Near Avenue K",
@@ -111,7 +115,7 @@
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
       ],
-      "thumbnail":  "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
       "roomType": "MEDIUM",
       "propertyType": "SERVICE RESIDENCE",
       "price": 1100,
@@ -142,12 +146,14 @@
       "views": 940,
       "likes": 70,
       "isLiked": false,
-      "tags": ["Near Mall", "Convenient Location"],
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
       "videoTourUrl": "",
       "floorPlanUrl": ""
     }
   ],
-
   "latestRooms": [
     {
       "id": 1001,
@@ -158,7 +164,7 @@
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
       ],
-      "thumbnail":  "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
       "roomType": "MASTER",
       "propertyType": "CONDO",
       "price": 1500,
@@ -190,11 +196,14 @@
       "views": 1200,
       "likes": 98,
       "isLiked": false,
-      "tags": ["Near MRT", "City View", "Premium Condo"],
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
       "videoTourUrl": "",
       "floorPlanUrl": ""
     },
-
     {
       "id": 1002,
       "title": "Single Room at Binjai Residency",
@@ -204,7 +213,7 @@
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
       ],
-      "thumbnail":  "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
       "roomType": "SINGLE",
       "propertyType": "CONDO",
       "price": 850,
@@ -236,11 +245,13 @@
       "views": 860,
       "likes": 54,
       "isLiked": false,
-      "tags": ["Budget Friendly", "Clean Unit"],
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
       "videoTourUrl": "",
       "floorPlanUrl": ""
     },
-
     {
       "id": 1003,
       "title": "Medium Room Near Avenue K",
@@ -250,7 +261,7 @@
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
       ],
-      "thumbnail":  "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
       "roomType": "MEDIUM",
       "propertyType": "SERVICE RESIDENCE",
       "price": 1100,
@@ -281,21 +292,19 @@
       "views": 940,
       "likes": 70,
       "isLiked": false,
-      "tags": ["Near Mall", "Convenient Location"],
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
       "videoTourUrl": "",
       "floorPlanUrl": ""
     }
   ],
-
   "areaGuide": {
     "title": "Living in KLCC – Complete Guide to Room Rental in Kuala Lumpur City Centre",
-
     "description": "KLCC (Kuala Lumpur City Centre) is one of the most sought-after locations for room rental in Malaysia. The area attracts expatriates, professionals, entrepreneurs, medical staff, university students and remote workers seeking premium city-centre living. Whether you are searching for a master room for rent in KLCC, a single room near KLCC MRT, a fully furnished room close to Petronas Twin Towers, a studio room in Kuala Lumpur City Centre or a budget-friendly shared room, KLCC offers a wide range of accommodation options. Residents enjoy excellent public transportation, modern residential developments, world-class shopping malls, international dining, corporate offices and vibrant lifestyle amenities, making KLCC one of the best places to rent a room in Kuala Lumpur.",
-
     "buttonText": "Explore KLCC Rental Guide",
-
     "buttonLink": "/room-rental-klcc",
-
     "highlights": [
       "Large selection of master rooms, medium rooms, single rooms, studio rooms and shared rooms for rent in KLCC",
       "Walking distance to Petronas Twin Towers, Suria KLCC, KLCC Park and Kuala Lumpur Convention Centre",
@@ -306,7 +315,6 @@
       "Premium condominiums with security, swimming pools, gyms and lifestyle facilities",
       "One of Kuala Lumpur's most established and desirable residential neighbourhoods"
     ],
-
     "features": [
       {
         "icon": "fas fa-train",
@@ -339,7 +347,6 @@
         "description": "Most KLCC residential developments feature 24-hour security, access card systems, CCTV monitoring and professional property management, providing a secure and comfortable living environment."
       }
     ],
-
     "popularResidences": [
       "Binjai Residency",
       "Marc Residence",
@@ -352,7 +359,6 @@
       "Avenue K Residences",
       "Soho Suites KLCC"
     ],
-
     "nearbyLandmarks": [
       "Petronas Twin Towers",
       "Suria KLCC",
@@ -365,7 +371,6 @@
       "Starhill Gallery",
       "Aquaria KLCC"
     ],
-
     "nearbyUniversities": [
       "University of Malaya",
       "INTI International College",
@@ -374,7 +379,6 @@
       "Asia Pacific University City Campus",
       "Taylor's University City Campus"
     ],
-
     "majorEmployers": [
       "Petronas",
       "ExxonMobil",
@@ -420,7 +424,6 @@
         "Studio near KLCC MRT"
       ]
     },
-
     {
       "name": "Persiaran KLCC MRT Station",
       "slug": "persiaran-klcc-mrt",
@@ -447,7 +450,6 @@
         "KLCC studio room rent"
       ]
     },
-
     {
       "name": "Ampang Park MRT Station",
       "slug": "ampang-park-mrt",
@@ -474,7 +476,6 @@
         "KL embassy room rent"
       ]
     },
-
     {
       "name": "Conlay MRT Station",
       "slug": "conlay-mrt",
@@ -501,7 +502,6 @@
         "Bukit Bintang MRT room"
       ]
     },
-
     {
       "name": "Bukit Bintang Monorail",
       "slug": "bukit-bintang-monorail",
@@ -528,7 +528,6 @@
         "Bukit Bintang studio room"
       ]
     },
-
     {
       "name": "Raja Chulan Monorail",
       "slug": "raja-chulan-monorail",
@@ -555,7 +554,6 @@
         "KL monorail room rent"
       ]
     },
-
     {
       "name": "Imbi Monorail Station",
       "slug": "imbi-monorail",
@@ -582,7 +580,6 @@
         "Bukit Bintang cheap room"
       ]
     },
-
     {
       "name": "TRX MRT Station",
       "slug": "trx-mrt",
@@ -610,7 +607,6 @@
       ]
     }
   ],
-
   "priceGuide": [
     {
       "roomType": "Single Room",
@@ -633,14 +629,12 @@
       "maxPrice": 3000
     }
   ],
-
   "marketInsights": {
     "averageRent": 1300,
     "priceGrowth": 4.5,
     "demandLevel": "High",
     "vacancyRate": 2.1
   },
-
   "nearbyAreas": [
     {
       "name": "KLCC",
@@ -660,7 +654,6 @@
       "popularFor": "Professionals, Expats, Tourists",
       "description": "Luxury lifestyle destination offering premium rooms, shopping malls, nightlife, offices and excellent MRT connectivity."
     },
-
     {
       "name": "Mont Kiara",
       "slug": "mont-kiara",
@@ -670,7 +663,6 @@
       "popularFor": "Expats, Families",
       "description": "Premium residential neighbourhood popular among expatriates with luxury condos, international schools and fully furnished rooms."
     },
-
     {
       "name": "Bangsar",
       "slug": "bangsar",
@@ -680,7 +672,6 @@
       "popularFor": "Young Professionals, Expats",
       "description": "High-demand rental area known for cafes, restaurants, offices, nightlife and convenient public transport access."
     },
-
     {
       "name": "Cheras",
       "slug": "cheras",
@@ -690,7 +681,6 @@
       "popularFor": "Students, Budget Renters",
       "description": "One of the best areas for cheap rooms, affordable rentals, MRT accessibility and convenient daily amenities."
     },
-
     {
       "name": "Ampang",
       "slug": "ampang",
@@ -700,7 +690,6 @@
       "popularFor": "Families, Professionals",
       "description": "Affordable rental area close to embassies, business districts, shopping centres and Kuala Lumpur city centre."
     },
-
     {
       "name": "Bukit Jalil",
       "slug": "bukit-jalil",
@@ -710,7 +699,6 @@
       "popularFor": "Students, Professionals",
       "description": "Growing residential hub with affordable rooms, universities, sports facilities and convenient rail connections."
     },
-
     {
       "name": "Setapak",
       "slug": "setapak",
@@ -720,7 +708,6 @@
       "popularFor": "Students, Working Adults",
       "description": "Popular choice for affordable room rentals near universities, shopping centres and LRT stations."
     },
-
     {
       "name": "Kepong",
       "slug": "kepong",
@@ -730,7 +717,6 @@
       "popularFor": "Families, Budget Renters",
       "description": "Affordable residential district offering cheap rooms, good food options and improving MRT connectivity."
     },
-
     {
       "name": "KL Sentral",
       "slug": "kl-sentral",
@@ -740,7 +726,6 @@
       "popularFor": "Professionals, Students",
       "description": "Major transportation hub with easy access to offices, universities, shopping malls and city destinations."
     },
-
     {
       "name": "Damansara",
       "slug": "damansara",
@@ -750,7 +735,6 @@
       "popularFor": "Professionals, Families",
       "description": "Well-established neighbourhood with modern residences, offices, lifestyle facilities and MRT accessibility."
     },
-
     {
       "name": "Bandar Utama",
       "slug": "bandar-utama",
@@ -760,7 +744,6 @@
       "popularFor": "Families, Professionals",
       "description": "Popular rental destination near One Utama, offices, educational institutions and public transportation."
     },
-
     {
       "name": "Petaling Jaya",
       "slug": "petaling-jaya",
@@ -770,7 +753,6 @@
       "popularFor": "Students, Professionals",
       "description": "Large city offering affordable rooms, co-living spaces, offices, universities and excellent connectivity."
     },
-
     {
       "name": "Sunway",
       "slug": "sunway",
@@ -780,7 +762,6 @@
       "popularFor": "Students, Young Professionals",
       "description": "Highly popular student area with universities, shopping malls, hospitals and many furnished room options."
     },
-
     {
       "name": "Subang Jaya",
       "slug": "subang-jaya",
@@ -790,7 +771,6 @@
       "popularFor": "Students, Families",
       "description": "Established residential location with affordable rooms, colleges, commercial centres and train stations."
     },
-
     {
       "name": "USJ",
       "slug": "usj",
@@ -800,7 +780,6 @@
       "popularFor": "Families, Working Professionals",
       "description": "Affordable suburban area offering comfortable rooms, shopping facilities and convenient transport links."
     },
-
     {
       "name": "Brickfields",
       "slug": "brickfields",
@@ -810,7 +789,6 @@
       "popularFor": "Students, Professionals",
       "description": "Strategic location near KL Sentral offering affordable rooms, cultural attractions and excellent transport."
     },
-
     {
       "name": "Pudu",
       "slug": "pudu",
@@ -820,7 +798,6 @@
       "popularFor": "Budget Renters, Workers",
       "description": "Central Kuala Lumpur neighbourhood with affordable room rentals, markets, food spots and MRT access."
     },
-
     {
       "name": "Chow Kit",
       "slug": "chow-kit",
@@ -830,7 +807,6 @@
       "popularFor": "Budget Renters, Workers",
       "description": "City-centre location with low-cost rooms, local amenities and easy access to business districts."
     },
-
     {
       "name": "Seputeh",
       "slug": "seputeh",
@@ -840,7 +816,6 @@
       "popularFor": "Families, Professionals",
       "description": "Peaceful residential area near Mid Valley with quality accommodation and convenient transport connections."
     },
-
     {
       "name": "TTDI",
       "slug": "ttdi",
@@ -850,7 +825,6 @@
       "popularFor": "Expats, Professionals",
       "description": "Premium neighbourhood famous for cafes, parks, MRT access and comfortable rooms for professionals."
     },
-
     {
       "name": "Cyberjaya",
       "slug": "cyberjaya",
@@ -860,7 +834,6 @@
       "popularFor": "Students, IT Professionals",
       "description": "Technology city with affordable rentals, universities, co-living spaces and modern facilities."
     },
-
     {
       "name": "Putrajaya",
       "slug": "putrajaya",
@@ -870,9 +843,7 @@
       "popularFor": "Government Staff, Families",
       "description": "Well-planned city offering peaceful surroundings, affordable rooms and excellent infrastructure."
     }
-
   ],
-
   "popularSearches": [
     {
       "title": "Master Room KLCC",
@@ -891,7 +862,6 @@
       "url": "/room-near-klcc-mrt"
     }
   ],
-
   "recentlyRented": [
     {
       "title": "Master Room at Sky Suites",
@@ -904,7 +874,6 @@
       "rentedDate": "2026-05-29"
     }
   ],
-
   "roomRequests": [
     {
       "gender": "Male",
@@ -1133,7 +1102,6 @@
   },
   "seo": {
     "primaryKeyword": "KLCC condo for rent",
-
     "secondaryKeywords": [
       "KLCC room for rent",
       "KLCC apartment for rent",
@@ -1145,15 +1113,10 @@
       "expat housing KLCC Kuala Lumpur",
       "high rise condo KLCC skyline view"
     ],
-
     "seoScore": 97,
-
     "canonicalUrl": "https://yourdomain.com/kuala-lumpur/klcc/condo-for-rent",
-
     "schemaType": "Apartment",
-
     "intentCluster": "premium-city-center-rentals",
-
     "contentCluster": [
       "luxury condos KLCC",
       "serviced apartments KLCC",
@@ -1207,7 +1170,6 @@
         "keyword": "kl city centre apartment for rent"
       }
     ],
-
     "internalPages": [
       {
         "title": "KLCC Area Guide",

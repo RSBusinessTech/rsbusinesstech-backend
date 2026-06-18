@@ -1,0 +1,1035 @@
+{
+  "area": {
+    "name": "Mont Kiara",
+    "slug": "mont-kiara",
+    "heroImage": "assets/images/areas/mont-kiara.jpg",
+    "metaTitle": "Rooms for Rent in Mont Kiara | Condo, Apartment & Room Rental Mont Kiara Kuala Lumpur",
+    "metaDescription": "Find rooms, condos, serviced apartments and properties for rent in Mont Kiara. Browse master rooms, single rooms, studios, luxury condos and furnished rentals near Solaris, Publika, Dutamas and Mont Kiara International School.",
+    "averageRent": 1800,
+    "totalListings": 186
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Mont Kiara – Complete Guide to Room Rental, Condo Rental & Property Rental in Kuala Lumpur's Premier Expatriate District",
+    "description": "Mont Kiara is one of Kuala Lumpur's most prestigious residential neighbourhoods and is widely regarded as Malaysia's leading expatriate community. Located within the affluent Segambut-Dutamas corridor, Mont Kiara offers a premium selection of accommodation including master rooms, medium rooms, single rooms, studio apartments, serviced residences, luxury condominiums, penthouses, co-living spaces and family-friendly rental properties. The area is highly popular among expatriates, diplomats, multinational executives, remote workers, entrepreneurs, international students and professionals seeking high-quality accommodation close to Kuala Lumpur City Centre. Tenants searching for room rental in Mont Kiara, condo rental in Mont Kiara, apartment rental near Publika, serviced residence rental near Solaris Mont Kiara, furnished rooms in Dutamas or luxury property rental in Kuala Lumpur frequently choose Mont Kiara due to its excellent lifestyle offerings, international schools, premium residences and strategic location. Residents enjoy convenient access to Publika Shopping Gallery, Solaris Mont Kiara, MITEC, MATRADE, KLCC, Bangsar, Damansara Heights, Bukit Tunku and Kuala Lumpur City Centre while benefiting from modern infrastructure, green surroundings and a strong international community. The area features some of Malaysia's most sought-after residential developments and consistently ranks among the top locations for property rental, condominium rental and room rental in Kuala Lumpur. Mont Kiara remains a preferred destination for expatriates relocating to Malaysia, corporate tenants, embassy staff and long-term residents seeking a safe, modern and highly connected neighbourhood with premium amenities and world-class living standards.",
+    "buttonText": "Explore Mont Kiara Rental Guide",
+    "buttonLink": "/room-rental-mont-kiara",
+    "highlights": [
+      "One of Kuala Lumpur's most prestigious and highest-demand rental locations",
+      "Large selection of master rooms, single rooms, studios, serviced apartments and luxury condominiums",
+      "Malaysia's most established expatriate residential community",
+      "Popular among diplomats, multinational executives, foreign professionals and entrepreneurs",
+      "Close to Publika Shopping Gallery, Solaris Mont Kiara, MITEC and MATRADE",
+      "Excellent connectivity to KLCC, Bangsar, Damansara Heights and Kuala Lumpur City Centre",
+      "Home to leading international schools including Garden International School and Mont Kiara International School",
+      "Strong demand for furnished room rental, condo rental and family accommodation",
+      "Premium residences with swimming pools, gyms, tennis courts and concierge services",
+      "Safe and family-friendly environment with international lifestyle amenities",
+      "One of the most searched locations for rental properties in Kuala Lumpur",
+      "Ideal for expatriates, professionals, digital nomads, families and long-term residents"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-globe",
+        "title": "Malaysia's Premier Expatriate Community",
+        "description": "Mont Kiara is internationally recognised as Kuala Lumpur's leading expatriate neighbourhood. The area attracts foreign professionals, diplomats, executives, entrepreneurs and international families seeking premium accommodation, international schools and a global community environment."
+      },
+      {
+        "icon": "fas fa-home",
+        "title": "Luxury Condominiums, Serviced Residences & Room Rentals",
+        "description": "Mont Kiara offers a diverse selection of rental properties including master rooms, single rooms, medium rooms, serviced apartments, luxury condominiums, penthouses, family residences and fully furnished rental units suitable for every lifestyle and budget category."
+      },
+      {
+        "icon": "fas fa-school",
+        "title": "International Schools Within Minutes",
+        "description": "The area is home to prestigious educational institutions including Garden International School, Mont Kiara International School, Lycée Français Kuala Lumpur and several other international education providers, making it a preferred location for expatriate families."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Publika, Solaris & Lifestyle Destinations",
+        "description": "Residents enjoy convenient access to Publika Shopping Gallery, Solaris Mont Kiara, Plaza Mont Kiara and numerous cafes, restaurants, supermarkets, fitness centres and lifestyle amenities that cater to both local and international communities."
+      },
+      {
+        "icon": "fas fa-briefcase",
+        "title": "Close to Major Business Hubs",
+        "description": "Mont Kiara offers strategic access to KLCC, Damansara Heights, Bangsar South, Mid Valley, Tun Razak Exchange, Kuala Lumpur City Centre, MITEC and MATRADE, making it highly attractive to working professionals and corporate executives."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Premium Residential Facilities",
+        "description": "Most residential developments in Mont Kiara feature resort-style facilities including swimming pools, gyms, landscaped gardens, children's playgrounds, tennis courts, BBQ areas, security systems, concierge services and private parking."
+      },
+      {
+        "icon": "fas fa-users",
+        "title": "Family-Friendly International Environment",
+        "description": "Mont Kiara is one of the safest and most family-oriented communities in Kuala Lumpur. The neighbourhood offers parks, international schools, medical centres and a multicultural environment ideal for long-term living."
+      },
+      {
+        "icon": "fas fa-chart-line",
+        "title": "Strong Rental Demand & Property Market",
+        "description": "Mont Kiara consistently ranks among Kuala Lumpur's most searched rental markets. Demand remains strong due to expatriate relocation, international business activity, premium residences and excellent lifestyle amenities."
+      }
+    ],
+    "popularResidences": [
+      "Arcoris Mont Kiara",
+      "Agile Mont Kiara",
+      "The Ooak Residences",
+      "TWY Duplex Condominiums",
+      "11 Mont Kiara",
+      "28 Mont Kiara",
+      "Richmond",
+      "Seni Mont Kiara",
+      "Kiara 1888",
+      "Kiara Designer Suites",
+      "Kiara 9",
+      "Kiara Ville",
+      "Mont Kiara Meridin",
+      "Mont Kiara Aman",
+      "Mont Kiara Banyan",
+      "Mont Kiara Astana",
+      "Verve Suites Mont Kiara",
+      "Solaris Dutamas",
+      "Concerto Kiara",
+      "Arte Mont Kiara"
+    ],
+    "nearbyLandmarks": [
+      "Publika Shopping Gallery",
+      "Solaris Mont Kiara",
+      "MITEC",
+      "MATRADE",
+      "Plaza Mont Kiara",
+      "Garden International School",
+      "Mont Kiara International School",
+      "Kiara 163",
+      "Arcoris Mont Kiara",
+      "1 Mont Kiara",
+      "Segambut",
+      "Dutamas",
+      "Bukit Tunku",
+      "Damansara Heights",
+      "KLCC",
+      "Bangsar",
+      "National Palace",
+      "Sri Hartamas",
+      "Desa Sri Hartamas",
+      "Kuala Lumpur City Centre"
+    ],
+    "nearbyUniversities": [
+      "International University of Malaya-Wales",
+      "Open University Malaysia",
+      "HELP University",
+      "Asia Pacific University",
+      "INTI International College",
+      "Universiti Kuala Lumpur",
+      "Taylor's University",
+      "SEGi University",
+      "UCSI University",
+      "Sunway University",
+      "Monash University Malaysia",
+      "Universiti Malaya"
+    ],
+    "majorEmployers": [
+      "MATRADE",
+      "MITEC",
+      "Petronas",
+      "Maybank",
+      "CIMB Group",
+      "HSBC Malaysia",
+      "Shell Malaysia",
+      "Dell Technologies",
+      "IBM Malaysia",
+      "Oracle Malaysia",
+      "Accenture",
+      "Deloitte",
+      "PwC",
+      "EY",
+      "KPMG",
+      "Grab",
+      "Shopee Malaysia",
+      "Lazada Malaysia",
+      "AIA Malaysia",
+      "Prudential Malaysia",
+      "British American Tobacco Malaysia",
+      "Nestle Malaysia",
+      "CelcomDigi",
+      "Maxis",
+      "Telekom Malaysia"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Segambut KTM Station",
+      "slug": "segambut-ktm",
+      "stationType": "KTM",
+      "line": "KTM Komuter Port Klang Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 2800,
+      "distanceText": "2.8 km",
+      "title": "Segambut KTM Station",
+      "shortDescription": "Segambut KTM Station is the nearest rail station serving Mont Kiara and Dutamas. It provides convenient access to KL Sentral, Mid Valley, Subang Jaya and Klang, making it highly searched by professionals looking for rental properties near public transportation.",
+      "averageRoomRent": 1800,
+      "nearbyLandmarks": [
+        "Publika",
+        "MITEC",
+        "MATRADE",
+        "Solaris Mont Kiara"
+      ],
+      "nearbyResidences": [
+        "Arcoris Mont Kiara",
+        "Arte Mont Kiara",
+        "Verve Suites"
+      ],
+      "popularSearches": [
+        "Room near Segambut KTM",
+        "Mont Kiara rental near KTM",
+        "Condo near Segambut Station"
+      ]
+    },
+    {
+      "name": "Pusat Bandar Damansara MRT Station",
+      "slug": "pusat-bandar-damansara-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 4500,
+      "distanceText": "4.5 km",
+      "title": "Pusat Bandar Damansara MRT Station",
+      "shortDescription": "Pusat Bandar Damansara MRT provides direct connectivity to Bukit Bintang, TRX, Pasar Seni and Kajang. It is one of the most commonly used MRT stations by Mont Kiara residents.",
+      "averageRoomRent": 1900,
+      "nearbyLandmarks": [
+        "Damansara Heights",
+        "Bangsar",
+        "KL Sentral"
+      ],
+      "nearbyResidences": [
+        "Arcoris Mont Kiara",
+        "11 Mont Kiara",
+        "Seni Mont Kiara"
+      ],
+      "popularSearches": [
+        "Room near MRT Damansara",
+        "Mont Kiara MRT rental",
+        "Condo near MRT Kajang Line"
+      ]
+    },
+    {
+      "name": "Semantan MRT Station",
+      "slug": "semantan-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 5200,
+      "distanceText": "5.2 km",
+      "title": "Semantan MRT Station",
+      "shortDescription": "Semantan MRT offers excellent access to KL Sentral, TRX and Bukit Bintang. It is popular among professionals working in Kuala Lumpur city centre.",
+      "averageRoomRent": 1900,
+      "nearbyLandmarks": [
+        "Damansara Heights",
+        "KL Sentral",
+        "Bangsar"
+      ],
+      "nearbyResidences": [
+        "Kiara 1888",
+        "Mont Kiara Aman",
+        "The Ooak"
+      ],
+      "popularSearches": [
+        "Room near Semantan MRT",
+        "Mont Kiara MRT condo",
+        "Rental near Semantan"
+      ]
+    },
+    {
+      "name": "TTDI MRT Station",
+      "slug": "ttdi-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 6500,
+      "distanceText": "6.5 km",
+      "title": "TTDI MRT Station",
+      "shortDescription": "TTDI MRT Station connects Mont Kiara residents to major business districts, shopping malls and educational institutions throughout Klang Valley.",
+      "averageRoomRent": 1800,
+      "nearbyLandmarks": [
+        "TTDI",
+        "Bandar Utama",
+        "Damansara"
+      ],
+      "nearbyResidences": [
+        "Verve Suites",
+        "Arte Mont Kiara",
+        "Mont Kiara Banyan"
+      ],
+      "popularSearches": [
+        "Room near TTDI MRT",
+        "Rental near MRT TTDI",
+        "Mont Kiara room rent"
+      ]
+    },
+    {
+      "name": "Muzium Negara MRT Station",
+      "slug": "muzium-negara-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 7000,
+      "distanceText": "7 km",
+      "title": "Muzium Negara MRT Station",
+      "shortDescription": "Muzium Negara MRT provides direct access to KL Sentral and Kuala Lumpur city centre. Frequently used by expatriates living in Mont Kiara.",
+      "averageRoomRent": 1850,
+      "nearbyLandmarks": [
+        "KL Sentral",
+        "Brickfields",
+        "Bangsar"
+      ],
+      "nearbyResidences": [
+        "TWY Duplex",
+        "11 Mont Kiara",
+        "Richmond"
+      ],
+      "popularSearches": [
+        "Room near KL Sentral MRT",
+        "Mont Kiara rental near MRT",
+        "Condo near Muzium Negara MRT"
+      ]
+    },
+    {
+      "name": "KL Sentral",
+      "slug": "kl-sentral",
+      "stationType": "TRANSPORT HUB",
+      "line": "MRT, LRT, KTM, ERL, Monorail",
+      "walkingTime": "18 mins drive",
+      "distanceMeters": 8500,
+      "distanceText": "8.5 km",
+      "title": "KL Sentral Transportation Hub",
+      "shortDescription": "KL Sentral is Malaysia's largest transportation hub offering connections to MRT, LRT, KTM, Monorail and KLIA Express. Many Mont Kiara residents commute through KL Sentral.",
+      "averageRoomRent": 1900,
+      "nearbyLandmarks": [
+        "KL Sentral",
+        "Nu Sentral",
+        "Brickfields"
+      ],
+      "nearbyResidences": [
+        "Arcoris",
+        "Seni Mont Kiara",
+        "Mont Kiara Meridin"
+      ],
+      "popularSearches": [
+        "Room near KL Sentral",
+        "Rental near KL Sentral",
+        "Mont Kiara to KL Sentral"
+      ]
+    },
+    {
+      "name": "Segambut KTM Station",
+      "slug": "segambut-ktm",
+      "stationType": "KTM",
+      "line": "KTM Komuter Port Klang Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 2800,
+      "distanceText": "2.8 km",
+      "title": "Segambut KTM Station",
+      "shortDescription": "Segambut KTM Station is the nearest rail station serving Mont Kiara and Dutamas. It provides convenient access to KL Sentral, Mid Valley, Subang Jaya and Klang, making it highly searched by professionals looking for rental properties near public transportation.",
+      "averageRoomRent": 1800,
+      "nearbyLandmarks": [
+        "Publika",
+        "MITEC",
+        "MATRADE",
+        "Solaris Mont Kiara"
+      ],
+      "nearbyResidences": [
+        "Arcoris Mont Kiara",
+        "Arte Mont Kiara",
+        "Verve Suites"
+      ],
+      "popularSearches": [
+        "Room near Segambut KTM",
+        "Mont Kiara rental near KTM",
+        "Condo near Segambut Station"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 1000,
+      "maxPrice": 1800
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 1400,
+      "maxPrice": 2300
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1800,
+      "maxPrice": 3500
+    },
+    {
+      "roomType": "Studio Apartment",
+      "minPrice": 2500,
+      "maxPrice": 5500
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 2200,
+    "priceGrowth": 6.7,
+    "demandLevel": "Very High",
+    "vacancyRate": 2.1
+  },
+  "nearbyAreas": [
+    {
+      "name": "Sri Hartamas",
+      "slug": "sri-hartamas",
+      "averageRent": 1700,
+      "mrtAccess": false,
+      "distanceFromArea": 1,
+      "popularFor": "Expats, Professionals, Families",
+      "description": "Sri Hartamas is directly adjacent to Mont Kiara and offers strong demand for furnished room rentals, serviced apartments and expatriate accommodation."
+    },
+    {
+      "name": "Dutamas",
+      "slug": "dutamas",
+      "averageRent": 1800,
+      "mrtAccess": false,
+      "distanceFromArea": 1,
+      "popularFor": "Professionals, Expats",
+      "description": "Dutamas is home to Publika, MITEC and MATRADE, making it one of Kuala Lumpur's most sought-after rental districts."
+    },
+    {
+      "name": "Damansara Heights",
+      "slug": "damansara-heights",
+      "averageRent": 2500,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Executives, Diplomats",
+      "description": "Damansara Heights is among Kuala Lumpur's most prestigious residential areas offering luxury rental properties and MRT connectivity."
+    },
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 1800,
+      "mrtAccess": true,
+      "distanceFromArea": 6,
+      "popularFor": "Young Professionals, Expats",
+      "description": "Bangsar remains one of Kuala Lumpur's strongest rental markets with cafes, offices, MRT stations and lifestyle attractions."
+    },
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 1900,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Corporate Professionals, Expats",
+      "description": "KLCC is Kuala Lumpur's premier business district offering luxury condominiums, MRT access and strong rental demand."
+    },
+    {
+      "name": "Bukit Tunku",
+      "slug": "bukit-tunku",
+      "averageRent": 3500,
+      "mrtAccess": false,
+      "distanceFromArea": 3,
+      "popularFor": "Diplomats, High-Net-Worth Families",
+      "description": "Bukit Tunku is one of Malaysia's most exclusive residential neighbourhoods with luxury homes and ambassador residences."
+    },
+    {
+      "name": "Desa ParkCity",
+      "slug": "desa-parkcity",
+      "averageRent": 1900,
+      "mrtAccess": false,
+      "distanceFromArea": 5,
+      "popularFor": "Families, Professionals",
+      "description": "Desa ParkCity offers a premium lifestyle environment with parks, lakes, retail outlets and family-oriented accommodation."
+    },
+    {
+      "name": "Segambut",
+      "slug": "segambut",
+      "averageRent": 1300,
+      "mrtAccess": false,
+      "distanceFromArea": 2,
+      "popularFor": "Budget Renters, Professionals",
+      "description": "Segambut offers more affordable rental options while remaining close to Mont Kiara, Publika and Kuala Lumpur city centre."
+    },
+    {
+      "name": "TTDI",
+      "slug": "ttdi",
+      "averageRent": 1600,
+      "mrtAccess": true,
+      "distanceFromArea": 7,
+      "popularFor": "Professionals, Families",
+      "description": "TTDI is a highly desirable neighbourhood known for parks, MRT stations, cafes and quality residential properties."
+    },
+    {
+      "name": "Bandar Utama",
+      "slug": "bandar-utama",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Families, Professionals",
+      "description": "Bandar Utama combines One Utama Shopping Centre, MRT connectivity and strong rental demand."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room KLCC",
+      "url": "/master-room-rental-mont-kiara"
+    },
+    {
+      "title": "Single Room KLCC",
+      "url": "/single-room-rental-mont-kiara"
+    },
+    {
+      "title": "Condo Room KLCC",
+      "url": "/condo-room-rental-mont-kiara"
+    },
+    {
+      "title": "Room Near KLCC MRT",
+      "url": "/room-near-mont-kiara-mrt"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does it cost to rent a room in Mont Kiara?",
+      "answer": "Room rental prices in Mont Kiara are premium, typically ranging from RM1,200 for a single room to RM3,000+ for a luxury master room or studio. Prices reflect the high-end condo facilities, security, and expat-focused amenities."
+    },
+    {
+      "question": "Is Mont Kiara a safe place to live?",
+      "answer": "Yes, Mont Kiara is considered one of the safest neighborhoods in Kuala Lumpur. The area features extensive private security, auxiliary police patrols, and stringent multi-tier security in almost all condominiums."
+    },
+    {
+      "question": "Why do so many expats live in Mont Kiara?",
+      "answer": "Expats prefer Mont Kiara because it houses top international schools (GIS, MKIS), features world-class amenities, has a high density of international supermarkets/restaurants, and offers a strong, English-speaking global community."
+    },
+    {
+      "question": "Does Mont Kiara have an MRT or LRT station?",
+      "answer": "Mont Kiara does not have a direct MRT/LRT station inside the neighborhood. However, it is heavily serviced by MRT Feeder buses (like the T852) that connect directly to the Semantan MRT station on the Kajang Line."
+    },
+    {
+      "question": "Are there pet-friendly condos for rent in Mont Kiara?",
+      "answer": "Absolutely. Mont Kiara is one of the most pet-friendly areas in KL. Many landlords and condominiums permit pets, and the area is surrounded by pet-friendly parks, cafes, and veterinary clinics."
+    },
+    {
+      "question": "What is the difference between Mont Kiara and KLCC for renting?",
+      "answer": "KLCC offers a bustling, commercial, high-rise city center lifestyle next to corporate towers. Mont Kiara offers a more relaxed, suburban yet highly upscale, family and expat-oriented lifestyle with retail parks and international schools."
+    },
+    {
+      "question": "Can I find fully furnished rooms in Mont Kiara?",
+      "answer": "Yes, the vast majority of room and condo rentals in Mont Kiara are fully furnished to a very high standard, specifically catering to expatriates and corporate professionals moving to KL with just their suitcases."
+    },
+    {
+      "question": "What are the best condominiums for young professionals in Mont Kiara?",
+      "answer": "Condominiums like Arcoris Mont Kiara, Verve Suites, and Agile Mont Kiara are extremely popular among young professionals due to their modern facilities, smaller unit/room sizes, and integrated retail elements."
+    },
+    {
+      "question": "Which areas are cheaper than Mont Kiara but nearby?",
+      "answer": "If you want the Mont Kiara lifestyle on a budget, consider neighboring areas like North Kiara (Segambut) or Dutamas, which offer newer condos at lower rental rates while being just a 5-minute drive away."
+    },
+    {
+      "question": "Is Mont Kiara prone to traffic jams?",
+      "answer": "Like any popular KL suburb, Mont Kiara experiences peak-hour traffic, especially around international school drop-off/pick-up times. However, having multiple exit routes via SPRINT, Penchala Link, and DUKE helps mitigate this."
+    },
+    {
+      "question": "Are short-term room rentals allowed in Mont Kiara?",
+      "answer": "It depends on the condominium's management rules. While some commercial-titled suites (like Arcoris or Verve) allow Airbnb or short-term stays, many residential-titled condos in Mont Kiara strictly require a minimum 6-to-12-month lease."
+    },
+    {
+      "question": "Where do residents in Mont Kiara buy groceries?",
+      "answer": "Residents have premium options including Jaya Grocer at 163 Retail Park, Village Grocer at 1 Mont Kiara, Qra at Arcoris, and various specialized Japanese/Korean marts like Kiara Supermarket."
+    },
+    {
+      "question": "Is it easy to walk around Mont Kiara?",
+      "answer": "Yes, the central hub of Mont Kiara (around Jalan Kiara) is highly pedestrian-friendly with paved sidewalks, making it easy and safe to walk between condos, schools, and malls like 163 Retail Park and Plaza Mont Kiara."
+    },
+    {
+      "question": "What makes your website better than iProperty or PropertyGuru for Mont Kiara rentals?",
+      "answer": "Unlike broad portal sites, our platform specializes exclusively in room and condo rentals, offering verified landlord listings, zero duplicate ads, detailed 3D room tours, and hyper-local insights specific to the Mont Kiara expat lifestyle."
+    },
+    {
+      "question": "Do I need a car if I rent a room in Mont Kiara?",
+      "answer": "While having a car is highly convenient in Mont Kiara, it is not strictly necessary if you live near Jalan Kiara. You can walk to all daily necessities, and use Grab or the MRT feeder buses for longer city commutes."
+    }
+  ],
+  "focusKeywords": [
+    "Mont Kiara room for rent",
+    "Mont Kiara condo for rent",
+    "expat housing Mont Kiara",
+    "luxury room for rent Mont Kiara",
+    "fully furnished room Mont Kiara KL",
+    "studio apartment Mont Kiara for rent",
+    "pet friendly condo Mont Kiara",
+    "rent room near Garden International School",
+    "room rental near 163 Retail Park Mont Kiara",
+    "Mont Kiara KL rental apartment",
+    "Arcoris Mont Kiara room for rent",
+    "Verve Suites Mont Kiara rental",
+    "master room with private bath Mont Kiara",
+    "premium co-living Mont Kiara",
+    "no deposit room rent Mont Kiara"
+  ],
+  "longTailKeywords": [
+    "fully furnished expat master room for rent in Mont Kiara",
+    "luxury studio apartment near 163 Retail Park Mont Kiara KL",
+    "pet friendly condo for rent in Mont Kiara Kuala Lumpur",
+    "budget room for rent near Mont Kiara international school",
+    "high end serviced apartment Mont Kiara monthly rental",
+    "room for rent in Mont Kiara with shuttle bus to MRT",
+    "corporate housing and expat rentals in Mont Kiara KL",
+    "best condo to rent in Mont Kiara for young professionals",
+    "Verve Suites Mont Kiara fully furnished studio for rent",
+    "room rental near Solaris Dutamas and Publika Mont Kiara"
+  ],
+  "intentMapping": {
+    "student": [
+      "room near Mont Kiara international school",
+      "affordable room North Kiara",
+      "room near Taylor's Sri Hartamas"
+    ],
+    "expat": [
+      "luxury condo Mont Kiara",
+      "expat housing KL Mont Kiara",
+      "fully furnished apartment Mont Kiara"
+    ],
+    "professional": [
+      "studio rent Arcoris Mont Kiara",
+      "premium master room Mont Kiara",
+      "condo near Publika Dutamas"
+    ],
+    "lifestyle": [
+      "pet friendly room Mont Kiara",
+      "condo with infinity pool Mont Kiara",
+      "walking distance 163 Retail Park condo"
+    ],
+    "highIntentBuyer": [
+      "ready to move room Mont Kiara",
+      "direct owner rent condo Mont Kiara",
+      "no agent fee room Mont Kiara"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Mont Kiara room for rent",
+    "secondaryKeywords": [
+      "Mont Kiara condo for rent",
+      "expat housing Mont Kiara",
+      "luxury apartment Mont Kiara",
+      "pet friendly condo KL",
+      "studio apartment Mont Kiara",
+      "room near 163 Retail Park",
+      "Verve Suites rental",
+      "Arcoris Mont Kiara rent",
+      "Mont Kiara KL real estate"
+    ],
+    "seoScore": 100,
+    "canonicalUrl": "https://yourdomain.com/kuala-lumpur/mont-kiara/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "premium-expat-rentals",
+    "contentCluster": [
+      "luxury expat housing KL",
+      "international school district rentals",
+      "pet friendly apartments Kuala Lumpur",
+      "premium condo facilities Mont Kiara",
+      "high income lifestyle rentals",
+      "KL safe neighborhoods for rent"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Sri Hartamas",
+        "Dutamas",
+        "Bangsar",
+        "Damansara Heights",
+        "TTDI",
+        "North Kiara"
+      ],
+      "nearbyHotspots": [
+        "163 Retail Park",
+        "Publika Shopping Gallery",
+        "1 Mont Kiara",
+        "Solaris Mont Kiara",
+        "Garden International School"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Mont Kiara Rooms for Rent",
+        "url": "/room-rental-mont-kiara",
+        "keyword": "mont kiara room for rent"
+      },
+      {
+        "title": "Mont Kiara Condos for Rent",
+        "url": "/condo-for-rent-mont-kiara",
+        "keyword": "mont kiara condo for rent"
+      },
+      {
+        "title": "Expat Housing in Mont Kiara",
+        "url": "/expat-housing-mont-kiara",
+        "keyword": "expat housing mont kiara"
+      },
+      {
+        "title": "Pet Friendly Condos Mont Kiara",
+        "url": "/pet-friendly-condo-mont-kiara",
+        "keyword": "pet friendly condo mont kiara"
+      },
+      {
+        "title": "Studio Apartments Mont Kiara",
+        "url": "/studio-apartment-mont-kiara",
+        "keyword": "studio apartment mont kiara for rent"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Mont Kiara Expat Area Guide",
+        "url": "/area-guide-mont-kiara",
+        "type": "guide"
+      },
+      {
+        "title": "Mont Kiara Rental Price Guide 2026",
+        "url": "/price-guide-mont-kiara",
+        "type": "pricing"
+      },
+      {
+        "title": "Best Condos Near International Schools KL",
+        "url": "/condo-near-international-schools-kl",
+        "type": "lifestyle"
+      },
+      {
+        "title": "Luxury Condominiums in Mont Kiara",
+        "url": "/luxury-condo-mont-kiara",
+        "type": "listing-category"
+      },
+      {
+        "title": "Pet Friendly Rentals Mont Kiara",
+        "url": "/pet-friendly-mont-kiara",
+        "type": "listing-category"
+      },
+      {
+        "title": "Condos Near 163 Retail Park",
+        "url": "/condo-near-163-retail-park",
+        "type": "lifestyle"
+      },
+      {
+        "title": "Mont Kiara MRT Shuttle Guide",
+        "url": "/mont-kiara-mrt-shuttle",
+        "type": "transport"
+      }
+    ]
+  }
+}

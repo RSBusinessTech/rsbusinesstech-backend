@@ -1,811 +1,311 @@
 {
-  "area":{
-    "name":"Bukit Bintang",
-    "slug":"bukit-bintang",
-    "heroImage":"assets/images/areas/bukit-bintang.jpg",
-    "metaTitle":"Rooms for Rent in Bukit Bintang | RoomRentalKL",
-    "metaDescription":"Find rooms for rent in Bukit Bintang near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
-    "averageRent":1300,
-    "totalListings":128
+  "area": {
+    "name": "Bukit Bintang",
+    "slug": "bukit-bintang",
+    "heroImage": "assets/images/areas/bukit-bintang.jpg",
+    "metaTitle": "Rooms for Rent in Bukit Bintang | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Bukit Bintang near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
   },
-  "featuredRooms":[
+  "featuredRooms": [
     {
-      "id":1001,
-      "title":"Master Room Near KLCC MRT",
-      "slug":"master-room-near-klcc-mrt",
-      "description":"Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
-      "images":[
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
       ],
-      "thumbnail":"https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
-      "roomType":"MASTER",
-      "propertyType":"CONDO",
-      "price":1500,
-      "deposit":3000,
-      "maintenanceFee":150,
-      "bedrooms":1,
-      "bathrooms":1,
-      "carparks":2,
-      "sqft":180,
-      "furnished":"Fully Furnished",
-      "address":"Binjai Residency, KLCC",
-      "area":"KLCC",
-      "city":"Kuala Lumpur",
-      "state":"Kuala Lumpur",
-      "distanceToMrt":"2 mins (10 m)",
-      "mrtStationName":"KLCC MRT",
-      "listedDate":"2026-06-01",
-      "isNew":true,
-      "featured":true,
-      "agent":{
-        "name":"Ahmad Rahman",
-        "phone":"+60 12-345 6789",
-        "whatsapp":"+60 12-345 6789",
-        "email":"ahmad@rentkl.com",
-        "avatar":"https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
-        "agencyName":"KL Property Experts",
-        "verified":true
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
       },
-      "views":1200,
-      "likes":98,
-      "isLiked":false,
-      "tags":[
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
         "Near MRT",
         "City View",
         "Premium Condo"
       ],
-      "videoTourUrl":"",
-      "floorPlanUrl":""
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
     },
     {
-      "id":1002,
-      "title":"Single Room at Binjai Residency",
-      "slug":"single-room-binjai-residency",
-      "description":"Affordable single room in a high-end residence with excellent security and amenities.",
-      "images":[
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
       ],
-      "thumbnail":"https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
-      "roomType":"SINGLE",
-      "propertyType":"CONDO",
-      "price":850,
-      "deposit":1700,
-      "maintenanceFee":100,
-      "bedrooms":1,
-      "bathrooms":1,
-      "carparks":1,
-      "sqft":120,
-      "furnished":"Semi Furnished",
-      "address":"Binjai Residency, KLCC",
-      "area":"KLCC",
-      "city":"Kuala Lumpur",
-      "state":"Kuala Lumpur",
-      "distanceToMrt":"4 mins (200 m)",
-      "mrtStationName":"Ampang Park MRT",
-      "listedDate":"2026-06-03",
-      "isNew":true,
-      "featured":true,
-      "agent":{
-        "name":"Ahmad Rahman",
-        "phone":"+60 12-345 6789",
-        "whatsapp":"+60 12-345 6789",
-        "email":"ahmad@rentkl.com",
-        "avatar":"https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
-        "agencyName":"KL Property Experts",
-        "verified":true
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
       },
-      "views":860,
-      "likes":54,
-      "isLiked":false,
-      "tags":[
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
         "Budget Friendly",
         "Clean Unit"
       ],
-      "videoTourUrl":"",
-      "floorPlanUrl":""
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
     },
     {
-      "id":1003,
-      "title":"Medium Room Near Avenue K",
-      "slug":"medium-room-near-avenue-k",
-      "description":"Comfortable medium room with easy access to shopping malls and MRT stations.",
-      "images":[
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
       ],
-      "thumbnail":"https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
-      "roomType":"MEDIUM",
-      "propertyType":"SERVICE RESIDENCE",
-      "price":1100,
-      "deposit":2200,
-      "maintenanceFee":120,
-      "bedrooms":1,
-      "bathrooms":1,
-      "sqft":150,
-      "furnished":"Fully Furnished",
-      "address":"Avenue K Residences, KLCC",
-      "area":"KLCC",
-      "city":"Kuala Lumpur",
-      "state":"Kuala Lumpur",
-      "distanceToMrt":"3 mins (150 m)",
-      "mrtStationName":"KLCC MRT",
-      "listedDate":"2026-06-02",
-      "featured":true,
-      "carparks":2,
-      "agent":{
-        "name":"Ahmad Rahman",
-        "phone":"+60 12-345 6789",
-        "whatsapp":"+60 12-345 6789",
-        "email":"ahmad@rentkl.com",
-        "avatar":"https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
-        "agencyName":"KL Property Experts",
-        "verified":true
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
       },
-      "views":940,
-      "likes":70,
-      "isLiked":false,
-      "tags":[
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
         "Near Mall",
         "Convenient Location"
       ],
-      "videoTourUrl":"",
-      "floorPlanUrl":""
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
     }
   ],
-  "latestRooms":[
+  "latestRooms": [
     {
-      "id":1001,
-      "title":"Master Room Near KLCC MRT",
-      "slug":"master-room-near-klcc-mrt",
-      "description":"Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
-      "images":[
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
       ],
-      "thumbnail":"https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
-      "roomType":"MASTER",
-      "propertyType":"CONDO",
-      "price":1500,
-      "deposit":3000,
-      "maintenanceFee":150,
-      "bedrooms":1,
-      "bathrooms":1,
-      "carparks":2,
-      "sqft":180,
-      "furnished":"Fully Furnished",
-      "address":"Binjai Residency, KLCC",
-      "area":"KLCC",
-      "city":"Kuala Lumpur",
-      "state":"Kuala Lumpur",
-      "distanceToMrt":"2 mins (10 m)",
-      "mrtStationName":"KLCC MRT",
-      "listedDate":"2026-06-01",
-      "isNew":true,
-      "featured":true,
-      "agent":{
-        "name":"Ahmad Rahman",
-        "phone":"+60 12-345 6789",
-        "whatsapp":"+60 12-345 6789",
-        "email":"ahmad@rentkl.com",
-        "avatar":"https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
-        "agencyName":"KL Property Experts",
-        "verified":true
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
       },
-      "views":1200,
-      "likes":98,
-      "isLiked":false,
-      "tags":[
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
         "Near MRT",
         "City View",
         "Premium Condo"
       ],
-      "videoTourUrl":"",
-      "floorPlanUrl":""
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
     },
     {
-      "id":1002,
-      "title":"Single Room at Binjai Residency",
-      "slug":"single-room-binjai-residency",
-      "description":"Affordable single room in a high-end residence with excellent security and amenities.",
-      "images":[
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
       ],
-      "thumbnail":"https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
-      "roomType":"SINGLE",
-      "propertyType":"CONDO",
-      "price":850,
-      "deposit":1700,
-      "maintenanceFee":100,
-      "bedrooms":1,
-      "bathrooms":1,
-      "carparks":1,
-      "sqft":120,
-      "furnished":"Semi Furnished",
-      "address":"Binjai Residency, KLCC",
-      "area":"KLCC",
-      "city":"Kuala Lumpur",
-      "state":"Kuala Lumpur",
-      "distanceToMrt":"4 mins (200 m)",
-      "mrtStationName":"Ampang Park MRT",
-      "listedDate":"2026-06-03",
-      "isNew":true,
-      "featured":true,
-      "agent":{
-        "name":"Ahmad Rahman",
-        "phone":"+60 12-345 6789",
-        "whatsapp":"+60 12-345 6789",
-        "email":"ahmad@rentkl.com",
-        "avatar":"https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
-        "agencyName":"KL Property Experts",
-        "verified":true
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
       },
-      "views":860,
-      "likes":54,
-      "isLiked":false,
-      "tags":[
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
         "Budget Friendly",
         "Clean Unit"
       ],
-      "videoTourUrl":"",
-      "floorPlanUrl":""
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
     },
     {
-      "id":1003,
-      "title":"Medium Room Near Avenue K",
-      "slug":"medium-room-near-avenue-k",
-      "description":"Comfortable medium room with easy access to shopping malls and MRT stations.",
-      "images":[
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
         "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
       ],
-      "thumbnail":"https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
-      "roomType":"MEDIUM",
-      "propertyType":"SERVICE RESIDENCE",
-      "price":1100,
-      "deposit":2200,
-      "maintenanceFee":120,
-      "bedrooms":1,
-      "bathrooms":1,
-      "sqft":150,
-      "furnished":"Fully Furnished",
-      "address":"Avenue K Residences, KLCC",
-      "area":"KLCC",
-      "city":"Kuala Lumpur",
-      "state":"Kuala Lumpur",
-      "distanceToMrt":"3 mins (150 m)",
-      "mrtStationName":"KLCC MRT",
-      "listedDate":"2026-06-02",
-      "featured":true,
-      "carparks":2,
-      "agent":{
-        "name":"Ahmad Rahman",
-        "phone":"+60 12-345 6789",
-        "whatsapp":"+60 12-345 6789",
-        "email":"ahmad@rentkl.com",
-        "avatar":"https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
-        "agencyName":"KL Property Experts",
-        "verified":true
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
       },
-      "views":940,
-      "likes":70,
-      "isLiked":false,
-      "tags":[
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
         "Near Mall",
         "Convenient Location"
       ],
-      "videoTourUrl":"",
-      "floorPlanUrl":""
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
     }
   ],
-  "transitStations":[
-    {
-      "name":"Bukit Bintang MRT Station",
-      "slug":"bukit-bintang-mrt",
-      "stationType":"MRT",
-      "line":"Kajang Line",
-      "walkingTime":"2 mins walk",
-      "distanceMeters":150,
-      "distanceText":"2 mins walk (150 m)",
-      "title":"Bukit Bintang MRT Station",
-      "shortDescription":"Bukit Bintang MRT Station is the primary transit hub serving Kuala Lumpur's Golden Triangle. It provides direct connectivity to TRX, Merdeka, Pasar Seni, Cochrane and other major commercial districts, making it one of the most sought-after locations for room rental in Kuala Lumpur.",
-      "averageRoomRent":1400,
-      "nearbyLandmarks":[
-        "Pavilion Kuala Lumpur",
-        "Starhill Gallery",
-        "Fahrenheit88",
-        "Lot 10"
-      ],
-      "nearbyResidences":[
-        "Pavilion Residences",
-        "Pavilion Suites",
-        "Fahrenheit Suites",
-        "Dorsett Residences"
-      ],
-      "popularSearches":[
-        "Room near Bukit Bintang MRT",
-        "Master room Bukit Bintang MRT",
-        "Studio near Bukit Bintang MRT"
-      ]
-    },
-    {
-      "name":"Bukit Bintang Monorail Station",
-      "slug":"bukit-bintang-monorail",
-      "stationType":"MONORAIL",
-      "line":"KL Monorail Line",
-      "walkingTime":"3 mins walk",
-      "distanceMeters":250,
-      "distanceText":"3 mins walk (250 m)",
-      "title":"Bukit Bintang Monorail Station",
-      "shortDescription":"Bukit Bintang Monorail Station connects residents to KL Sentral, Chow Kit, Titiwangsa and the wider Kuala Lumpur city centre. It is one of the most searched transit stations for room rental due to its proximity to shopping malls and entertainment districts.",
-      "averageRoomRent":1400,
-      "nearbyLandmarks":[
-        "Pavilion Kuala Lumpur",
-        "Jalan Alor",
-        "Fahrenheit88"
-      ],
-      "nearbyResidences":[
-        "Bintang Fairlane",
-        "Agile Bukit Bintang",
-        "Tribeca Serviced Suites"
-      ],
-      "popularSearches":[
-        "Room near Bukit Bintang Monorail",
-        "Condo room Bukit Bintang",
-        "Furnished room Bukit Bintang"
-      ]
-    },
-    {
-      "name":"Imbi Monorail Station",
-      "slug":"imbi-monorail",
-      "stationType":"MONORAIL",
-      "line":"KL Monorail Line",
-      "walkingTime":"6 mins walk",
-      "distanceMeters":500,
-      "distanceText":"6 mins walk (500 m)",
-      "title":"Imbi Monorail Station",
-      "shortDescription":"Imbi Monorail Station is located beside Berjaya Times Square and provides excellent access to Bukit Bintang's residential and commercial zones. Popular among students, professionals and expatriates seeking affordable room rentals near public transport.",
-      "averageRoomRent":1300,
-      "nearbyLandmarks":[
-        "Berjaya Times Square",
-        "Jalan Alor",
-        "Bukit Bintang"
-      ],
-      "nearbyResidences":[
-        "Lucentia Residence",
-        "Times Square Residences",
-        "Robertson Residences"
-      ],
-      "popularSearches":[
-        "Room near Imbi Monorail",
-        "Cheap room Bukit Bintang",
-        "Studio room near Times Square"
-      ]
-    },
-    {
-      "name":"TRX MRT Station",
-      "slug":"trx-mrt",
-      "stationType":"MRT",
-      "line":"Kajang Line & Putrajaya Line",
-      "walkingTime":"10 mins walk",
-      "distanceMeters":800,
-      "distanceText":"10 mins walk (800 m)",
-      "title":"Tun Razak Exchange MRT Station",
-      "shortDescription":"TRX MRT Station serves Malaysia's international financial district and provides direct access to The Exchange TRX. It is highly popular among finance professionals, expatriates and corporate executives searching for room rentals near TRX and Bukit Bintang.",
-      "averageRoomRent":1500,
-      "nearbyLandmarks":[
-        "The Exchange TRX",
-        "TRX Financial District",
-        "Bukit Bintang"
-      ],
-      "nearbyResidences":[
-        "Lucentia Residence",
-        "Agile Bukit Bintang",
-        "Tribeca Serviced Suites"
-      ],
-      "popularSearches":[
-        "Room near TRX MRT",
-        "TRX room rental",
-        "Room near Exchange TRX"
-      ]
-    },
-    {
-      "name":"Hang Tuah MRT Station",
-      "slug":"hang-tuah-mrt",
-      "stationType":"MRT",
-      "line":"Kajang Line",
-      "walkingTime":"12 mins walk",
-      "distanceMeters":950,
-      "distanceText":"12 mins walk (950 m)",
-      "title":"Hang Tuah MRT Station",
-      "shortDescription":"Hang Tuah MRT Station connects Bukit Bintang with Merdeka, Pasar Seni and the broader MRT network. It is a strategic station for tenants looking for affordable accommodation near Kuala Lumpur city centre.",
-      "averageRoomRent":1250,
-      "nearbyLandmarks":[
-        "Berjaya Times Square",
-        "LaLaport BBCC",
-        "Bukit Bintang"
-      ],
-      "nearbyResidences":[
-        "Opus Residences",
-        "Lucentia Residence",
-        "The Robertson"
-      ],
-      "popularSearches":[
-        "Room near Hang Tuah MRT",
-        "Room rental near BBCC",
-        "Affordable room Bukit Bintang"
-      ]
-    },
-    {
-      "name":"Hang Tuah Monorail Station",
-      "slug":"hang-tuah-monorail",
-      "stationType":"MONORAIL",
-      "line":"KL Monorail Line",
-      "walkingTime":"12 mins walk",
-      "distanceMeters":950,
-      "distanceText":"12 mins walk (950 m)",
-      "title":"Hang Tuah Monorail Station",
-      "shortDescription":"Hang Tuah Monorail Station is a major interchange connecting Bukit Bintang, KL Sentral and northern Kuala Lumpur. It is popular among students, office workers and tenants looking for affordable room rentals with excellent public transport access.",
-      "averageRoomRent":1250,
-      "nearbyLandmarks":[
-        "LaLaport BBCC",
-        "Berjaya Times Square",
-        "Bukit Bintang"
-      ],
-      "nearbyResidences":[
-        "Lucentia Residence",
-        "Opus Residences",
-        "The Robertson"
-      ],
-      "popularSearches":[
-        "Room near Hang Tuah Monorail",
-        "BBCC room rental",
-        "Affordable room near Bukit Bintang"
-      ]
-    },
-    {
-      "name":"Raja Chulan Monorail Station",
-      "slug":"raja-chulan-monorail",
-      "stationType":"MONORAIL",
-      "line":"KL Monorail Line",
-      "walkingTime":"8 mins walk",
-      "distanceMeters":650,
-      "distanceText":"8 mins walk (650 m)",
-      "title":"Raja Chulan Monorail Station",
-      "shortDescription":"Raja Chulan Monorail Station serves the Golden Triangle business district and is highly searched by professionals looking for room rentals near offices, shopping malls and entertainment venues in Bukit Bintang.",
-      "averageRoomRent":1450,
-      "nearbyLandmarks":[
-        "Pavilion Kuala Lumpur",
-        "Menara Hap Seng",
-        "Jalan Alor"
-      ],
-      "nearbyResidences":[
-        "The Ritz-Carlton Residences",
-        "Dorsett Residences",
-        "Verdant Hill"
-      ],
-      "popularSearches":[
-        "Room near Raja Chulan Monorail",
-        "Bukit Bintang room rental",
-        "Golden Triangle room for rent"
-      ]
-    },
-    {
-      "name":"Merdeka MRT Station",
-      "slug":"merdeka-mrt",
-      "stationType":"MRT",
-      "line":"Kajang Line",
-      "walkingTime":"15 mins walk",
-      "distanceMeters":1200,
-      "distanceText":"15 mins walk (1.2 km)",
-      "title":"Merdeka MRT Station",
-      "shortDescription":"Merdeka MRT Station provides direct access to Bukit Bintang, Pasar Seni, TRX and Kuala Lumpur city centre. It is increasingly popular among tenants seeking affordable room rentals with MRT connectivity.",
-      "averageRoomRent":1200,
-      "nearbyLandmarks":[
-        "Merdeka 118",
-        "Stadium Merdeka",
-        "Bukit Bintang"
-      ],
-      "nearbyResidences":[
-        "Opus Residences",
-        "The Robertson",
-        "Lucentia Residence"
-      ],
-      "popularSearches":[
-        "Room near Merdeka MRT",
-        "Merdeka 118 room rental",
-        "MRT room Kuala Lumpur"
-      ]
-    },
-    {
-      "name":"Conlay MRT Station",
-      "slug":"conlay-mrt",
-      "stationType":"MRT",
-      "line":"Putrajaya Line",
-      "walkingTime":"10 mins walk",
-      "distanceMeters":800,
-      "distanceText":"10 mins walk (800 m)",
-      "title":"Conlay MRT Station",
-      "shortDescription":"Conlay MRT Station connects Bukit Bintang with KLCC, TRX and major commercial districts. It is a preferred location for expatriates and professionals searching for premium room rentals in Kuala Lumpur city centre.",
-      "averageRoomRent":1450,
-      "nearbyLandmarks":[
-        "Pavilion Kuala Lumpur",
-        "TRX",
-        "KLCC"
-      ],
-      "nearbyResidences":[
-        "The RuMa Residences",
-        "The Mews",
-        "Agile Bukit Bintang"
-      ],
-      "popularSearches":[
-        "Room near Conlay MRT",
-        "Premium room Bukit Bintang",
-        "KLCC MRT room rental"
-      ]
-    },
-    {
-      "name":"Pudu LRT Station",
-      "slug":"pudu-lrt",
-      "stationType":"LRT",
-      "line":"Ampang Line",
-      "walkingTime":"15 mins walk",
-      "distanceMeters":1200,
-      "distanceText":"15 mins walk (1.2 km)",
-      "title":"Pudu LRT Station",
-      "shortDescription":"Pudu LRT Station offers affordable access to Bukit Bintang, TRX and central Kuala Lumpur. It is popular among tenants looking for budget-friendly rooms with excellent public transportation.",
-      "averageRoomRent":1100,
-      "nearbyLandmarks":[
-        "Pudu Plaza",
-        "Berjaya Times Square",
-        "TRX"
-      ],
-      "nearbyResidences":[
-        "Casa Mutiara",
-        "Pudu Impian",
-        "Skyline Embassy"
-      ],
-      "popularSearches":[
-        "Room near Pudu LRT",
-        "Cheap room Bukit Bintang",
-        "Affordable room Kuala Lumpur"
-      ]
-    },
-    {
-      "name":"KLCC LRT Station",
-      "slug":"klcc-lrt",
-      "stationType":"LRT",
-      "line":"Kelana Jaya Line",
-      "walkingTime":"18 mins walk",
-      "distanceMeters":1500,
-      "distanceText":"18 mins walk (1.5 km)",
-      "title":"KLCC LRT Station",
-      "shortDescription":"KLCC LRT Station provides direct connectivity to Kuala Lumpur's most prestigious business and lifestyle district. Many expatriates search for room rentals between Bukit Bintang and KLCC due to convenient transport links.",
-      "averageRoomRent":1500,
-      "nearbyLandmarks":[
-        "Petronas Twin Towers",
-        "Suria KLCC",
-        "KLCC Park"
-      ],
-      "nearbyResidences":[
-        "Sky Suites KLCC",
-        "Soho Suites KLCC",
-        "Marc Residence"
-      ],
-      "popularSearches":[
-        "Room near KLCC LRT",
-        "KLCC room rental",
-        "Expat room Kuala Lumpur"
-      ]
-    }
-  ],
-  "nearbyAreas":[
-    {
-      "name":"KLCC",
-      "slug":"klcc",
-      "averageRent":1800,
-      "mrtAccess":true,
-      "distanceFromArea":2,
-      "popularFor":"Expats, Corporate Professionals, Luxury Living",
-      "description":"KLCC is Kuala Lumpur's premier business and lifestyle district. Popular for luxury condominiums, fully furnished rooms, multinational offices, Petronas Twin Towers and excellent MRT connectivity."
-    },
-    {
-      "name":"TRX",
-      "slug":"trx",
-      "averageRent":1700,
-      "mrtAccess":true,
-      "distanceFromArea":1,
-      "popularFor":"Finance Professionals, Executives, Expats",
-      "description":"Tun Razak Exchange (TRX) is Malaysia's international financial district offering premium residences, direct MRT access, corporate offices and strong demand for room rentals."
-    },
-    {
-      "name":"Pudu",
-      "slug":"pudu",
-      "averageRent":1100,
-      "mrtAccess":true,
-      "distanceFromArea":1,
-      "popularFor":"Budget Renters, Students, Working Professionals",
-      "description":"Pudu provides affordable room rentals near Bukit Bintang with convenient MRT and LRT access, shopping centres, food streets and excellent city-centre connectivity."
-    },
-    {
-      "name":"KL Sentral",
-      "slug":"kl-sentral",
-      "averageRent":1400,
-      "mrtAccess":true,
-      "distanceFromArea":4,
-      "popularFor":"Professionals, Students, Expats",
-      "description":"KL Sentral is Kuala Lumpur's largest transportation hub offering direct access to offices, universities, shopping malls and room rental options for commuters."
-    },
-    {
-      "name":"Brickfields",
-      "slug":"brickfields",
-      "averageRent":1200,
-      "mrtAccess":true,
-      "distanceFromArea":4,
-      "popularFor":"Students, Professionals, Digital Nomads",
-      "description":"Brickfields offers affordable furnished rooms near KL Sentral, making it a popular choice for tenants seeking convenience and excellent public transport."
-    },
-    {
-      "name":"Chow Kit",
-      "slug":"chow-kit",
-      "averageRent":1000,
-      "mrtAccess":true,
-      "distanceFromArea":3,
-      "popularFor":"Workers, Budget Renters",
-      "description":"Chow Kit provides affordable room rentals close to Kuala Lumpur city centre with easy access to offices, markets and public transportation."
-    },
-    {
-      "name":"Bangsar",
-      "slug":"bangsar",
-      "averageRent":1500,
-      "mrtAccess":true,
-      "distanceFromArea":6,
-      "popularFor":"Young Professionals, Expats",
-      "description":"Bangsar is one of Kuala Lumpur's most desirable rental locations known for cafes, nightlife, offices, MRT stations and premium furnished accommodation."
-    },
-    {
-      "name":"Mont Kiara",
-      "slug":"mont-kiara",
-      "averageRent":1700,
-      "mrtAccess":false,
-      "distanceFromArea":8,
-      "popularFor":"Expats, Families, International Community",
-      "description":"Mont Kiara is a prestigious expatriate neighbourhood featuring luxury condominiums, international schools, embassies and premium room rental options."
-    },
-    {
-      "name":"Ampang",
-      "slug":"ampang",
-      "averageRent":1300,
-      "mrtAccess":true,
-      "distanceFromArea":5,
-      "popularFor":"Expats, Families, Professionals",
-      "description":"Ampang is popular among expatriates due to Embassy Row, international schools, hospitals and convenient access to KLCC and Bukit Bintang."
-    },
-    {
-      "name":"Cheras",
-      "slug":"cheras",
-      "averageRent":950,
-      "mrtAccess":true,
-      "distanceFromArea":8,
-      "popularFor":"Students, Budget Renters",
-      "description":"Cheras is one of Kuala Lumpur's largest residential districts offering affordable rooms, MRT access and excellent value for tenants."
-    },
-    {
-      "name":"Damansara",
-      "slug":"damansara",
-      "averageRent":1500,
-      "mrtAccess":true,
-      "distanceFromArea":10,
-      "popularFor":"Professionals, Families",
-      "description":"Damansara combines modern residences, offices, shopping malls and MRT accessibility, making it a highly sought-after rental location."
-    },
-    {
-      "name":"TTDI",
-      "slug":"ttdi",
-      "averageRent":1450,
-      "mrtAccess":true,
-      "distanceFromArea":11,
-      "popularFor":"Professionals, Expats",
-      "description":"TTDI is known for its parks, cafes, MRT stations and quality residential environment, attracting professionals seeking comfortable accommodation."
-    },
-    {
-      "name":"Bandar Utama",
-      "slug":"bandar-utama",
-      "averageRent":1300,
-      "mrtAccess":true,
-      "distanceFromArea":13,
-      "popularFor":"Families, Professionals",
-      "description":"Bandar Utama offers excellent public transport, One Utama Shopping Centre, business offices and strong demand for room rentals."
-    },
-    {
-      "name":"Petaling Jaya",
-      "slug":"petaling-jaya",
-      "averageRent":1200,
-      "mrtAccess":true,
-      "distanceFromArea":15,
-      "popularFor":"Students, Professionals",
-      "description":"Petaling Jaya remains one of the largest rental markets in Greater Kuala Lumpur with universities, offices, malls and extensive rail connectivity."
-    },
-    {
-      "name":"Bukit Jalil",
-      "slug":"bukit-jalil",
-      "averageRent":1100,
-      "mrtAccess":true,
-      "distanceFromArea":12,
-      "popularFor":"Students, Professionals",
-      "description":"Bukit Jalil is a rapidly growing residential hub known for affordable rooms, modern condominiums, universities and excellent rail access."
-    }
-  ],
-  "marketInsights":{
-    "averageRent":1700,
-    "priceGrowth":5.8,
-    "demandLevel":"Very High",
-    "vacancyRate":1.8
-  },
-  "priceGuide":[
-    {
-      "roomType":"Single Room",
-      "minPrice":900,
-      "maxPrice":1400
-    },
-    {
-      "roomType":"Medium Room",
-      "minPrice":1200,
-      "maxPrice":1800
-    },
-    {
-      "roomType":"Master Room",
-      "minPrice":1600,
-      "maxPrice":2600
-    },
-    {
-      "roomType":"Studio Room",
-      "minPrice":2200,
-      "maxPrice":4500
-    }
-  ],
-  "popularSearches":[
-    {
-      "title":"Bukit Bintang Room for Rent",
-      "url":"/room-rental-bukit-bintang"
-    },
-    {
-      "title":"Cheap Room Bukit Bintang",
-      "url":"/cheap-room-bukit-bintang"
-    },
-    {
-      "title":"Condo for Rent Bukit Bintang",
-      "url":"/condo-rental-bukit-bintang"
-    },
-    {
-      "title":"Studio Apartment Bukit Bintang",
-      "url":"/studio-apartment-bukit-bintang"
-    },
-    {
-      "title":"Room Near Bukit Bintang MRT",
-      "url":"/room-near-bukit-bintang-mrt"
-    },
-    {
-      "title":"Furnished Room Bukit Bintang",
-      "url":"/furnished-room-bukit-bintang"
-    },
-    {
-      "title":"Short Term Rental Bukit Bintang",
-      "url":"/short-term-rental-bukit-bintang"
-    },
-    {
-      "title":"Expats Room Bukit Bintang",
-      "url":"/expat-room-bukit-bintang"
-    }
-  ],
-  "areaGuide":{
-    "title":"Living in Bukit Bintang – Complete Guide to Room Rental in Kuala Lumpur's Golden Triangle",
-    "description":"Bukit Bintang is one of the most popular and highly sought-after locations for room rental in Kuala Lumpur, attracting expatriates, working professionals, university students, entrepreneurs, digital nomads and young executives seeking convenient city-centre living. Located in the heart of Kuala Lumpur's Golden Triangle, Bukit Bintang offers a diverse selection of accommodation including master rooms, medium rooms, single rooms, shared rooms, studio apartments, serviced residences, co-living spaces and condominium rentals. Whether you are searching for a room for rent near Bukit Bintang MRT Station, a fully furnished master room near Pavilion Kuala Lumpur, a budget-friendly room near Jalan Alor, a studio apartment close to The Exchange TRX, or a room rental near KLCC, Bukit Bintang provides accommodation options suitable for every lifestyle and budget. Residents enjoy direct access to world-class shopping malls, international restaurants, cafes, entertainment venues, nightlife attractions, coworking spaces and major employment hubs while benefiting from excellent public transportation via Bukit Bintang MRT Station, Bukit Bintang Monorail Station, Imbi Monorail Station, Hang Tuah Station and TRX MRT Station. The area offers convenient access to KLCC, Kuala Lumpur City Centre, Tun Razak Exchange (TRX), Jalan Sultan Ismail, Bukit Ceylon, Pudu, Mont Kiara, Bangsar and other key destinations throughout Kuala Lumpur. Popular landmarks including Pavilion Kuala Lumpur, The Exchange TRX, Starhill Gallery, Fahrenheit88, Lot 10, Berjaya Times Square and Jalan Alor make Bukit Bintang one of Malaysia's most vibrant and desirable neighbourhoods. Known for its strong rental demand, modern residential developments, premium condominiums and excellent lifestyle amenities, Bukit Bintang remains one of the best areas for room rental in Kuala Lumpur for expatriates, students, professionals and long-term residents seeking a strategic location with exceptional convenience and connectivity.",
-    "buttonText":"Explore Bukit Bintang Rental Guide",
-    "buttonLink":"/room-rental-bukit-bintang",
-    "highlights":[
+  "areaGuide": {
+    "title": "Living in Bukit Bintang – Complete Guide to Room Rental in Kuala Lumpur's Golden Triangle",
+    "description": "Bukit Bintang is one of the most popular and highly sought-after locations for room rental in Kuala Lumpur, attracting expatriates, working professionals, university students, entrepreneurs, digital nomads and young executives seeking convenient city-centre living. Located in the heart of Kuala Lumpur's Golden Triangle, Bukit Bintang offers a diverse selection of accommodation including master rooms, medium rooms, single rooms, shared rooms, studio apartments, serviced residences, co-living spaces and condominium rentals. Whether you are searching for a room for rent near Bukit Bintang MRT Station, a fully furnished master room near Pavilion Kuala Lumpur, a budget-friendly room near Jalan Alor, a studio apartment close to The Exchange TRX, or a room rental near KLCC, Bukit Bintang provides accommodation options suitable for every lifestyle and budget. Residents enjoy direct access to world-class shopping malls, international restaurants, cafes, entertainment venues, nightlife attractions, coworking spaces and major employment hubs while benefiting from excellent public transportation via Bukit Bintang MRT Station, Bukit Bintang Monorail Station, Imbi Monorail Station, Hang Tuah Station and TRX MRT Station. The area offers convenient access to KLCC, Kuala Lumpur City Centre, Tun Razak Exchange (TRX), Jalan Sultan Ismail, Bukit Ceylon, Pudu, Mont Kiara, Bangsar and other key destinations throughout Kuala Lumpur. Popular landmarks including Pavilion Kuala Lumpur, The Exchange TRX, Starhill Gallery, Fahrenheit88, Lot 10, Berjaya Times Square and Jalan Alor make Bukit Bintang one of Malaysia's most vibrant and desirable neighbourhoods. Known for its strong rental demand, modern residential developments, premium condominiums and excellent lifestyle amenities, Bukit Bintang remains one of the best areas for room rental in Kuala Lumpur for expatriates, students, professionals and long-term residents seeking a strategic location with exceptional convenience and connectivity.",
+    "buttonText": "Explore Bukit Bintang Rental Guide",
+    "buttonLink": "/room-rental-bukit-bintang",
+    "highlights": [
       "Large selection of master rooms, medium rooms, single rooms, studio apartments, serviced residences and shared rooms for rent in Bukit Bintang",
       "Walking distance to Pavilion Kuala Lumpur, The Exchange TRX, Jalan Alor, Starhill Gallery, Lot 10, Fahrenheit88 and Berjaya Times Square",
       "Excellent connectivity via Bukit Bintang MRT Station, Bukit Bintang Monorail Station, Imbi Monorail Station, Hang Tuah Station and TRX MRT Station",
@@ -819,49 +319,49 @@
       "Strong rental demand throughout the year due to tourism, business activity and proximity to major employment hubs",
       "Among the most searched locations for room rental, condo rental and accommodation in Kuala Lumpur"
     ],
-    "features":[
+    "features": [
       {
-        "icon":"fas fa-train",
-        "title":"Excellent MRT, Monorail & City Centre Connectivity",
-        "description":"Bukit Bintang offers exceptional connectivity through Bukit Bintang MRT Station, Bukit Bintang Monorail Station, Imbi Monorail Station, Hang Tuah Station and TRX MRT Station. Residents enjoy fast and convenient access to KLCC, Tun Razak Exchange (TRX), Kuala Lumpur City Centre, KL Sentral, Bangsar, Mid Valley, Mont Kiara and other major destinations across Kuala Lumpur, making Bukit Bintang one of the most connected locations for room rental near MRT and public transportation."
+        "icon": "fas fa-train",
+        "title": "Excellent MRT, Monorail & City Centre Connectivity",
+        "description": "Bukit Bintang offers exceptional connectivity through Bukit Bintang MRT Station, Bukit Bintang Monorail Station, Imbi Monorail Station, Hang Tuah Station and TRX MRT Station. Residents enjoy fast and convenient access to KLCC, Tun Razak Exchange (TRX), Kuala Lumpur City Centre, KL Sentral, Bangsar, Mid Valley, Mont Kiara and other major destinations across Kuala Lumpur, making Bukit Bintang one of the most connected locations for room rental near MRT and public transportation."
       },
       {
-        "icon":"fas fa-home",
-        "title":"Master Rooms, Single Rooms, Studios & Condominium Rentals",
-        "description":"Bukit Bintang offers a diverse selection of accommodation including master rooms, medium rooms, single rooms, shared rooms, studio apartments, serviced residences, co-living spaces and luxury condominium rentals. Whether you are searching for a fully furnished master room, affordable single room, studio apartment near Pavilion Kuala Lumpur or premium condominium rental near TRX, Bukit Bintang provides options suitable for every budget and lifestyle."
+        "icon": "fas fa-home",
+        "title": "Master Rooms, Single Rooms, Studios & Condominium Rentals",
+        "description": "Bukit Bintang offers a diverse selection of accommodation including master rooms, medium rooms, single rooms, shared rooms, studio apartments, serviced residences, co-living spaces and luxury condominium rentals. Whether you are searching for a fully furnished master room, affordable single room, studio apartment near Pavilion Kuala Lumpur or premium condominium rental near TRX, Bukit Bintang provides options suitable for every budget and lifestyle."
       },
       {
-        "icon":"fas fa-briefcase",
-        "title":"Close to Major Business & Employment Hubs",
-        "description":"Located near KLCC, The Exchange TRX, Jalan Sultan Ismail and Kuala Lumpur City Centre, Bukit Bintang is highly popular among corporate executives, finance professionals, entrepreneurs, technology workers and multinational company employees. Its strategic location allows tenants to live close to major offices while enjoying one of Kuala Lumpur's most vibrant neighbourhoods."
+        "icon": "fas fa-briefcase",
+        "title": "Close to Major Business & Employment Hubs",
+        "description": "Located near KLCC, The Exchange TRX, Jalan Sultan Ismail and Kuala Lumpur City Centre, Bukit Bintang is highly popular among corporate executives, finance professionals, entrepreneurs, technology workers and multinational company employees. Its strategic location allows tenants to live close to major offices while enjoying one of Kuala Lumpur's most vibrant neighbourhoods."
       },
       {
-        "icon":"fas fa-shopping-bag",
-        "title":"World-Class Shopping, Lifestyle & Entertainment",
-        "description":"Residents enjoy immediate access to Pavilion Kuala Lumpur, The Exchange TRX, Starhill Gallery, Fahrenheit88, Lot 10, Berjaya Times Square and numerous luxury retail destinations. This combination of shopping, dining, entertainment and lifestyle experiences makes Bukit Bintang one of the most desirable places to rent a room in Kuala Lumpur."
+        "icon": "fas fa-shopping-bag",
+        "title": "World-Class Shopping, Lifestyle & Entertainment",
+        "description": "Residents enjoy immediate access to Pavilion Kuala Lumpur, The Exchange TRX, Starhill Gallery, Fahrenheit88, Lot 10, Berjaya Times Square and numerous luxury retail destinations. This combination of shopping, dining, entertainment and lifestyle experiences makes Bukit Bintang one of the most desirable places to rent a room in Kuala Lumpur."
       },
       {
-        "icon":"fas fa-utensils",
-        "title":"Famous Food, Dining & Nightlife Destination",
-        "description":"Bukit Bintang is renowned for Jalan Alor, international restaurants, cafes, rooftop bars, entertainment venues and nightlife attractions. Residents enjoy endless dining and leisure options within walking distance, making the area especially attractive to expatriates, young professionals and digital nomads."
+        "icon": "fas fa-utensils",
+        "title": "Famous Food, Dining & Nightlife Destination",
+        "description": "Bukit Bintang is renowned for Jalan Alor, international restaurants, cafes, rooftop bars, entertainment venues and nightlife attractions. Residents enjoy endless dining and leisure options within walking distance, making the area especially attractive to expatriates, young professionals and digital nomads."
       },
       {
-        "icon":"fas fa-building",
-        "title":"Premium Condominiums with Modern Facilities",
-        "description":"Many residential developments in Bukit Bintang feature 24-hour security, swimming pools, fitness centres, coworking spaces, resident lounges, landscaped gardens, concierge services and modern lifestyle facilities. These premium amenities contribute to Bukit Bintang's reputation as one of Kuala Lumpur's top residential destinations."
+        "icon": "fas fa-building",
+        "title": "Premium Condominiums with Modern Facilities",
+        "description": "Many residential developments in Bukit Bintang feature 24-hour security, swimming pools, fitness centres, coworking spaces, resident lounges, landscaped gardens, concierge services and modern lifestyle facilities. These premium amenities contribute to Bukit Bintang's reputation as one of Kuala Lumpur's top residential destinations."
       },
       {
-        "icon":"fas fa-users",
-        "title":"Preferred by Expatriates, Students & Professionals",
-        "description":"Bukit Bintang consistently attracts expatriates, university students, remote workers, digital nomads, corporate executives and working professionals seeking a convenient city-centre location with excellent transportation, lifestyle amenities and employment opportunities."
+        "icon": "fas fa-users",
+        "title": "Preferred by Expatriates, Students & Professionals",
+        "description": "Bukit Bintang consistently attracts expatriates, university students, remote workers, digital nomads, corporate executives and working professionals seeking a convenient city-centre location with excellent transportation, lifestyle amenities and employment opportunities."
       },
       {
-        "icon":"fas fa-chart-line",
-        "title":"One of Kuala Lumpur's Most Sought-After Rental Locations",
-        "description":"Bukit Bintang remains one of the highest-demand rental markets in Kuala Lumpur due to its strategic location, MRT accessibility, business opportunities, entertainment attractions and premium residential developments. The area consistently ranks among the most searched and preferred locations for room rental, condominium rental and city-centre accommodation in Kuala Lumpur."
+        "icon": "fas fa-chart-line",
+        "title": "One of Kuala Lumpur's Most Sought-After Rental Locations",
+        "description": "Bukit Bintang remains one of the highest-demand rental markets in Kuala Lumpur due to its strategic location, MRT accessibility, business opportunities, entertainment attractions and premium residential developments. The area consistently ranks among the most searched and preferred locations for room rental, condominium rental and city-centre accommodation in Kuala Lumpur."
       }
     ],
-    "popularResidences":[
+    "popularResidences": [
       "Pavilion Residences",
       "Pavilion Suites",
       "Lucentia Residences",
@@ -883,7 +383,7 @@
       "Agile Bukit Bintang",
       "The Ritz-Carlton Residences Kuala Lumpur"
     ],
-    "nearbyLandmarks":[
+    "nearbyLandmarks": [
       "Pavilion Kuala Lumpur",
       "The Exchange TRX",
       "Petronas Twin Towers",
@@ -905,7 +405,7 @@
       "Jalan Sultan Ismail",
       "Bukit Ceylon"
     ],
-    "nearbyUniversities":[
+    "nearbyUniversities": [
       "Universiti Kuala Lumpur (UniKL)",
       "Universiti Tun Abdul Razak (UNIRAZAK)",
       "Asia Pacific University (APU)",
@@ -919,7 +419,7 @@
       "HELP University",
       "Manipal International University"
     ],
-    "majorEmployers":[
+    "majorEmployers": [
       "Petronas",
       "Maybank",
       "CIMB Group",
@@ -947,261 +447,733 @@
       "J.P. Morgan"
     ]
   },
-  "recentlyRented":[
+  "transitStations": [
     {
-      "title":"Master Room at Sky Suites",
-      "price":1600,
-      "rentedDate":"2026-06-01"
+      "name": "Bukit Bintang MRT Station",
+      "slug": "bukit-bintang-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "2 mins walk",
+      "distanceMeters": 150,
+      "distanceText": "2 mins walk (150 m)",
+      "title": "Bukit Bintang MRT Station",
+      "shortDescription": "Bukit Bintang MRT Station is the primary transit hub serving Kuala Lumpur's Golden Triangle. It provides direct connectivity to TRX, Merdeka, Pasar Seni, Cochrane and other major commercial districts, making it one of the most sought-after locations for room rental in Kuala Lumpur.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "Pavilion Kuala Lumpur",
+        "Starhill Gallery",
+        "Fahrenheit88",
+        "Lot 10"
+      ],
+      "nearbyResidences": [
+        "Pavilion Residences",
+        "Pavilion Suites",
+        "Fahrenheit Suites",
+        "Dorsett Residences"
+      ],
+      "popularSearches": [
+        "Room near Bukit Bintang MRT",
+        "Master room Bukit Bintang MRT",
+        "Studio near Bukit Bintang MRT"
+      ]
     },
     {
-      "title":"Single Room at Parkview",
-      "price":850,
-      "rentedDate":"2026-05-29"
+      "name": "Bukit Bintang Monorail Station",
+      "slug": "bukit-bintang-monorail",
+      "stationType": "MONORAIL",
+      "line": "KL Monorail Line",
+      "walkingTime": "3 mins walk",
+      "distanceMeters": 250,
+      "distanceText": "3 mins walk (250 m)",
+      "title": "Bukit Bintang Monorail Station",
+      "shortDescription": "Bukit Bintang Monorail Station connects residents to KL Sentral, Chow Kit, Titiwangsa and the wider Kuala Lumpur city centre. It is one of the most searched transit stations for room rental due to its proximity to shopping malls and entertainment districts.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "Pavilion Kuala Lumpur",
+        "Jalan Alor",
+        "Fahrenheit88"
+      ],
+      "nearbyResidences": [
+        "Bintang Fairlane",
+        "Agile Bukit Bintang",
+        "Tribeca Serviced Suites"
+      ],
+      "popularSearches": [
+        "Room near Bukit Bintang Monorail",
+        "Condo room Bukit Bintang",
+        "Furnished room Bukit Bintang"
+      ]
+    },
+    {
+      "name": "Imbi Monorail Station",
+      "slug": "imbi-monorail",
+      "stationType": "MONORAIL",
+      "line": "KL Monorail Line",
+      "walkingTime": "6 mins walk",
+      "distanceMeters": 500,
+      "distanceText": "6 mins walk (500 m)",
+      "title": "Imbi Monorail Station",
+      "shortDescription": "Imbi Monorail Station is located beside Berjaya Times Square and provides excellent access to Bukit Bintang's residential and commercial zones. Popular among students, professionals and expatriates seeking affordable room rentals near public transport.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "Berjaya Times Square",
+        "Jalan Alor",
+        "Bukit Bintang"
+      ],
+      "nearbyResidences": [
+        "Lucentia Residence",
+        "Times Square Residences",
+        "Robertson Residences"
+      ],
+      "popularSearches": [
+        "Room near Imbi Monorail",
+        "Cheap room Bukit Bintang",
+        "Studio room near Times Square"
+      ]
+    },
+    {
+      "name": "TRX MRT Station",
+      "slug": "trx-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line & Putrajaya Line",
+      "walkingTime": "10 mins walk",
+      "distanceMeters": 800,
+      "distanceText": "10 mins walk (800 m)",
+      "title": "Tun Razak Exchange MRT Station",
+      "shortDescription": "TRX MRT Station serves Malaysia's international financial district and provides direct access to The Exchange TRX. It is highly popular among finance professionals, expatriates and corporate executives searching for room rentals near TRX and Bukit Bintang.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "The Exchange TRX",
+        "TRX Financial District",
+        "Bukit Bintang"
+      ],
+      "nearbyResidences": [
+        "Lucentia Residence",
+        "Agile Bukit Bintang",
+        "Tribeca Serviced Suites"
+      ],
+      "popularSearches": [
+        "Room near TRX MRT",
+        "TRX room rental",
+        "Room near Exchange TRX"
+      ]
+    },
+    {
+      "name": "Hang Tuah MRT Station",
+      "slug": "hang-tuah-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "12 mins walk",
+      "distanceMeters": 950,
+      "distanceText": "12 mins walk (950 m)",
+      "title": "Hang Tuah MRT Station",
+      "shortDescription": "Hang Tuah MRT Station connects Bukit Bintang with Merdeka, Pasar Seni and the broader MRT network. It is a strategic station for tenants looking for affordable accommodation near Kuala Lumpur city centre.",
+      "averageRoomRent": 1250,
+      "nearbyLandmarks": [
+        "Berjaya Times Square",
+        "LaLaport BBCC",
+        "Bukit Bintang"
+      ],
+      "nearbyResidences": [
+        "Opus Residences",
+        "Lucentia Residence",
+        "The Robertson"
+      ],
+      "popularSearches": [
+        "Room near Hang Tuah MRT",
+        "Room rental near BBCC",
+        "Affordable room Bukit Bintang"
+      ]
+    },
+    {
+      "name": "Hang Tuah Monorail Station",
+      "slug": "hang-tuah-monorail",
+      "stationType": "MONORAIL",
+      "line": "KL Monorail Line",
+      "walkingTime": "12 mins walk",
+      "distanceMeters": 950,
+      "distanceText": "12 mins walk (950 m)",
+      "title": "Hang Tuah Monorail Station",
+      "shortDescription": "Hang Tuah Monorail Station is a major interchange connecting Bukit Bintang, KL Sentral and northern Kuala Lumpur. It is popular among students, office workers and tenants looking for affordable room rentals with excellent public transport access.",
+      "averageRoomRent": 1250,
+      "nearbyLandmarks": [
+        "LaLaport BBCC",
+        "Berjaya Times Square",
+        "Bukit Bintang"
+      ],
+      "nearbyResidences": [
+        "Lucentia Residence",
+        "Opus Residences",
+        "The Robertson"
+      ],
+      "popularSearches": [
+        "Room near Hang Tuah Monorail",
+        "BBCC room rental",
+        "Affordable room near Bukit Bintang"
+      ]
+    },
+    {
+      "name": "Raja Chulan Monorail Station",
+      "slug": "raja-chulan-monorail",
+      "stationType": "MONORAIL",
+      "line": "KL Monorail Line",
+      "walkingTime": "8 mins walk",
+      "distanceMeters": 650,
+      "distanceText": "8 mins walk (650 m)",
+      "title": "Raja Chulan Monorail Station",
+      "shortDescription": "Raja Chulan Monorail Station serves the Golden Triangle business district and is highly searched by professionals looking for room rentals near offices, shopping malls and entertainment venues in Bukit Bintang.",
+      "averageRoomRent": 1450,
+      "nearbyLandmarks": [
+        "Pavilion Kuala Lumpur",
+        "Menara Hap Seng",
+        "Jalan Alor"
+      ],
+      "nearbyResidences": [
+        "The Ritz-Carlton Residences",
+        "Dorsett Residences",
+        "Verdant Hill"
+      ],
+      "popularSearches": [
+        "Room near Raja Chulan Monorail",
+        "Bukit Bintang room rental",
+        "Golden Triangle room for rent"
+      ]
+    },
+    {
+      "name": "Merdeka MRT Station",
+      "slug": "merdeka-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "15 mins walk",
+      "distanceMeters": 1200,
+      "distanceText": "15 mins walk (1.2 km)",
+      "title": "Merdeka MRT Station",
+      "shortDescription": "Merdeka MRT Station provides direct access to Bukit Bintang, Pasar Seni, TRX and Kuala Lumpur city centre. It is increasingly popular among tenants seeking affordable room rentals with MRT connectivity.",
+      "averageRoomRent": 1200,
+      "nearbyLandmarks": [
+        "Merdeka 118",
+        "Stadium Merdeka",
+        "Bukit Bintang"
+      ],
+      "nearbyResidences": [
+        "Opus Residences",
+        "The Robertson",
+        "Lucentia Residence"
+      ],
+      "popularSearches": [
+        "Room near Merdeka MRT",
+        "Merdeka 118 room rental",
+        "MRT room Kuala Lumpur"
+      ]
+    },
+    {
+      "name": "Conlay MRT Station",
+      "slug": "conlay-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "10 mins walk",
+      "distanceMeters": 800,
+      "distanceText": "10 mins walk (800 m)",
+      "title": "Conlay MRT Station",
+      "shortDescription": "Conlay MRT Station connects Bukit Bintang with KLCC, TRX and major commercial districts. It is a preferred location for expatriates and professionals searching for premium room rentals in Kuala Lumpur city centre.",
+      "averageRoomRent": 1450,
+      "nearbyLandmarks": [
+        "Pavilion Kuala Lumpur",
+        "TRX",
+        "KLCC"
+      ],
+      "nearbyResidences": [
+        "The RuMa Residences",
+        "The Mews",
+        "Agile Bukit Bintang"
+      ],
+      "popularSearches": [
+        "Room near Conlay MRT",
+        "Premium room Bukit Bintang",
+        "KLCC MRT room rental"
+      ]
+    },
+    {
+      "name": "Pudu LRT Station",
+      "slug": "pudu-lrt",
+      "stationType": "LRT",
+      "line": "Ampang Line",
+      "walkingTime": "15 mins walk",
+      "distanceMeters": 1200,
+      "distanceText": "15 mins walk (1.2 km)",
+      "title": "Pudu LRT Station",
+      "shortDescription": "Pudu LRT Station offers affordable access to Bukit Bintang, TRX and central Kuala Lumpur. It is popular among tenants looking for budget-friendly rooms with excellent public transportation.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "Pudu Plaza",
+        "Berjaya Times Square",
+        "TRX"
+      ],
+      "nearbyResidences": [
+        "Casa Mutiara",
+        "Pudu Impian",
+        "Skyline Embassy"
+      ],
+      "popularSearches": [
+        "Room near Pudu LRT",
+        "Cheap room Bukit Bintang",
+        "Affordable room Kuala Lumpur"
+      ]
+    },
+    {
+      "name": "KLCC LRT Station",
+      "slug": "klcc-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "18 mins walk",
+      "distanceMeters": 1500,
+      "distanceText": "18 mins walk (1.5 km)",
+      "title": "KLCC LRT Station",
+      "shortDescription": "KLCC LRT Station provides direct connectivity to Kuala Lumpur's most prestigious business and lifestyle district. Many expatriates search for room rentals between Bukit Bintang and KLCC due to convenient transport links.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "Petronas Twin Towers",
+        "Suria KLCC",
+        "KLCC Park"
+      ],
+      "nearbyResidences": [
+        "Sky Suites KLCC",
+        "Soho Suites KLCC",
+        "Marc Residence"
+      ],
+      "popularSearches": [
+        "Room near KLCC LRT",
+        "KLCC room rental",
+        "Expat room Kuala Lumpur"
+      ]
     }
   ],
-  "roomRequests":[
+  "nearbyAreas": [
     {
-      "gender":"Male",
-      "budget":900,
-      "occupation":"Software Engineer"
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 1800,
+      "mrtAccess": true,
+      "distanceFromArea": 2,
+      "popularFor": "Expats, Corporate Professionals, Luxury Living",
+      "description": "KLCC is Kuala Lumpur's premier business and lifestyle district. Popular for luxury condominiums, fully furnished rooms, multinational offices, Petronas Twin Towers and excellent MRT connectivity."
     },
     {
-      "gender":"Female",
-      "budget":1200,
-      "occupation":"Accountant"
+      "name": "TRX",
+      "slug": "trx",
+      "averageRent": 1700,
+      "mrtAccess": true,
+      "distanceFromArea": 1,
+      "popularFor": "Finance Professionals, Executives, Expats",
+      "description": "Tun Razak Exchange (TRX) is Malaysia's international financial district offering premium residences, direct MRT access, corporate offices and strong demand for room rentals."
     },
     {
-      "gender":"Any",
-      "budget":1500,
-      "occupation":"Student"
+      "name": "Pudu",
+      "slug": "pudu",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 1,
+      "popularFor": "Budget Renters, Students, Working Professionals",
+      "description": "Pudu provides affordable room rentals near Bukit Bintang with convenient MRT and LRT access, shopping centres, food streets and excellent city-centre connectivity."
+    },
+    {
+      "name": "KL Sentral",
+      "slug": "kl-sentral",
+      "averageRent": 1400,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Professionals, Students, Expats",
+      "description": "KL Sentral is Kuala Lumpur's largest transportation hub offering direct access to offices, universities, shopping malls and room rental options for commuters."
+    },
+    {
+      "name": "Brickfields",
+      "slug": "brickfields",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Students, Professionals, Digital Nomads",
+      "description": "Brickfields offers affordable furnished rooms near KL Sentral, making it a popular choice for tenants seeking convenience and excellent public transport."
+    },
+    {
+      "name": "Chow Kit",
+      "slug": "chow-kit",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Workers, Budget Renters",
+      "description": "Chow Kit provides affordable room rentals close to Kuala Lumpur city centre with easy access to offices, markets and public transportation."
+    },
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 6,
+      "popularFor": "Young Professionals, Expats",
+      "description": "Bangsar is one of Kuala Lumpur's most desirable rental locations known for cafes, nightlife, offices, MRT stations and premium furnished accommodation."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 1700,
+      "mrtAccess": false,
+      "distanceFromArea": 8,
+      "popularFor": "Expats, Families, International Community",
+      "description": "Mont Kiara is a prestigious expatriate neighbourhood featuring luxury condominiums, international schools, embassies and premium room rental options."
+    },
+    {
+      "name": "Ampang",
+      "slug": "ampang",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Expats, Families, Professionals",
+      "description": "Ampang is popular among expatriates due to Embassy Row, international schools, hospitals and convenient access to KLCC and Bukit Bintang."
+    },
+    {
+      "name": "Cheras",
+      "slug": "cheras",
+      "averageRent": 950,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Students, Budget Renters",
+      "description": "Cheras is one of Kuala Lumpur's largest residential districts offering affordable rooms, MRT access and excellent value for tenants."
+    },
+    {
+      "name": "Damansara",
+      "slug": "damansara",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Professionals, Families",
+      "description": "Damansara combines modern residences, offices, shopping malls and MRT accessibility, making it a highly sought-after rental location."
+    },
+    {
+      "name": "TTDI",
+      "slug": "ttdi",
+      "averageRent": 1450,
+      "mrtAccess": true,
+      "distanceFromArea": 11,
+      "popularFor": "Professionals, Expats",
+      "description": "TTDI is known for its parks, cafes, MRT stations and quality residential environment, attracting professionals seeking comfortable accommodation."
+    },
+    {
+      "name": "Bandar Utama",
+      "slug": "bandar-utama",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 13,
+      "popularFor": "Families, Professionals",
+      "description": "Bandar Utama offers excellent public transport, One Utama Shopping Centre, business offices and strong demand for room rentals."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 15,
+      "popularFor": "Students, Professionals",
+      "description": "Petaling Jaya remains one of the largest rental markets in Greater Kuala Lumpur with universities, offices, malls and extensive rail connectivity."
+    },
+    {
+      "name": "Bukit Jalil",
+      "slug": "bukit-jalil",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Students, Professionals",
+      "description": "Bukit Jalil is a rapidly growing residential hub known for affordable rooms, modern condominiums, universities and excellent rail access."
     }
   ],
-  "faqs":[
+  "popularSearches": [
     {
-      "question":"How much does a room for rent in Bukit Bintang cost?",
-      "answer":"Room rental prices in Bukit Bintang, Kuala Lumpur typically range from RM800 to RM2500 per month. Prices depend on room type, furnishing, condo facilities, floor level, and proximity to MRT, Monorail, and Pavilion KL."
+      "title": "Bukit Bintang Room for Rent",
+      "url": "/room-rental-bukit-bintang"
     },
     {
-      "question":"Is Bukit Bintang a good area to live in Kuala Lumpur?",
-      "answer":"Yes, Bukit Bintang is one of the most desirable areas in Kuala Lumpur due to its central location, MRT and Monorail connectivity, shopping malls like Pavilion KL, restaurants, and easy access to KLCC and business districts."
+      "title": "Cheap Room Bukit Bintang",
+      "url": "/cheap-room-bukit-bintang"
     },
     {
-      "question":"Where can I find cheap rooms in Bukit Bintang?",
-      "answer":"Affordable rooms in Bukit Bintang can be found in nearby areas such as Imbi, Pudu, and Jalan Alor surroundings. These locations are still within walking distance or one MRT stop from Bukit Bintang."
+      "title": "Condo for Rent Bukit Bintang",
+      "url": "/condo-rental-bukit-bintang"
     },
     {
-      "question":"Are there furnished rooms for rent in Bukit Bintang?",
-      "answer":"Yes, most rentals in Bukit Bintang offer fully furnished rooms, especially in condominiums and serviced apartments. Common furnishings include bed, mattress, wardrobe, air-conditioning, WiFi, and shared kitchen access."
+      "title": "Studio Apartment Bukit Bintang",
+      "url": "/studio-apartment-bukit-bintang"
     },
     {
-      "question":"Is Bukit Bintang close to MRT and public transport?",
-      "answer":"Bukit Bintang is directly connected to MRT and Monorail stations, making it one of the most accessible areas in Kuala Lumpur. It offers fast connectivity to KLCC, Chinatown, and other major city areas."
+      "title": "Room Near Bukit Bintang MRT",
+      "url": "/room-near-bukit-bintang-mrt"
     },
     {
-      "question":"Who should rent a room in Bukit Bintang?",
-      "answer":"Bukit Bintang is ideal for working professionals, expats, students, and short-term tenants who want central city living with access to offices, malls, nightlife, and public transport."
+      "title": "Furnished Room Bukit Bintang",
+      "url": "/furnished-room-bukit-bintang"
     },
     {
-      "question":"What is the difference between Bukit Bintang and KLCC for renting?",
-      "answer":"Bukit Bintang is more lifestyle and entertainment focused with shopping and nightlife, while KLCC is more business-oriented with premium high-rise residences. Bukit Bintang offers more diverse rental price options."
+      "title": "Short Term Rental Bukit Bintang",
+      "url": "/short-term-rental-bukit-bintang"
     },
     {
-      "question":"Are short-term rentals available in Bukit Bintang?",
-      "answer":"Yes, Bukit Bintang has many short-term rental options including serviced apartments and monthly rentals, making it suitable for tourists, digital nomads, and business travelers."
-    },
-    {
-      "question":"Is Bukit Bintang safe for foreigners and expats?",
-      "answer":"Yes, Bukit Bintang is generally safe and heavily monitored due to its high tourist activity, shopping centers, and nightlife. Standard urban safety precautions are still recommended."
-    },
-    {
-      "question":"Which nearby areas are cheaper than Bukit Bintang but still close?",
-      "answer":"Nearby areas such as Imbi, Pudu, and Chow Kit offer more affordable rentals while still providing quick access to Bukit Bintang via walking, MRT, or short rides."
-    },
-    {
-      "question":"Is Bukit Bintang suitable for students looking for accommodation?",
-      "answer":"Yes, students often choose Bukit Bintang due to its central location, public transport access, and availability of budget rooms in nearby areas like Imbi and Pudu."
-    },
-    {
-      "question":"Can I find luxury condos for rent in Bukit Bintang?",
-      "answer":"Yes, Bukit Bintang offers many luxury condominiums and serviced residences with facilities like swimming pools, gyms, security, and city skyline views."
-    },
-    {
-      "question":"How far is Bukit Bintang from KLCC?",
-      "answer":"Bukit Bintang is approximately 5 to 10 minutes away from KLCC by MRT or car, making it one of the most convenient central locations in Kuala Lumpur."
-    },
-    {
-      "question":"Is it easy to find monthly rental rooms in Bukit Bintang?",
-      "answer":"Yes, monthly rental rooms are widely available in Bukit Bintang, especially in shared apartments and serviced residences catering to expats and working professionals."
-    },
-    {
-      "question":"What makes Bukit Bintang popular for rental property search in Kuala Lumpur?",
-      "answer":"Bukit Bintang is popular due to its central location, strong MRT connectivity, entertainment options, shopping malls, and wide range of rental options from budget rooms to luxury condos."
+      "title": "Expats Room Bukit Bintang",
+      "url": "/expat-room-bukit-bintang"
     }
-  ]
-},
-"focusKeywords":[
-"Bukit Bintang room for rent",
-"Bukit Bintang condo for rent",
-"Bukit Bintang apartment for rent",
-"room for rent Bukit Bintang Kuala Lumpur",
-"cheap room for rent Bukit Bintang",
-"furnished room Bukit Bintang KL",
-"Bukit Bintang KL rental apartment",
-"room near Bukit Bintang MRT station",
-"Pavilion KL condo for rent",
-"Jalan Alor room for rent",
-"Bukit Bintang KL city center rental",
-"studio apartment Bukit Bintang for rent",
-"serviced apartment Bukit Bintang",
-"monthly room rental Bukit Bintang",
-"expat housing Bukit Bintang KL"
-],
-"longTailKeywords":[
-"fully furnished room for rent near Bukit Bintang MRT Kuala Lumpur",
-"cheap single room walking distance to Pavilion KL Bukit Bintang",
-"studio condo for rent in Bukit Bintang KL city center for expats",
-"monthly rental room near Jalan Alor food street Kuala Lumpur",
-"short term furnished apartment Bukit Bintang KL for foreigners",
-"budget room near Bukit Bintang nightlife area Kuala Lumpur",
-"no deposit room for rent Bukit Bintang KL",
-"master room for rent in Bukit Bintang condominium with facilities",
-"high floor condo rental with KL skyline view Bukit Bintang",
-"walkable MRT access room rental Bukit Bintang KL"
-],
-"intentMapping":{
-"student":[
-"cheap room bukit bintang",
-"single room near MRT bukit bintang",
-"budget room KL city center"
-],
-"expat":[
-"furnished condo bukit bintang",
-"studio apartment KL city center rental",
-"serviced apartment bukit bintang KL"
-],
-"professional":[
-"condo near bukit bintang MRT",
-"luxury apartment KL city center",
-"high rise condo KL skyline view"
-],
-"shortStay":[
-"short term rental bukit bintang",
-"monthly furnished apartment KL",
-"airbnb style apartment bukit bintang"
-],
-"highIntentBuyer":[
-"ready to move room bukit bintang",
-"available immediate occupancy KL room",
-"no agent fee room bukit bintang"
-]
-},
-"seo":{
-"primaryKeyword":"Bukit Bintang room for rent",
-"secondaryKeywords":[
-"Bukit Bintang condo for rent",
-"Bukit Bintang apartment for rent",
-"room near Bukit Bintang MRT",
-"cheap room Bukit Bintang Kuala Lumpur",
-"furnished room Bukit Bintang",
-"KL city center rental Bukit Bintang",
-"Pavilion KL condo for rent",
-"Jalan Alor room rental",
-"Bukit Bintang expat housing",
-"studio apartment Bukit Bintang KL"
-],
-"seoScore":93,
-"canonicalUrl":"https://yourdomain.com/kuala-lumpur/bukit-bintang/room-for-rent",
-"schemaType":"Apartment",
-"intentCluster":"city-lifestyle-rentals",
-"contentCluster":[
-"budget rooms KL city center",
-"nightlife district rentals",
-"MRT connected apartments Bukit Bintang",
-"expat lifestyle housing KL",
-"short term rentals Kuala Lumpur",
-"Pavilion KL area condos"
-],
-"internalLinking":{
-"relatedAreas":[
-"KLCC",
-"Imbi",
-"Pudu",
-"Chinatown KL",
-"Dang Wangi",
-"Mont Kiara",
-"Bangsar"
-],
-"nearbyHotspots":[
-"Pavilion Kuala Lumpur",
-"Jalan Alor Food Street",
-"Lot 10 Shopping Centre",
-"Berjaya Times Square",
-"Changkat Bukit Bintang Nightlife",
-"Fahrenheit 88"
-]
-},
-"relatedSearchPages":[
-{
-"title":"Bukit Bintang Rooms for Rent",
-"url":"/room-rental-bukit-bintang",
-"keyword":"bukit bintang room for rent"
-},
-{
-"title":"Bukit Bintang Condos for Rent",
-"url":"/condo-for-rent-bukit-bintang",
-"keyword":"bukit bintang condo for rent"
-},
-{
-"title":"Cheap Rooms in Bukit Bintang",
-"url":"/cheap-room-bukit-bintang",
-"keyword":"cheap room bukit bintang"
-},
-{
-"title":"Rooms Near Bukit Bintang MRT",
-"url":"/room-near-bukit-bintang-mrt",
-"keyword":"room near bukit bintang mrt"
-},
-{
-"title":"KL City Centre Budget Rentals",
-"url":"/kl-city-centre-budget-rentals",
-"keyword":"kl city center rental bukit bintang"
-}
-],
-"internalPages":[
-{
-"title":"Bukit Bintang Area Guide",
-"url":"/area-guide-bukit-bintang",
-"type":"guide"
-},
-{
-"title":"Bukit Bintang Price Guide 2026",
-"url":"/price-guide-bukit-bintang",
-"type":"pricing"
-},
-{
-"title":"Bukit Bintang MRT & Monorail Guide",
-"url":"/bukit-bintang-mrt-guide",
-"type":"transport"
-},
-{
-"title":"Luxury Condos in Bukit Bintang",
-"url":"/luxury-condo-bukit-bintang",
-"type":"listing-category"
-},
-{
-"title":"Furnished Rooms Bukit Bintang",
-"url":"/furnished-room-bukit-bintang",
-"type":"listing-category"
-},
-{
-"title":"Nightlife Area Rentals KL",
-"url":"/nightlife-rental-bukit-bintang",
-"type":"lifestyle"
-},
-{
-"title":"Short Term Rentals Bukit Bintang",
-"url":"/short-term-rental-bukit-bintang",
-"type":"rental-type"
-}
-]
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a room for rent in Bukit Bintang cost?",
+      "answer": "Room rental prices in Bukit Bintang, Kuala Lumpur typically range from RM800 to RM2500 per month. Prices depend on room type, furnishing, condo facilities, floor level, and proximity to MRT, Monorail, and Pavilion KL."
+    },
+    {
+      "question": "Is Bukit Bintang a good area to live in Kuala Lumpur?",
+      "answer": "Yes, Bukit Bintang is one of the most desirable areas in Kuala Lumpur due to its central location, MRT and Monorail connectivity, shopping malls like Pavilion KL, restaurants, and easy access to KLCC and business districts."
+    },
+    {
+      "question": "Where can I find cheap rooms in Bukit Bintang?",
+      "answer": "Affordable rooms in Bukit Bintang can be found in nearby areas such as Imbi, Pudu, and Jalan Alor surroundings. These locations are still within walking distance or one MRT stop from Bukit Bintang."
+    },
+    {
+      "question": "Are there furnished rooms for rent in Bukit Bintang?",
+      "answer": "Yes, most rentals in Bukit Bintang offer fully furnished rooms, especially in condominiums and serviced apartments. Common furnishings include bed, mattress, wardrobe, air-conditioning, WiFi, and shared kitchen access."
+    },
+    {
+      "question": "Is Bukit Bintang close to MRT and public transport?",
+      "answer": "Bukit Bintang is directly connected to MRT and Monorail stations, making it one of the most accessible areas in Kuala Lumpur. It offers fast connectivity to KLCC, Chinatown, and other major city areas."
+    },
+    {
+      "question": "Who should rent a room in Bukit Bintang?",
+      "answer": "Bukit Bintang is ideal for working professionals, expats, students, and short-term tenants who want central city living with access to offices, malls, nightlife, and public transport."
+    },
+    {
+      "question": "What is the difference between Bukit Bintang and KLCC for renting?",
+      "answer": "Bukit Bintang is more lifestyle and entertainment focused with shopping and nightlife, while KLCC is more business-oriented with premium high-rise residences. Bukit Bintang offers more diverse rental price options."
+    },
+    {
+      "question": "Are short-term rentals available in Bukit Bintang?",
+      "answer": "Yes, Bukit Bintang has many short-term rental options including serviced apartments and monthly rentals, making it suitable for tourists, digital nomads, and business travelers."
+    },
+    {
+      "question": "Is Bukit Bintang safe for foreigners and expats?",
+      "answer": "Yes, Bukit Bintang is generally safe and heavily monitored due to its high tourist activity, shopping centers, and nightlife. Standard urban safety precautions are still recommended."
+    },
+    {
+      "question": "Which nearby areas are cheaper than Bukit Bintang but still close?",
+      "answer": "Nearby areas such as Imbi, Pudu, and Chow Kit offer more affordable rentals while still providing quick access to Bukit Bintang via walking, MRT, or short rides."
+    },
+    {
+      "question": "Is Bukit Bintang suitable for students looking for accommodation?",
+      "answer": "Yes, students often choose Bukit Bintang due to its central location, public transport access, and availability of budget rooms in nearby areas like Imbi and Pudu."
+    },
+    {
+      "question": "Can I find luxury condos for rent in Bukit Bintang?",
+      "answer": "Yes, Bukit Bintang offers many luxury condominiums and serviced residences with facilities like swimming pools, gyms, security, and city skyline views."
+    },
+    {
+      "question": "How far is Bukit Bintang from KLCC?",
+      "answer": "Bukit Bintang is approximately 5 to 10 minutes away from KLCC by MRT or car, making it one of the most convenient central locations in Kuala Lumpur."
+    },
+    {
+      "question": "Is it easy to find monthly rental rooms in Bukit Bintang?",
+      "answer": "Yes, monthly rental rooms are widely available in Bukit Bintang, especially in shared apartments and serviced residences catering to expats and working professionals."
+    },
+    {
+      "question": "What makes Bukit Bintang popular for rental property search in Kuala Lumpur?",
+      "answer": "Bukit Bintang is popular due to its central location, strong MRT connectivity, entertainment options, shopping malls, and wide range of rental options from budget rooms to luxury condos."
+    }
+  ],
+  "focusKeywords": [
+    "Bukit Bintang room for rent",
+    "Bukit Bintang condo for rent",
+    "Bukit Bintang apartment for rent",
+    "room for rent Bukit Bintang Kuala Lumpur",
+    "cheap room for rent Bukit Bintang",
+    "furnished room Bukit Bintang KL",
+    "Bukit Bintang KL rental apartment",
+    "room near Bukit Bintang MRT station",
+    "Pavilion KL condo for rent",
+    "Jalan Alor room for rent",
+    "Bukit Bintang KL city center rental",
+    "studio apartment Bukit Bintang for rent",
+    "serviced apartment Bukit Bintang",
+    "monthly room rental Bukit Bintang",
+    "expat housing Bukit Bintang KL"
+  ],
+  "longTailKeywords": [
+    "fully furnished room for rent near Bukit Bintang MRT Kuala Lumpur",
+    "cheap single room walking distance to Pavilion KL Bukit Bintang",
+    "studio condo for rent in Bukit Bintang KL city center for expats",
+    "monthly rental room near Jalan Alor food street Kuala Lumpur",
+    "short term furnished apartment Bukit Bintang KL for foreigners",
+    "budget room near Bukit Bintang nightlife area Kuala Lumpur",
+    "no deposit room for rent Bukit Bintang KL",
+    "master room for rent in Bukit Bintang condominium with facilities",
+    "high floor condo rental with KL skyline view Bukit Bintang",
+    "walkable MRT access room rental Bukit Bintang KL"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room bukit bintang",
+      "single room near MRT bukit bintang",
+      "budget room KL city center"
+    ],
+    "expat": [
+      "furnished condo bukit bintang",
+      "studio apartment KL city center rental",
+      "serviced apartment bukit bintang KL"
+    ],
+    "professional": [
+      "condo near bukit bintang MRT",
+      "luxury apartment KL city center",
+      "high rise condo KL skyline view"
+    ],
+    "shortStay": [
+      "short term rental bukit bintang",
+      "monthly furnished apartment KL",
+      "airbnb style apartment bukit bintang"
+    ],
+    "highIntentBuyer": [
+      "ready to move room bukit bintang",
+      "available immediate occupancy KL room",
+      "no agent fee room bukit bintang"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Bukit Bintang room for rent",
+    "secondaryKeywords": [
+      "Bukit Bintang condo for rent",
+      "Bukit Bintang apartment for rent",
+      "room near Bukit Bintang MRT",
+      "cheap room Bukit Bintang Kuala Lumpur",
+      "furnished room Bukit Bintang",
+      "KL city center rental Bukit Bintang",
+      "Pavilion KL condo for rent",
+      "Jalan Alor room rental",
+      "Bukit Bintang expat housing",
+      "studio apartment Bukit Bintang KL"
+    ],
+    "seoScore": 93,
+    "canonicalUrl": "https://yourdomain.com/kuala-lumpur/bukit-bintang/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "city-lifestyle-rentals",
+    "contentCluster": [
+      "budget rooms KL city center",
+      "nightlife district rentals",
+      "MRT connected apartments Bukit Bintang",
+      "expat lifestyle housing KL",
+      "short term rentals Kuala Lumpur",
+      "Pavilion KL area condos"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "KLCC",
+        "Imbi",
+        "Pudu",
+        "Chinatown KL",
+        "Dang Wangi",
+        "Mont Kiara",
+        "Bangsar"
+      ],
+      "nearbyHotspots": [
+        "Pavilion Kuala Lumpur",
+        "Jalan Alor Food Street",
+        "Lot 10 Shopping Centre",
+        "Berjaya Times Square",
+        "Changkat Bukit Bintang Nightlife",
+        "Fahrenheit 88"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Bukit Bintang Rooms for Rent",
+        "url": "/room-rental-bukit-bintang",
+        "keyword": "bukit bintang room for rent"
+      },
+      {
+        "title": "Bukit Bintang Condos for Rent",
+        "url": "/condo-for-rent-bukit-bintang",
+        "keyword": "bukit bintang condo for rent"
+      },
+      {
+        "title": "Cheap Rooms in Bukit Bintang",
+        "url": "/cheap-room-bukit-bintang",
+        "keyword": "cheap room bukit bintang"
+      },
+      {
+        "title": "Rooms Near Bukit Bintang MRT",
+        "url": "/room-near-bukit-bintang-mrt",
+        "keyword": "room near bukit bintang mrt"
+      },
+      {
+        "title": "KL City Centre Budget Rentals",
+        "url": "/kl-city-centre-budget-rentals",
+        "keyword": "kl city center rental bukit bintang"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Bukit Bintang Area Guide",
+        "url": "/area-guide-bukit-bintang",
+        "type": "guide"
+      },
+      {
+        "title": "Bukit Bintang Price Guide 2026",
+        "url": "/price-guide-bukit-bintang",
+        "type": "pricing"
+      },
+      {
+        "title": "Bukit Bintang MRT & Monorail Guide",
+        "url": "/bukit-bintang-mrt-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in Bukit Bintang",
+        "url": "/luxury-condo-bukit-bintang",
+        "type": "listing-category"
+      },
+      {
+        "title": "Furnished Rooms Bukit Bintang",
+        "url": "/furnished-room-bukit-bintang",
+        "type": "listing-category"
+      },
+      {
+        "title": "Nightlife Area Rentals KL",
+        "url": "/nightlife-rental-bukit-bintang",
+        "type": "lifestyle"
+      },
+      {
+        "title": "Short Term Rentals Bukit Bintang",
+        "url": "/short-term-rental-bukit-bintang",
+        "type": "rental-type"
+      }
+    ]
+  }
 }
