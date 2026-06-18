@@ -1,0 +1,1168 @@
+{
+  "area": {
+    "name": "Bangsar",
+    "slug": "bangsar",
+    "heroImage": "assets/images/areas/bangsar.jpg",
+    "metaTitle": "Rooms for Rent in Bangsar | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Bangsar near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Bangsar – Complete Guide to Room Rental in Kuala Lumpur's Most Popular Lifestyle Neighbourhood",
+    "description": "Bangsar is one of the most prestigious, vibrant and highly searched locations for room rental in Kuala Lumpur. Known for its premium residential communities, excellent public transportation, thriving café culture, international dining scene and strategic city-centre location, Bangsar attracts expatriates, corporate professionals, entrepreneurs, university students, digital nomads, medical professionals and families seeking a high-quality urban lifestyle. Whether you are searching for a master room for rent in Bangsar, a single room near Bangsar LRT Station, a fully furnished room in Bangsar South, a studio apartment near KL Sentral, a luxury condominium rental in Bangsar Heights or an affordable room near Jalan Telawi, Bangsar offers a diverse range of accommodation options suitable for every budget and lifestyle. Residents enjoy seamless connectivity to KL Sentral, Mid Valley City, KLCC, Damansara Heights, Mont Kiara, Petaling Jaya and Kuala Lumpur City Centre while benefiting from world-class amenities, modern condominiums, shopping destinations, coworking spaces, healthcare facilities and renowned educational institutions. Popular landmarks such as Bangsar Village, Bangsar Shopping Centre (BSC), Jalan Telawi, Mid Valley Megamall, The Gardens Mall and Bangsar South continue to make Bangsar one of the most desirable and in-demand rental property markets in Kuala Lumpur for long-term tenants and expatriates.",
+    "buttonText": "Explore Bangsar Rental Guide",
+    "buttonLink": "/room-rental-bangsar",
+    "highlights": [
+      "Large selection of master rooms, medium rooms, single rooms, studio apartments, serviced residences and luxury condominiums for rent in Bangsar",
+      "Walking distance to Bangsar Village, Bangsar Shopping Centre, Jalan Telawi, Bangsar South, Mid Valley Megamall and The Gardens Mall",
+      "Excellent connectivity via Bangsar LRT Station, Abdullah Hukum LRT Station, KL Sentral, MRT Putrajaya Line and RapidKL bus services",
+      "One of Kuala Lumpur's most sought-after rental locations for expatriates, professionals, entrepreneurs and students",
+      "Direct access to KL Sentral, Mid Valley City, KLCC, Damansara Heights, Mont Kiara and Petaling Jaya",
+      "Wide range of fully furnished, semi-furnished, luxury and affordable room rental options",
+      "Premium condominiums featuring swimming pools, gyms, coworking spaces, landscaped gardens and 24-hour security",
+      "Popular location for multinational executives, healthcare professionals and remote workers",
+      "Surrounded by cafes, restaurants, lifestyle hubs, wellness centres and entertainment venues",
+      "Strong rental demand throughout the year due to its strategic location and expatriate community",
+      "One of Malaysia's highest searched locations for room rental, condominium rental and apartment rental",
+      "Ideal for tenants seeking convenience, prestige, lifestyle amenities and excellent public transportation"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Excellent LRT, MRT & Public Transportation Connectivity",
+        "description": "Bangsar offers exceptional public transportation through Bangsar LRT Station, Abdullah Hukum LRT Station, KL Sentral, MRT Putrajaya Line and extensive RapidKL bus services. Residents enjoy fast access to KLCC, Bukit Bintang, Mid Valley City, Damansara Heights, Mont Kiara, Petaling Jaya, Cyberjaya and Kuala Lumpur International Airport, making Bangsar one of the best-connected residential locations in Kuala Lumpur."
+      },
+      {
+        "icon": "fas fa-home",
+        "title": "Master Rooms, Single Rooms, Studios & Luxury Condominiums",
+        "description": "Bangsar provides a diverse range of rental accommodation including master rooms, medium rooms, single rooms, shared rooms, studio apartments, serviced residences, co-living spaces and luxury condominiums. Whether you are looking for a fully furnished room near Bangsar Village, a budget-friendly room close to Bangsar LRT or a premium serviced apartment in Bangsar South, the area offers rental options suitable for every tenant profile."
+      },
+      {
+        "icon": "fas fa-briefcase",
+        "title": "Close to Major Business & Employment Hubs",
+        "description": "Bangsar's strategic location places residents near KL Sentral, Mid Valley City, Bangsar South, KLCC, Damansara Heights and Kuala Lumpur City Centre. The area is highly popular among executives, finance professionals, technology workers, consultants, entrepreneurs and multinational employees seeking accommodation near major office districts."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Premium Shopping, Lifestyle & Entertainment",
+        "description": "Residents enjoy convenient access to Bangsar Village, Bangsar Shopping Centre (BSC), Mid Valley Megamall, The Gardens Mall, NU Sentral and Pavilion Kuala Lumpur. The area offers premium shopping experiences, entertainment venues, cinemas, wellness centres and lifestyle attractions that attract both locals and expatriates."
+      },
+      {
+        "icon": "fas fa-utensils",
+        "title": "Famous Food, Cafes & Dining Scene",
+        "description": "Bangsar is widely recognised as one of Kuala Lumpur's top dining destinations. Jalan Telawi and surrounding neighbourhoods feature award-winning restaurants, international cuisine, trendy cafes, rooftop bars, artisan coffee shops and vibrant nightlife, making Bangsar especially popular among young professionals and expatriates."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Modern Condominiums with Premium Facilities",
+        "description": "Many residential developments in Bangsar feature swimming pools, fitness centres, coworking spaces, business lounges, landscaped gardens, concierge services, covered parking and 24-hour security. These premium amenities contribute to Bangsar's reputation as one of Kuala Lumpur's most desirable residential neighbourhoods."
+      },
+      {
+        "icon": "fas fa-users",
+        "title": "Preferred by Expats, Professionals & Families",
+        "description": "Bangsar consistently attracts expatriates, corporate executives, healthcare professionals, university students, remote workers and families seeking a convenient location with excellent transportation, quality education, healthcare services and lifestyle amenities."
+      },
+      {
+        "icon": "fas fa-chart-line",
+        "title": "One of Kuala Lumpur's Strongest Rental Markets",
+        "description": "Bangsar remains one of the highest-demand rental markets in Kuala Lumpur due to its strategic location, premium residential developments, transportation connectivity, employment opportunities and vibrant lifestyle environment. The area consistently ranks among the most searched locations for room rental, apartment rental and condominium rental in Malaysia."
+      }
+    ],
+    "popularResidences": [
+      "Bangsar Peak",
+      "The Estate Bangsar",
+      "One Menerung",
+      "Bangsar Puteri",
+      "The Park Residences",
+      "The Horizon Residences",
+      "Bangsar Heights Pavilion",
+      "Ara Residence",
+      "Residensi 38 Bangsar",
+      "Nadia Parkfront Residences",
+      "South View Serviced Apartments",
+      "The Vertical Bangsar South",
+      "KL Gateway Residences",
+      "Novum Bangsar South",
+      "Camellia Serviced Suites",
+      "The Village Residences",
+      "Alila Bangsar",
+      "The Serai",
+      "The Atrium",
+      "Pantai Hillpark"
+    ],
+    "nearbyLandmarks": [
+      "Bangsar Village",
+      "Bangsar Shopping Centre (BSC)",
+      "Jalan Telawi",
+      "Mid Valley Megamall",
+      "The Gardens Mall",
+      "KL Sentral",
+      "Bangsar South",
+      "NU Sentral",
+      "University of Malaya Medical Centre (UMMC)",
+      "Pantai Hospital Kuala Lumpur",
+      "Menara TM",
+      "KL Eco City",
+      "Abdullah Hukum LRT Station",
+      "Bangsar LRT Station",
+      "Muzium Negara MRT Station",
+      "Brickfields",
+      "Damansara Heights",
+      "KLCC",
+      "Petaling Jaya",
+      "Taman Rimba Bukit Kerinchi"
+    ],
+    "nearbyUniversities": [
+      "University of Malaya (UM)",
+      "Asia e University",
+      "Open University Malaysia (OUM)",
+      "INTI International College Kuala Lumpur",
+      "SEGi College Kuala Lumpur",
+      "HELP University",
+      "Taylor's University City Campus",
+      "Universiti Kuala Lumpur (UniKL)",
+      "University of Cyberjaya City Campus",
+      "UCSI University"
+    ],
+    "majorEmployers": [
+      "Telekom Malaysia",
+      "Axiata Group",
+      "Petronas",
+      "Maybank",
+      "CIMB Group",
+      "HSBC Malaysia",
+      "Standard Chartered",
+      "PwC",
+      "Deloitte",
+      "EY",
+      "KPMG",
+      "Accenture",
+      "IBM Malaysia",
+      "Oracle Malaysia",
+      "Microsoft Malaysia",
+      "Shopee Malaysia",
+      "Grab Malaysia",
+      "Lazada Malaysia",
+      "British American Tobacco Malaysia",
+      "IHH Healthcare",
+      "Pantai Hospital Group",
+      "University of Malaya Medical Centre",
+      "Maxis",
+      "CelcomDigi",
+      "Telekom Malaysia Global Services"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Pusat Bandar Damansara MRT Station",
+      "slug": "pusat-bandar-damansara-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 2800,
+      "distanceText": "8 mins drive (2.8 km)",
+      "title": "Pusat Bandar Damansara MRT Station",
+      "shortDescription": "The primary MRT station serving Bangsar and Damansara Heights. Popular among professionals commuting to KLCC, TRX, Bukit Bintang and KL Sentral. Many tenants search for rooms near this MRT due to excellent connectivity.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "Bangsar Shopping Centre",
+        "Damansara Heights",
+        "Semantan"
+      ],
+      "nearbyResidences": [
+        "Bangsar Peak",
+        "Bangsar Puteri",
+        "The Estate"
+      ],
+      "popularSearches": [
+        "Room near Pusat Bandar Damansara MRT",
+        "Bangsar MRT room rent",
+        "Condo room Bangsar"
+      ]
+    },
+    {
+      "name": "Bangsar LRT Station",
+      "slug": "bangsar-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1800,
+      "distanceText": "5 mins drive (1.8 km)",
+      "title": "Bangsar LRT Station",
+      "shortDescription": "Bangsar LRT Station provides direct access to KL Sentral, KLCC, Subang Jaya and Petaling Jaya. It remains one of the most searched transit stations for room rental in Bangsar.",
+      "averageRoomRent": 1450,
+      "nearbyLandmarks": [
+        "KL Gateway",
+        "Bangsar South",
+        "KL Sentral"
+      ],
+      "nearbyResidences": [
+        "KL Gateway Residences",
+        "Bangsar South",
+        "Novum Bangsar South"
+      ],
+      "popularSearches": [
+        "Room near Bangsar LRT",
+        "Bangsar room for rent",
+        "Room near KL Sentral"
+      ]
+    },
+    {
+      "name": "Abdullah Hukum LRT Station",
+      "slug": "abdullah-hukum-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "6 mins drive",
+      "distanceMeters": 2200,
+      "distanceText": "6 mins drive (2.2 km)",
+      "title": "Abdullah Hukum LRT Station",
+      "shortDescription": "A major transit hub connecting Bangsar residents to Mid Valley City, KL Sentral and Kuala Lumpur city centre. Highly preferred by working professionals.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "Mid Valley Megamall",
+        "The Gardens Mall",
+        "Bangsar South"
+      ],
+      "nearbyResidences": [
+        "South View",
+        "Novum Bangsar South",
+        "The Vertical"
+      ],
+      "popularSearches": [
+        "Room near Abdullah Hukum",
+        "Mid Valley room rental",
+        "Bangsar South room"
+      ]
+    },
+    {
+      "name": "KL Sentral MRT Station",
+      "slug": "kl-sentral-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 3500,
+      "distanceText": "8 mins drive (3.5 km)",
+      "title": "KL Sentral MRT Station",
+      "shortDescription": "Malaysia's largest transportation hub offering direct access to MRT, LRT, Monorail, ETS and KLIA Express. Popular among tenants working across Kuala Lumpur.",
+      "averageRoomRent": 1600,
+      "nearbyLandmarks": [
+        "KL Sentral",
+        "NU Sentral",
+        "Brickfields"
+      ],
+      "nearbyResidences": [
+        "Suasana Sentral",
+        "Sentral Residence",
+        "The Sentral Residences"
+      ],
+      "popularSearches": [
+        "Room near KL Sentral",
+        "KL Sentral room rent",
+        "Rental near KL Sentral"
+      ]
+    },
+    {
+      "name": "Semantan MRT Station",
+      "slug": "semantan-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "7 mins drive",
+      "distanceMeters": 2500,
+      "distanceText": "7 mins drive (2.5 km)",
+      "title": "Semantan MRT Station",
+      "shortDescription": "Semantan MRT serves Bangsar and Damansara Heights residents, providing fast connections to Bukit Bintang, TRX, Tun Razak Exchange and central Kuala Lumpur.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "Damansara Heights",
+        "Bangsar",
+        "Pusat Bandar Damansara"
+      ],
+      "nearbyResidences": [
+        "The Estate",
+        "Bangsar Peak",
+        "One Menerung"
+      ],
+      "popularSearches": [
+        "Room near Semantan MRT",
+        "Damansara Heights room rent",
+        "Bangsar condo room"
+      ]
+    },
+    {
+      "name": "Universiti LRT Station",
+      "slug": "universiti-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "6 mins drive",
+      "distanceMeters": 2400,
+      "distanceText": "6 mins drive (2.4 km)",
+      "title": "Universiti LRT Station",
+      "shortDescription": "Popular among students and working professionals due to its proximity to University of Malaya, Bangsar South and Petaling Jaya.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "University of Malaya",
+        "Bangsar South",
+        "Kerinchi"
+      ],
+      "nearbyResidences": [
+        "South View",
+        "The Vertical",
+        "Pantai Hillpark"
+      ],
+      "popularSearches": [
+        "Room near Universiti LRT",
+        "UM room rental",
+        "Student room Bangsar"
+      ]
+    },
+    {
+      "name": "Muzium Negara MRT Station",
+      "slug": "muzium-negara-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "9 mins drive",
+      "distanceMeters": 4000,
+      "distanceText": "9 mins drive (4 km)",
+      "title": "Muzium Negara MRT Station",
+      "shortDescription": "Strategically located next to KL Sentral, connecting Bangsar residents to the entire Klang Valley MRT network.",
+      "averageRoomRent": 1550,
+      "nearbyLandmarks": [
+        "KL Sentral",
+        "National Museum",
+        "Brickfields"
+      ],
+      "nearbyResidences": [
+        "Sentral Suites",
+        "Suasana Sentral",
+        "The Sentral Residences"
+      ],
+      "popularSearches": [
+        "Room near Muzium Negara MRT",
+        "KL Sentral room rent",
+        "Rental near MRT Kajang Line"
+      ]
+    },
+    {
+      "name": "Kerinchi LRT Station",
+      "slug": "kerinchi-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1900,
+      "distanceText": "5 mins drive (1.9 km)",
+      "title": "Kerinchi LRT Station",
+      "shortDescription": "Located in Bangsar South, Kerinchi LRT is a highly searched station among professionals working in corporate offices around Bangsar and KL Sentral.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "Bangsar South",
+        "The Vertical",
+        "KL Gateway"
+      ],
+      "nearbyResidences": [
+        "Novum Bangsar South",
+        "South View",
+        "KL Gateway Residences"
+      ],
+      "popularSearches": [
+        "Room near Kerinchi LRT",
+        "Bangsar South room rent",
+        "Rental near Kerinchi"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 900,
+      "maxPrice": 1400
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 1200,
+      "maxPrice": 1800
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1600,
+      "maxPrice": 2600
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 2500,
+      "maxPrice": 5000
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1550,
+    "priceGrowth": 5.8,
+    "demandLevel": "Very High",
+    "vacancyRate": 1.8
+  },
+  "nearbyAreas": [
+    {
+      "name": "Bangsar South",
+      "slug": "bangsar-south",
+      "averageRent": 1400,
+      "mrtAccess": true,
+      "distanceFromArea": 2,
+      "popularFor": "Professionals, Tech Workers",
+      "description": "Modern integrated township offering premium room rentals, corporate offices, LRT connectivity and co-living spaces."
+    },
+    {
+      "name": "KL Sentral",
+      "slug": "kl-sentral",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Professionals, Students",
+      "description": "Malaysia's largest transport hub with strong demand for room rentals among working professionals."
+    },
+    {
+      "name": "Mid Valley",
+      "slug": "mid-valley",
+      "averageRent": 1350,
+      "mrtAccess": true,
+      "distanceFromArea": 2,
+      "popularFor": "Professionals, Expats",
+      "description": "Popular commercial and residential district near offices, shopping malls and public transportation."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 1800,
+      "mrtAccess": false,
+      "distanceFromArea": 7,
+      "popularFor": "Expats, Families",
+      "description": "Luxury expatriate neighbourhood known for international schools, premium condominiums and high-end living."
+    },
+    {
+      "name": "Damansara Heights",
+      "slug": "damansara-heights",
+      "averageRent": 1900,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Executives, Expats",
+      "description": "Prestigious residential area featuring luxury homes, embassies and premium rental properties."
+    },
+    {
+      "name": "TTDI",
+      "slug": "ttdi",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 6,
+      "popularFor": "Professionals, Expats",
+      "description": "Highly desirable neighbourhood with MRT access, cafes, parks and modern residential developments."
+    },
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 7,
+      "popularFor": "Professionals, Expats",
+      "description": "Kuala Lumpur's prime business district with luxury condos, multinational offices and world-class amenities."
+    },
+    {
+      "name": "Bukit Bintang",
+      "slug": "bukit-bintang",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 6,
+      "popularFor": "Professionals, Expats",
+      "description": "Lifestyle and entertainment district offering premium rentals, nightlife and shopping destinations."
+    },
+    {
+      "name": "Brickfields",
+      "slug": "brickfields",
+      "averageRent": 950,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Students, Professionals",
+      "description": "Affordable rental destination near KL Sentral with excellent public transportation."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Students, Professionals",
+      "description": "Large city offering diverse rental options, offices, universities and lifestyle amenities."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Bangsar",
+      "url": "/master-room-rental-bangsar"
+    },
+    {
+      "title": "Single Room Bangsar",
+      "url": "/single-room-rental-bangsar"
+    },
+    {
+      "title": "Condo Room Bangsar",
+      "url": "/condo-room-rental-bangsar"
+    },
+    {
+      "title": "Room Near Bangsar LRT",
+      "url": "/room-near-bangsar-lrt"
+    },
+    {
+      "title": "Room Near KL Sentral",
+      "url": "/room-near-kl-sentral"
+    },
+    {
+      "title": "Bangsar South Room Rental",
+      "url": "/room-rental-bangsar-south"
+    },
+    {
+      "title": "Studio Apartment Bangsar",
+      "url": "/studio-room-bangsar"
+    },
+    {
+      "title": "Expat Room Rental Bangsar",
+      "url": "/expat-room-rental-bangsar"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a room for rent in Bangsar cost?",
+      "answer": "Room rental prices in Bangsar generally range from RM800 to RM2500 per month depending on room type, furnishing, condominium facilities, proximity to LRT/MRT stations and location within Bangsar."
+    },
+    {
+      "question": "Where can I find cheap rooms for rent in Bangsar?",
+      "answer": "Affordable rooms in Bangsar can be found around Bangsar South, Kerinchi, Pantai Dalam and nearby areas while still enjoying excellent connectivity to Bangsar's commercial and lifestyle districts."
+    },
+    {
+      "question": "Are there fully furnished rooms available in Bangsar?",
+      "answer": "Yes. Many Bangsar room rentals come fully furnished with beds, wardrobes, air conditioning, WiFi, washing machines, kitchen access and condominium facilities."
+    },
+    {
+      "question": "What types of rooms are available in Bangsar?",
+      "answer": "Bangsar offers master rooms, medium rooms, single rooms, shared rooms, studio units, private rooms and co-living spaces in condominiums, serviced residences and apartments."
+    },
+    {
+      "question": "How much is a master room for rent in Bangsar?",
+      "answer": "Master room rentals in Bangsar typically range from RM1300 to RM2800 per month depending on the condominium, room size, attached bathroom and included facilities."
+    },
+    {
+      "question": "How much is a medium room for rent in Bangsar?",
+      "answer": "Medium room rentals in Bangsar usually range between RM1000 and RM1800 per month depending on property type, furnishing and location."
+    },
+    {
+      "question": "How much is a single room for rent in Bangsar?",
+      "answer": "Single rooms in Bangsar generally cost between RM800 and RM1400 per month depending on accessibility, property condition and amenities."
+    },
+    {
+      "question": "Are studio apartments available for rent in Bangsar?",
+      "answer": "Yes. Bangsar offers many studio apartments and serviced residences that provide private living spaces with attached bathrooms, kitchenettes and modern facilities."
+    },
+    {
+      "question": "Can I find monthly room rental in Bangsar?",
+      "answer": "Yes. Most Bangsar rental properties are available on monthly tenancy agreements, with some landlords offering flexible short-term and long-term rental arrangements."
+    },
+    {
+      "question": "Are there rooms near Bangsar LRT Station?",
+      "answer": "Yes. Many condominiums and apartments are located within walking distance or a short commute from Bangsar LRT Station, making them highly attractive to professionals and students."
+    },
+    {
+      "question": "Is Bangsar a good location for working professionals?",
+      "answer": "Yes. Bangsar is one of Kuala Lumpur's most popular residential and commercial districts, offering easy access to KL Sentral, Mid Valley, Bangsar South, KLCC and major business hubs."
+    },
+    {
+      "question": "Can I find rooms near Bangsar South offices?",
+      "answer": "Yes. Many rental rooms are located close to Bangsar South, making them ideal for professionals working in multinational companies, technology firms and shared office spaces."
+    },
+    {
+      "question": "Is Bangsar suitable for students?",
+      "answer": "Yes. Bangsar provides excellent public transportation and is conveniently located near University Malaya, HELP University, Brickfields Asia College and other educational institutions."
+    },
+    {
+      "question": "Is Bangsar popular among expatriates?",
+      "answer": "Yes. Bangsar is one of the most preferred expatriate neighbourhoods in Kuala Lumpur due to its international community, premium residences, cafes, restaurants and convenient location."
+    },
+    {
+      "question": "Can foreigners rent a room in Bangsar?",
+      "answer": "Yes. Many landlords in Bangsar welcome foreign tenants, especially in condominiums and serviced residences that are popular among expatriates."
+    },
+    {
+      "question": "Are female-only rooms available in Bangsar?",
+      "answer": "Yes. Some landlords offer female-only rooms to provide greater privacy, comfort and security for female tenants."
+    },
+    {
+      "question": "Are couple-friendly rooms available in Bangsar?",
+      "answer": "Yes. Many master rooms, studio apartments and serviced residences in Bangsar are suitable for couples, subject to landlord approval and tenancy terms."
+    },
+    {
+      "question": "Which MRT and LRT stations serve Bangsar?",
+      "answer": "Bangsar LRT Station, Abdullah Hukum LRT Station, Kerinchi LRT Station, Muzium Negara MRT Station and KL Sentral provide excellent transportation access throughout Kuala Lumpur."
+    },
+    {
+      "question": "Can I live in Bangsar without owning a car?",
+      "answer": "Yes. Bangsar offers excellent public transportation, ride-hailing services, pedestrian-friendly areas and easy access to LRT, MRT and KTM stations."
+    },
+    {
+      "question": "Are utilities included in Bangsar room rentals?",
+      "answer": "Some room rentals include electricity, water, internet and maintenance fees, while others charge utilities separately depending on landlord policies."
+    },
+    {
+      "question": "Do Bangsar rooms include WiFi and high-speed internet?",
+      "answer": "Many fully furnished rooms in Bangsar include high-speed WiFi, making them suitable for students, professionals, digital nomads and remote workers."
+    },
+    {
+      "question": "Are Bangsar rooms suitable for remote workers?",
+      "answer": "Yes. Bangsar offers reliable internet connectivity, coworking spaces, cafes and a professional environment that is ideal for remote work."
+    },
+    {
+      "question": "Are there rooms with private bathrooms in Bangsar?",
+      "answer": "Yes. Most master rooms and premium rental units in Bangsar come with attached private bathrooms."
+    },
+    {
+      "question": "Are condominium rooms available for rent in Bangsar?",
+      "answer": "Yes. Bangsar features numerous condominium room rentals offering swimming pools, gyms, security, parking facilities and lifestyle amenities."
+    },
+    {
+      "question": "What facilities are commonly included in Bangsar condominiums?",
+      "answer": "Typical facilities include swimming pools, fitness centres, 24-hour security, CCTV monitoring, access card systems, landscaped gardens and recreational areas."
+    },
+    {
+      "question": "Is parking available with Bangsar room rentals?",
+      "answer": "Many condominiums and serviced apartments offer parking facilities, although availability depends on the landlord and rental package."
+    },
+    {
+      "question": "Are there move-in ready rooms in Bangsar?",
+      "answer": "Yes. Many Bangsar rooms are fully furnished and move-in ready with beds, wardrobes, air conditioning, kitchen appliances and internet access."
+    },
+    {
+      "question": "Are shared rooms available in Bangsar?",
+      "answer": "Yes. Shared rooms are available and are popular among students, young professionals and tenants seeking lower monthly rental costs."
+    },
+    {
+      "question": "Are short-term room rentals available in Bangsar?",
+      "answer": "Some landlords offer short-term rental options depending on property regulations, availability and tenancy agreements."
+    },
+    {
+      "question": "What documents are required to rent a room in Bangsar?",
+      "answer": "Tenants typically need identification documents, rental deposits and a signed tenancy agreement before moving into a rental property."
+    },
+    {
+      "question": "How much deposit is required for Bangsar room rental?",
+      "answer": "Most landlords require a security deposit and utility deposit, usually equivalent to one or two months of rental."
+    },
+    {
+      "question": "Are Bangsar rooms pet-friendly?",
+      "answer": "Pet policies vary between landlords and building managements. Tenants should confirm pet regulations before signing a tenancy agreement."
+    },
+    {
+      "question": "Which areas near Bangsar have cheaper room rentals?",
+      "answer": "Pantai Dalam, Kerinchi, Brickfields, Seputeh, Petaling Jaya and Old Klang Road often provide more affordable rental options while maintaining convenient access to Bangsar."
+    },
+    {
+      "question": "How can I find the best room rental deals in Bangsar?",
+      "answer": "Compare listings, review transportation access, evaluate condominium facilities and search early to secure the best furnished rooms and rental deals in Bangsar."
+    },
+    {
+      "question": "Why is Bangsar one of the most popular rental areas in Kuala Lumpur?",
+      "answer": "Bangsar offers premium residences, excellent transportation, vibrant cafes, international restaurants, nightlife, corporate offices and strong demand from expatriates and professionals."
+    },
+    {
+      "question": "What property types are available for rent in Bangsar?",
+      "answer": "Tenants can find rooms in condominiums, apartments, serviced residences, SOHO units, luxury developments and co-living spaces throughout Bangsar."
+    },
+    {
+      "question": "Can I find budget-friendly rooms near Bangsar?",
+      "answer": "Yes. Budget-friendly rooms can be found in nearby neighbourhoods such as Pantai Dalam, Kerinchi, Brickfields and Seputeh while remaining close to Bangsar."
+    },
+    {
+      "question": "How do I choose the best room for rent in Bangsar?",
+      "answer": "Compare rental price, room size, furnishing level, transportation access, safety, condominium facilities, nearby amenities and your monthly budget before making a decision."
+    }
+  ],
+  "focusKeywords": [
+    "Bangsar room for rent",
+    "Bangsar condo for rent",
+    "Bangsar apartment for rent",
+    "room near Bangsar LRT",
+    "furnished room Bangsar",
+    "cheap room Bangsar Kuala Lumpur",
+    "Bangsar South room rental",
+    "luxury condo Bangsar for rent",
+    "expat housing Bangsar",
+    "Bangsar serviced apartment for rent",
+    "studio apartment Bangsar",
+    "Bangsar rental property",
+    "master room Bangsar",
+    "monthly rental Bangsar",
+    "premium condo Bangsar"
+  ],
+  "longTailKeywords": [
+    "fully furnished room for rent near Bangsar LRT station",
+    "cheap room rental in Bangsar for working professionals",
+    "luxury condo for rent in Bangsar Kuala Lumpur",
+    "expat friendly apartment for rent in Bangsar",
+    "master room with private bathroom in Bangsar",
+    "serviced apartment near Bangsar South offices",
+    "monthly room rental near Bangsar Village shopping mall",
+    "studio apartment for rent in Bangsar fully furnished",
+    "room near KL Sentral and Bangsar LRT station",
+    "premium condominium rental in Bangsar for expatriates"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room bangsar",
+      "budget room near bangsar lrt",
+      "student room near university malaya"
+    ],
+    "expat": [
+      "expat housing bangsar",
+      "furnished condo bangsar",
+      "serviced apartment bangsar"
+    ],
+    "professional": [
+      "bangsar condo near office",
+      "room near bangsar south",
+      "premium apartment bangsar"
+    ],
+    "shortStay": [
+      "short term rental bangsar",
+      "monthly rental bangsar",
+      "serviced residence bangsar"
+    ],
+    "premiumIntent": [
+      "luxury condo bangsar for rent",
+      "high end apartment bangsar",
+      "executive residence bangsar"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Bangsar room for rent",
+    "secondaryKeywords": [
+      "Bangsar condo for rent",
+      "Bangsar apartment for rent",
+      "room near Bangsar LRT",
+      "furnished room Bangsar",
+      "Bangsar South room rental",
+      "luxury condo Bangsar",
+      "expat housing Bangsar",
+      "serviced apartment Bangsar",
+      "master room Bangsar"
+    ],
+    "seoScore": 98,
+    "canonicalUrl": "https://yourdomain.com/kuala-lumpur/bangsar/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "premium-urban-rentals",
+    "contentCluster": [
+      "Bangsar room rental",
+      "Bangsar South accommodation",
+      "expat housing Kuala Lumpur",
+      "premium condominiums Bangsar",
+      "LRT connected rentals",
+      "serviced apartments Bangsar"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "KL Sentral",
+        "Bangsar South",
+        "Mont Kiara",
+        "TTDI",
+        "Damansara Heights",
+        "KLCC",
+        "Mid Valley"
+      ],
+      "nearbyHotspots": [
+        "Bangsar Village",
+        "Telawi",
+        "Mid Valley Megamall",
+        "The Gardens Mall",
+        "Bangsar South",
+        "KL Sentral"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Bangsar Rooms for Rent",
+        "url": "/room-rental-bangsar",
+        "keyword": "bangsar room for rent"
+      },
+      {
+        "title": "Bangsar Condos for Rent",
+        "url": "/condo-for-rent-bangsar",
+        "keyword": "bangsar condo for rent"
+      },
+      {
+        "title": "Cheap Rooms in Bangsar",
+        "url": "/cheap-room-bangsar",
+        "keyword": "cheap room bangsar"
+      },
+      {
+        "title": "Rooms Near Bangsar LRT",
+        "url": "/room-near-bangsar-lrt",
+        "keyword": "room near bangsar lrt"
+      },
+      {
+        "title": "Bangsar South Rentals",
+        "url": "/bangsar-south-room-rental",
+        "keyword": "bangsar south room rental"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Bangsar Area Guide",
+        "url": "/area-guide-bangsar",
+        "type": "guide"
+      },
+      {
+        "title": "Bangsar Price Guide 2026",
+        "url": "/price-guide-bangsar",
+        "type": "pricing"
+      },
+      {
+        "title": "Bangsar LRT & MRT Guide",
+        "url": "/bangsar-lrt-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in Bangsar",
+        "url": "/luxury-condo-bangsar",
+        "type": "listing-category"
+      },
+      {
+        "title": "Expat Housing Bangsar",
+        "url": "/expat-housing-bangsar",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Bangsar",
+        "url": "/furnished-room-bangsar",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Bangsar",
+        "url": "/short-term-rental-bangsar",
+        "type": "rental-type"
+      }
+    ]
+  }
+}
