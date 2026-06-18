@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import java.util.List;
+import java.util.Map;
 
 @Getter
 @Setter
@@ -24,4 +25,17 @@ public class AreasResponseDTO {
     private List<RecentlyRentedDTO> recentlyRented;
     private List<RoomRequestDTO> roomRequests;
     private List<FaqDTO> faqs;
+
+    // SEO FIELDS (ADD THESE)
+    private String metaTitle;
+    private String metaDescription;
+
+    private List<String> focusKeywords;
+    private List<String> longTailKeywords;
+
+    // Map<String, List<String>> = student, expat, etc.
+    private Map<String, List<String>> intentMapping;
+
+    // SEO LAYER (NEW)
+    private SeoMetadataDTO seo;
 }

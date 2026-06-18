@@ -1075,5 +1075,175 @@
       "question": "How do I choose the best room for rent in KLCC?",
       "answer": "Compare rental price, room type, furnishing, MRT accessibility, building facilities, safety, surrounding amenities and your monthly budget before choosing a room."
     }
-  ]
+  ],
+  "focusKeywords": [
+    "KLCC room for rent",
+    "KLCC condo for rent",
+    "KLCC apartment for rent",
+    "room near KLCC MRT",
+    "furnished room KLCC",
+    "cheap room KLCC Kuala Lumpur",
+    "KL city center rental KLCC",
+    "luxury condo KLCC for rent",
+    "Petronas Twin Towers condo rental",
+    "KLCC serviced apartment for rent",
+    "expat housing KLCC Kuala Lumpur",
+    "studio apartment KLCC for rent",
+    "high end condo KLCC",
+    "monthly rental KLCC",
+    "KLCC skyline view condo"
+  ],
+  "longTailKeywords": [
+    "furnished room for rent near KLCC MRT Kuala Lumpur walking distance",
+    "cheap room near Suria KLCC for professionals in KL city center",
+    "luxury serviced apartment KLCC with Petronas Twin Towers view",
+    "studio condo KLCC fully furnished for expats in Kuala Lumpur",
+    "monthly rental apartment KLCC walking distance to office towers",
+    "high floor KLCC condo with skyline view for rent Kuala Lumpur",
+    "short term rental KLCC furnished apartment for business travelers",
+    "no deposit room for rent KLCC Kuala Lumpur city center",
+    "premium condo rental near KLCC park and MRT station",
+    "executive apartment KLCC near Petronas Twin Towers for expats"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room klcc",
+      "budget room near klcc mrt"
+    ],
+    "expat": [
+      "furnished condo klcc",
+      "studio apartment kl city center",
+      "serviced residence klcc kuala lumpur"
+    ],
+    "professional": [
+      "luxury condo klcc",
+      "klcc apartment near office towers",
+      "high rise condo klcc skyline view"
+    ],
+    "shortStay": [
+      "short term rental klcc",
+      "airbnb style apartment klcc",
+      "monthly serviced apartment klcc"
+    ],
+    "premiumIntent": [
+      "luxury klcc condo for rent petronas view",
+      "high end apartment klcc kuala lumpur",
+      "executive residence klcc city center"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "KLCC condo for rent",
+
+    "secondaryKeywords": [
+      "KLCC room for rent",
+      "KLCC apartment for rent",
+      "KLCC serviced apartment for rent",
+      "luxury condo KLCC Kuala Lumpur",
+      "room near KLCC MRT",
+      "Petronas Twin Towers condo for rent",
+      "KL city centre apartment KLCC",
+      "expat housing KLCC Kuala Lumpur",
+      "high rise condo KLCC skyline view"
+    ],
+
+    "seoScore": 97,
+
+    "canonicalUrl": "https://yourdomain.com/kuala-lumpur/klcc/condo-for-rent",
+
+    "schemaType": "Apartment",
+
+    "intentCluster": "premium-city-center-rentals",
+
+    "contentCluster": [
+      "luxury condos KLCC",
+      "serviced apartments KLCC",
+      "expat housing Kuala Lumpur",
+      "high rise skyline units",
+      "MRT connected rentals KLCC",
+      "Petronas Twin Towers view apartments"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Bukit Bintang",
+        "Ampang",
+        "Dang Wangi",
+        "KL Sentral",
+        "Mont Kiara",
+        "Bangsar"
+      ],
+      "nearbyHotspots": [
+        "Petronas Twin Towers",
+        "Suria KLCC",
+        "KLCC Park",
+        "Avenue K",
+        "Kuala Lumpur Convention Centre",
+        "Intermark Mall"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "KLCC Rooms for Rent",
+        "url": "/room-rental-klcc",
+        "keyword": "klcc room for rent"
+      },
+      {
+        "title": "KLCC Condos for Rent",
+        "url": "/condo-for-rent-klcc",
+        "keyword": "klcc condo for rent"
+      },
+      {
+        "title": "Cheap Rooms Near KLCC",
+        "url": "/cheap-room-klcc",
+        "keyword": "cheap room near klcc"
+      },
+      {
+        "title": "Rooms Near KLCC MRT",
+        "url": "/room-near-klcc-mrt",
+        "keyword": "room near klcc mrt"
+      },
+      {
+        "title": "KL City Centre Rentals",
+        "url": "/kl-city-centre-rentals",
+        "keyword": "kl city centre apartment for rent"
+      }
+    ],
+
+    "internalPages": [
+      {
+        "title": "KLCC Area Guide",
+        "url": "/area-guide-klcc",
+        "type": "guide"
+      },
+      {
+        "title": "KLCC Price Guide 2026",
+        "url": "/price-guide-klcc",
+        "type": "pricing"
+      },
+      {
+        "title": "KLCC MRT Connectivity Guide",
+        "url": "/klcc-mrt-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in KLCC",
+        "url": "/luxury-condo-klcc",
+        "type": "listing-category"
+      },
+      {
+        "title": "Expat Housing in KLCC",
+        "url": "/expat-housing-klcc",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms KLCC",
+        "url": "/furnished-room-klcc",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals KLCC",
+        "url": "/short-term-rental-klcc",
+        "type": "rental-type"
+      }
+    ]
+  }
 }
