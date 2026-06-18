@@ -6,7 +6,7 @@
     "metaTitle": "Rooms for Rent in Bukit Bintang | RoomRentalKL",
     "metaDescription": "Find rooms for rent in Bukit Bintang near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
     "averageRent": 1300,
-    "totalListings": 128 
+    "totalListings": 128
   },
   "featuredRooms": [
     {
@@ -748,6 +748,34 @@
       ]
     }
   ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 800,
+      "maxPrice": 1300
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 1100,
+      "maxPrice": 1800
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1500,
+      "maxPrice": 2800
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 2200,
+      "maxPrice": 4500
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1650,
+    "priceGrowth": 6.2,
+    "demandLevel": "Very High",
+    "vacancyRate": 1.8
+  },
   "nearbyAreas": [
     {
       "name": "KLCC",
