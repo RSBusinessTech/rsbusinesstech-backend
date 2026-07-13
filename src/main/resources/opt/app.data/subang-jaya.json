@@ -1,0 +1,1646 @@
+{
+  "area": {
+    "name": "Subang Jaya",
+    "slug": "subang-jaya",
+    "heroImage": "assets/images/areas/subang-jaya.jpg",
+    "metaTitle": "Rooms for Rent in Subang Jaya | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Subang Jaya near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Subang Jaya – Complete Guide to Room Rental, Condo & Apartment Rental in Selangor",
+    "description": "Subang Jaya is one of the most established and highly sought-after residential and commercial townships in Selangor, offering a wide variety of room rentals, condominium rentals, serviced apartments and family homes for students, working professionals, expatriates and families. Located approximately 20 kilometres from Kuala Lumpur City Centre, Subang Jaya is renowned for its excellent transportation connectivity, world-class universities, vibrant commercial districts, shopping malls and modern residential developments. Whether you are searching for a master room for rent in Subang Jaya, single room near SS15 LRT Station, fully furnished condominium room, studio apartment, serviced residence, affordable apartment rental or luxury condominium, Subang Jaya provides accommodation options for every lifestyle and budget. The township is particularly popular among students studying at Taylor's University, Monash University Malaysia, Sunway University, INTI International University and UOW Malaysia KDU University College, as well as professionals working in Sunway, Petaling Jaya, Shah Alam, KL Sentral, Cyberjaya and Kuala Lumpur City Centre. Residents enjoy excellent connectivity through the Kelana Jaya LRT Line, KTM Komuter, BRT Sunway Line, Federal Highway, NPE, LDP, KESAS Highway, ELITE Highway and NKVE. Major landmarks including Sunway Pyramid, Empire Shopping Gallery, Subang Parade, Da Men Mall, Sunway Medical Centre, Taylor's Lakeside Campus and Sunway Lagoon further enhance the area's appeal. With its combination of education, employment, shopping, entertainment, public transportation and modern lifestyle facilities, Subang Jaya continues to be one of the strongest and most competitive rental property markets in the Klang Valley.",
+    "buttonText": "Explore Subang Jaya Rental Guide",
+    "buttonLink": "/room-rental-subang-jaya",
+    "highlights": [
+      "Wide selection of master rooms, medium rooms, single rooms, shared rooms, studio apartments and condominiums for rent in Subang Jaya",
+      "One of the most popular rental markets for students, professionals, expatriates and families",
+      "Excellent LRT, KTM and BRT connectivity throughout Klang Valley",
+      "Highly popular among students from Taylor's University, Monash University, Sunway University, INTI and UOW KDU",
+      "Excellent accessibility to Kuala Lumpur, Petaling Jaya, Shah Alam, Klang and Cyberjaya",
+      "Large selection of fully furnished rooms and serviced apartments",
+      "Modern condominiums with swimming pools, gyms, security and lifestyle facilities",
+      "Close to Sunway Pyramid, Empire Shopping Gallery, Subang Parade and Da Men Mall",
+      "Strong demand from working professionals employed in Sunway, Petaling Jaya and Kuala Lumpur",
+      "Excellent public transportation including SS15 LRT, Subang Jaya LRT, USJ7 LRT and KTM",
+      "Wide range of affordable apartments and premium luxury residences",
+      "One of Selangor's most mature and well-connected townships for long-term rental"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Excellent LRT, KTM & BRT Connectivity",
+        "description": "Subang Jaya offers outstanding transportation through Subang Jaya LRT Station, SS15 LRT Station, SS18 LRT Station, USJ7 LRT Interchange, KTM Komuter and Sunway BRT, providing convenient access throughout Klang Valley."
+      },
+      {
+        "icon": "fas fa-home",
+        "title": "Wide Range of Rental Properties",
+        "description": "Tenants can choose from master rooms, medium rooms, single rooms, private rooms, shared accommodation, serviced apartments, condominiums and luxury residences suitable for different budgets."
+      },
+      {
+        "icon": "fas fa-briefcase",
+        "title": "Perfect for Working Professionals",
+        "description": "Professionals working in Sunway, Petaling Jaya, Shah Alam, KL Sentral, Mid Valley, Bangsar and Kuala Lumpur choose Subang Jaya because of its strategic location and transportation network."
+      },
+      {
+        "icon": "fas fa-graduation-cap",
+        "title": "Malaysia's Leading Student Rental Hub",
+        "description": "Subang Jaya is one of Malaysia's top student accommodation destinations due to nearby universities including Taylor's University, Sunway University, Monash University Malaysia, INTI International University and UOW Malaysia KDU."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Lifestyle Destination",
+        "description": "Residents enjoy world-class shopping and entertainment at Sunway Pyramid, Empire Shopping Gallery, Subang Parade, Da Men Mall, cafes, restaurants, supermarkets and lifestyle outlets."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Modern Condominiums & Serviced Apartments",
+        "description": "Subang Jaya features numerous high-rise condominiums, serviced apartments and integrated developments equipped with swimming pools, gyms, security systems, lounges and recreational facilities."
+      },
+      {
+        "icon": "fas fa-heartbeat",
+        "title": "Healthcare & Daily Convenience",
+        "description": "Residents benefit from leading healthcare facilities including Sunway Medical Centre, Subang Jaya Medical Centre (SJMC), clinics, pharmacies and nearby commercial centres."
+      },
+      {
+        "icon": "fas fa-users",
+        "title": "Ideal for Families, Expats & Long-Term Tenants",
+        "description": "With excellent schools, universities, shopping malls, transportation and modern residences, Subang Jaya remains one of the preferred locations for families, expatriates, professionals and long-term renters."
+      }
+    ],
+    "popularResidences": [
+      "Subang Avenue",
+      "SS15 Courtyard",
+      "Empire SOHO",
+      "Empire Residence",
+      "The Grand Subang",
+      "Casa Tiara",
+      "DK Senza",
+      "Trefoil Setia City",
+      "USJ One",
+      "USJ Sentral",
+      "Subang Olives",
+      "Casa Subang",
+      "Isola",
+      "Dorsett Residences Subang",
+      "The Edge Residence",
+      "e-Tiara",
+      "The Regina",
+      "Sunway Geo Residences",
+      "Nadayu28",
+      "Ridzuan Condominium"
+    ],
+    "nearbyLandmarks": [
+      "SS15 LRT Station",
+      "Subang Jaya LRT & KTM Station",
+      "USJ7 LRT Station",
+      "SS18 LRT Station",
+      "Sunway BRT Station",
+      "Sunway Pyramid",
+      "Empire Shopping Gallery",
+      "Subang Parade",
+      "Da Men Mall",
+      "Sunway Lagoon",
+      "Sunway Medical Centre",
+      "Subang Jaya Medical Centre (SJMC)",
+      "Taylor's University",
+      "Sunway University",
+      "Monash University Malaysia",
+      "INTI International University",
+      "UOW Malaysia KDU University College",
+      "Federal Highway",
+      "LDP Highway",
+      "KESAS Highway"
+    ],
+    "nearbyUniversities": [
+      "Taylor's University",
+      "Sunway University",
+      "Monash University Malaysia",
+      "INTI International University",
+      "UOW Malaysia KDU University College",
+      "SEGi College Subang Jaya",
+      "The One Academy",
+      "Management & Science University (MSU)",
+      "Universiti Malaya (UM)",
+      "Asia Pacific University (APU)"
+    ],
+    "majorEmployers": [
+      "Sunway Group",
+      "Sunway Medical Centre",
+      "Taylor's Education Group",
+      "Monash University Malaysia",
+      "INTI International University",
+      "Subang Jaya Medical Centre (SJMC)",
+      "Nestlé Malaysia",
+      "Top Glove",
+      "DHL Malaysia",
+      "AirAsia",
+      "Accenture Malaysia",
+      "IBM Malaysia",
+      "Dell Technologies",
+      "Microsoft Malaysia",
+      "Grab Malaysia",
+      "PwC Malaysia",
+      "Deloitte Malaysia",
+      "EY Malaysia",
+      "KPMG Malaysia",
+      "Petronas"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Subang Jaya LRT Station",
+      "slug": "subang-jaya-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1200,
+      "distanceText": "5 mins drive (1.2 km)",
+      "title": "Subang Jaya LRT Station",
+      "shortDescription": "Subang Jaya LRT Station is one of the busiest transportation hubs in the township, connecting residents to Kuala Lumpur, KLCC, Bangsar, Kelana Jaya and other major destinations. Rental properties near the station are highly sought after by professionals and students.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "Subang Parade",
+        "Empire Shopping Gallery",
+        "Subang Jaya KTM Station"
+      ],
+      "nearbyResidences": [
+        "Subang Avenue",
+        "Empire Residence",
+        "The Grand Subang"
+      ],
+      "popularSearches": [
+        "Room near Subang Jaya LRT",
+        "Subang Jaya room rental",
+        "Condo near Subang Jaya LRT"
+      ]
+    },
+    {
+      "name": "Subang Jaya KTM Station",
+      "slug": "subang-jaya-ktm",
+      "stationType": "KTM",
+      "line": "Port Klang Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1200,
+      "distanceText": "5 mins drive (1.2 km)",
+      "title": "Subang Jaya KTM Station",
+      "shortDescription": "Subang Jaya KTM Station provides convenient commuter rail access between Klang, Shah Alam and Kuala Lumpur, making nearby rental properties attractive for daily commuters.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "Empire Shopping Gallery",
+        "Subang Parade",
+        "Subang Jaya LRT"
+      ],
+      "nearbyResidences": [
+        "Subang Avenue",
+        "Empire Residence",
+        "Casa Tiara"
+      ],
+      "popularSearches": [
+        "Room near Subang Jaya KTM",
+        "Apartment near KTM Subang",
+        "Room rental near KTM"
+      ]
+    },
+    {
+      "name": "SS15 LRT Station",
+      "slug": "ss15-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "3 mins drive",
+      "distanceMeters": 900,
+      "distanceText": "3 mins drive (900 m)",
+      "title": "SS15 LRT Station",
+      "shortDescription": "SS15 LRT Station is one of the most searched locations in Subang Jaya due to its proximity to Taylor's University, INTI University, numerous cafes, restaurants and student accommodation.",
+      "averageRoomRent": 1000,
+      "nearbyLandmarks": [
+        "SS15 Commercial Centre",
+        "Taylor's University Shuttle",
+        "INTI College"
+      ],
+      "nearbyResidences": [
+        "SS15 Courtyard",
+        "Casa Tiara",
+        "Subang Avenue"
+      ],
+      "popularSearches": [
+        "Room near SS15 LRT",
+        "Student room SS15",
+        "Master room SS15"
+      ]
+    },
+    {
+      "name": "SS18 LRT Station",
+      "slug": "ss18-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "6 mins drive",
+      "distanceMeters": 1800,
+      "distanceText": "6 mins drive (1.8 km)",
+      "title": "SS18 LRT Station",
+      "shortDescription": "SS18 LRT Station serves residents around southern Subang Jaya and offers convenient connectivity for professionals travelling towards Petaling Jaya and Kuala Lumpur.",
+      "averageRoomRent": 1050,
+      "nearbyLandmarks": [
+        "SS18 Commercial Area",
+        "Subang Business Centre",
+        "Subang Jaya"
+      ],
+      "nearbyResidences": [
+        "The Regina",
+        "Ridzuan Condominium",
+        "Subang Olives"
+      ],
+      "popularSearches": [
+        "Room near SS18 LRT",
+        "Apartment SS18",
+        "Rental near SS18"
+      ]
+    },
+    {
+      "name": "USJ7 LRT Station",
+      "slug": "usj7-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 3200,
+      "distanceText": "8 mins drive (3.2 km)",
+      "title": "USJ7 LRT Station",
+      "shortDescription": "USJ7 LRT Station is a major interchange for residents living around USJ and Subang Jaya, offering excellent accessibility to business hubs and shopping destinations.",
+      "averageRoomRent": 1150,
+      "nearbyLandmarks": [
+        "Da Men Mall",
+        "Main Place Mall",
+        "USJ Taipan"
+      ],
+      "nearbyResidences": [
+        "USJ One",
+        "USJ Sentral",
+        "Nadayu28"
+      ],
+      "popularSearches": [
+        "Room near USJ7 LRT",
+        "USJ condo rental",
+        "USJ room for rent"
+      ]
+    },
+    {
+      "name": "Sunway Lagoon BRT Station",
+      "slug": "sunway-lagoon-brt",
+      "stationType": "BRT",
+      "line": "Sunway BRT Line",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 4000,
+      "distanceText": "10 mins drive (4 km)",
+      "title": "Sunway Lagoon BRT Station",
+      "shortDescription": "Sunway Lagoon BRT Station connects residents to Sunway University, Monash University, Sunway Pyramid and Sunway Medical Centre, making it one of the busiest stations for students.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "Sunway Pyramid",
+        "Sunway Lagoon",
+        "Sunway Medical Centre"
+      ],
+      "nearbyResidences": [
+        "Sunway Geo Residences",
+        "Dorsett Residences",
+        "Isola"
+      ],
+      "popularSearches": [
+        "Room near Sunway Pyramid",
+        "Room near Monash University",
+        "Student accommodation Sunway"
+      ]
+    },
+    {
+      "name": "Setia Jaya KTM Station",
+      "slug": "setia-jaya-ktm",
+      "stationType": "KTM",
+      "line": "Port Klang Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 3500,
+      "distanceText": "8 mins drive (3.5 km)",
+      "title": "Setia Jaya KTM Station",
+      "shortDescription": "Setia Jaya KTM Station provides convenient rail access between Shah Alam, Klang and Kuala Lumpur, attracting professionals looking for affordable accommodation near public transportation.",
+      "averageRoomRent": 1050,
+      "nearbyLandmarks": [
+        "Sunway Pyramid",
+        "Sunway University",
+        "Federal Highway"
+      ],
+      "nearbyResidences": [
+        "Casa Subang",
+        "Sunway Geo",
+        "The Edge Residence"
+      ],
+      "popularSearches": [
+        "Room near Setia Jaya KTM",
+        "Subang KTM room rental",
+        "Apartment near Setia Jaya"
+      ]
+    },
+    {
+      "name": "Glenmarie LRT Station",
+      "slug": "glenmarie-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 6500,
+      "distanceText": "12 mins drive (6.5 km)",
+      "title": "Glenmarie LRT Station",
+      "shortDescription": "Glenmarie LRT Station connects Subang Jaya residents to Ara Damansara, Kelana Jaya and central Kuala Lumpur. It is popular among professionals working in nearby industrial and commercial areas.",
+      "averageRoomRent": 1200,
+      "nearbyLandmarks": [
+        "Glenmarie Industrial Park",
+        "Temasya Glenmarie",
+        "Ara Damansara"
+      ],
+      "nearbyResidences": [
+        "Temasya Residences",
+        "Casa Subang",
+        "Subang Olives"
+      ],
+      "popularSearches": [
+        "Room near Glenmarie LRT",
+        "Rental near Glenmarie",
+        "Apartment Glenmarie"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 700,
+      "maxPrice": 1300
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 950,
+      "maxPrice": 1700
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1400,
+      "maxPrice": 2600
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 1800,
+      "maxPrice": 3800
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1350,
+    "priceGrowth": 5.8,
+    "demandLevel": "Very High",
+    "vacancyRate": 2.3
+  },
+  "nearbyAreas": [
+    {
+      "name": "Sunway",
+      "slug": "sunway",
+      "averageRent": 1600,
+      "mrtAccess": false,
+      "distanceFromArea": 3,
+      "popularFor": "Students, Professionals, Expats",
+      "description": "Sunway is one of Malaysia's most popular integrated townships, offering universities, shopping malls, medical centres and premium condominiums. Many tenants compare Sunway and Subang Jaya when searching for rental properties."
+    },
+    {
+      "name": "USJ",
+      "slug": "usj",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Families, Professionals",
+      "description": "USJ provides modern residential neighbourhoods with excellent LRT connectivity, shopping malls, business centres and family-friendly housing options close to Subang Jaya."
+    },
+    {
+      "name": "Ara Damansara",
+      "slug": "ara-damansara",
+      "averageRent": 1600,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Professionals, Expats",
+      "description": "Ara Damansara is a growing residential and commercial township featuring serviced apartments, luxury condominiums, MRT connectivity and convenient access to Petaling Jaya and Subang Jaya."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1700,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Professionals, Office Workers",
+      "description": "Petaling Jaya is one of Malaysia's largest commercial hubs with extensive office buildings, shopping malls and residential developments. Many professionals commute between PJ and Subang Jaya."
+    },
+    {
+      "name": "Shah Alam",
+      "slug": "shah-alam",
+      "averageRent": 1200,
+      "mrtAccess": false,
+      "distanceFromArea": 10,
+      "popularFor": "Families, Students",
+      "description": "Shah Alam offers affordable apartments, condominiums and landed homes while maintaining excellent highway connectivity to Subang Jaya."
+    },
+    {
+      "name": "Puchong",
+      "slug": "puchong",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Professionals, Families",
+      "description": "Puchong is a mature township connected via LRT and major highways. It remains one of the strongest rental markets near Subang Jaya."
+    },
+    {
+      "name": "Bandar Sunway",
+      "slug": "bandar-sunway",
+      "averageRent": 1700,
+      "mrtAccess": false,
+      "distanceFromArea": 4,
+      "popularFor": "Students, Expats, Professionals",
+      "description": "Bandar Sunway attracts thousands of students and professionals due to Sunway University, Monash University, Sunway Pyramid and Sunway Medical Centre."
+    },
+    {
+      "name": "Kelana Jaya",
+      "slug": "kelana-jaya",
+      "averageRent": 1600,
+      "mrtAccess": true,
+      "distanceFromArea": 9,
+      "popularFor": "Professionals, Families",
+      "description": "Kelana Jaya provides convenient LRT connectivity, corporate offices, shopping centres and modern condominiums, making it a popular comparison area with Subang Jaya."
+    },
+    {
+      "name": "Glenmarie",
+      "slug": "glenmarie",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Executives, Professionals",
+      "description": "Glenmarie is known for its industrial parks, business centres and premium residential developments close to Subang Jaya."
+    },
+    {
+      "name": "Cyberjaya",
+      "slug": "cyberjaya",
+      "averageRent": 1300,
+      "mrtAccess": false,
+      "distanceFromArea": 20,
+      "popularFor": "Tech Professionals, Students",
+      "description": "Cyberjaya is Malaysia's technology hub. Many professionals working there choose Subang Jaya for its vibrant lifestyle, shopping malls and transportation connectivity."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Subang Jaya",
+      "url": "/master-room-rental-subang-jaya"
+    },
+    {
+      "title": "Single Room Subang Jaya",
+      "url": "/single-room-rental-subang-jaya"
+    },
+    {
+      "title": "Medium Room Subang Jaya",
+      "url": "/medium-room-rental-subang-jaya"
+    },
+    {
+      "title": "Condo Room Subang Jaya",
+      "url": "/condo-room-rental-subang-jaya"
+    },
+    {
+      "title": "Room Rental Subang Jaya",
+      "url": "/room-rental-subang-jaya"
+    },
+    {
+      "title": "Apartment Rental Subang Jaya",
+      "url": "/apartment-rental-subang-jaya"
+    },
+    {
+      "title": "Condo for Rent Subang Jaya",
+      "url": "/condo-for-rent-subang-jaya"
+    },
+    {
+      "title": "Cheap Room Subang Jaya",
+      "url": "/cheap-room-rental-subang-jaya"
+    },
+    {
+      "title": "Fully Furnished Room Subang Jaya",
+      "url": "/fully-furnished-room-subang-jaya"
+    },
+    {
+      "title": "Studio Apartment Subang Jaya",
+      "url": "/studio-apartment-subang-jaya"
+    },
+    {
+      "title": "Room Near Subang Jaya LRT",
+      "url": "/room-near-subang-jaya-lrt"
+    },
+    {
+      "title": "Room Near SS15 LRT",
+      "url": "/room-near-ss15-lrt"
+    },
+    {
+      "title": "Room Near SS18 LRT",
+      "url": "/room-near-ss18-lrt"
+    },
+    {
+      "title": "Room Near USJ7 LRT",
+      "url": "/room-near-usj7-lrt"
+    },
+    {
+      "title": "Room Near Subang Jaya KTM",
+      "url": "/room-near-subang-jaya-ktm"
+    },
+    {
+      "title": "Room Near Sunway University",
+      "url": "/room-near-sunway-university"
+    },
+    {
+      "title": "Room Near Taylor's University",
+      "url": "/room-near-taylors-university"
+    },
+    {
+      "title": "Room Near Monash University Malaysia",
+      "url": "/room-near-monash-university-malaysia"
+    },
+    {
+      "title": "Room Near INTI Subang",
+      "url": "/room-near-inti-subang"
+    },
+    {
+      "title": "Room Near UOW KDU Subang",
+      "url": "/room-near-uow-kdu-subang"
+    },
+    {
+      "title": "Student Room Subang Jaya",
+      "url": "/student-room-rental-subang-jaya"
+    },
+    {
+      "title": "Professional Room Subang Jaya",
+      "url": "/professional-room-rental-subang-jaya"
+    },
+    {
+      "title": "Expat Room Subang Jaya",
+      "url": "/expat-room-rental-subang-jaya"
+    },
+    {
+      "title": "Family Apartment Subang Jaya",
+      "url": "/family-apartment-subang-jaya"
+    },
+    {
+      "title": "Luxury Condo Subang Jaya",
+      "url": "/luxury-condo-subang-jaya"
+    },
+    {
+      "title": "Serviced Apartment Subang Jaya",
+      "url": "/serviced-apartment-subang-jaya"
+    },
+    {
+      "title": "Room Near Sunway Pyramid",
+      "url": "/room-near-sunway-pyramid"
+    },
+    {
+      "title": "Room Near Empire Shopping Gallery",
+      "url": "/room-near-empire-shopping-gallery"
+    },
+    {
+      "title": "Room Near Subang Parade",
+      "url": "/room-near-subang-parade"
+    },
+    {
+      "title": "Monthly Rental Subang Jaya",
+      "url": "/monthly-room-rental-subang-jaya"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a room for rent in Subang Jaya cost?",
+      "answer": "Room rental prices in Subang Jaya generally range from RM700 to RM2600 per month depending on room type, condominium quality, furnishing level, facilities, location and proximity to LRT stations, universities and commercial areas."
+    },
+    {
+      "question": "What is the average rental price in Subang Jaya?",
+      "answer": "The average room rental price in Subang Jaya is around RM1350 per month, while premium master rooms, studio apartments and luxury condominiums may cost more due to better facilities and strategic locations."
+    },
+    {
+      "question": "Is Subang Jaya a good place to rent a room?",
+      "answer": "Yes. Subang Jaya is one of the most popular rental locations in Selangor because of its excellent transportation connectivity, universities, shopping malls, business areas and wide range of residential properties."
+    },
+    {
+      "question": "Where can I find cheap rooms for rent in Subang Jaya?",
+      "answer": "Affordable rooms in Subang Jaya can be found around SS15, SS18, USJ areas and nearby apartments while still providing convenient access to LRT stations, shopping malls and educational institutions."
+    },
+    {
+      "question": "Are fully furnished rooms available for rent in Subang Jaya?",
+      "answer": "Yes. Many Subang Jaya room rentals come fully furnished with beds, wardrobes, air conditioning, WiFi, washing machines, kitchen facilities and condominium amenities."
+    },
+    {
+      "question": "What types of rooms are available for rent in Subang Jaya?",
+      "answer": "Subang Jaya offers master rooms, medium rooms, single rooms, private rooms, shared rooms, studio apartments, serviced apartments and condominium rooms suitable for students, professionals, families and expatriates."
+    },
+    {
+      "question": "How much is a master room for rent in Subang Jaya?",
+      "answer": "Master rooms in Subang Jaya typically range from RM1400 to RM2600 per month depending on room size, attached bathroom, furnishing, condominium facilities and location."
+    },
+    {
+      "question": "How much is a single room for rent in Subang Jaya?",
+      "answer": "Single rooms in Subang Jaya generally cost between RM700 and RM1300 per month depending on property type, furnishing level, included utilities and proximity to public transportation."
+    },
+    {
+      "question": "How much is a medium room for rent in Subang Jaya?",
+      "answer": "Medium rooms in Subang Jaya usually range between RM950 and RM1700 per month depending on condominium quality, room size and available facilities."
+    },
+    {
+      "question": "Are studio apartments available for rent in Subang Jaya?",
+      "answer": "Yes. Studio apartments and serviced residences are available in Subang Jaya, especially around SS15, USJ and integrated developments near commercial areas."
+    },
+    {
+      "question": "Are private rooms available near Subang Jaya LRT?",
+      "answer": "Yes. Many condominiums and apartments near Subang Jaya LRT Station offer private rooms with furnished options and easy access to public transportation."
+    },
+    {
+      "question": "Are shared rooms available in Subang Jaya?",
+      "answer": "Yes. Shared rooms are available around SS15, SS18 and nearby student areas, making them popular among students and budget tenants."
+    },
+    {
+      "question": "Is Subang Jaya suitable for students?",
+      "answer": "Yes. Subang Jaya is one of Malaysia's top student rental locations due to its proximity to Taylor's University, Sunway University, Monash University Malaysia, INTI International University and UOW Malaysia KDU."
+    },
+    {
+      "question": "Are student rooms available near Taylor's University?",
+      "answer": "Yes. Many rental rooms and apartments are available near Taylor's University with convenient access through shuttle services, roads and nearby public transportation."
+    },
+    {
+      "question": "Are rooms near Sunway University available?",
+      "answer": "Yes. Students can find rooms near Sunway University, Sunway Pyramid and Sunway Medical Centre with options ranging from affordable rooms to premium condominiums."
+    },
+    {
+      "question": "Are rooms near Monash University Malaysia available?",
+      "answer": "Yes. Subang Jaya and Bandar Sunway offer many student accommodation options near Monash University Malaysia."
+    },
+    {
+      "question": "Can foreigners rent rooms in Subang Jaya?",
+      "answer": "Yes. Many landlords in Subang Jaya accept foreign tenants, especially in condominiums, serviced apartments and fully furnished residences."
+    },
+    {
+      "question": "Is Subang Jaya suitable for expatriates?",
+      "answer": "Yes. Subang Jaya is popular among expatriates because of international universities, healthcare facilities, shopping malls, modern residences and easy access to Kuala Lumpur."
+    },
+    {
+      "question": "Are expat-friendly apartments available in Subang Jaya?",
+      "answer": "Yes. Subang Jaya offers expat-friendly condominiums and serviced apartments with facilities such as swimming pools, gyms, security and modern living spaces."
+    },
+    {
+      "question": "Can professionals rent rooms in Subang Jaya?",
+      "answer": "Yes. Working professionals choose Subang Jaya because of its connectivity to Sunway, Petaling Jaya, Shah Alam, Kuala Lumpur and major business areas."
+    },
+    {
+      "question": "Why do professionals choose Subang Jaya for rental?",
+      "answer": "Professionals prefer Subang Jaya due to affordable rental prices compared with central Kuala Lumpur, excellent transportation and proximity to commercial hubs."
+    },
+    {
+      "question": "Are rooms near Subang Jaya LRT Station available?",
+      "answer": "Yes. Rooms near Subang Jaya LRT Station are highly searched because residents can easily travel to Petaling Jaya, Bangsar, KLCC and Kuala Lumpur."
+    },
+    {
+      "question": "Are rooms near SS15 LRT Station available?",
+      "answer": "Yes. SS15 LRT Station is one of the most popular rental areas in Subang Jaya because of nearby restaurants, colleges, offices and student facilities."
+    },
+    {
+      "question": "Are rooms near USJ7 LRT Station available?",
+      "answer": "Yes. USJ7 LRT Station provides convenient access for residents in USJ and Subang Jaya, with many apartments and condominiums nearby."
+    },
+    {
+      "question": "Can I live in Subang Jaya without a car?",
+      "answer": "Yes. Subang Jaya is suitable for car-free living because residents have access to LRT, KTM, BRT services, buses and nearby commercial facilities."
+    },
+    {
+      "question": "Is Subang Jaya connected to Kuala Lumpur?",
+      "answer": "Yes. Subang Jaya has excellent highway and public transportation connections to Kuala Lumpur, Petaling Jaya, Shah Alam and other Klang Valley areas."
+    },
+    {
+      "question": "How far is Subang Jaya from Kuala Lumpur?",
+      "answer": "Subang Jaya is approximately 20 kilometres from Kuala Lumpur City Centre and can be accessed through highways and public transportation."
+    },
+    {
+      "question": "Is Subang Jaya cheaper than Petaling Jaya?",
+      "answer": "Generally, Subang Jaya offers competitive rental prices compared with many premium areas in Petaling Jaya while maintaining excellent accessibility."
+    },
+    {
+      "question": "Are utilities included in Subang Jaya room rental?",
+      "answer": "Some Subang Jaya rentals include electricity, water and internet, while others require separate payment depending on landlord agreements."
+    },
+    {
+      "question": "How much deposit is required for a room rental in Subang Jaya?",
+      "answer": "Most Subang Jaya room rentals require security and utility deposits based on monthly rental value and tenancy agreement terms."
+    },
+    {
+      "question": "What documents are needed to rent a room in Subang Jaya?",
+      "answer": "Tenants usually need identification documents, employment or student details, rental deposits and a signed tenancy agreement."
+    },
+    {
+      "question": "Is Subang Jaya safe for tenants?",
+      "answer": "Yes. Subang Jaya is considered a safe residential area with many condominiums offering security guards, CCTV monitoring and controlled access."
+    },
+    {
+      "question": "What facilities do Subang Jaya condominiums provide?",
+      "answer": "Common condominium facilities include swimming pools, gyms, security services, parking spaces, playgrounds, gardens and recreational areas."
+    },
+    {
+      "question": "Which are the best areas to rent a room in Subang Jaya?",
+      "answer": "Popular rental areas in Subang Jaya include SS15, SS18, USJ, SS17, Subang Jaya town centre and areas near LRT stations because they provide easy access to universities, offices, shopping malls and transportation."
+    },
+    {
+      "question": "Is SS15 Subang Jaya good for rental?",
+      "answer": "Yes. SS15 is one of the most popular rental areas in Subang Jaya due to its restaurants, cafes, commercial facilities, LRT connectivity and proximity to educational institutions."
+    },
+    {
+      "question": "Is USJ Subang Jaya suitable for families?",
+      "answer": "Yes. USJ offers many family-friendly apartments, condominiums, schools, parks, shopping areas and convenient access to major highways."
+    },
+    {
+      "question": "Are family apartments available in Subang Jaya?",
+      "answer": "Yes. Subang Jaya has many family rental options including 2-bedroom, 3-bedroom and larger condominium units suitable for long-term tenants."
+    },
+    {
+      "question": "What is the best condo for rent in Subang Jaya?",
+      "answer": "Popular condominium choices in Subang Jaya include SS15 Courtyard, Subang Soho, Subang Olives, Subang Parkhomes, Casa Tiara and other modern condominium developments."
+    },
+    {
+      "question": "Are luxury condos available for rent in Subang Jaya?",
+      "answer": "Yes. Subang Jaya offers premium condominiums and serviced residences with modern facilities, security, swimming pools and lifestyle amenities."
+    },
+    {
+      "question": "Is Subang Jaya good for long-term rental?",
+      "answer": "Yes. Subang Jaya has strong long-term rental demand because of universities, offices, healthcare facilities, shopping destinations and transportation connectivity."
+    },
+    {
+      "question": "What makes Subang Jaya popular among tenants?",
+      "answer": "Subang Jaya is popular because it combines affordable rental prices, strategic location, education hubs, business areas, shopping malls and excellent public transport."
+    },
+    {
+      "question": "Are rooms near Sunway Pyramid available for rent?",
+      "answer": "Yes. Many tenants search for rooms near Sunway Pyramid because it offers shopping, entertainment, restaurants, offices and easy access to Sunway University."
+    },
+    {
+      "question": "How much does a room near Sunway Pyramid cost?",
+      "answer": "Room rental prices near Sunway Pyramid generally range from affordable shared rooms to premium condominium rooms depending on distance, facilities and furnishing."
+    },
+    {
+      "question": "Is Subang Jaya good for university students?",
+      "answer": "Yes. Subang Jaya is one of the strongest student rental markets in Klang Valley due to multiple universities and colleges nearby."
+    },
+    {
+      "question": "Which universities are near Subang Jaya?",
+      "answer": "Major education institutions near Subang Jaya include Taylor's University, Sunway University, Monash University Malaysia, INTI International University and UOW Malaysia KDU."
+    },
+    {
+      "question": "Can students find affordable accommodation in Subang Jaya?",
+      "answer": "Yes. Students can find budget rooms, shared accommodation, medium rooms and affordable apartments around Subang Jaya."
+    },
+    {
+      "question": "Is Subang Jaya suitable for working professionals?",
+      "answer": "Yes. Subang Jaya is suitable for professionals working in Subang, Petaling Jaya, Shah Alam, Ara Damansara and Kuala Lumpur."
+    },
+    {
+      "question": "Are there furnished rooms near Subang Jaya KTM Station?",
+      "answer": "Yes. Many furnished rooms and apartments are available near Subang Jaya KTM Station with convenient rail connectivity."
+    },
+    {
+      "question": "What public transport is available in Subang Jaya?",
+      "answer": "Subang Jaya has LRT, KTM, BRT, buses and highway connections making it convenient for daily commuting."
+    },
+    {
+      "question": "Does Subang Jaya have LRT access?",
+      "answer": "Yes. Subang Jaya is served by LRT stations including Subang Jaya, SS15, SS18 and USJ7 stations."
+    },
+    {
+      "question": "Does Subang Jaya have KTM access?",
+      "answer": "Yes. Subang Jaya KTM Station connects residents to Petaling Jaya, Kuala Lumpur and other Klang Valley destinations."
+    },
+    {
+      "question": "Which shopping malls are near Subang Jaya?",
+      "answer": "Major shopping destinations include Sunway Pyramid, Subang Parade, Empire Shopping Gallery and SS15 commercial areas."
+    },
+    {
+      "question": "Are rooms near Empire Shopping Gallery available?",
+      "answer": "Yes. Many tenants choose rental properties near Empire Shopping Gallery because of shopping, restaurants and easy transportation access."
+    },
+    {
+      "question": "Are rooms near Subang Parade available?",
+      "answer": "Yes. Rooms near Subang Parade are popular among students and professionals because of convenient daily amenities."
+    },
+    {
+      "question": "Is Subang Jaya expensive compared with Kuala Lumpur?",
+      "answer": "Subang Jaya generally provides better rental value compared with many central Kuala Lumpur locations while offering excellent facilities and connectivity."
+    },
+    {
+      "question": "Can I find rooms under RM1000 in Subang Jaya?",
+      "answer": "Yes. Budget rooms under RM1000 are available, especially shared rooms, single rooms and older apartment units."
+    },
+    {
+      "question": "Where can I find affordable apartments in Subang Jaya?",
+      "answer": "Affordable apartments can be found around SS18, USJ and established residential areas with easy access to public transportation."
+    },
+    {
+      "question": "Are pet-friendly rentals available in Subang Jaya?",
+      "answer": "Some condominiums and landlords in Subang Jaya allow pets, but tenants should confirm pet policies before renting."
+    },
+    {
+      "question": "Can foreigners rent condominium units in Subang Jaya?",
+      "answer": "Yes. Foreign tenants commonly rent condominium units and serviced residences in Subang Jaya due to its international lifestyle environment."
+    },
+    {
+      "question": "Is Subang Jaya near Petaling Jaya?",
+      "answer": "Yes. Subang Jaya is located close to Petaling Jaya and provides convenient access through major roads and public transportation."
+    },
+    {
+      "question": "Is Subang Jaya near Shah Alam?",
+      "answer": "Yes. Subang Jaya provides convenient access to Shah Alam through highways and major roads."
+    },
+    {
+      "question": "Is Subang Jaya suitable for first-time renters?",
+      "answer": "Yes. Subang Jaya is suitable for first-time renters because it offers many rental choices, convenient transport and complete amenities."
+    },
+    {
+      "question": "What should I check before renting a room in Subang Jaya?",
+      "answer": "Tenants should check rental price, location, transportation access, room condition, utilities, facilities, tenancy terms and landlord requirements."
+    },
+    {
+      "question": "Are short-term rentals available in Subang Jaya?",
+      "answer": "Yes. Some serviced apartments and selected properties offer short-term rental options for temporary stays."
+    },
+    {
+      "question": "Can I rent a room monthly in Subang Jaya?",
+      "answer": "Yes. Monthly room rental options are available, especially in serviced residences and shared accommodation properties."
+    },
+    {
+      "question": "Are serviced apartments available in Subang Jaya?",
+      "answer": "Yes. Subang Jaya has serviced apartments offering furnished units, security, facilities and convenient locations."
+    },
+    {
+      "question": "Why rent in Subang Jaya instead of Kuala Lumpur city centre?",
+      "answer": "Many tenants choose Subang Jaya because rental prices are more affordable while still providing access to Kuala Lumpur through highways and public transportation."
+    },
+    {
+      "question": "Which are the best areas to rent a room in Subang Jaya?",
+      "answer": "Popular rental areas in Subang Jaya include SS15, SS18, USJ, SS17, Subang Jaya town centre and areas near LRT stations because they provide easy access to universities, offices, shopping malls and transportation."
+    },
+    {
+      "question": "Is SS15 Subang Jaya good for rental?",
+      "answer": "Yes. SS15 is one of the most popular rental areas in Subang Jaya due to its restaurants, cafes, commercial facilities, LRT connectivity and proximity to educational institutions."
+    },
+    {
+      "question": "Is USJ Subang Jaya suitable for families?",
+      "answer": "Yes. USJ offers many family-friendly apartments, condominiums, schools, parks, shopping areas and convenient access to major highways."
+    },
+    {
+      "question": "Are family apartments available in Subang Jaya?",
+      "answer": "Yes. Subang Jaya has many family rental options including 2-bedroom, 3-bedroom and larger condominium units suitable for long-term tenants."
+    },
+    {
+      "question": "What is the best condo for rent in Subang Jaya?",
+      "answer": "Popular condominium choices in Subang Jaya include SS15 Courtyard, Subang Soho, Subang Olives, Subang Parkhomes, Casa Tiara and other modern condominium developments."
+    },
+    {
+      "question": "Are luxury condos available for rent in Subang Jaya?",
+      "answer": "Yes. Subang Jaya offers premium condominiums and serviced residences with modern facilities, security, swimming pools and lifestyle amenities."
+    },
+    {
+      "question": "Is Subang Jaya good for long-term rental?",
+      "answer": "Yes. Subang Jaya has strong long-term rental demand because of universities, offices, healthcare facilities, shopping destinations and transportation connectivity."
+    },
+    {
+      "question": "What makes Subang Jaya popular among tenants?",
+      "answer": "Subang Jaya is popular because it combines affordable rental prices, strategic location, education hubs, business areas, shopping malls and excellent public transport."
+    },
+    {
+      "question": "Are rooms near Sunway Pyramid available for rent?",
+      "answer": "Yes. Many tenants search for rooms near Sunway Pyramid because it offers shopping, entertainment, restaurants, offices and easy access to Sunway University."
+    },
+    {
+      "question": "How much does a room near Sunway Pyramid cost?",
+      "answer": "Room rental prices near Sunway Pyramid generally range from affordable shared rooms to premium condominium rooms depending on distance, facilities and furnishing."
+    },
+    {
+      "question": "Is Subang Jaya good for university students?",
+      "answer": "Yes. Subang Jaya is one of the strongest student rental markets in Klang Valley due to multiple universities and colleges nearby."
+    },
+    {
+      "question": "Which universities are near Subang Jaya?",
+      "answer": "Major education institutions near Subang Jaya include Taylor's University, Sunway University, Monash University Malaysia, INTI International University and UOW Malaysia KDU."
+    },
+    {
+      "question": "Can students find affordable accommodation in Subang Jaya?",
+      "answer": "Yes. Students can find budget rooms, shared accommodation, medium rooms and affordable apartments around Subang Jaya."
+    },
+    {
+      "question": "Is Subang Jaya suitable for working professionals?",
+      "answer": "Yes. Subang Jaya is suitable for professionals working in Subang, Petaling Jaya, Shah Alam, Ara Damansara and Kuala Lumpur."
+    },
+    {
+      "question": "Are there furnished rooms near Subang Jaya KTM Station?",
+      "answer": "Yes. Many furnished rooms and apartments are available near Subang Jaya KTM Station with convenient rail connectivity."
+    },
+    {
+      "question": "What public transport is available in Subang Jaya?",
+      "answer": "Subang Jaya has LRT, KTM, BRT, buses and highway connections making it convenient for daily commuting."
+    },
+    {
+      "question": "Does Subang Jaya have LRT access?",
+      "answer": "Yes. Subang Jaya is served by LRT stations including Subang Jaya, SS15, SS18 and USJ7 stations."
+    },
+    {
+      "question": "Does Subang Jaya have KTM access?",
+      "answer": "Yes. Subang Jaya KTM Station connects residents to Petaling Jaya, Kuala Lumpur and other Klang Valley destinations."
+    },
+    {
+      "question": "Which shopping malls are near Subang Jaya?",
+      "answer": "Major shopping destinations include Sunway Pyramid, Subang Parade, Empire Shopping Gallery and SS15 commercial areas."
+    },
+    {
+      "question": "Are rooms near Empire Shopping Gallery available?",
+      "answer": "Yes. Many tenants choose rental properties near Empire Shopping Gallery because of shopping, restaurants and easy transportation access."
+    },
+    {
+      "question": "Are rooms near Subang Parade available?",
+      "answer": "Yes. Rooms near Subang Parade are popular among students and professionals because of convenient daily amenities."
+    },
+    {
+      "question": "Is Subang Jaya expensive compared with Kuala Lumpur?",
+      "answer": "Subang Jaya generally provides better rental value compared with many central Kuala Lumpur locations while offering excellent facilities and connectivity."
+    },
+    {
+      "question": "Can I find rooms under RM1000 in Subang Jaya?",
+      "answer": "Yes. Budget rooms under RM1000 are available, especially shared rooms, single rooms and older apartment units."
+    },
+    {
+      "question": "Where can I find affordable apartments in Subang Jaya?",
+      "answer": "Affordable apartments can be found around SS18, USJ and established residential areas with easy access to public transportation."
+    },
+    {
+      "question": "Are pet-friendly rentals available in Subang Jaya?",
+      "answer": "Some condominiums and landlords in Subang Jaya allow pets, but tenants should confirm pet policies before renting."
+    },
+    {
+      "question": "Can foreigners rent condominium units in Subang Jaya?",
+      "answer": "Yes. Foreign tenants commonly rent condominium units and serviced residences in Subang Jaya due to its international lifestyle environment."
+    },
+    {
+      "question": "Is Subang Jaya near Petaling Jaya?",
+      "answer": "Yes. Subang Jaya is located close to Petaling Jaya and provides convenient access through major roads and public transportation."
+    },
+    {
+      "question": "Is Subang Jaya near Shah Alam?",
+      "answer": "Yes. Subang Jaya provides convenient access to Shah Alam through highways and major roads."
+    },
+    {
+      "question": "Is Subang Jaya suitable for first-time renters?",
+      "answer": "Yes. Subang Jaya is suitable for first-time renters because it offers many rental choices, convenient transport and complete amenities."
+    },
+    {
+      "question": "What should I check before renting a room in Subang Jaya?",
+      "answer": "Tenants should check rental price, location, transportation access, room condition, utilities, facilities, tenancy terms and landlord requirements."
+    },
+    {
+      "question": "Are short-term rentals available in Subang Jaya?",
+      "answer": "Yes. Some serviced apartments and selected properties offer short-term rental options for temporary stays."
+    },
+    {
+      "question": "Can I rent a room monthly in Subang Jaya?",
+      "answer": "Yes. Monthly room rental options are available, especially in serviced residences and shared accommodation properties."
+    },
+    {
+      "question": "Are serviced apartments available in Subang Jaya?",
+      "answer": "Yes. Subang Jaya has serviced apartments offering furnished units, security, facilities and convenient locations."
+    },
+    {
+      "question": "Why rent in Subang Jaya instead of Kuala Lumpur city centre?",
+      "answer": "Many tenants choose Subang Jaya because rental prices are more affordable while still providing access to Kuala Lumpur through highways and public transportation."
+    }
+  ],
+  "focusKeywords": [
+    "Subang Jaya room for rent",
+    "Subang Jaya room rental",
+    "Subang Jaya condo for rent",
+    "Subang Jaya apartment for rent",
+    "room near Subang Jaya LRT",
+    "room near SS15 LRT",
+    "room near SS18 LRT",
+    "room near USJ7 LRT",
+    "room near Subang Jaya KTM",
+    "furnished room Subang Jaya",
+    "fully furnished room Subang Jaya",
+    "cheap room Subang Jaya Kuala Lumpur",
+    "affordable room rental Subang Jaya",
+    "Subang Jaya rental property",
+    "Subang Jaya condominium rental",
+    "luxury condo Subang Jaya for rent",
+    "studio apartment Subang Jaya",
+    "master room Subang Jaya",
+    "single room Subang Jaya",
+    "medium room Subang Jaya",
+    "monthly rental Subang Jaya",
+    "private room Subang Jaya",
+    "shared room Subang Jaya",
+    "student room rental Subang Jaya",
+    "professional room rental Subang Jaya",
+    "expat housing Subang Jaya",
+    "serviced apartment Subang Jaya",
+    "family apartment Subang Jaya",
+    "premium condo Subang Jaya",
+    "executive apartment Subang Jaya",
+    "LRT connected rental Subang Jaya",
+    "KTM connected rental Subang Jaya",
+    "room near Sunway Pyramid",
+    "room near Sunway University",
+    "room near Taylor's University",
+    "room near Monash University Malaysia",
+    "room near INTI Subang",
+    "room near Subang Parade",
+    "room near Empire Shopping Gallery",
+    "room near Sunway Medical Centre"
+  ],
+  "longTailKeywords": [
+    "fully furnished room for rent near Subang Jaya LRT station",
+    "cheap room rental in Subang Jaya for working professionals",
+    "affordable room rental near SS15 LRT Kuala Lumpur",
+    "best room rental in Subang Jaya Selangor",
+    "luxury condo for rent in Subang Jaya Kuala Lumpur",
+    "expat friendly apartment for rent in Subang Jaya",
+    "master room with private bathroom in Subang Jaya",
+    "studio apartment for rent in Subang Jaya fully furnished",
+    "room near Subang Jaya LRT station for professionals",
+    "room near Subang Jaya KTM station with easy transportation",
+    "premium condominium rental in Subang Jaya",
+    "fully furnished condo room near Sunway Pyramid",
+    "cheap master room rental near SS15 LRT",
+    "affordable apartment rental near Empire Shopping Gallery",
+    "private room with attached bathroom for rent in Subang Jaya",
+    "best area to rent room near Taylor's University",
+    "room rental near Sunway University Malaysia",
+    "student accommodation near Monash University Malaysia",
+    "modern serviced residence for rent in Subang Jaya",
+    "monthly room rental near Subang Jaya shopping malls",
+    "budget room rental near SS15 Subang Jaya",
+    "condo room rental near USJ7 LRT",
+    "room for rent near Sunway Medical Centre",
+    "professional accommodation near Subang Jaya LRT",
+    "family apartment rental near Subang Jaya",
+    "cheap furnished room near Subang Jaya",
+    "high quality condo rental near Subang Jaya LRT",
+    "room rental for foreigners in Subang Jaya Malaysia",
+    "affordable housing near Sunway and Petaling Jaya",
+    "best furnished room rental area in Subang Jaya"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Subang Jaya",
+      "budget room near SS15 LRT",
+      "student room near Taylor's University",
+      "student accommodation Subang Jaya",
+      "affordable accommodation near Sunway University",
+      "shared room rental Subang Jaya",
+      "cheap furnished room Subang Jaya",
+      "budget apartment near Monash University Malaysia",
+      "student accommodation near Subang Jaya LRT"
+    ],
+    "expat": [
+      "expat housing Subang Jaya",
+      "furnished condo Subang Jaya",
+      "serviced apartment Subang Jaya",
+      "international tenant friendly condo Subang Jaya",
+      "luxury apartment rental Subang Jaya",
+      "premium condo near Sunway",
+      "comfortable rental near Petaling Jaya",
+      "fully furnished apartment Subang Jaya"
+    ],
+    "professional": [
+      "Subang Jaya condo near LRT",
+      "room near Subang Jaya LRT for professionals",
+      "room near Sunway offices",
+      "room near Petaling Jaya from Subang Jaya",
+      "room near Shah Alam from Subang Jaya",
+      "premium apartment Subang Jaya",
+      "executive residence Subang Jaya",
+      "working professional room rental Subang Jaya"
+    ],
+    "shortStay": [
+      "short term rental Subang Jaya",
+      "monthly rental Subang Jaya",
+      "serviced residence Subang Jaya",
+      "flexible room rental Subang Jaya",
+      "short stay apartment Subang Jaya",
+      "temporary accommodation Subang Jaya",
+      "monthly furnished room Subang Jaya"
+    ],
+    "premiumIntent": [
+      "luxury condo Subang Jaya for rent",
+      "high end apartment Subang Jaya",
+      "executive residence Subang Jaya",
+      "premium serviced apartment Subang Jaya",
+      "luxury condominium rental near Sunway",
+      "modern condo rental Subang Jaya",
+      "premium furnished room Subang Jaya",
+      "exclusive apartment near Subang Jaya"
+    ],
+    "family": [
+      "family apartment Subang Jaya",
+      "3 bedroom condo Subang Jaya rental",
+      "family friendly condo near Sunway",
+      "safe residential area Subang Jaya",
+      "large apartment rental Subang Jaya"
+    ],
+    "budgetTenant": [
+      "cheap room Subang Jaya Kuala Lumpur",
+      "low budget rental Subang Jaya",
+      "affordable apartment Subang Jaya",
+      "room under RM1000 Subang Jaya",
+      "budget friendly room near Subang Jaya LRT"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Subang Jaya room for rent",
+    "secondaryKeywords": [
+      "Subang Jaya condo for rent",
+      "Subang Jaya apartment for rent",
+      "room near Subang Jaya LRT",
+      "room near SS15 LRT",
+      "room near SS18 LRT",
+      "room near USJ7 LRT",
+      "furnished room Subang Jaya",
+      "cheap room Subang Jaya Kuala Lumpur",
+      "luxury condo Subang Jaya",
+      "expat housing Subang Jaya",
+      "serviced apartment Subang Jaya",
+      "master room Subang Jaya",
+      "student accommodation Subang Jaya",
+      "room near Sunway University",
+      "room near Taylor's University",
+      "room near Monash University Malaysia"
+    ],
+    "seoScore": 98,
+    "canonicalUrl": "https://yourdomain.com/selangor/subang-jaya/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "education-commercial-connected-subang-rentals",
+    "contentCluster": [
+      "Subang Jaya room rental",
+      "Subang Jaya condo rental",
+      "LRT connected rentals Subang Jaya",
+      "KTM connected rentals Subang Jaya",
+      "affordable rental properties Selangor",
+      "student accommodation Subang Jaya",
+      "professional housing Subang Jaya",
+      "expat housing Selangor",
+      "Sunway nearby accommodation",
+      "Taylor's University accommodation",
+      "Monash University Malaysia accommodation",
+      "furnished rooms Subang Jaya",
+      "premium condominiums Subang Jaya",
+      "family apartment rental Subang Jaya"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Sunway",
+        "USJ",
+        "Ara Damansara",
+        "Petaling Jaya",
+        "Kelana Jaya",
+        "Glenmarie",
+        "Shah Alam",
+        "Puchong",
+        "Bandar Utama",
+        "Kuala Lumpur"
+      ],
+      "nearbyHotspots": [
+        "SS15 LRT Station",
+        "Subang Jaya LRT Station",
+        "Subang Jaya KTM Station",
+        "SS18 LRT Station",
+        "USJ7 LRT Station",
+        "Sunway Pyramid",
+        "Sunway University",
+        "Taylor's University",
+        "Monash University Malaysia",
+        "Empire Shopping Gallery",
+        "Subang Parade",
+        "Sunway Medical Centre"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Subang Jaya Rooms for Rent",
+        "url": "/room-rental-subang-jaya",
+        "keyword": "subang jaya room for rent"
+      },
+      {
+        "title": "Subang Jaya Condos for Rent",
+        "url": "/condo-for-rent-subang-jaya",
+        "keyword": "subang jaya condo for rent"
+      },
+      {
+        "title": "Cheap Rooms in Subang Jaya",
+        "url": "/cheap-room-subang-jaya",
+        "keyword": "cheap room subang jaya"
+      },
+      {
+        "title": "Rooms Near Subang Jaya LRT",
+        "url": "/room-near-subang-jaya-lrt",
+        "keyword": "room near subang jaya lrt"
+      },
+      {
+        "title": "Rooms Near SS15 LRT",
+        "url": "/room-near-ss15-lrt",
+        "keyword": "room near ss15 lrt"
+      },
+      {
+        "title": "Rooms Near USJ7 LRT",
+        "url": "/room-near-usj7-lrt",
+        "keyword": "room near usj7 lrt"
+      },
+      {
+        "title": "Student Rooms Near Taylor's University",
+        "url": "/student-room-near-taylors-university",
+        "keyword": "student accommodation taylor's university"
+      },
+      {
+        "title": "Rooms Near Sunway University",
+        "url": "/room-near-sunway-university",
+        "keyword": "room near sunway university"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Subang Jaya Area Guide",
+        "url": "/area-guide-subang-jaya",
+        "type": "guide"
+      },
+      {
+        "title": "Subang Jaya Price Guide 2026",
+        "url": "/price-guide-subang-jaya",
+        "type": "pricing"
+      },
+      {
+        "title": "Subang Jaya LRT & KTM Guide",
+        "url": "/subang-jaya-transport-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in Subang Jaya",
+        "url": "/luxury-condo-subang-jaya",
+        "type": "listing-category"
+      },
+      {
+        "title": "Expat Housing Subang Jaya",
+        "url": "/expat-housing-subang-jaya",
+        "type": "audience-page"
+      },
+      {
+        "title": "Student Accommodation Subang Jaya",
+        "url": "/student-accommodation-subang-jaya",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Subang Jaya",
+        "url": "/furnished-room-subang-jaya",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Subang Jaya",
+        "url": "/short-term-rental-subang-jaya",
+        "type": "rental-type"
+      },
+      {
+        "title": "Rooms Near Sunway University From Subang Jaya",
+        "url": "/room-near-sunway-university-subang-jaya",
+        "type": "location-intent-page"
+      },
+      {
+        "title": "Rooms Near Taylor's University From Subang Jaya",
+        "url": "/room-near-taylors-university-subang-jaya",
+        "type": "location-intent-page"
+      },
+      {
+        "title": "Family Apartment Rental Subang Jaya",
+        "url": "/family-apartment-subang-jaya",
+        "type": "audience-page"
+      }
+    ]
+  }
+}

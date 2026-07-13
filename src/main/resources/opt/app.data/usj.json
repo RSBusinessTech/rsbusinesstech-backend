@@ -1,0 +1,1506 @@
+{
+  "area": {
+    "name": "USJ",
+    "slug": "usj",
+    "heroImage": "assets/images/areas/usj.jpg",
+    "metaTitle": "Rooms for Rent in USJ | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in USJ near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in USJ Subang Jaya – Complete Guide to Room Rental in USJ",
+    "description": "USJ (UEP Subang Jaya) is one of the most established residential areas in Selangor for room rental and property rental. The area attracts students, working professionals, families, medical staff, entrepreneurs and expatriates looking for affordable yet convenient accommodation near Subang Jaya, Sunway and Petaling Jaya. Whether you are searching for a master room for rent in USJ, a single room near USJ Taipan, a fully furnished room close to USJ LRT, a studio apartment in Subang Jaya or a budget-friendly shared room, USJ offers a wide range of rental choices. Residents enjoy excellent transportation connectivity, shopping malls, universities, healthcare facilities, commercial centres and family-friendly neighbourhoods, making USJ one of the best places to rent a room in Selangor.",
+    "buttonText": "Explore USJ Rental Guide",
+    "buttonLink": "/room-rental-usj",
+    "highlights": [
+      "Large selection of master rooms, medium rooms, single rooms, studio rooms and shared rooms for rent in USJ",
+      "Close to USJ Taipan, Main Place Mall, Da Men Mall and Subang Jaya commercial areas",
+      "Excellent connectivity via USJ 7 LRT Station, Taipan LRT Station and Subang Jaya KTM Station",
+      "Popular among students, working professionals, families and expatriates",
+      "Near major education hubs including Sunway University, Taylor's University and Monash University Malaysia",
+      "Wide range of fully furnished, semi-furnished and affordable room rental options",
+      "Established condominiums and apartments with security, swimming pools, gyms and lifestyle facilities",
+      "One of Selangor's most established and high-demand residential townships"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Transportation & LRT Connectivity",
+        "description": "USJ provides excellent connectivity through USJ 7 LRT Station, Taipan LRT Station, Subang Jaya LRT Station and nearby KTM services. Residents enjoy convenient access to Sunway, Petaling Jaya, Shah Alam, Puchong, Kuala Lumpur and other Klang Valley locations."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Popular Condominiums & Rental Choices",
+        "description": "USJ offers various accommodation options including master rooms, single rooms, studio apartments, condominium units and serviced residences. Popular rental choices include The Regina, One USJ, USJ One Residence, USJ Heights, Goodyear Court and nearby Subang Jaya condominiums."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Lifestyle Facilities",
+        "description": "Residents in USJ enjoy easy access to Main Place Mall, Da Men Mall, Summit USJ, Sunway Pyramid and other lifestyle destinations. The area provides shopping, entertainment, restaurants, supermarkets and daily conveniences."
+      },
+      {
+        "icon": "fas fa-utensils",
+        "title": "Food & Dining",
+        "description": "USJ offers a wide variety of dining options including Malaysian food, Chinese cuisine, Indian restaurants, cafes, coffee shops, food courts and international dining choices around USJ Taipan and Subang Jaya."
+      },
+      {
+        "icon": "fas fa-user-tie",
+        "title": "Ideal for Students & Professionals",
+        "description": "USJ is highly popular among students studying at Sunway University, Taylor's University and Monash University Malaysia. Working professionals also choose USJ due to convenient access to Subang Jaya, Petaling Jaya, Shah Alam and Kuala Lumpur business areas."
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "title": "Safety & Quality Living",
+        "description": "Most USJ residential developments provide security features including 24-hour security guards, CCTV monitoring, access card systems and professional property management, creating a safe environment for residents and families."
+      }
+    ],
+    "popularResidences": [
+      "The Regina USJ",
+      "One USJ Residence",
+      "USJ One Avenue",
+      "USJ Heights",
+      "Goodyear Court",
+      "USJ 1 Residences",
+      "UEP Subang Jaya Apartments",
+      "Subang Villa",
+      "Da Men Residences",
+      "Main Place Residence"
+    ],
+    "nearbyLandmarks": [
+      "USJ Taipan",
+      "Main Place Mall",
+      "Da Men Mall",
+      "Summit USJ",
+      "Sunway Pyramid",
+      "Sunway Lagoon",
+      "Sunway Medical Centre",
+      "Subang Jaya Medical Centre",
+      "Subang Jaya SS15",
+      "Subang Airport"
+    ],
+    "nearbyUniversities": [
+      "Sunway University",
+      "Taylor's University Lakeside Campus",
+      "Monash University Malaysia",
+      "INTI International College Subang",
+      "SEGi College Subang Jaya",
+      "University of Wollongong Malaysia"
+    ],
+    "majorEmployers": [
+      "Subang Jaya Business District",
+      "Sunway Group",
+      "Sunway Medical Centre",
+      "Taylor's Education Group",
+      "Monash University Malaysia",
+      "Subang Airport Companies",
+      "Petaling Jaya Corporate Offices",
+      "Shah Alam Industrial Area",
+      "Puchong Business Areas",
+      "Kuala Lumpur Corporate Offices"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "USJ 7 LRT Station",
+      "slug": "usj-7-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "3 mins walk",
+      "distanceMeters": 250,
+      "distanceText": "3 mins walk (250 m)",
+      "title": "USJ 7 LRT Station",
+      "shortDescription": "USJ 7 LRT Station is the main transit hub serving USJ Subang Jaya residents. It provides convenient connectivity to Subang Jaya, Kelana Jaya, Petaling Jaya and Kuala Lumpur. The area is highly preferred by students and working professionals searching for rental rooms near public transport.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "USJ Taipan",
+        "Da Men Mall",
+        "Main Place Mall",
+        "USJ 7 Commercial Area"
+      ],
+      "nearbyResidences": [
+        "One USJ Residence",
+        "The Regina USJ",
+        "USJ One Avenue",
+        "USJ Heights"
+      ],
+      "popularSearches": [
+        "Room near USJ 7 LRT",
+        "USJ LRT room rent",
+        "Studio near USJ 7 LRT"
+      ]
+    },
+    {
+      "name": "Taipan LRT Station",
+      "slug": "taipan-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "5 mins walk",
+      "distanceMeters": 400,
+      "distanceText": "5 mins walk (400 m)",
+      "title": "Taipan LRT Station",
+      "shortDescription": "Taipan LRT Station serves the popular USJ Taipan commercial district. It is surrounded by restaurants, offices, shops and residential properties, making it highly attractive for professionals and tenants looking for convenient rental accommodation.",
+      "averageRoomRent": 1200,
+      "nearbyLandmarks": [
+        "USJ Taipan",
+        "Summit USJ",
+        "Da Men Mall",
+        "USJ Commercial Centre"
+      ],
+      "nearbyResidences": [
+        "Goodyear Court",
+        "USJ Heights",
+        "USJ One Residence",
+        "UEP Subang Jaya Apartments"
+      ],
+      "popularSearches": [
+        "Room near Taipan LRT",
+        "USJ Taipan room rent",
+        "Taipan studio room rental"
+      ]
+    },
+    {
+      "name": "Subang Jaya LRT Station",
+      "slug": "subang-jaya-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 3500,
+      "distanceText": "12 mins drive (3.5 km)",
+      "title": "Subang Jaya LRT Station",
+      "shortDescription": "Subang Jaya LRT Station provides connectivity between USJ, Subang Jaya, Sunway and Kuala Lumpur. It is a popular transport option for residents commuting to universities, offices and commercial areas.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "Subang Parade",
+        "Empire Shopping Gallery",
+        "SS15 Subang Jaya",
+        "Subang Jaya Commercial Area"
+      ],
+      "nearbyResidences": [
+        "Subang SoHo",
+        "SS15 Courtyard",
+        "Subang Avenue",
+        "Subang Jaya Apartments"
+      ],
+      "popularSearches": [
+        "Room near Subang Jaya LRT",
+        "Subang Jaya room rental",
+        "Studio near Subang LRT"
+      ]
+    },
+    {
+      "name": "Subang Jaya KTM Station",
+      "slug": "subang-jaya-ktm",
+      "stationType": "KTM",
+      "line": "Port Klang Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 3800,
+      "distanceText": "12 mins drive (3.8 km)",
+      "title": "Subang Jaya KTM Station",
+      "shortDescription": "Subang Jaya KTM Station connects residents to major Klang Valley locations including Petaling Jaya, Kuala Lumpur and Port Klang. It provides another transportation option for USJ tenants.",
+      "averageRoomRent": 1200,
+      "nearbyLandmarks": [
+        "Subang Parade",
+        "Empire Shopping Gallery",
+        "SS15"
+      ],
+      "nearbyResidences": [
+        "Subang Avenue",
+        "SS15 Courtyard",
+        "Subang Apartments"
+      ],
+      "popularSearches": [
+        "Room near Subang Jaya KTM",
+        "USJ KTM room rent",
+        "Subang KTM accommodation"
+      ]
+    },
+    {
+      "name": "Setia Jaya KTM Station",
+      "slug": "setia-jaya-ktm",
+      "stationType": "KTM",
+      "line": "Port Klang Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 6000,
+      "distanceText": "15 mins drive (6 km)",
+      "title": "Setia Jaya KTM Station",
+      "shortDescription": "Setia Jaya KTM Station provides convenient access between USJ, Sunway and Petaling Jaya areas. Popular among tenants working or studying around Sunway.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "Sunway Pyramid",
+        "Sunway University",
+        "Sunway Medical Centre"
+      ],
+      "nearbyResidences": [
+        "Sunway Geo Residences",
+        "Sunway Clio Residences",
+        "Sunway Lagoon Resort Suites"
+      ],
+      "popularSearches": [
+        "Room near Setia Jaya KTM",
+        "Sunway KTM room rental",
+        "USJ Sunway accommodation"
+      ]
+    },
+    {
+      "name": "SS15 LRT Station",
+      "slug": "ss15-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 4500,
+      "distanceText": "10 mins drive (4.5 km)",
+      "title": "SS15 LRT Station",
+      "shortDescription": "SS15 LRT Station serves one of Subang Jaya's busiest lifestyle and commercial areas. The station is popular among students and professionals because of nearby universities, restaurants and offices.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "SS15 Commercial Area",
+        "Taylor's University",
+        "Subang Parade"
+      ],
+      "nearbyResidences": [
+        "SS15 Courtyard",
+        "Subang Avenue",
+        "Subang Apartments"
+      ],
+      "popularSearches": [
+        "Room near SS15 LRT",
+        "Subang Jaya room rent",
+        "SS15 studio rental"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 600,
+      "maxPrice": 1000
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 800,
+      "maxPrice": 1300
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1200,
+      "maxPrice": 1800
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 1600,
+      "maxPrice": 2800
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1200,
+    "priceGrowth": 5.2,
+    "demandLevel": "Very High",
+    "vacancyRate": 2.4
+  },
+  "nearbyAreas": [
+    {
+      "name": "Subang Jaya",
+      "slug": "subang-jaya",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Students, Professionals, Families",
+      "description": "Subang Jaya is one of the closest and most popular rental areas near USJ, offering universities, shopping malls, offices, LRT connectivity and a wide range of affordable rooms and condominiums."
+    },
+    {
+      "name": "Sunway",
+      "slug": "sunway",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Students, Professionals, Expats",
+      "description": "Sunway is a major education and lifestyle hub near USJ, popular for Sunway University, Sunway Pyramid, Sunway Medical Centre and strong rental demand."
+    },
+    {
+      "name": "Puchong",
+      "slug": "puchong",
+      "averageRent": 900,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Families, Budget Renters, Professionals",
+      "description": "Puchong offers affordable rental options including apartments and condominiums with convenient access through LDP and public transportation."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Professionals, Students",
+      "description": "Petaling Jaya is a major employment and commercial hub near USJ. Many professionals choose USJ as an affordable residential alternative while working in PJ."
+    },
+    {
+      "name": "Ara Damansara",
+      "slug": "ara-damansara",
+      "averageRent": 1600,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Professionals, Executives",
+      "description": "Ara Damansara offers premium condominiums, lifestyle facilities, offices and excellent connectivity towards Petaling Jaya and Kuala Lumpur."
+    },
+    {
+      "name": "Bandar Utama",
+      "slug": "bandar-utama",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 15,
+      "popularFor": "Families, Professionals",
+      "description": "Bandar Utama is a premium residential area known for One Utama Shopping Centre, offices, MRT connectivity and high-quality condominiums."
+    },
+    {
+      "name": "Kelana Jaya",
+      "slug": "kelana-jaya",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Professionals, Families",
+      "description": "Kelana Jaya provides convenient access to USJ through major roads and LRT connectivity, offering established residential communities and rental options."
+    },
+    {
+      "name": "Shah Alam",
+      "slug": "shah-alam",
+      "averageRent": 850,
+      "mrtAccess": false,
+      "distanceFromArea": 12,
+      "popularFor": "Families, Government Staff, Professionals",
+      "description": "Shah Alam offers affordable apartments and landed homes with easy highway access connecting residents to USJ and Subang areas."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 2500,
+      "mrtAccess": false,
+      "distanceFromArea": 25,
+      "popularFor": "Expats, Executives",
+      "description": "Mont Kiara is a premium expatriate neighbourhood with luxury condominiums and international facilities. USJ provides a more affordable rental alternative."
+    },
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 1800,
+      "mrtAccess": true,
+      "distanceFromArea": 22,
+      "popularFor": "Professionals, Expats",
+      "description": "Bangsar is a popular lifestyle and business area with cafes, offices, premium residences and convenient access towards Kuala Lumpur."
+    },
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 2500,
+      "mrtAccess": true,
+      "distanceFromArea": 30,
+      "popularFor": "Executives, Expats",
+      "description": "KLCC is Kuala Lumpur's main business district. Some professionals choose USJ for more affordable accommodation while commuting to KL."
+    },
+    {
+      "name": "Cyberjaya",
+      "slug": "cyberjaya",
+      "averageRent": 900,
+      "mrtAccess": false,
+      "distanceFromArea": 25,
+      "popularFor": "Students, IT Professionals",
+      "description": "Cyberjaya provides modern affordable rentals, universities and technology companies, suitable for students and IT professionals."
+    },
+    {
+      "name": "Putrajaya",
+      "slug": "putrajaya",
+      "averageRent": 900,
+      "mrtAccess": true,
+      "distanceFromArea": 30,
+      "popularFor": "Government Staff, Families",
+      "description": "Putrajaya offers spacious affordable residences, peaceful surroundings and modern infrastructure for families and government employees."
+    },
+    {
+      "name": "TTDI",
+      "slug": "ttdi",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 20,
+      "popularFor": "Professionals, Expats",
+      "description": "TTDI is a premium neighbourhood known for lifestyle facilities, parks, restaurants and MRT connectivity."
+    },
+    {
+      "name": "Brickfields",
+      "slug": "brickfields",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 25,
+      "popularFor": "Students, Professionals",
+      "description": "Brickfields near KL Sentral offers convenient public transport, affordable rooms and access to major business locations."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room USJ",
+      "url": "/master-room-rental-usj"
+    },
+    {
+      "title": "Single Room USJ",
+      "url": "/single-room-rental-usj"
+    },
+    {
+      "title": "Condo Room USJ",
+      "url": "/condo-room-rental-usj"
+    },
+    {
+      "title": "Room Near USJ 7 LRT",
+      "url": "/room-near-usj-7-lrt"
+    },
+    {
+      "title": "Room Near Taipan LRT",
+      "url": "/room-near-taipan-lrt"
+    },
+    {
+      "title": "Cheap Room USJ",
+      "url": "/cheap-room-rental-usj"
+    },
+    {
+      "title": "Furnished Room USJ",
+      "url": "/furnished-room-rental-usj"
+    },
+    {
+      "title": "Studio Apartment USJ",
+      "url": "/studio-apartment-rental-usj"
+    },
+    {
+      "title": "Room Near Sunway From USJ",
+      "url": "/room-near-sunway-usj"
+    },
+    {
+      "title": "Room Near Taylor's University From USJ",
+      "url": "/room-near-taylors-university-usj"
+    },
+    {
+      "title": "Room Near Monash University Malaysia From USJ",
+      "url": "/room-near-monash-university-usj"
+    },
+    {
+      "title": "USJ Condo For Rent",
+      "url": "/usj-condo-for-rent"
+    },
+    {
+      "title": "USJ Apartment For Rent",
+      "url": "/usj-apartment-for-rent"
+    },
+    {
+      "title": "Luxury Condo USJ",
+      "url": "/luxury-condo-rental-usj"
+    },
+    {
+      "title": "Student Room Rental USJ",
+      "url": "/student-room-rental-usj"
+    },
+    {
+      "title": "Professional Room Rental USJ",
+      "url": "/professional-room-rental-usj"
+    },
+    {
+      "title": "Monthly Room Rental USJ",
+      "url": "/monthly-room-rental-usj"
+    },
+    {
+      "title": "Serviced Apartment USJ",
+      "url": "/serviced-apartment-rental-usj"
+    },
+    {
+      "title": "Room Near Subang Jaya LRT",
+      "url": "/room-near-subang-jaya-lrt"
+    },
+    {
+      "title": "Affordable Room USJ Subang Jaya",
+      "url": "/affordable-room-usj"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the best areas to rent a room in USJ Subang Jaya?",
+      "answer": "The best areas to rent a room in USJ include USJ 1, USJ 2, USJ 6, USJ 7, USJ Taipan, USJ Heights and areas near USJ 7 LRT Station. These locations offer convenient access to shopping malls, restaurants, schools, offices and public transportation."
+    },
+    {
+      "question": "How much does a room for rent in USJ cost?",
+      "answer": "Room rental prices in USJ generally range from RM600 to RM1800 depending on room type, location, furnishing, facilities and distance from USJ LRT stations. Single rooms are usually more affordable while master rooms and premium rooms cost more."
+    },
+    {
+      "question": "Is USJ a good place to rent a room?",
+      "answer": "Yes, USJ is one of the preferred residential areas in Subang Jaya because of its connectivity, safety, commercial facilities, education centres, shopping malls and access to Kuala Lumpur and Petaling Jaya."
+    },
+    {
+      "question": "What types of rooms are available for rent in USJ?",
+      "answer": "USJ offers single rooms, medium rooms, master rooms, studio apartments, shared rooms, furnished rooms, condo rooms and family apartments suitable for students, professionals and families."
+    },
+    {
+      "question": "Are there furnished rooms for rent in USJ?",
+      "answer": "Yes, many USJ rental properties offer fully furnished rooms with beds, wardrobes, study tables, air conditioning, WiFi access and shared facilities depending on the property."
+    },
+    {
+      "question": "Which MRT or LRT station is near USJ?",
+      "answer": "USJ is mainly connected through USJ 7 LRT Station and Taipan LRT Station on the Kelana Jaya Line. These stations provide access to Subang Jaya, Petaling Jaya and Kuala Lumpur."
+    },
+    {
+      "question": "How far is USJ from Sunway?",
+      "answer": "USJ is located close to Sunway, usually around 5 to 10 minutes away by car depending on traffic conditions. Many tenants choose USJ as a more affordable alternative while staying near Sunway University and Sunway Pyramid."
+    },
+    {
+      "question": "Is USJ suitable for students?",
+      "answer": "Yes, USJ is suitable for students because it is close to educational institutions such as Taylor's University, Sunway University and other colleges in Subang Jaya."
+    },
+    {
+      "question": "Is USJ suitable for working professionals?",
+      "answer": "USJ is popular among working professionals due to its LRT connectivity, access to Subang Jaya business areas, Sunway, Petaling Jaya and Kuala Lumpur."
+    },
+    {
+      "question": "Can foreigners rent rooms in USJ?",
+      "answer": "Yes, many landlords in USJ accept foreign tenants. Fully furnished condos and apartments are commonly preferred by expatriates and international students."
+    },
+    {
+      "question": "What is the average rental price for a master room in USJ?",
+      "answer": "Master rooms in USJ usually range between RM1200 and RM1800 depending on facilities, furnishing, private bathroom availability and location."
+    },
+    {
+      "question": "What is the cheapest room rental option in USJ?",
+      "answer": "The cheapest rental options in USJ are usually single rooms or shared rooms, which may start around RM600 depending on the property and available facilities."
+    },
+    {
+      "question": "Are there condo rooms for rent in USJ?",
+      "answer": "Yes, USJ has many condominium and serviced apartment rooms available for rent with facilities such as swimming pools, gyms, security and parking."
+    },
+    {
+      "question": "Which condos are popular for rent in USJ?",
+      "answer": "Popular residential choices in USJ include One USJ Residence, USJ One Avenue, The Regina USJ, USJ Heights and nearby Subang Jaya condominiums."
+    },
+    {
+      "question": "Is USJ a safe place to live?",
+      "answer": "USJ is considered a family-friendly residential area with established neighbourhoods, security facilities in condominiums and convenient access to daily amenities."
+    },
+    {
+      "question": "Are utilities included in USJ room rental?",
+      "answer": "Utility arrangements depend on the landlord. Some rentals include water, electricity or internet while others require tenants to pay separately."
+    },
+    {
+      "question": "Can I find short-term rental rooms in USJ?",
+      "answer": "Yes, short-term and monthly rental options are available in USJ, especially furnished rooms and serviced apartments."
+    },
+    {
+      "question": "Is USJ cheaper than Sunway for rental?",
+      "answer": "Generally, USJ offers more affordable rental options compared with Sunway while still providing convenient access to Sunway attractions and universities."
+    },
+    {
+      "question": "How long does it take to travel from USJ to Kuala Lumpur?",
+      "answer": "Travel time from USJ to Kuala Lumpur depends on traffic and destination but typically ranges from 30 to 50 minutes by car or public transport."
+    },
+    {
+      "question": "Are there rooms near USJ 7 LRT Station?",
+      "answer": "Yes, rooms near USJ 7 LRT Station are highly searched because tenants can easily commute to Subang Jaya, Petaling Jaya and Kuala Lumpur."
+    },
+    {
+      "question": "Are there rooms near Taipan LRT Station?",
+      "answer": "Yes, Taipan LRT area has many rental rooms because of nearby restaurants, offices, shops and residential developments."
+    },
+    {
+      "question": "Is USJ good for families looking for rental apartments?",
+      "answer": "Yes, USJ is suitable for families because of schools, parks, shopping centres, healthcare facilities and spacious residential options."
+    },
+    {
+      "question": "Can I rent a studio apartment in USJ?",
+      "answer": "Yes, studio apartments are available in selected condominiums and serviced residences around USJ and Subang Jaya."
+    },
+    {
+      "question": "Are there cheap apartments for rent in USJ?",
+      "answer": "Yes, USJ offers affordable apartments suitable for students, young professionals and budget-conscious tenants."
+    },
+    {
+      "question": "What amenities are available near USJ rental properties?",
+      "answer": "USJ residents have access to supermarkets, shopping malls, restaurants, cafes, healthcare centres, schools and entertainment facilities."
+    },
+    {
+      "question": "How close is USJ to Taylor's University?",
+      "answer": "USJ is close to Taylor's University Lakeside Campus, making it a popular rental location for students."
+    },
+    {
+      "question": "How close is USJ to Sunway University?",
+      "answer": "USJ is located near Sunway University and Sunway City, making it convenient for students and staff."
+    },
+    {
+      "question": "Do USJ rental rooms include WiFi?",
+      "answer": "Many furnished rooms in USJ include WiFi, but tenants should confirm internet availability with landlords before renting."
+    },
+    {
+      "question": "Can I find rooms with private bathrooms in USJ?",
+      "answer": "Yes, master rooms and selected premium rooms in USJ condos often come with private bathrooms."
+    },
+    {
+      "question": "Is parking available for USJ rental properties?",
+      "answer": "Many condominiums in USJ provide parking facilities. Availability depends on the rental unit and landlord agreement."
+    },
+    {
+      "question": "What documents are required to rent a room in USJ?",
+      "answer": "Most landlords request identification documents, employment or student proof and rental deposits before confirming a tenancy."
+    },
+    {
+      "question": "Are pets allowed in USJ rental apartments?",
+      "answer": "Pet policies depend on individual landlords and condominium management rules. Tenants should confirm before renting."
+    },
+    {
+      "question": "Why choose USJ instead of Kuala Lumpur city centre?",
+      "answer": "USJ provides more affordable rentals, quieter residential surroundings, larger living spaces and convenient access to Kuala Lumpur through highways and LRT."
+    },
+    {
+      "question": "What makes USJ popular for rental properties?",
+      "answer": "USJ is popular because of affordable pricing, strong connectivity, education hubs, commercial areas and family-friendly neighbourhoods."
+    },
+    {
+      "question": "What is the average rental deposit for a room in USJ?",
+      "answer": "Most USJ room rentals require a security deposit, utility deposit and advance rental payment. The exact amount depends on the landlord and rental agreement."
+    },
+    {
+      "question": "Are there rooms near USJ Taipan commercial area?",
+      "answer": "Yes, USJ Taipan is one of the most convenient locations for room rental because it has restaurants, offices, banks, shops and easy access to Taipan LRT Station."
+    },
+    {
+      "question": "Is USJ a good location for expats?",
+      "answer": "Yes, USJ is suitable for expatriates looking for affordable housing near Subang Jaya, Sunway, international schools, shopping malls and business areas."
+    },
+    {
+      "question": "Are there luxury condos for rent in USJ?",
+      "answer": "Yes, USJ and nearby Subang Jaya areas offer premium condominiums with swimming pools, gyms, security, parking and modern facilities."
+    },
+    {
+      "question": "What is the difference between renting a room and condo in USJ?",
+      "answer": "Room rentals in USJ are more affordable and suitable for individuals, while full condo rentals provide more privacy and are preferred by families or groups."
+    },
+    {
+      "question": "Can working adults find affordable rooms in USJ?",
+      "answer": "Yes, USJ offers many affordable rooms suitable for working adults who need convenient access to offices in Subang Jaya, Petaling Jaya and Kuala Lumpur."
+    },
+    {
+      "question": "Are USJ rental rooms suitable for fresh graduates?",
+      "answer": "Yes, USJ is a popular choice for fresh graduates because of reasonable rental prices, transport options and nearby employment opportunities."
+    },
+    {
+      "question": "Which highways connect USJ to Kuala Lumpur?",
+      "answer": "USJ connects to major routes including the LDP, KESAS Highway, Federal Highway and NKVE, providing access to Kuala Lumpur and surrounding areas."
+    },
+    {
+      "question": "Are there rooms near Da Men Mall USJ?",
+      "answer": "Yes, many rental properties are available near Da Men Mall USJ, offering convenient access to shopping, dining and entertainment."
+    },
+    {
+      "question": "Are there apartments near Main Place Mall USJ?",
+      "answer": "Yes, apartments and condominium rentals near Main Place Mall are popular among tenants who want convenient lifestyle facilities."
+    },
+    {
+      "question": "How far is USJ from Petaling Jaya?",
+      "answer": "USJ is relatively close to Petaling Jaya, making it a practical residential choice for people working in PJ."
+    },
+    {
+      "question": "How far is USJ from Shah Alam?",
+      "answer": "USJ is located near Shah Alam and offers convenient road connections for residents working or studying in the area."
+    },
+    {
+      "question": "Can students share rental rooms in USJ?",
+      "answer": "Yes, shared rooms and shared apartments are available in USJ and are commonly chosen by students looking for lower rental costs."
+    },
+    {
+      "question": "Are female-only rooms available in USJ?",
+      "answer": "Some landlords offer female-only rooms in USJ apartments and condominiums. Availability depends on current listings."
+    },
+    {
+      "question": "Are male-only rooms available in USJ?",
+      "answer": "Some properties in USJ offer male-only rooms, especially shared apartments targeting working professionals and students."
+    },
+    {
+      "question": "Are couples allowed to rent rooms in USJ?",
+      "answer": "Couple rental policies depend on individual landlords and house rules. Tenants should confirm before booking."
+    },
+    {
+      "question": "Is USJ suitable for long-term rental?",
+      "answer": "Yes, USJ is highly suitable for long-term rental because of established neighbourhoods, amenities and stable demand."
+    },
+    {
+      "question": "Are there fully furnished condos in USJ?",
+      "answer": "Yes, many condominium units in USJ come fully furnished with essential furniture and appliances."
+    },
+    {
+      "question": "Can I rent a room near Sunway Pyramid from USJ?",
+      "answer": "Yes, USJ provides convenient access to Sunway Pyramid, making it a good alternative location for tenants working or studying nearby."
+    },
+    {
+      "question": "Is USJ suitable for people working in Sunway?",
+      "answer": "Yes, many Sunway employees choose USJ because rental prices are often more affordable while maintaining easy commuting access."
+    },
+    {
+      "question": "Are there serviced apartments in USJ?",
+      "answer": "Yes, serviced apartment options are available around USJ and nearby Subang Jaya with facilities suitable for professionals and families."
+    },
+    {
+      "question": "What are the benefits of renting a condo in USJ?",
+      "answer": "USJ condos usually provide facilities such as swimming pools, gyms, security, parking and better lifestyle convenience."
+    },
+    {
+      "question": "Are there affordable master rooms in USJ?",
+      "answer": "Yes, master rooms are available across USJ at different price ranges depending on furnishing, size and facilities."
+    },
+    {
+      "question": "Can foreigners rent a condo in USJ?",
+      "answer": "Yes, foreigners can rent condos in USJ. Many landlords welcome international tenants with proper documentation."
+    },
+    {
+      "question": "What is the best area in USJ for professionals?",
+      "answer": "USJ 7, USJ Taipan and areas near major roads are popular among professionals because of transportation and commercial access."
+    },
+    {
+      "question": "What is the best area in USJ for students?",
+      "answer": "Areas near USJ 7 LRT, Taipan and locations with easy access to Sunway and Taylor's University are popular among students."
+    },
+    {
+      "question": "Are there rental rooms near USJ LRT stations?",
+      "answer": "Yes, rooms near USJ 7 LRT and Taipan LRT are highly demanded due to convenient public transportation."
+    },
+    {
+      "question": "Can I find no deposit rooms in USJ?",
+      "answer": "Some landlords or rental platforms may offer flexible deposit arrangements, but availability depends on individual listings."
+    },
+    {
+      "question": "Are USJ rooms suitable for remote workers?",
+      "answer": "Yes, many furnished USJ rooms provide suitable environments for remote workers with internet access and comfortable living spaces."
+    },
+    {
+      "question": "What facilities should I check before renting a USJ condo?",
+      "answer": "Tenants should check security, parking, swimming pool, gym, internet availability, maintenance condition and management quality."
+    },
+    {
+      "question": "Are there affordable family apartments in USJ?",
+      "answer": "Yes, USJ has many family-friendly apartments with larger layouts and access to schools and daily amenities."
+    },
+    {
+      "question": "How competitive is the rental market in USJ?",
+      "answer": "USJ has strong rental demand due to its location, education hubs, transportation and affordable housing options."
+    },
+    {
+      "question": "Why are rooms near USJ LRT popular?",
+      "answer": "Rooms near USJ LRT are popular because tenants can reduce travel time and access major areas without depending fully on private vehicles."
+    },
+    {
+      "question": "Can I rent a room close to restaurants and shops in USJ?",
+      "answer": "Yes, areas like USJ Taipan and commercial zones provide easy access to restaurants, cafes, supermarkets and daily necessities."
+    },
+    {
+      "question": "What are the advantages of living in USJ Subang Jaya?",
+      "answer": "Living in USJ provides affordable rental options, excellent connectivity, shopping facilities, educational institutions, healthcare services and a comfortable suburban lifestyle."
+    },
+    {
+      "question": "Is USJ better than Subang Jaya for rental properties?",
+      "answer": "USJ and Subang Jaya both offer strong rental choices. USJ is preferred by tenants looking for quieter neighbourhoods, larger homes and more affordable prices while staying close to Subang Jaya amenities."
+    },
+    {
+      "question": "Are there rooms for rent near USJ 1?",
+      "answer": "Yes, USJ 1 has various apartment and condominium rental options suitable for students, professionals and families."
+    },
+    {
+      "question": "Are there rooms for rent near USJ 2?",
+      "answer": "Yes, USJ 2 offers residential rental properties with convenient access to shops, schools and major roads."
+    },
+    {
+      "question": "Are there rooms for rent near USJ 6?",
+      "answer": "Yes, USJ 6 has residential areas offering affordable rooms, apartments and family-friendly rental options."
+    },
+    {
+      "question": "Are there rooms for rent near USJ 8?",
+      "answer": "Yes, USJ 8 provides convenient residential options with access to USJ commercial areas and transportation links."
+    },
+    {
+      "question": "What is the best condo rental in USJ?",
+      "answer": "Popular condo choices in USJ include One USJ Residence, USJ One Avenue, The Regina USJ and other nearby Subang Jaya condominiums."
+    },
+    {
+      "question": "How can I find a verified room rental in USJ?",
+      "answer": "Tenants should compare verified listings, check property details, confirm rental terms and communicate with trusted property owners or platforms."
+    },
+    {
+      "question": "Are there cheap rooms near USJ Taipan?",
+      "answer": "Yes, USJ Taipan and surrounding areas offer affordable rooms suitable for students and working professionals."
+    },
+    {
+      "question": "Is USJ close to universities?",
+      "answer": "Yes, USJ is close to several education hubs including Taylor's University, Sunway University and colleges around Subang Jaya."
+    },
+    {
+      "question": "Are there rooms near Taylor's University from USJ?",
+      "answer": "Yes, many students choose USJ because it provides convenient access to Taylor's University while offering more affordable rental options."
+    },
+    {
+      "question": "Are there rooms near Sunway University from USJ?",
+      "answer": "Yes, USJ is a popular residential alternative for students studying at Sunway University because of its proximity and rental affordability."
+    },
+    {
+      "question": "Does USJ have shopping malls nearby?",
+      "answer": "Yes, USJ residents can easily access Da Men Mall, Main Place Mall, Summit USJ, Sunway Pyramid and Subang Parade."
+    },
+    {
+      "question": "Is USJ good for healthcare access?",
+      "answer": "Yes, USJ residents have access to nearby healthcare facilities including Sunway Medical Centre and other clinics around Subang Jaya."
+    },
+    {
+      "question": "Are there high-rise apartments for rent in USJ?",
+      "answer": "Yes, USJ offers various high-rise apartments and condominiums with facilities suitable for individuals and families."
+    },
+    {
+      "question": "What type of tenants usually rent in USJ?",
+      "answer": "USJ attracts students, young professionals, families, expatriates and employees working in Subang Jaya, Sunway and Petaling Jaya."
+    },
+    {
+      "question": "Is USJ suitable for first-time renters?",
+      "answer": "Yes, USJ is suitable for first-time renters because of its wide range of affordable rooms, convenient facilities and established neighbourhoods."
+    },
+    {
+      "question": "Are there rooms with air conditioning in USJ?",
+      "answer": "Many USJ rental rooms include air conditioning, especially furnished rooms and condominium units."
+    },
+    {
+      "question": "Are there rooms with WiFi included in USJ?",
+      "answer": "Many landlords provide WiFi in furnished USJ rooms, but tenants should confirm before signing a rental agreement."
+    },
+    {
+      "question": "Can I rent a room monthly in USJ?",
+      "answer": "Yes, monthly room rentals are available in USJ, especially furnished rooms and serviced apartments."
+    },
+    {
+      "question": "Are there short-term stays available in USJ?",
+      "answer": "Yes, short-term rental options are available depending on property owners and rental platforms."
+    },
+    {
+      "question": "Is USJ connected to public transportation?",
+      "answer": "Yes, USJ is connected through LRT stations, buses and major highways, providing convenient travel options."
+    },
+    {
+      "question": "How long does it take from USJ to Kuala Lumpur by LRT?",
+      "answer": "Travel time depends on the destination, but LRT connectivity allows convenient access towards Kuala Lumpur city areas."
+    },
+    {
+      "question": "What makes USJ attractive compared with city centre rentals?",
+      "answer": "USJ offers lower rental prices, bigger living spaces, quieter surroundings and convenient access to Kuala Lumpur."
+    },
+    {
+      "question": "Are there gated and guarded residences in USJ?",
+      "answer": "Yes, some USJ residential developments provide gated security, guards, CCTV and controlled access systems."
+    },
+    {
+      "question": "Can families rent landed houses in USJ?",
+      "answer": "Yes, USJ has landed residential properties suitable for families seeking larger living spaces."
+    },
+    {
+      "question": "Are USJ rental properties suitable for long-term tenants?",
+      "answer": "Yes, USJ has strong long-term rental demand because of stable communities, amenities and connectivity."
+    },
+    {
+      "question": "How do I choose the right room rental in USJ?",
+      "answer": "Consider location, rental budget, transportation access, room size, facilities, furnishing, security and nearby amenities before choosing."
+    },
+    {
+      "question": "What should I check before renting a USJ apartment?",
+      "answer": "Check rental agreement terms, maintenance condition, facilities, utilities, deposit requirements and landlord policies."
+    },
+    {
+      "question": "Why search for USJ room rental online?",
+      "answer": "Online rental platforms allow tenants to compare prices, locations, facilities and available rooms in USJ more efficiently."
+    }
+  ],
+  "focusKeywords": [
+    "USJ room for rent",
+    "USJ condo for rent",
+    "USJ apartment for rent",
+    "room near USJ 7 LRT",
+    "room near Taipan LRT",
+    "furnished room USJ",
+    "cheap room USJ Subang Jaya",
+    "USJ Subang Jaya rental",
+    "luxury condo USJ for rent",
+    "USJ serviced apartment for rent",
+    "student housing USJ Subang Jaya",
+    "expat housing USJ Subang Jaya",
+    "studio apartment USJ for rent",
+    "monthly rental USJ",
+    "USJ Subang Jaya condo rental"
+  ],
+  "longTailKeywords": [
+    "furnished room for rent near USJ 7 LRT Station Subang Jaya walking distance",
+    "cheap room near Taipan LRT USJ for students and working professionals",
+    "luxury condominium USJ Subang Jaya with swimming pool and facilities for rent",
+    "fully furnished studio apartment USJ Subang Jaya for professionals",
+    "monthly rental room USJ near LRT station and shopping malls",
+    "high floor USJ condo with modern facilities for rent Subang Jaya",
+    "short term rental USJ furnished apartment near Sunway and Subang",
+    "affordable no deposit room for rent USJ Subang Jaya",
+    "premium condo rental near USJ Taipan commercial area and LRT",
+    "executive apartment USJ Subang Jaya near Sunway University and business areas",
+    "room near Sunway from USJ for students and professionals",
+    "room near Taylor's University from USJ Subang Jaya",
+    "master room rental USJ with private bathroom",
+    "best affordable room rental in USJ Subang Jaya Kuala Lumpur",
+    "family friendly apartment rental USJ near schools and amenities"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room USJ",
+      "budget room near USJ 7 LRT",
+      "student room USJ Subang Jaya",
+      "affordable accommodation USJ Subang Jaya",
+      "student rental room USJ",
+      "shared room rental USJ",
+      "cheap furnished room USJ",
+      "budget apartment near USJ LRT",
+      "student accommodation near USJ 7 LRT",
+      "room near Taylor's University from USJ",
+      "room near Sunway University from USJ",
+      "student friendly room rental USJ"
+    ],
+    "expat": [
+      "expat housing USJ Subang Jaya",
+      "furnished condo USJ",
+      "serviced apartment USJ",
+      "international tenant friendly condo USJ",
+      "luxury apartment rental USJ",
+      "premium condo near Subang Jaya and Sunway",
+      "fully furnished apartment USJ Subang Jaya",
+      "expat friendly residence USJ",
+      "high end condo rental USJ",
+      "foreign tenant apartment USJ"
+    ],
+    "professional": [
+      "USJ condo near LRT",
+      "room near USJ for professionals",
+      "room near USJ 7 LRT Station",
+      "room near Subang Jaya offices",
+      "room near Sunway from USJ",
+      "premium apartment USJ",
+      "executive residence USJ",
+      "working professional room rental USJ",
+      "corporate housing USJ Subang Jaya",
+      "office worker accommodation USJ"
+    ],
+    "shortStay": [
+      "short term rental USJ",
+      "monthly rental USJ",
+      "serviced residence USJ",
+      "flexible room rental USJ",
+      "short stay apartment USJ Subang Jaya",
+      "temporary accommodation USJ",
+      "monthly furnished room USJ",
+      "weekly apartment rental USJ",
+      "business stay USJ",
+      "holiday rental USJ apartment"
+    ],
+    "premiumIntent": [
+      "luxury condo USJ for rent",
+      "high end apartment USJ",
+      "executive residence USJ",
+      "premium serviced apartment USJ",
+      "luxury condominium rental USJ Subang Jaya",
+      "modern condo rental USJ Kuala Lumpur",
+      "premium furnished room USJ",
+      "exclusive apartment USJ",
+      "premium serviced residence USJ",
+      "luxury high floor condo USJ"
+    ],
+    "family": [
+      "family apartment USJ",
+      "3 bedroom condo USJ rental",
+      "family friendly condo near USJ",
+      "safe residential area USJ Subang Jaya",
+      "large apartment rental USJ Kuala Lumpur",
+      "family condo near USJ Taipan",
+      "child friendly apartment USJ",
+      "long term family rental USJ",
+      "spacious condominium USJ",
+      "family house rental USJ Subang Jaya"
+    ],
+    "budgetTenant": [
+      "cheap room USJ Subang Jaya",
+      "low budget rental USJ",
+      "affordable apartment USJ",
+      "room under RM1000 USJ",
+      "budget friendly room near USJ 7 LRT",
+      "cheap furnished room USJ",
+      "affordable condo room USJ",
+      "low cost accommodation Subang Jaya",
+      "budget room walking distance USJ LRT",
+      "cheap rental near Taipan USJ"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "USJ condo for rent",
+    "secondaryKeywords": [
+      "USJ room for rent",
+      "USJ apartment for rent",
+      "USJ serviced apartment for rent",
+      "luxury condo USJ Subang Jaya",
+      "room near USJ 7 LRT",
+      "Taipan USJ condo for rent",
+      "Subang Jaya apartment near USJ",
+      "student housing USJ Subang Jaya",
+      "high rise condo USJ with facilities",
+      "furnished condo USJ for rent",
+      "family apartment USJ Subang Jaya",
+      "affordable condo USJ Kuala Lumpur"
+    ],
+    "seoScore": 97,
+    "canonicalUrl": "https://roomrentalkl.com/kuala-lumpur/usj/condo-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "affordable-connected-suburban-rentals",
+    "contentCluster": [
+      "USJ condominium rental",
+      "USJ Subang Jaya apartment rental",
+      "serviced apartments USJ",
+      "student accommodation USJ",
+      "professional housing USJ Subang Jaya",
+      "family rental properties USJ",
+      "LRT connected rentals USJ",
+      "Sunway nearby accommodation USJ",
+      "Taylor's University nearby rental",
+      "furnished condos USJ",
+      "premium condominiums Subang Jaya"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Subang Jaya",
+        "Sunway",
+        "Puchong",
+        "Petaling Jaya",
+        "Ara Damansara",
+        "Bandar Utama",
+        "Kelana Jaya",
+        "Shah Alam",
+        "Mont Kiara",
+        "Bangsar"
+      ],
+      "nearbyHotspots": [
+        "USJ Taipan",
+        "USJ 7 LRT Station",
+        "Da Men Mall",
+        "Main Place Mall",
+        "Summit USJ",
+        "Sunway Pyramid",
+        "Sunway Medical Centre",
+        "Sunway University",
+        "Taylor's University",
+        "Subang Jaya Commercial Area"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "USJ Rooms for Rent",
+        "url": "/room-rental-usj",
+        "keyword": "usj room for rent"
+      },
+      {
+        "title": "USJ Condos for Rent",
+        "url": "/condo-for-rent-usj",
+        "keyword": "usj condo for rent"
+      },
+      {
+        "title": "Cheap Rooms Near USJ",
+        "url": "/cheap-room-usj",
+        "keyword": "cheap room near usj"
+      },
+      {
+        "title": "Rooms Near USJ 7 LRT",
+        "url": "/room-near-usj-7-lrt",
+        "keyword": "room near usj 7 lrt"
+      },
+      {
+        "title": "Subang Jaya Rentals",
+        "url": "/subang-jaya-rentals",
+        "keyword": "subang jaya apartment for rent"
+      },
+      {
+        "title": "Rooms Near Sunway From USJ",
+        "url": "/room-near-sunway-usj",
+        "keyword": "room near sunway from usj"
+      },
+      {
+        "title": "Taylor's University Accommodation USJ",
+        "url": "/taylors-university-usj-rental",
+        "keyword": "room near taylors university from usj"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "USJ Area Guide",
+        "url": "/area-guide-usj",
+        "type": "guide"
+      },
+      {
+        "title": "USJ Price Guide 2026",
+        "url": "/price-guide-usj",
+        "type": "pricing"
+      },
+      {
+        "title": "USJ LRT Connectivity Guide",
+        "url": "/usj-lrt-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in USJ",
+        "url": "/luxury-condo-usj",
+        "type": "listing-category"
+      },
+      {
+        "title": "Student Housing USJ",
+        "url": "/student-housing-usj",
+        "type": "audience-page"
+      },
+      {
+        "title": "Professional Housing USJ",
+        "url": "/professional-housing-usj",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms USJ",
+        "url": "/furnished-room-usj",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals USJ",
+        "url": "/short-term-rental-usj",
+        "type": "rental-type"
+      },
+      {
+        "title": "Rooms Near Sunway From USJ",
+        "url": "/room-near-sunway-usj",
+        "type": "location-intent-page"
+      },
+      {
+        "title": "Rooms Near Taylor's University From USJ",
+        "url": "/room-near-taylors-university-usj",
+        "type": "location-intent-page"
+      }
+    ]
+  }
+}

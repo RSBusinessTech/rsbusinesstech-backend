@@ -1,0 +1,1582 @@
+{
+  "area": {
+    "name": "Putrajaya",
+    "slug": "putrajaya",
+    "heroImage": "assets/images/areas/putrajaya.jpg",
+    "metaTitle": "Rooms for Rent in Putrajaya | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Putrajaya near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Putrajaya – Complete Guide to Room Rental & Property Rental in Malaysia's Administrative Capital",
+    "description": "Putrajaya is one of Malaysia's most organised and peaceful cities, making it a popular destination for room rental, condo rental and apartment rental. The area attracts government employees, professionals, families, expatriates, students and workers from nearby Cyberjaya who are looking for affordable and comfortable accommodation. Whether you are searching for a master room for rent in Putrajaya, a furnished room near government offices, a condo rental near IOI City Mall, a studio apartment, a family apartment or a budget-friendly room rental, Putrajaya offers a wide range of housing options. Residents enjoy modern infrastructure, beautiful landscapes, Putrajaya Lake, excellent highways, shopping malls, schools, recreational facilities and easy access to Cyberjaya, Kuala Lumpur and Kuala Lumpur International Airport, making Putrajaya one of the best places to rent property in Malaysia.",
+    "buttonText": "Explore Putrajaya Rental Guide",
+    "buttonLink": "/room-rental-putrajaya",
+    "highlights": [
+      "Large selection of master rooms, medium rooms, single rooms, studio apartments and condominium rentals in Putrajaya",
+      "Close to major government offices, ministries, Putrajaya Lake, IOI City Mall and Alamanda Shopping Centre",
+      "Excellent connectivity through Putrajaya MRT Station, MEX Highway, ELITE Highway and major expressways",
+      "Popular among government employees, families, professionals, expatriates and Cyberjaya workers",
+      "Peaceful green city environment with parks, lakes, cycling paths and recreational facilities",
+      "Wide range of fully furnished, semi-furnished and affordable rental properties",
+      "Modern condominiums and apartments with swimming pools, gyms, security and lifestyle facilities",
+      "One of Malaysia's most planned and family-friendly residential cities"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Transportation & Connectivity",
+        "description": "Putrajaya offers excellent connectivity through Putrajaya MRT Station, ERL Putrajaya & Cyberjaya Station, RapidKL bus services and major highways including MEX, ELITE and SKVE. Residents enjoy convenient access to Cyberjaya, Kuala Lumpur, KLIA, Puchong, Bangi and surrounding areas."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Popular Condominiums & Rental Choices",
+        "description": "Putrajaya provides various rental options including master rooms, single rooms, apartments, studio units and family condominiums. Popular residential areas include Presint 1, Presint 8, Presint 9, Presint 15 and Presint 16 with modern housing developments suitable for different budgets."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Lifestyle Facilities",
+        "description": "Residents enjoy convenient access to major shopping destinations including IOI City Mall, Alamanda Shopping Centre and nearby commercial areas. The city offers supermarkets, restaurants, cafes, entertainment facilities and daily necessities within easy reach."
+      },
+      {
+        "icon": "fas fa-utensils",
+        "title": "Food & Dining",
+        "description": "Putrajaya offers a growing food scene with Malaysian cuisine, international restaurants, cafes, food courts and lifestyle dining options. Residents can enjoy a variety of dining choices around IOI City Mall, Alamanda and commercial areas throughout Putrajaya."
+      },
+      {
+        "icon": "fas fa-user-tie",
+        "title": "Ideal for Government Staff & Professionals",
+        "description": "Putrajaya is highly preferred by government employees, corporate professionals and workers from nearby Cyberjaya due to its proximity to government ministries, technology companies and business areas. The city provides convenient accommodation options for long-term residents."
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "title": "Safety & Quality Living",
+        "description": "Putrajaya is known for its clean environment, planned infrastructure, landscaped surroundings and secure residential communities. Many apartments and condominiums provide 24-hour security, CCTV monitoring, access card systems, swimming pools and recreational facilities."
+      }
+    ],
+    "popularResidences": [
+      "Conezion Putrajaya",
+      "Dwiputra Residences",
+      "Shaftsbury Putrajaya",
+      "IOI Conezion",
+      "The Clio Residences",
+      "Verona Residences",
+      "Ayer8 Residences",
+      "Duta Vista Executive Suites",
+      "Putrajaya Sentral Residences",
+      "Presint 8 Apartments",
+      "Presint 9 Apartments",
+      "Presint 15 Residences"
+    ],
+    "nearbyLandmarks": [
+      "Putrajaya Lake",
+      "Putra Mosque",
+      "Perdana Putra",
+      "Seri Wawasan Bridge",
+      "Putrajaya International Convention Centre",
+      "IOI City Mall",
+      "Alamanda Shopping Centre",
+      "Putrajaya Botanical Garden",
+      "Putrajaya Wetlands Park",
+      "Putrajaya Marina"
+    ],
+    "nearbyUniversities": [
+      "Multimedia University Cyberjaya",
+      "University of Cyberjaya",
+      "Limkokwing University of Creative Technology",
+      "Asia Pacific University",
+      "Universiti Kebangsaan Malaysia",
+      "Infrastructure University Kuala Lumpur"
+    ],
+    "majorEmployers": [
+      "Government of Malaysia",
+      "Ministries and Federal Government Agencies",
+      "Putrajaya Corporation",
+      "Cyberview Sdn Bhd",
+      "Multimedia Super Corridor Companies",
+      "Multimedia University",
+      "University of Cyberjaya",
+      "IOI Group",
+      "Malaysia Airports Holdings Berhad",
+      "Nearby Cyberjaya Technology Companies"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Putrajaya Sentral MRT Station",
+      "slug": "putrajaya-sentral-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "5 mins walk",
+      "distanceMeters": 400,
+      "distanceText": "5 mins walk (400 m)",
+      "title": "Putrajaya Sentral MRT Station",
+      "shortDescription": "Putrajaya Sentral MRT Station is the main public transportation hub in Putrajaya connecting residents to Kuala Lumpur, Cyberjaya, Kajang and surrounding areas. It is highly preferred by professionals and tenants looking for convenient rental properties near public transport.",
+      "averageRoomRent": 1000,
+      "nearbyLandmarks": [
+        "Putrajaya Sentral",
+        "ERL Putrajaya & Cyberjaya Station",
+        "Putrajaya Government Complex",
+        "IOI City Mall"
+      ],
+      "nearbyResidences": [
+        "Dwiputra Residences",
+        "Conezion Putrajaya",
+        "Shaftsbury Putrajaya",
+        "The Clio Residences"
+      ],
+      "popularSearches": [
+        "Room near Putrajaya Sentral MRT",
+        "Putrajaya Sentral room rental",
+        "Studio near Putrajaya MRT"
+      ]
+    },
+    {
+      "name": "Putrajaya & Cyberjaya MRT Station",
+      "slug": "putrajaya-cyberjaya-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "10 mins walk",
+      "distanceMeters": 800,
+      "distanceText": "10 mins walk (800 m)",
+      "title": "Putrajaya & Cyberjaya MRT Station",
+      "shortDescription": "Putrajaya & Cyberjaya MRT Station provides direct connectivity between Putrajaya, Cyberjaya and Kuala Lumpur. The area is popular among government employees, technology professionals and students seeking affordable rental accommodation.",
+      "averageRoomRent": 950,
+      "nearbyLandmarks": [
+        "Cyberjaya",
+        "Putrajaya Sentral",
+        "Cyberjaya Technology Hub",
+        "Putrajaya Government Offices"
+      ],
+      "nearbyResidences": [
+        "Verdi Eco-dominium",
+        "Lakefront Residence",
+        "Garden Residence",
+        "Presint 15 Residences"
+      ],
+      "popularSearches": [
+        "Room near Putrajaya Cyberjaya MRT",
+        "Putrajaya MRT room rent",
+        "Cyberjaya Putrajaya rental room"
+      ]
+    },
+    {
+      "name": "ERL Putrajaya & Cyberjaya Station",
+      "slug": "erl-putrajaya-cyberjaya-station",
+      "stationType": "ERL",
+      "line": "KLIA Transit Line",
+      "walkingTime": "8 mins walk",
+      "distanceMeters": 650,
+      "distanceText": "8 mins walk (650 m)",
+      "title": "ERL Putrajaya & Cyberjaya Station",
+      "shortDescription": "ERL Putrajaya & Cyberjaya Station provides fast rail connectivity to KLIA, KLIA2 and Kuala Lumpur. It is suitable for frequent travellers, airport staff and professionals seeking convenient rental properties.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "Putrajaya Sentral",
+        "KLIA Transit",
+        "Cyberjaya",
+        "Putrajaya Government Area"
+      ],
+      "nearbyResidences": [
+        "Shaftsbury Putrajaya",
+        "Conezion Putrajaya",
+        "Dwiputra Residences"
+      ],
+      "popularSearches": [
+        "Room near ERL Putrajaya",
+        "Putrajaya KLIA Transit room rental",
+        "Apartment near Putrajaya ERL"
+      ]
+    },
+    {
+      "name": "Cyberjaya MRT Station",
+      "slug": "cyberjaya-mrt-station",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 5000,
+      "distanceText": "15 mins drive (5 km)",
+      "title": "Cyberjaya MRT Station",
+      "shortDescription": "Cyberjaya MRT Station provides convenient access between Putrajaya and Cyberjaya. Many tenants working in technology companies choose rental properties near this transport connection.",
+      "averageRoomRent": 900,
+      "nearbyLandmarks": [
+        "Multimedia University Cyberjaya",
+        "Tamarind Square",
+        "DPULZE Shopping Centre",
+        "Cyberjaya Technology Hub"
+      ],
+      "nearbyResidences": [
+        "Tamarind Square Residences",
+        "Shaftsbury Residences",
+        "Verdi Eco-dominium",
+        "Lakefront Residence"
+      ],
+      "popularSearches": [
+        "Room near Cyberjaya MRT",
+        "Cyberjaya MRT room rental",
+        "Putrajaya Cyberjaya accommodation"
+      ]
+    },
+    {
+      "name": "Kajang MRT Station",
+      "slug": "kajang-mrt-station",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "25 mins drive",
+      "distanceMeters": 22000,
+      "distanceText": "25 mins drive (22 km)",
+      "title": "Kajang MRT Station",
+      "shortDescription": "Kajang MRT Station provides connectivity to wider Klang Valley areas and is a nearby transport option for tenants living around Putrajaya and surrounding locations.",
+      "averageRoomRent": 850,
+      "nearbyLandmarks": [
+        "Kajang Town",
+        "Metro Point Complex",
+        "Kajang Stadium"
+      ],
+      "nearbyResidences": [
+        "Kajang residential apartments",
+        "Bangi residences",
+        "Affordable rental homes"
+      ],
+      "popularSearches": [
+        "Room near Kajang MRT",
+        "Affordable room near Putrajaya",
+        "Kajang Putrajaya rental"
+      ]
+    },
+    {
+      "name": "Serdang Raya MRT Station",
+      "slug": "serdang-raya-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "30 mins drive",
+      "distanceMeters": 28000,
+      "distanceText": "30 mins drive (28 km)",
+      "title": "Serdang Raya MRT Station",
+      "shortDescription": "Serdang Raya MRT Station connects residents towards Kuala Lumpur and surrounding areas. It provides an alternative transport option for tenants working between Putrajaya and Klang Valley.",
+      "averageRoomRent": 900,
+      "nearbyLandmarks": [
+        "Serdang",
+        "The Mines",
+        "UPM"
+      ],
+      "nearbyResidences": [
+        "Serdang apartments",
+        "Seri Kembangan residences",
+        "Affordable condominiums"
+      ],
+      "popularSearches": [
+        "Room near Serdang MRT",
+        "Putrajaya rental near MRT",
+        "Affordable room near Serdang"
+      ]
+    },
+    {
+      "name": "Cyberjaya City Centre MRT Station",
+      "slug": "cyberjaya-city-centre-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 6000,
+      "distanceText": "15 mins drive (6 km)",
+      "title": "Cyberjaya City Centre MRT Station",
+      "shortDescription": "Cyberjaya City Centre MRT Station serves the growing technology district near Putrajaya. It is suitable for tenants searching rental properties close to offices, universities and lifestyle facilities.",
+      "averageRoomRent": 950,
+      "nearbyLandmarks": [
+        "Cyberjaya City Centre",
+        "Multimedia University",
+        "DPULZE Shopping Centre",
+        "Cyberjaya Lake Gardens"
+      ],
+      "nearbyResidences": [
+        "Garden Residence Cyberjaya",
+        "Verdi Eco-dominium",
+        "Lakefront Residence"
+      ],
+      "popularSearches": [
+        "Room near Cyberjaya City Centre MRT",
+        "Cyberjaya condo near MRT",
+        "Putrajaya Cyberjaya room rental"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 500,
+      "maxPrice": 850
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 700,
+      "maxPrice": 1100
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 900,
+      "maxPrice": 1500
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 1200,
+      "maxPrice": 2200
+    },
+    {
+      "roomType": "Condo Apartment",
+      "minPrice": 1500,
+      "maxPrice": 3000
+    },
+    {
+      "roomType": "Family House",
+      "minPrice": 1800,
+      "maxPrice": 4500
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1000,
+    "priceGrowth": 4.2,
+    "demandLevel": "High",
+    "vacancyRate": 3.5
+  },
+  "nearbyAreas": [
+    {
+      "name": "Cyberjaya",
+      "slug": "cyberjaya",
+      "averageRent": 900,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "IT Professionals, Students, Young Professionals",
+      "description": "Malaysia's technology hub located next to Putrajaya, offering affordable rooms, modern condominiums, universities, technology companies and excellent rental options for professionals and students."
+    },
+    {
+      "name": "Bangi",
+      "slug": "bangi",
+      "averageRent": 750,
+      "mrtAccess": false,
+      "distanceFromArea": 15,
+      "popularFor": "Students, Families, Budget Renters",
+      "description": "Affordable residential area popular among students and families with nearby universities, shops, restaurants and comfortable rental properties."
+    },
+    {
+      "name": "Kajang",
+      "slug": "kajang",
+      "averageRent": 800,
+      "mrtAccess": true,
+      "distanceFromArea": 22,
+      "popularFor": "Students, Working Professionals",
+      "description": "Established township with MRT connectivity, affordable rooms, apartments and convenient access to Putrajaya through major highways."
+    },
+    {
+      "name": "Puchong",
+      "slug": "puchong",
+      "averageRent": 900,
+      "mrtAccess": true,
+      "distanceFromArea": 20,
+      "popularFor": "Families, Professionals",
+      "description": "Popular suburban area offering modern condominiums, shopping malls, commercial facilities and good transportation connectivity."
+    },
+    {
+      "name": "Seri Kembangan",
+      "slug": "seri-kembangan",
+      "averageRent": 850,
+      "mrtAccess": true,
+      "distanceFromArea": 25,
+      "popularFor": "Families, Professionals",
+      "description": "Growing residential area with affordable rental properties, commercial centres and access to major highways connecting Putrajaya."
+    },
+    {
+      "name": "Serdang",
+      "slug": "serdang",
+      "averageRent": 850,
+      "mrtAccess": true,
+      "distanceFromArea": 28,
+      "popularFor": "Students, Researchers, Professionals",
+      "description": "Popular location near Universiti Putra Malaysia with affordable accommodation, restaurants and convenient transport options."
+    },
+    {
+      "name": "Dengkil",
+      "slug": "dengkil",
+      "averageRent": 650,
+      "mrtAccess": false,
+      "distanceFromArea": 12,
+      "popularFor": "Budget Renters, Workers",
+      "description": "Affordable nearby township offering lower rental prices with easy access to Putrajaya, Cyberjaya and KLIA areas."
+    },
+    {
+      "name": "Sepang",
+      "slug": "sepang",
+      "averageRent": 700,
+      "mrtAccess": false,
+      "distanceFromArea": 25,
+      "popularFor": "Airport Workers, Professionals",
+      "description": "Strategic location near KLIA and major transportation hubs with affordable rental options for workers and frequent travellers."
+    },
+    {
+      "name": "KLIA",
+      "slug": "klia",
+      "averageRent": 850,
+      "mrtAccess": true,
+      "distanceFromArea": 30,
+      "popularFor": "Airport Staff, Travellers",
+      "description": "Airport-focused area offering convenient accommodation options for aviation professionals and frequent commuters."
+    },
+    {
+      "name": "Nilai",
+      "slug": "nilai",
+      "averageRent": 650,
+      "mrtAccess": false,
+      "distanceFromArea": 32,
+      "popularFor": "Students, Budget Renters",
+      "description": "Affordable town with universities, shopping centres and budget-friendly rental properties near Putrajaya."
+    },
+    {
+      "name": "Bandar Baru Bangi",
+      "slug": "bandar-baru-bangi",
+      "averageRent": 750,
+      "mrtAccess": false,
+      "distanceFromArea": 18,
+      "popularFor": "Students, Families",
+      "description": "Popular education and residential hub offering affordable rooms, apartments and family-friendly neighbourhoods."
+    },
+    {
+      "name": "KL Sentral",
+      "slug": "kl-sentral",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 35,
+      "popularFor": "Professionals, Travellers",
+      "description": "Major Kuala Lumpur transportation hub connecting Putrajaya residents to city offices, universities and business districts."
+    },
+    {
+      "name": "Kuala Lumpur City Centre",
+      "slug": "kuala-lumpur-city-centre",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 35,
+      "popularFor": "Professionals, Expats",
+      "description": "Malaysia's main business district offering premium rental properties, offices, shopping malls and lifestyle facilities."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 1500,
+      "mrtAccess": false,
+      "distanceFromArea": 40,
+      "popularFor": "Expats, Families",
+      "description": "Premium residential area known for luxury condominiums, international schools and expatriate-friendly housing."
+    },
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 38,
+      "popularFor": "Professionals, Expats",
+      "description": "Lifestyle neighbourhood offering cafes, restaurants, offices and premium rental residences."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 35,
+      "popularFor": "Students, Professionals",
+      "description": "Major urban area with universities, offices, shopping malls and diverse rental accommodation options."
+    },
+    {
+      "name": "Subang Jaya",
+      "slug": "subang-jaya",
+      "averageRent": 950,
+      "mrtAccess": true,
+      "distanceFromArea": 32,
+      "popularFor": "Students, Families",
+      "description": "Established township with universities, shopping centres, commercial areas and affordable rentals."
+    },
+    {
+      "name": "Sunway",
+      "slug": "sunway",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 30,
+      "popularFor": "Students, Young Professionals",
+      "description": "Popular student and lifestyle area with universities, Sunway Pyramid, hospitals and furnished rental rooms."
+    },
+    {
+      "name": "Shah Alam",
+      "slug": "shah-alam",
+      "averageRent": 750,
+      "mrtAccess": false,
+      "distanceFromArea": 45,
+      "popularFor": "Families, Workers",
+      "description": "Affordable city offering spacious homes, apartments and convenient access to industrial areas."
+    },
+    {
+      "name": "Port Dickson",
+      "slug": "port-dickson",
+      "averageRent": 800,
+      "mrtAccess": false,
+      "distanceFromArea": 60,
+      "popularFor": "Weekend Living, Retirees",
+      "description": "Coastal destination with relaxed lifestyle options and affordable accommodation choices."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Putrajaya",
+      "url": "/master-room-rental-putrajaya"
+    },
+    {
+      "title": "Single Room Putrajaya",
+      "url": "/single-room-rental-putrajaya"
+    },
+    {
+      "title": "Condo Room Putrajaya",
+      "url": "/condo-room-rental-putrajaya"
+    },
+    {
+      "title": "Room Near Putrajaya MRT",
+      "url": "/room-near-putrajaya-mrt"
+    },
+    {
+      "title": "Cheap Room Putrajaya",
+      "url": "/cheap-room-rental-putrajaya"
+    },
+    {
+      "title": "Furnished Room Putrajaya",
+      "url": "/furnished-room-putrajaya"
+    },
+    {
+      "title": "Room Near IOI City Mall Putrajaya",
+      "url": "/room-near-ioi-city-mall-putrajaya"
+    },
+    {
+      "title": "Room Near Putrajaya Sentral",
+      "url": "/room-near-putrajaya-sentral"
+    },
+    {
+      "title": "Apartment For Rent Putrajaya",
+      "url": "/apartment-for-rent-putrajaya"
+    },
+    {
+      "title": "Condo For Rent Putrajaya",
+      "url": "/condo-for-rent-putrajaya"
+    },
+    {
+      "title": "Studio Apartment Putrajaya",
+      "url": "/studio-apartment-putrajaya"
+    },
+    {
+      "title": "Family House Rental Putrajaya",
+      "url": "/family-house-rental-putrajaya"
+    },
+    {
+      "title": "Cheap Condo Rental Putrajaya",
+      "url": "/cheap-condo-rental-putrajaya"
+    },
+    {
+      "title": "Luxury Condo Putrajaya",
+      "url": "/luxury-condo-putrajaya"
+    },
+    {
+      "title": "Serviced Apartment Putrajaya",
+      "url": "/serviced-apartment-putrajaya"
+    },
+    {
+      "title": "Room Near Government Office Putrajaya",
+      "url": "/room-near-putrajaya-government-office"
+    },
+    {
+      "title": "Room Near Putra Mosque",
+      "url": "/room-near-putra-mosque"
+    },
+    {
+      "title": "Room Near Alamanda Putrajaya",
+      "url": "/room-near-alamanda-putrajaya"
+    },
+    {
+      "title": "Room Near Cyberjaya From Putrajaya",
+      "url": "/room-near-cyberjaya-putrajaya"
+    },
+    {
+      "title": "Monthly Rental Putrajaya",
+      "url": "/monthly-rental-putrajaya"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a room for rent in Putrajaya cost?",
+      "answer": "Room rental prices in Putrajaya generally range from RM500 to RM1500 per month depending on room size, condominium facilities, furnishing level, location and distance to MRT stations or government offices."
+    },
+    {
+      "question": "What is the average condo rental price in Putrajaya?",
+      "answer": "The average condo rental price in Putrajaya ranges from RM1500 to RM3000 per month depending on property size, location, facilities and whether the unit is furnished."
+    },
+    {
+      "question": "Is Putrajaya a good place to rent a room?",
+      "answer": "Yes, Putrajaya is one of the best places to rent a room in Malaysia because it offers a peaceful environment, modern infrastructure, affordable rentals, government offices, shopping malls and excellent connectivity."
+    },
+    {
+      "question": "Who usually rents properties in Putrajaya?",
+      "answer": "Putrajaya rental properties are popular among government employees, professionals, families, expatriates, students and workers from nearby Cyberjaya."
+    },
+    {
+      "question": "What types of rental properties are available in Putrajaya?",
+      "answer": "Putrajaya offers single rooms, medium rooms, master rooms, studio apartments, condominiums, serviced apartments and family houses for rent."
+    },
+    {
+      "question": "Where is the best area to rent in Putrajaya?",
+      "answer": "Popular rental areas in Putrajaya include Presint 1, Presint 8, Presint 9, Presint 15 and Presint 16 because they offer convenient access to offices, shopping malls and residential facilities."
+    },
+    {
+      "question": "Is Putrajaya cheaper than Kuala Lumpur for rental properties?",
+      "answer": "Yes, Putrajaya generally offers more affordable rental prices compared with Kuala Lumpur city centre while providing modern facilities and better surroundings."
+    },
+    {
+      "question": "Can I find a furnished room for rent in Putrajaya?",
+      "answer": "Yes, many apartments and condominiums in Putrajaya offer fully furnished rooms with beds, wardrobes, study tables, air conditioning and shared facilities."
+    },
+    {
+      "question": "Are there cheap rooms for rent in Putrajaya?",
+      "answer": "Yes, affordable rooms in Putrajaya are available starting from around RM500 per month depending on location, room type and facilities."
+    },
+    {
+      "question": "Is Putrajaya suitable for government workers?",
+      "answer": "Yes, Putrajaya is highly suitable for government workers because most federal ministries and government agencies are located within the city."
+    },
+    {
+      "question": "Are there rooms near Putrajaya MRT Station?",
+      "answer": "Yes, tenants can find rental rooms near Putrajaya MRT Station and Putrajaya Sentral with convenient access to public transportation."
+    },
+    {
+      "question": "How far is Putrajaya from Kuala Lumpur?",
+      "answer": "Putrajaya is approximately 30 to 40 kilometres from Kuala Lumpur depending on the destination and usually takes around 30 to 45 minutes by car."
+    },
+    {
+      "question": "How far is Putrajaya from Cyberjaya?",
+      "answer": "Putrajaya is located next to Cyberjaya, with many areas reachable within 10 to 20 minutes by car."
+    },
+    {
+      "question": "Is Putrajaya good for families?",
+      "answer": "Yes, Putrajaya is one of the most family-friendly cities in Malaysia with parks, schools, recreational areas, safe neighbourhoods and spacious homes."
+    },
+    {
+      "question": "Are there luxury condos for rent in Putrajaya?",
+      "answer": "Yes, Putrajaya has modern luxury condominiums offering swimming pools, gyms, security services, parking facilities and premium living environments."
+    },
+    {
+      "question": "Can foreigners rent apartments in Putrajaya?",
+      "answer": "Yes, foreigners can rent apartments and condominiums in Putrajaya. Many properties are suitable for expatriates and international tenants."
+    },
+    {
+      "question": "What are the popular condominiums in Putrajaya?",
+      "answer": "Popular condominiums in Putrajaya include Conezion Putrajaya, Dwiputra Residences, Shaftsbury Putrajaya, Ayer8 Residences and The Clio Residences."
+    },
+    {
+      "question": "Is Putrajaya connected by MRT?",
+      "answer": "Yes, Putrajaya is connected through the Putrajaya MRT Line, providing access to Kuala Lumpur and surrounding areas."
+    },
+    {
+      "question": "What facilities are available in Putrajaya condos?",
+      "answer": "Most Putrajaya condominiums provide facilities such as swimming pools, gyms, playgrounds, parking, security systems and landscaped gardens."
+    },
+    {
+      "question": "Can students rent rooms in Putrajaya?",
+      "answer": "Yes, students can find affordable rooms in Putrajaya, especially those studying or attending universities around Cyberjaya and nearby areas."
+    },
+    {
+      "question": "Are there rooms near IOI City Mall Putrajaya?",
+      "answer": "Yes, many rental properties are available near IOI City Mall including rooms, apartments and condominiums."
+    },
+    {
+      "question": "Is Putrajaya safe for renting a room?",
+      "answer": "Yes, Putrajaya is considered a safe residential area with planned neighbourhoods, clean surroundings and good security infrastructure."
+    },
+    {
+      "question": "What is the cheapest room rental in Putrajaya?",
+      "answer": "The cheapest room rentals in Putrajaya usually start around RM500 to RM700 per month depending on room condition and location."
+    },
+    {
+      "question": "Can I rent a master room in Putrajaya?",
+      "answer": "Yes, master rooms are available in many Putrajaya apartments and condominiums with prices usually higher than standard rooms due to larger space and private bathrooms."
+    },
+    {
+      "question": "Are short term rentals available in Putrajaya?",
+      "answer": "Yes, short-term rental options including serviced apartments and furnished units are available in Putrajaya."
+    },
+    {
+      "question": "What is the best place to live near Putrajaya Sentral?",
+      "answer": "Areas near Putrajaya Sentral are popular because they provide easy access to MRT, ERL, buses and major highways."
+    },
+    {
+      "question": "Is Putrajaya suitable for professionals working in Cyberjaya?",
+      "answer": "Yes, many Cyberjaya professionals choose Putrajaya because rental prices are competitive and the commute is convenient."
+    },
+    {
+      "question": "Are there apartments near Putrajaya government offices?",
+      "answer": "Yes, many apartments and condominiums are located close to Putrajaya government offices."
+    },
+    {
+      "question": "Can I find a studio apartment in Putrajaya?",
+      "answer": "Yes, studio apartments are available in selected Putrajaya developments and are popular among single professionals."
+    },
+    {
+      "question": "Does Putrajaya have shopping malls nearby?",
+      "answer": "Yes, residents have easy access to IOI City Mall and Alamanda Shopping Centre for shopping, dining and entertainment."
+    },
+    {
+      "question": "What is the average rental deposit in Putrajaya?",
+      "answer": "Rental deposits in Putrajaya usually follow standard Malaysian rental practices and depend on landlord requirements and tenancy agreement terms."
+    },
+    {
+      "question": "Are pets allowed in Putrajaya condos?",
+      "answer": "Pet policies depend on each condominium management and landlord approval."
+    },
+    {
+      "question": "Is parking available in Putrajaya apartments?",
+      "answer": "Most Putrajaya apartments and condominiums provide dedicated parking facilities for residents."
+    },
+    {
+      "question": "Can I rent a room monthly in Putrajaya?",
+      "answer": "Yes, monthly room rentals are widely available in Putrajaya."
+    },
+    {
+      "question": "Are Putrajaya rentals good for long-term living?",
+      "answer": "Yes, Putrajaya is ideal for long-term living due to its peaceful environment, facilities and convenient location."
+    },
+    {
+      "question": "What transport options are available in Putrajaya?",
+      "answer": "Transport options include MRT, ERL, buses, highways and private vehicle access."
+    },
+    {
+      "question": "Are there affordable apartments near Cyberjaya and Putrajaya?",
+      "answer": "Yes, many affordable apartments are available between Putrajaya and Cyberjaya."
+    },
+    {
+      "question": "Why do people choose Putrajaya over Kuala Lumpur?",
+      "answer": "People choose Putrajaya for affordable rentals, cleaner surroundings, less congestion and family-friendly living."
+    },
+    {
+      "question": "How do I find the best room for rent in Putrajaya?",
+      "answer": "You can find the best room for rent in Putrajaya by comparing location, rental price, facilities, transport access, furnishing level and proximity to workplaces or universities."
+    },
+    {
+      "question": "Which Putrajaya precinct is best for room rental?",
+      "answer": "Popular precincts for rental in Putrajaya include Presint 1, Presint 8, Presint 9, Presint 15 and Presint 16 due to their accessibility and residential facilities."
+    },
+    {
+      "question": "Are there rooms for rent near Putra Mosque?",
+      "answer": "Yes, several residential areas around Putrajaya provide convenient access to Putra Mosque and surrounding attractions."
+    },
+    {
+      "question": "Are there furnished apartments for rent in Putrajaya?",
+      "answer": "Yes, many Putrajaya apartments come fully furnished with essential furniture and appliances suitable for immediate move-in."
+    },
+    {
+      "question": "Is Putrajaya a good place for working professionals?",
+      "answer": "Yes, Putrajaya is suitable for professionals working in government agencies, Cyberjaya companies and nearby business districts."
+    },
+    {
+      "question": "What is the average master room rental price in Putrajaya?",
+      "answer": "Master room rentals in Putrajaya usually range from RM900 to RM1500 per month depending on the condominium and facilities."
+    },
+    {
+      "question": "What is the average single room rental price in Putrajaya?",
+      "answer": "Single room rental prices in Putrajaya generally range from RM500 to RM900 per month depending on location and furnishing."
+    },
+    {
+      "question": "Are there condo rooms for rent in Putrajaya?",
+      "answer": "Yes, many condominium owners offer individual rooms for rent in Putrajaya with shared access to facilities."
+    },
+    {
+      "question": "Can I rent a room near Putrajaya MRT Line?",
+      "answer": "Yes, rental rooms are available near MRT stations along the Putrajaya Line for easier commuting."
+    },
+    {
+      "question": "Is Putrajaya cheaper than Cyberjaya for rental?",
+      "answer": "Rental prices in Putrajaya and Cyberjaya are competitive, with Putrajaya often preferred for quieter surroundings and family living."
+    },
+    {
+      "question": "Are there rental houses in Putrajaya?",
+      "answer": "Yes, Putrajaya offers landed houses, terrace houses, apartments and condominiums for rent."
+    },
+    {
+      "question": "What are the benefits of renting in Putrajaya?",
+      "answer": "Benefits include modern infrastructure, green spaces, safety, affordable rental prices, government facilities and good connectivity."
+    },
+    {
+      "question": "Are there rooms near Alamanda Putrajaya?",
+      "answer": "Yes, tenants can find rooms and apartments near Alamanda Shopping Centre with convenient access to retail and dining facilities."
+    },
+    {
+      "question": "Are Putrajaya condos suitable for expatriates?",
+      "answer": "Yes, many Putrajaya condos offer comfortable facilities and environments suitable for expatriates."
+    },
+    {
+      "question": "Can I rent an apartment near IOI City Mall?",
+      "answer": "Yes, there are many apartments and condominiums near IOI City Mall Putrajaya available for rent."
+    },
+    {
+      "question": "What documents are required to rent a property in Putrajaya?",
+      "answer": "Common rental documents include identification documents, employment details and required tenancy agreement information."
+    },
+    {
+      "question": "Are there no deposit rooms for rent in Putrajaya?",
+      "answer": "Some landlords may offer flexible deposit arrangements, but availability depends on individual property owners."
+    },
+    {
+      "question": "Is Putrajaya suitable for remote workers?",
+      "answer": "Yes, Putrajaya provides a peaceful environment, good internet availability and comfortable homes suitable for remote workers."
+    },
+    {
+      "question": "Are there affordable studio apartments in Putrajaya?",
+      "answer": "Yes, selected developments offer studio apartments suitable for singles and professionals looking for affordable housing."
+    },
+    {
+      "question": "How long does it take to travel from Putrajaya to KL?",
+      "answer": "Travel time from Putrajaya to Kuala Lumpur is usually around 30 to 45 minutes depending on traffic and transport mode."
+    },
+    {
+      "question": "Are there rooms near Putrajaya Sentral for rent?",
+      "answer": "Yes, rooms near Putrajaya Sentral are popular among tenants who need convenient MRT, ERL and bus connections."
+    },
+    {
+      "question": "What amenities are available around Putrajaya rentals?",
+      "answer": "Putrajaya rentals are close to schools, parks, hospitals, shopping malls, restaurants and government facilities."
+    },
+    {
+      "question": "Can couples rent apartments in Putrajaya?",
+      "answer": "Yes, many apartments and condominiums in Putrajaya are suitable for couples and small families."
+    },
+    {
+      "question": "Are there female-only rooms for rent in Putrajaya?",
+      "answer": "Some landlords provide female-only rooms depending on availability and rental preferences."
+    },
+    {
+      "question": "Are there male-only rooms for rent in Putrajaya?",
+      "answer": "Some properties offer male-only rooms depending on landlord policies and tenant requirements."
+    },
+    {
+      "question": "Which areas near Putrajaya have affordable rentals?",
+      "answer": "Affordable rental options can be found around Putrajaya precincts and nearby areas such as Dengkil, Cyberjaya and Bangi."
+    },
+    {
+      "question": "Is Putrajaya good for young professionals?",
+      "answer": "Yes, young professionals choose Putrajaya because of affordable rentals, transport links and proximity to Cyberjaya workplaces."
+    },
+    {
+      "question": "Are utilities included in Putrajaya room rentals?",
+      "answer": "Utility arrangements depend on the landlord. Some rentals include water, electricity or internet while others charge separately."
+    },
+    {
+      "question": "Can foreigners rent rooms in Putrajaya?",
+      "answer": "Yes, foreigners can rent rooms and apartments in Putrajaya subject to landlord requirements."
+    },
+    {
+      "question": "What is the best condo to rent in Putrajaya?",
+      "answer": "Popular condo choices include developments with modern facilities, security, parking and convenient access to workplaces and shopping areas."
+    },
+    {
+      "question": "Are Putrajaya rentals available for students?",
+      "answer": "Yes, students from nearby universities and colleges can find affordable rooms and apartments in Putrajaya."
+    },
+    {
+      "question": "Is public transport convenient in Putrajaya?",
+      "answer": "Yes, Putrajaya has MRT, ERL, buses and highway connections making commuting easier."
+    },
+    {
+      "question": "Are there swimming pool condos for rent in Putrajaya?",
+      "answer": "Yes, many Putrajaya condominiums offer swimming pools, gyms and recreational facilities."
+    },
+    {
+      "question": "Can I rent a fully furnished condo in Putrajaya?",
+      "answer": "Yes, fully furnished condos are available with furniture, appliances and move-in ready options."
+    },
+    {
+      "question": "Are Putrajaya apartments suitable for families with children?",
+      "answer": "Yes, Putrajaya is highly suitable for families due to parks, schools, safety and spacious residential areas."
+    },
+    {
+      "question": "How can I compare Putrajaya rental prices?",
+      "answer": "You can compare rental prices by checking room type, location, facilities, furnishing and nearby transportation options."
+    },
+    {
+      "question": "Are there luxury apartments with lake views in Putrajaya?",
+      "answer": "Yes, some Putrajaya residences offer scenic views including lake views and landscaped surroundings."
+    },
+    {
+      "question": "Is Putrajaya crowded compared to Kuala Lumpur?",
+      "answer": "Putrajaya is generally less crowded than Kuala Lumpur, offering a more peaceful residential environment."
+    },
+    {
+      "question": "Why is Putrajaya popular for rental property investment?",
+      "answer": "Putrajaya attracts rental demand from government employees, professionals, families and nearby Cyberjaya workers."
+    },
+    {
+      "question": "How do I book a rental room in Putrajaya?",
+      "answer": "You can contact property owners, check available listings, arrange viewings and complete the tenancy process to secure a rental room."
+    },
+    {
+      "question": "What is the best website to find rooms for rent in Putrajaya?",
+      "answer": "A dedicated rental platform focusing on Putrajaya properties can help tenants find rooms, condos, apartments and houses with detailed location, pricing and facilities information."
+    },
+    {
+      "question": "Are there cheap rooms near Putrajaya Sentral?",
+      "answer": "Yes, affordable rooms are available near Putrajaya Sentral, offering convenient access to MRT, ERL and bus transportation."
+    },
+    {
+      "question": "Can I find a room near Putrajaya government offices?",
+      "answer": "Yes, many rental rooms and apartments are located close to government offices, making them popular among civil servants and professionals."
+    },
+    {
+      "question": "What is the minimum rental budget for Putrajaya rooms?",
+      "answer": "Budget tenants can usually find rooms starting from around RM500 per month depending on location, room size and included facilities."
+    },
+    {
+      "question": "Are there condominium rooms available near Putrajaya Lake?",
+      "answer": "Yes, selected residential developments around Putrajaya Lake offer rooms and apartments with scenic surroundings."
+    },
+    {
+      "question": "Is Putrajaya suitable for long-term rental?",
+      "answer": "Yes, Putrajaya is ideal for long-term rental due to its planned infrastructure, safety, greenery and residential comfort."
+    },
+    {
+      "question": "Are there rental properties near Putrajaya International Convention Centre?",
+      "answer": "Yes, tenants can find apartments and condominiums with convenient access to Putrajaya International Convention Centre."
+    },
+    {
+      "question": "Can I rent a private room in Putrajaya?",
+      "answer": "Yes, private single rooms and master rooms are available in apartments and condominiums throughout Putrajaya."
+    },
+    {
+      "question": "Are there shared rooms available in Putrajaya?",
+      "answer": "Yes, shared room rental options are available for tenants looking for lower-cost accommodation."
+    },
+    {
+      "question": "Is Putrajaya suitable for fresh graduates?",
+      "answer": "Yes, fresh graduates working in Putrajaya or Cyberjaya can find affordable rental rooms with good connectivity."
+    },
+    {
+      "question": "What makes Putrajaya different from other rental areas?",
+      "answer": "Putrajaya offers a planned city environment with government facilities, green spaces, modern housing and less congestion."
+    },
+    {
+      "question": "Are there apartments near Putrajaya Hospital?",
+      "answer": "Yes, several residential areas provide convenient access to Putrajaya Hospital and healthcare facilities."
+    },
+    {
+      "question": "Can I rent a condo near IOI Resort City?",
+      "answer": "Yes, there are rental apartments and condominiums near IOI Resort City and IOI City Mall areas."
+    },
+    {
+      "question": "Are Putrajaya rental properties good for investors?",
+      "answer": "Yes, Putrajaya attracts consistent rental demand from government employees, professionals and nearby business communities."
+    },
+    {
+      "question": "How much is a studio apartment rental in Putrajaya?",
+      "answer": "Studio apartment rentals in Putrajaya generally range from RM1000 to RM2000 per month depending on development and facilities."
+    },
+    {
+      "question": "Are there high-rise apartments for rent in Putrajaya?",
+      "answer": "Yes, Putrajaya has various high-rise residential developments offering modern facilities and comfortable living spaces."
+    },
+    {
+      "question": "Can I find a room near Cyberjaya from Putrajaya?",
+      "answer": "Yes, many tenants choose Putrajaya rentals because Cyberjaya is located nearby and easily accessible."
+    },
+    {
+      "question": "Are there affordable family homes for rent in Putrajaya?",
+      "answer": "Yes, Putrajaya offers family-friendly apartments, condominiums and landed houses with spacious layouts."
+    },
+    {
+      "question": "What facilities should I look for when renting in Putrajaya?",
+      "answer": "Important facilities include security, parking, internet availability, swimming pool, gym, accessibility and nearby amenities."
+    },
+    {
+      "question": "Are there rental rooms near Putrajaya MRT Station?",
+      "answer": "Yes, rooms near Putrajaya MRT Station are available and suitable for tenants who rely on public transportation."
+    }
+  ],
+  "focusKeywords": [
+    "Putrajaya room for rent",
+    "Putrajaya condo for rent",
+    "Putrajaya apartment for rent",
+    "room near Putrajaya MRT",
+    "furnished room Putrajaya",
+    "cheap room Putrajaya Malaysia",
+    "Putrajaya rental property",
+    "condo rental Putrajaya",
+    "Putrajaya serviced apartment for rent",
+    "government staff accommodation Putrajaya",
+    "room near Putrajaya Sentral",
+    "studio apartment Putrajaya for rent",
+    "luxury condo Putrajaya",
+    "monthly rental Putrajaya",
+    "family apartment Putrajaya",
+    "room near IOI City Mall Putrajaya",
+    "room near Putrajaya government offices",
+    "affordable rental Putrajaya",
+    "fully furnished apartment Putrajaya",
+    "best place to rent in Putrajaya"
+  ],
+  "longTailKeywords": [
+    "furnished room for rent near Putrajaya MRT Station Malaysia",
+    "cheap room near Putrajaya Sentral for government workers and professionals",
+    "modern condo rental Putrajaya near IOI City Mall fully furnished",
+    "studio apartment Putrajaya fully furnished for working professionals",
+    "monthly rental apartment Putrajaya near government offices",
+    "affordable master room for rent in Putrajaya condominium",
+    "family condo rental Putrajaya near schools and shopping malls",
+    "short term rental Putrajaya furnished apartment for business travellers",
+    "budget room for rent near Cyberjaya and Putrajaya",
+    "premium condominium rental Putrajaya with swimming pool and facilities",
+    "room near Putrajaya MRT for professionals working in Kuala Lumpur",
+    "fully furnished room near Putrajaya Sentral public transport",
+    "cheap apartment rental Putrajaya for government employees",
+    "executive apartment Putrajaya near federal government offices",
+    "best condo to rent in Putrajaya for families and professionals",
+    "no deposit room rental Putrajaya Malaysia",
+    "room for rent near Alamanda Shopping Centre Putrajaya",
+    "high floor condo Putrajaya lake view rental",
+    "peaceful residential area Putrajaya apartment for rent",
+    "long term rental house Putrajaya near Cyberjaya"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Putrajaya",
+      "budget room near Putrajaya",
+      "student room Putrajaya",
+      "affordable accommodation Putrajaya Malaysia",
+      "student rental room Putrajaya",
+      "shared room rental Putrajaya",
+      "cheap furnished room Putrajaya",
+      "budget apartment near Putrajaya MRT",
+      "student accommodation near Putrajaya Sentral",
+      "room near Multimedia University Cyberjaya",
+      "room near University of Cyberjaya",
+      "student friendly room rental Putrajaya"
+    ],
+    "expat": [
+      "expat housing Putrajaya",
+      "furnished condo Putrajaya",
+      "serviced apartment Putrajaya",
+      "international tenant friendly condo Putrajaya",
+      "luxury apartment rental Putrajaya",
+      "premium condo near Putrajaya Lake",
+      "fully furnished apartment Putrajaya Malaysia",
+      "expat friendly residence Putrajaya",
+      "high end condo rental Putrajaya",
+      "foreign tenant apartment Putrajaya"
+    ],
+    "professional": [
+      "Putrajaya condo near MRT",
+      "room near Putrajaya for professionals",
+      "room near Putrajaya government offices",
+      "room near Putrajaya Sentral",
+      "room near Cyberjaya from Putrajaya",
+      "premium apartment Putrajaya",
+      "executive residence Putrajaya",
+      "working professional room rental Putrajaya",
+      "corporate housing Putrajaya Malaysia",
+      "office worker accommodation Putrajaya",
+      "government staff room rental Putrajaya"
+    ],
+    "shortStay": [
+      "short term rental Putrajaya",
+      "monthly rental Putrajaya",
+      "serviced residence Putrajaya",
+      "flexible room rental Putrajaya",
+      "short stay apartment Putrajaya Malaysia",
+      "temporary accommodation Putrajaya",
+      "monthly furnished room Putrajaya",
+      "weekly apartment rental Putrajaya",
+      "business stay Putrajaya",
+      "holiday rental Putrajaya apartment"
+    ],
+    "premiumIntent": [
+      "luxury condo Putrajaya for rent",
+      "high end apartment Putrajaya",
+      "executive residence Putrajaya",
+      "premium serviced apartment Putrajaya",
+      "luxury condominium rental Putrajaya",
+      "modern condo rental Putrajaya Malaysia",
+      "premium furnished room Putrajaya",
+      "exclusive apartment Putrajaya",
+      "luxury residence Putrajaya",
+      "lake view condo Putrajaya for rent"
+    ],
+    "family": [
+      "family apartment Putrajaya",
+      "3 bedroom condo Putrajaya rental",
+      "family friendly condo Putrajaya",
+      "safe residential area Putrajaya",
+      "large apartment rental Putrajaya Malaysia",
+      "family condo near IOI City Mall Putrajaya",
+      "child friendly apartment Putrajaya",
+      "long term family rental Putrajaya",
+      "spacious condominium Putrajaya",
+      "house rental Putrajaya for family"
+    ],
+    "budgetTenant": [
+      "cheap room Putrajaya Malaysia",
+      "low budget rental Putrajaya",
+      "affordable apartment Putrajaya",
+      "room under RM1000 Putrajaya",
+      "budget friendly room near Putrajaya MRT",
+      "cheap furnished room Putrajaya",
+      "affordable condo room Putrajaya",
+      "low cost accommodation Putrajaya",
+      "budget room near Putrajaya Sentral",
+      "cheap rental near IOI City Mall Putrajaya"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Putrajaya condo for rent",
+    "secondaryKeywords": [
+      "Putrajaya room for rent",
+      "Putrajaya apartment for rent",
+      "Putrajaya serviced apartment for rent",
+      "affordable condo Putrajaya Malaysia",
+      "room near Putrajaya MRT",
+      "room near Putrajaya Sentral",
+      "Putrajaya government staff accommodation",
+      "family apartment Putrajaya",
+      "furnished condo Putrajaya",
+      "room near IOI City Mall Putrajaya",
+      "Cyberjaya Putrajaya rental property",
+      "high rise condo Putrajaya lake view"
+    ],
+    "seoScore": 97,
+    "canonicalUrl": "https://roomrentalkl.com/kuala-lumpur/putrajaya/condo-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "affordable-family-professional-rentals",
+    "contentCluster": [
+      "affordable condos Putrajaya",
+      "serviced apartments Putrajaya",
+      "government staff housing Putrajaya",
+      "family friendly rentals Putrajaya",
+      "MRT connected rentals Putrajaya",
+      "lake view condominium Putrajaya",
+      "Cyberjaya nearby rental properties",
+      "furnished apartments Putrajaya"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Cyberjaya",
+        "Bangi",
+        "Kajang",
+        "Puchong",
+        "Seri Kembangan",
+        "Dengkil"
+      ],
+      "nearbyHotspots": [
+        "Putrajaya Lake",
+        "Putra Mosque",
+        "IOI City Mall",
+        "Alamanda Shopping Centre",
+        "Putrajaya Sentral",
+        "Putrajaya International Convention Centre"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Putrajaya Rooms for Rent",
+        "url": "/room-rental-putrajaya",
+        "keyword": "putrajaya room for rent"
+      },
+      {
+        "title": "Putrajaya Condos for Rent",
+        "url": "/condo-for-rent-putrajaya",
+        "keyword": "putrajaya condo for rent"
+      },
+      {
+        "title": "Cheap Rooms Near Putrajaya",
+        "url": "/cheap-room-putrajaya",
+        "keyword": "cheap room near putrajaya"
+      },
+      {
+        "title": "Rooms Near Putrajaya MRT",
+        "url": "/room-near-putrajaya-mrt",
+        "keyword": "room near putrajaya mrt"
+      },
+      {
+        "title": "Putrajaya Apartment Rentals",
+        "url": "/putrajaya-apartment-rental",
+        "keyword": "putrajaya apartment for rent"
+      },
+      {
+        "title": "Putrajaya Family House Rental",
+        "url": "/family-house-rental-putrajaya",
+        "keyword": "family house rental putrajaya"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Putrajaya Area Guide",
+        "url": "/area-guide-putrajaya",
+        "type": "guide"
+      },
+      {
+        "title": "Putrajaya Price Guide 2026",
+        "url": "/price-guide-putrajaya",
+        "type": "pricing"
+      },
+      {
+        "title": "Putrajaya MRT Connectivity Guide",
+        "url": "/putrajaya-mrt-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in Putrajaya",
+        "url": "/luxury-condo-putrajaya",
+        "type": "listing-category"
+      },
+      {
+        "title": "Government Staff Housing Putrajaya",
+        "url": "/government-staff-housing-putrajaya",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Putrajaya",
+        "url": "/furnished-room-putrajaya",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Putrajaya",
+        "url": "/short-term-rental-putrajaya",
+        "type": "rental-type"
+      },
+      {
+        "title": "Rooms Near IOI City Mall Putrajaya",
+        "url": "/room-near-ioi-city-mall-putrajaya",
+        "type": "location-page"
+      },
+      {
+        "title": "Putrajaya Cyberjaya Rental Guide",
+        "url": "/putrajaya-cyberjaya-rental-guide",
+        "type": "area-comparison"
+      }
+    ]
+  }
+}

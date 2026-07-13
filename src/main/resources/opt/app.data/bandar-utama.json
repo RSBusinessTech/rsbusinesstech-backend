@@ -1,0 +1,1582 @@
+{
+  "area": {
+    "name": "Bandar Utama",
+    "slug": "bandar-utama",
+    "heroImage": "assets/images/areas/bandar-utama.jpg",
+    "metaTitle": "Rooms for Rent in Bandar Utama | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Bandar Utama near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Bandar Utama – Complete Guide to Room Rental, Condo & Apartment Rental in Kuala Lumpur",
+    "description": "Bandar Utama is one of the most prestigious and highly sought-after residential areas in Greater Kuala Lumpur, offering a wide range of room rental, condominium rental and apartment rental options for professionals, expatriates, families, students and long-term tenants. Located in Petaling Jaya with excellent connectivity to Kuala Lumpur, Bandar Utama is famous for its premium lifestyle environment, world-class shopping facilities, business hubs and modern residential developments. Whether you are searching for a master room for rent in Bandar Utama, single room rental near Bandar Utama MRT, fully furnished condo room, studio apartment, luxury condominium rental or affordable room rental near 1 Utama Shopping Centre, Bandar Utama provides diverse accommodation choices for different lifestyles and budgets. The area is especially popular among professionals working in Petaling Jaya, Kuala Lumpur city centre, Bangsar, Mont Kiara, Sri Hartamas and surrounding corporate districts due to its strategic location and excellent transportation access. Bandar Utama offers seamless connectivity through Bandar Utama MRT Station on the Kajang Line, providing direct access to major destinations including KL Sentral, Bukit Bintang, TRX and Kuala Lumpur city centre. Major highways including LDP (Lebuhraya Damansara-Puchong), Sprint Highway, NKVE and Penchala Link provide convenient road connectivity to Kuala Lumpur, Petaling Jaya, Subang Jaya and surrounding areas. Popular landmarks including 1 Utama Shopping Centre, The Curve, IKEA Damansara, Centrepoint Bandar Utama, Tropicana Mall, KPJ Damansara Specialist Hospital and Bandar Utama Golf Course make Bandar Utama one of the strongest rental markets in the Klang Valley. With premium condominiums, excellent MRT connectivity, lifestyle convenience, safety and proximity to major employment areas, Bandar Utama continues to attract strong rental demand from local and international tenants searching for quality accommodation near Kuala Lumpur.",
+    "buttonText": "Explore Bandar Utama Rental Guide",
+    "buttonLink": "/room-rental-bandar-utama",
+    "highlights": [
+      "Wide selection of master rooms, single rooms, medium rooms, studio apartments and condominiums for rent in Bandar Utama",
+      "Premium residential location near 1 Utama Shopping Centre, The Curve and IKEA Damansara",
+      "Excellent MRT connectivity through Bandar Utama MRT Station",
+      "Highly preferred by professionals working in Petaling Jaya, Kuala Lumpur, Bangsar and Mont Kiara",
+      "Popular among expatriates seeking premium and convenient rental properties",
+      "Family-friendly neighbourhood with shopping malls, healthcare facilities and lifestyle amenities",
+      "Modern condominiums offering swimming pools, gyms, security and premium facilities",
+      "Strong rental demand due to strategic location and transportation connectivity",
+      "Ideal rental location for tenants without private vehicles",
+      "Close to major business areas including PJ Digital Hub, Bandar Utama commercial areas and Kuala Lumpur CBD",
+      "Wide range of affordable rooms and luxury condominium rentals",
+      "One of Petaling Jaya's strongest rental markets for professionals and expatriates"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Excellent MRT Connectivity",
+        "description": "Bandar Utama provides excellent public transportation access through Bandar Utama MRT Station on the Kajang Line. The MRT connection makes the area highly attractive for professionals, students and tenants who prefer convenient travel without depending on private vehicles."
+      },
+      {
+        "icon": "fas fa-home",
+        "title": "Premium Rental Properties",
+        "description": "Bandar Utama offers diverse rental options including master rooms, single rooms, private rooms, studio apartments, serviced residences and premium condominium units suitable for different tenant requirements."
+      },
+      {
+        "icon": "fas fa-briefcase",
+        "title": "Ideal Location for Working Professionals",
+        "description": "Many professionals choose Bandar Utama because of its proximity to Petaling Jaya business districts, Kuala Lumpur city centre, Bangsar, Mont Kiara and major corporate offices. The area provides excellent lifestyle convenience after work."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "World-Class Shopping & Lifestyle Facilities",
+        "description": "Residents enjoy direct access to major lifestyle destinations including 1 Utama Shopping Centre, The Curve, IKEA Damansara, Centrepoint Bandar Utama and numerous restaurants, cafes and entertainment facilities."
+      },
+      {
+        "icon": "fas fa-graduation-cap",
+        "title": "Suitable for Students & Young Professionals",
+        "description": "Bandar Utama provides comfortable rental options for students and young professionals with access to public transportation, food outlets, shopping areas and nearby educational institutions."
+      },
+      {
+        "icon": "fas fa-users",
+        "title": "Expat & Family Friendly Community",
+        "description": "With premium residences, international lifestyle facilities, healthcare access and safe surroundings, Bandar Utama attracts expatriates and families looking for high-quality rental homes."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Modern Condominiums & Serviced Residences",
+        "description": "Bandar Utama features established and modern residential developments with facilities including swimming pools, gyms, security systems, parking spaces, gardens and recreational areas."
+      },
+      {
+        "icon": "fas fa-map-marker-alt",
+        "title": "Strategic Location Near Kuala Lumpur & Petaling Jaya",
+        "description": "Bandar Utama offers convenient access to Kuala Lumpur, Petaling Jaya, Mont Kiara, Sri Hartamas, Bangsar and other important employment hubs through highways and MRT connectivity."
+      }
+    ],
+    "popularResidences": [
+      "1 First Avenue Residences",
+      "K Residence Bandar Utama",
+      "Surian Condominiums",
+      "The Club Bandar Utama",
+      "BU Residence",
+      "Bandar Utama Apartments",
+      "Casa Tropicana",
+      "Cascades Residences",
+      "Verve Suites",
+      "Nadi Bangsar",
+      "Pelangi Damansara",
+      "Tropicana Gardens Residences",
+      "Sunway Vivaldi",
+      "The Tropics",
+      "Havana Residences",
+      "Damansara Perdana Residences",
+      "Mutiara Homes",
+      "Riana Green East",
+      "Riana Green West",
+      "The Ara Bangsar"
+    ],
+    "nearbyLandmarks": [
+      "Bandar Utama MRT Station",
+      "1 Utama Shopping Centre",
+      "The Curve",
+      "IKEA Damansara",
+      "Centrepoint Bandar Utama",
+      "Bandar Utama Golf Course",
+      "KPJ Damansara Specialist Hospital",
+      "Tropicana Mall",
+      "Tropicana Gardens Mall",
+      "Mutiara Damansara MRT Station",
+      "Surian MRT Station",
+      "Damansara Perdana",
+      "Petaling Jaya",
+      "Mont Kiara",
+      "Sri Hartamas",
+      "Bangsar",
+      "KL Sentral",
+      "Kuala Lumpur City Centre",
+      "Sunway Pyramid",
+      "Mid Valley Megamall"
+    ],
+    "nearbyUniversities": [
+      "First City University College",
+      "Tunku Abdul Rahman University of Management and Technology (TAR UMT)",
+      "Universiti Malaya (UM)",
+      "HELP University",
+      "Taylor's University",
+      "Sunway University",
+      "Asia Pacific University (APU)",
+      "Monash University Malaysia",
+      "UCSI University",
+      "Open University Malaysia"
+    ],
+    "majorEmployers": [
+      "Public Bank",
+      "Maybank",
+      "CIMB Group",
+      "HSBC Malaysia",
+      "Standard Chartered Malaysia",
+      "Petronas",
+      "IBM Malaysia",
+      "Microsoft Malaysia",
+      "Accenture Malaysia",
+      "Deloitte Malaysia",
+      "PwC Malaysia",
+      "EY Malaysia",
+      "KPMG Malaysia",
+      "Grab Malaysia",
+      "Maxis",
+      "CelcomDigi",
+      "One Utama Corporate Offices",
+      "Bandar Utama Business Centres",
+      "Petaling Jaya Corporate Offices",
+      "Kuala Lumpur City Centre Companies"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Bandar Utama MRT Station",
+      "slug": "bandar-utama-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "5 mins walk",
+      "distanceMeters": 500,
+      "distanceText": "5 mins walk (500 m)",
+      "title": "Bandar Utama MRT Station",
+      "shortDescription": "Bandar Utama MRT Station is the main transportation hub serving Bandar Utama residents and one of the strongest rental demand drivers in the area. The station provides direct MRT connectivity to Kuala Lumpur city centre, TRX, Bukit Bintang and major employment districts, making nearby rooms and condominiums highly attractive for professionals and tenants without cars.",
+      "averageRoomRent": 1600,
+      "nearbyLandmarks": [
+        "1 Utama Shopping Centre",
+        "Bandar Utama Commercial Area",
+        "Centrepoint Bandar Utama"
+      ],
+      "nearbyResidences": [
+        "1 First Avenue Residences",
+        "K Residence Bandar Utama",
+        "BU Residence"
+      ],
+      "popularSearches": [
+        "Room near Bandar Utama MRT",
+        "Bandar Utama room rental",
+        "Condo near Bandar Utama MRT"
+      ]
+    },
+    {
+      "name": "Mutiara Damansara MRT Station",
+      "slug": "mutiara-damansara-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 2500,
+      "distanceText": "8 mins drive (2.5 km)",
+      "title": "Mutiara Damansara MRT Station",
+      "shortDescription": "Mutiara Damansara MRT Station provides excellent connectivity for Bandar Utama tenants who want access to shopping destinations, commercial areas and nearby residential communities. The station is popular among professionals searching for rental rooms near The Curve, IKEA Damansara and surrounding business areas.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "The Curve",
+        "IKEA Damansara",
+        "IPC Shopping Centre"
+      ],
+      "nearbyResidences": [
+        "Surian Condominiums",
+        "Pelangi Damansara",
+        "Tropicana Gardens Residences"
+      ],
+      "popularSearches": [
+        "Room near Mutiara Damansara MRT",
+        "Mutiara Damansara room rental",
+        "Damansara MRT condo rental"
+      ]
+    },
+    {
+      "name": "Surian MRT Station",
+      "slug": "surian-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 4000,
+      "distanceText": "10 mins drive (4 km)",
+      "title": "Surian MRT Station",
+      "shortDescription": "Surian MRT Station serves the Kota Damansara and Bandar Utama surrounding areas. It is frequently searched by tenants looking for affordable and convenient rental properties with access to shopping malls, offices and public transportation.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "Tropicana Gardens Mall",
+        "Kota Damansara Commercial Centre",
+        "Surian Business Area"
+      ],
+      "nearbyResidences": [
+        "Tropicana Gardens Residences",
+        "Casa Tropicana",
+        "Cascades Residences"
+      ],
+      "popularSearches": [
+        "Room near Surian MRT",
+        "Bandar Utama Surian MRT rental",
+        "Affordable room near Surian MRT"
+      ]
+    },
+    {
+      "name": "Phileo Damansara MRT Station",
+      "slug": "phileo-damansara-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 6000,
+      "distanceText": "12 mins drive (6 km)",
+      "title": "Phileo Damansara MRT Station",
+      "shortDescription": "Phileo Damansara MRT Station provides convenient connectivity towards Petaling Jaya, Bangsar South and Kuala Lumpur. Many professionals compare Bandar Utama rentals with nearby areas because of easy access to corporate offices and business hubs.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "Phileo Damansara Business Park",
+        "Bangsar South",
+        "University Malaya"
+      ],
+      "nearbyResidences": [
+        "Riana Green East",
+        "Riana Green West",
+        "Petaling Jaya Condominiums"
+      ],
+      "popularSearches": [
+        "Room near Phileo Damansara MRT",
+        "Bandar Utama PJ rental",
+        "Room near Bangsar South from Bandar Utama"
+      ]
+    },
+    {
+      "name": "Kelana Jaya LRT Station",
+      "slug": "kelana-jaya-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 8000,
+      "distanceText": "15 mins drive (8 km)",
+      "title": "Kelana Jaya LRT Station",
+      "shortDescription": "Kelana Jaya LRT Station provides additional public transportation options for Bandar Utama residents travelling towards Petaling Jaya, Subang Jaya and Kuala Lumpur. Nearby rental properties attract tenants seeking affordable alternatives with strong connectivity.",
+      "averageRoomRent": 1200,
+      "nearbyLandmarks": [
+        "Paradigm Mall",
+        "Kelana Jaya Commercial Area",
+        "Petaling Jaya"
+      ],
+      "nearbyResidences": [
+        "Kelana Putera",
+        "Kelana Sentral",
+        "PJ Apartments"
+      ],
+      "popularSearches": [
+        "Room near Kelana Jaya LRT",
+        "Affordable rental near PJ",
+        "Bandar Utama nearby LRT rental"
+      ]
+    },
+    {
+      "name": "TTDI MRT Station",
+      "slug": "ttdi-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 5500,
+      "distanceText": "12 mins drive (5.5 km)",
+      "title": "TTDI MRT Station",
+      "shortDescription": "TTDI MRT Station provides convenient access between Bandar Utama and Kuala Lumpur. The station is popular among professionals who work in KL city centre while preferring residential areas with better lifestyle value.",
+      "averageRoomRent": 1700,
+      "nearbyLandmarks": [
+        "Taman Tun Dr Ismail",
+        "TTDI Commercial Area",
+        "Kuala Lumpur"
+      ],
+      "nearbyResidences": [
+        "TTDI Condominiums",
+        "Highpark Suites",
+        "Premium Apartments TTDI"
+      ],
+      "popularSearches": [
+        "Room near TTDI MRT",
+        "Bandar Utama TTDI rental",
+        "Premium room near MRT"
+      ]
+    },
+    {
+      "name": "Semantan MRT Station",
+      "slug": "semantan-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 9000,
+      "distanceText": "15 mins drive (9 km)",
+      "title": "Semantan MRT Station",
+      "shortDescription": "Semantan MRT Station connects Bandar Utama residents towards Damansara Heights, KL Sentral and central Kuala Lumpur. It is relevant for professionals searching for rental homes with convenient access to premium business districts.",
+      "averageRoomRent": 2000,
+      "nearbyLandmarks": [
+        "Damansara Heights",
+        "KL Sentral",
+        "Bangsar South"
+      ],
+      "nearbyResidences": [
+        "Damansara Heights Residences",
+        "Nadi Bangsar",
+        "Premium Kuala Lumpur Condominiums"
+      ],
+      "popularSearches": [
+        "Room near Semantan MRT",
+        "Bandar Utama KL rental",
+        "Luxury rental near Damansara Heights"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 900,
+      "maxPrice": 1600
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 1200,
+      "maxPrice": 2000
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1600,
+      "maxPrice": 3000
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 2200,
+      "maxPrice": 4500
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1800,
+    "priceGrowth": 6.5,
+    "demandLevel": "Very High",
+    "vacancyRate": 2.0
+  },
+  "nearbyAreas": [
+    {
+      "name": "Mutiara Damansara",
+      "slug": "mutiara-damansara",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Professionals, Families, Shoppers",
+      "description": "Mutiara Damansara is one of the closest residential areas to Bandar Utama, offering convenient access to The Curve, IKEA Damansara and MRT connectivity. It provides a wider range of affordable rooms, apartments and condominiums for tenants who want a lifestyle similar to Bandar Utama at competitive rental prices."
+    },
+    {
+      "name": "Taman Tun Dr Ismail",
+      "slug": "ttdi",
+      "averageRent": 2000,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Professionals, Expats, Families",
+      "description": "TTDI is a premium residential neighbourhood near Bandar Utama known for its mature community, restaurants, cafes, parks and MRT connectivity. Many tenants compare TTDI and Bandar Utama when searching for high-quality rental homes near Kuala Lumpur."
+    },
+    {
+      "name": "Damansara Perdana",
+      "slug": "damansara-perdana",
+      "averageRent": 1400,
+      "mrtAccess": false,
+      "distanceFromArea": 5,
+      "popularFor": "Young Professionals, Budget Tenants",
+      "description": "Damansara Perdana offers affordable condominium and apartment rental options near Bandar Utama. The area is popular among young professionals looking for lower rental prices while staying close to major lifestyle destinations including The Curve and IKEA Damansara."
+    },
+    {
+      "name": "Kota Damansara",
+      "slug": "kota-damansara",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 7,
+      "popularFor": "Students, Professionals, Families",
+      "description": "Kota Damansara is a growing residential and commercial area with MRT connectivity, shopping facilities and affordable rental properties. Many tenants choose Kota Damansara as an alternative to Bandar Utama due to competitive pricing and convenient transportation."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1600,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Office Workers, Professionals",
+      "description": "Petaling Jaya is a major employment hub surrounding Bandar Utama with numerous offices, commercial centres and residential developments. Bandar Utama remains attractive for tenants working in PJ because of its premium lifestyle environment and connectivity."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 2500,
+      "mrtAccess": false,
+      "distanceFromArea": 12,
+      "popularFor": "Expats, Executives, Families",
+      "description": "Mont Kiara is one of Kuala Lumpur's most popular expatriate neighbourhoods featuring luxury condominiums, international schools and premium lifestyle facilities. Bandar Utama provides a more affordable rental alternative while maintaining access to Kuala Lumpur and premium areas."
+    },
+    {
+      "name": "Sri Hartamas",
+      "slug": "sri-hartamas",
+      "averageRent": 2200,
+      "mrtAccess": false,
+      "distanceFromArea": 12,
+      "popularFor": "Expats, Professionals",
+      "description": "Sri Hartamas is a premium lifestyle district known for restaurants, cafes, international communities and upscale residences. Bandar Utama attracts tenants working nearby because it offers excellent amenities and strong rental value."
+    },
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 2200,
+      "mrtAccess": true,
+      "distanceFromArea": 15,
+      "popularFor": "Professionals, Expats",
+      "description": "Bangsar is a popular Kuala Lumpur lifestyle and business district with premium residences, offices and entertainment options. Bandar Utama provides a quieter residential environment with strong connectivity to Bangsar and central Kuala Lumpur."
+    },
+    {
+      "name": "KL Sentral",
+      "slug": "kl-sentral",
+      "averageRent": 2300,
+      "mrtAccess": true,
+      "distanceFromArea": 18,
+      "popularFor": "Professionals, Frequent Travellers, Expats",
+      "description": "KL Sentral is Kuala Lumpur's major transportation and business hub. Many professionals working around KL Sentral consider Bandar Utama due to its better lifestyle environment, shopping facilities and residential quality."
+    },
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 3000,
+      "mrtAccess": true,
+      "distanceFromArea": 20,
+      "popularFor": "Executives, Expats, Luxury Tenants",
+      "description": "KLCC is Kuala Lumpur's main commercial and luxury residential district. Bandar Utama offers more spacious residential options and a suburban lifestyle while maintaining accessibility to the city centre."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Bandar Utama",
+      "url": "/master-room-rental-bandar-utama"
+    },
+    {
+      "title": "Single Room Bandar Utama",
+      "url": "/single-room-rental-bandar-utama"
+    },
+    {
+      "title": "Condo Room Bandar Utama",
+      "url": "/condo-room-rental-bandar-utama"
+    },
+    {
+      "title": "Room Near Bandar Utama MRT",
+      "url": "/room-near-bandar-utama-mrt"
+    },
+    {
+      "title": "Bandar Utama Room Rental",
+      "url": "/bandar-utama-room-rental"
+    },
+    {
+      "title": "Cheap Room Rental Bandar Utama",
+      "url": "/cheap-room-rental-bandar-utama"
+    },
+    {
+      "title": "Affordable Apartment Bandar Utama",
+      "url": "/affordable-apartment-bandar-utama"
+    },
+    {
+      "title": "Luxury Condo Bandar Utama For Rent",
+      "url": "/luxury-condo-bandar-utama"
+    },
+    {
+      "title": "Studio Apartment Bandar Utama",
+      "url": "/studio-apartment-bandar-utama"
+    },
+    {
+      "title": "Fully Furnished Room Bandar Utama",
+      "url": "/fully-furnished-room-bandar-utama"
+    },
+    {
+      "title": "Room Near 1 Utama Shopping Centre",
+      "url": "/room-near-1-utama-shopping-centre"
+    },
+    {
+      "title": "Room Near Bandar Utama MRT Station",
+      "url": "/room-near-bandar-utama-mrt-station"
+    },
+    {
+      "title": "Expat Room Rental Bandar Utama",
+      "url": "/expat-room-rental-bandar-utama"
+    },
+    {
+      "title": "Family Apartment Rental Bandar Utama",
+      "url": "/family-apartment-rental-bandar-utama"
+    },
+    {
+      "title": "Serviced Apartment Bandar Utama",
+      "url": "/serviced-apartment-bandar-utama"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at M Centura Residences Kepong",
+      "price": 1500,
+      "rentedDate": "2026-06-10"
+    },
+    {
+      "title": "Single Room at Metro Prima Kepong",
+      "price": 850,
+      "rentedDate": "2026-06-05"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Marketing Executive"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "University Student"
+    },
+    {
+      "gender": "Male",
+      "budget": 1300,
+      "occupation": "Account Executive"
+    },
+    {
+      "gender": "Female",
+      "budget": 1000,
+      "occupation": "Nurse"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a room for rent in Bandar Utama cost?",
+      "answer": "Room rental prices in Bandar Utama generally range from RM900 to RM3000 per month depending on room type, condominium quality, furnishing level, facilities, location and proximity to Bandar Utama MRT Station."
+    },
+    {
+      "question": "What is the average rental price in Bandar Utama?",
+      "answer": "The average room rental price in Bandar Utama is around RM1800 per month. Premium master rooms, serviced apartments and luxury condominium units may cost more due to the area's premium location and lifestyle facilities."
+    },
+    {
+      "question": "Is Bandar Utama a good place to rent a room?",
+      "answer": "Yes. Bandar Utama is one of the most desirable rental locations in Petaling Jaya because of its excellent MRT connectivity, premium shopping facilities, safety, lifestyle convenience and proximity to major business areas."
+    },
+    {
+      "question": "Where can I find cheap rooms for rent in Bandar Utama?",
+      "answer": "Affordable rooms in Bandar Utama can be found in older apartments, shared condominiums and nearby areas such as Damansara Perdana, Mutiara Damansara and Kota Damansara while still providing convenient access to Bandar Utama facilities."
+    },
+    {
+      "question": "Are fully furnished rooms available for rent in Bandar Utama?",
+      "answer": "Yes. Many Bandar Utama room rentals come fully furnished with beds, wardrobes, air conditioning, WiFi, washing machines, kitchen facilities and access to condominium amenities."
+    },
+    {
+      "question": "What types of rooms are available for rent in Bandar Utama?",
+      "answer": "Bandar Utama offers various rental options including master rooms, single rooms, medium rooms, private rooms, shared rooms, studio apartments, serviced apartments and condominium rooms."
+    },
+    {
+      "question": "How much is a master room for rent in Bandar Utama?",
+      "answer": "Master rooms in Bandar Utama usually range between RM1600 and RM3000 per month depending on room size, attached bathroom, furnishing, condominium facilities and distance to MRT transportation."
+    },
+    {
+      "question": "How much is a single room for rent in Bandar Utama?",
+      "answer": "Single rooms in Bandar Utama generally cost between RM900 and RM1600 per month depending on location, facilities, furnishing level and whether utilities are included."
+    },
+    {
+      "question": "How much is a medium room for rent in Bandar Utama?",
+      "answer": "Medium room rentals in Bandar Utama typically range from RM1200 to RM2000 per month depending on condominium quality, room size and available facilities."
+    },
+    {
+      "question": "Are studio apartments available for rent in Bandar Utama?",
+      "answer": "Yes. Studio apartments and private residences are available around Bandar Utama and nearby Damansara areas for tenants who prefer independent living spaces."
+    },
+    {
+      "question": "Are private rooms available near Bandar Utama MRT?",
+      "answer": "Yes. Many condominiums near Bandar Utama MRT Station offer private rooms with furnished options and convenient access to public transportation."
+    },
+    {
+      "question": "Are shared rooms available in Bandar Utama?",
+      "answer": "Yes. Shared room rental options are available for students, young professionals and budget tenants looking for affordable accommodation near Bandar Utama."
+    },
+    {
+      "question": "Are there rooms near Bandar Utama MRT Station?",
+      "answer": "Yes. Bandar Utama MRT Station is surrounded by condominiums and residential developments that are highly searched by tenants who prefer MRT-connected housing."
+    },
+    {
+      "question": "Can I find a room near 1 Utama Shopping Centre?",
+      "answer": "Yes. Many rental rooms and condominiums are located near 1 Utama Shopping Centre, providing convenient access to shopping, restaurants, entertainment and daily necessities."
+    },
+    {
+      "question": "Is Bandar Utama suitable for professionals?",
+      "answer": "Yes. Bandar Utama is highly popular among professionals because of its access to Petaling Jaya offices, Kuala Lumpur business districts, MRT connectivity and premium lifestyle facilities."
+    },
+    {
+      "question": "Why do professionals choose Bandar Utama for rental?",
+      "answer": "Professionals choose Bandar Utama because it offers convenient transportation, quality condominiums, shopping convenience and easy access to corporate areas in Petaling Jaya and Kuala Lumpur."
+    },
+    {
+      "question": "Is Bandar Utama suitable for expatriates?",
+      "answer": "Yes. Bandar Utama is popular among expatriates due to its international lifestyle environment, premium residences, shopping facilities, safety and connectivity."
+    },
+    {
+      "question": "Can foreigners rent rooms in Bandar Utama?",
+      "answer": "Yes. Many condominiums and serviced residences in Bandar Utama accept foreign tenants depending on landlord requirements and tenancy agreements."
+    },
+    {
+      "question": "Are there expat-friendly apartments in Bandar Utama?",
+      "answer": "Yes. Bandar Utama offers expat-friendly apartments with modern facilities, security services, convenient transportation and access to international lifestyle amenities."
+    },
+    {
+      "question": "Is Bandar Utama good for families?",
+      "answer": "Yes. Bandar Utama is a family-friendly residential area with shopping malls, healthcare facilities, schools, parks and safe condominium communities."
+    },
+    {
+      "question": "Are family apartments available in Bandar Utama?",
+      "answer": "Yes. Families can find larger condominium units and apartments in Bandar Utama with multiple bedrooms, parking facilities and lifestyle amenities."
+    },
+    {
+      "question": "Is Bandar Utama safe for tenants?",
+      "answer": "Bandar Utama is considered one of the safer residential areas around Petaling Jaya, with many condominiums offering security guards, CCTV monitoring and controlled access."
+    },
+    {
+      "question": "Can I live in Bandar Utama without a car?",
+      "answer": "Yes. Bandar Utama is suitable for car-free living because residents can use Bandar Utama MRT Station, buses, e-hailing services and nearby commercial facilities."
+    },
+    {
+      "question": "What are the benefits of renting a room in Bandar Utama?",
+      "answer": "Benefits include excellent MRT connectivity, proximity to 1 Utama Shopping Centre, premium residential options, access to offices, restaurants, healthcare facilities and a comfortable lifestyle environment."
+    },
+    {
+      "question": "Is Bandar Utama cheaper than Mont Kiara for rental?",
+      "answer": "Generally, Bandar Utama offers better rental value compared with Mont Kiara while still providing premium facilities, convenient transportation and access to major business areas."
+    },
+    {
+      "question": "Are there rooms near Bandar Utama MRT for professionals?",
+      "answer": "Yes. Rooms near Bandar Utama MRT are highly searched by working professionals because the station provides convenient access to Petaling Jaya, Kuala Lumpur and surrounding business districts."
+    },
+    {
+      "question": "How far is Bandar Utama from Kuala Lumpur city centre?",
+      "answer": "Bandar Utama is approximately 15 kilometres from Kuala Lumpur city centre and offers convenient access through MRT, highways and major roads."
+    },
+    {
+      "question": "Is Bandar Utama connected by MRT?",
+      "answer": "Yes. Bandar Utama MRT Station provides direct connectivity through the MRT Kajang Line, making nearby rental properties attractive for commuters."
+    },
+    {
+      "question": "Are there condos near Bandar Utama MRT Station?",
+      "answer": "Yes. Several condominiums and serviced residences are located near Bandar Utama MRT Station, offering convenient access for tenants who rely on public transport."
+    },
+    {
+      "question": "What are the best condos for rent in Bandar Utama?",
+      "answer": "Popular condominium options around Bandar Utama include 1 First Avenue, Cascades Residences, H2O Residences, KLGCC Residences, and nearby premium Damansara developments."
+    },
+    {
+      "question": "Are luxury condos available in Bandar Utama?",
+      "answer": "Yes. Bandar Utama offers premium condominiums and serviced residences with facilities such as swimming pools, gyms, security, landscaped gardens and modern lifestyle features."
+    },
+    {
+      "question": "Is Bandar Utama good for high income professionals?",
+      "answer": "Yes. Bandar Utama is popular among executives and high income professionals because of its premium residential environment, business connectivity and lifestyle convenience."
+    },
+    {
+      "question": "Are serviced apartments available in Bandar Utama?",
+      "answer": "Yes. Serviced apartments are available around Bandar Utama and nearby Damansara areas, offering furnished units with hotel-style facilities."
+    },
+    {
+      "question": "Are monthly rentals available in Bandar Utama?",
+      "answer": "Yes. Monthly room rentals and apartment rentals are available in Bandar Utama for professionals, students, expatriates and temporary residents."
+    },
+    {
+      "question": "Are short term rentals available in Bandar Utama?",
+      "answer": "Some serviced apartments and selected residences around Bandar Utama offer short term rental options depending on building rules and availability."
+    },
+    {
+      "question": "Do Bandar Utama room rentals include WiFi?",
+      "answer": "Many fully furnished rooms in Bandar Utama include WiFi, while some rentals require tenants to arrange their own internet service depending on the rental agreement."
+    },
+    {
+      "question": "Are utilities included in Bandar Utama room rental?",
+      "answer": "Some landlords include electricity, water and internet charges in Bandar Utama room rentals, while others require separate payment based on tenancy terms."
+    },
+    {
+      "question": "What deposit is required for room rental in Bandar Utama?",
+      "answer": "Most Bandar Utama room rentals require security and utility deposits according to rental agreements, commonly based on the monthly rental amount."
+    },
+    {
+      "question": "What documents are needed to rent a room in Bandar Utama?",
+      "answer": "Tenants usually need identification documents, employment or student details, rental deposits and a signed tenancy agreement before moving into a Bandar Utama property."
+    },
+    {
+      "question": "Is Bandar Utama suitable for students?",
+      "answer": "Yes. Students choose Bandar Utama because of affordable room options, MRT connectivity, shopping facilities and access to nearby educational institutions."
+    },
+    {
+      "question": "Are student rooms available near Bandar Utama?",
+      "answer": "Yes. Students can find affordable rooms around Bandar Utama, Damansara, Petaling Jaya and nearby residential areas with convenient transportation access."
+    },
+    {
+      "question": "What universities are accessible from Bandar Utama?",
+      "answer": "Bandar Utama provides convenient access to nearby institutions including University of Malaya, Taylor's University, Sunway University, HELP University and other Petaling Jaya education centres."
+    },
+    {
+      "question": "Are rooms near 1 Utama available for rent?",
+      "answer": "Yes. Many tenants search for rooms near 1 Utama because of its shopping facilities, restaurants, entertainment options and convenient location."
+    },
+    {
+      "question": "Why rent near 1 Utama Shopping Centre?",
+      "answer": "Renting near 1 Utama provides easy access to shopping, dining, entertainment, supermarkets, healthcare services and daily necessities without travelling far."
+    },
+    {
+      "question": "Is Bandar Utama better than Petaling Jaya for rental?",
+      "answer": "Bandar Utama offers a more premium residential environment compared with many Petaling Jaya areas while maintaining excellent connectivity and lifestyle convenience."
+    },
+    {
+      "question": "Is Bandar Utama better than Damansara Perdana for rental?",
+      "answer": "Bandar Utama generally offers stronger lifestyle facilities and MRT accessibility, while Damansara Perdana may provide more affordable rental options nearby."
+    },
+    {
+      "question": "Is Bandar Utama near Kota Damansara?",
+      "answer": "Yes. Bandar Utama is located close to Kota Damansara and provides convenient road access between both areas."
+    },
+    {
+      "question": "Is Bandar Utama near Mutiara Damansara?",
+      "answer": "Yes. Bandar Utama is close to Mutiara Damansara, making it convenient for tenants working around The Curve, IKEA Damansara and nearby commercial areas."
+    },
+    {
+      "question": "Is Bandar Utama suitable for remote workers?",
+      "answer": "Yes. Bandar Utama is suitable for remote workers due to reliable internet availability, cafes, shopping facilities and comfortable condominium environments."
+    },
+    {
+      "question": "Are rooms with private bathrooms available in Bandar Utama?",
+      "answer": "Yes. Many master rooms and premium rental rooms in Bandar Utama include attached private bathrooms for tenants who prefer additional privacy."
+    },
+    {
+      "question": "Are furnished rooms available near Bandar Utama MRT Station?",
+      "answer": "Yes. Many condominiums near Bandar Utama MRT Station offer fully furnished rooms with beds, wardrobes, air conditioning, study tables, WiFi and shared facilities."
+    },
+    {
+      "question": "What is the cheapest room rental option in Bandar Utama?",
+      "answer": "The cheapest room rental options in Bandar Utama are usually single rooms or shared rooms, starting from around RM900 per month depending on location, furnishing and facilities."
+    },
+    {
+      "question": "Can I find a room under RM1000 in Bandar Utama?",
+      "answer": "Yes. Budget rooms under RM1000 may be available in shared apartments or older residential properties around Bandar Utama and nearby Damansara areas."
+    },
+    {
+      "question": "Are there affordable apartments for rent in Bandar Utama?",
+      "answer": "Yes. Besides premium condominiums, Bandar Utama and nearby areas offer affordable apartments suitable for budget tenants, students and young professionals."
+    },
+    {
+      "question": "Is Bandar Utama suitable for budget tenants?",
+      "answer": "Yes. Budget tenants can find value-for-money rental options by choosing shared rooms, single rooms or nearby residential areas with easy access to Bandar Utama."
+    },
+    {
+      "question": "Are couples allowed to rent rooms in Bandar Utama?",
+      "answer": "Some landlords allow couples to rent master rooms, studio apartments or private units in Bandar Utama depending on property rules and tenancy conditions."
+    },
+    {
+      "question": "Are pet-friendly rentals available in Bandar Utama?",
+      "answer": "Some condominiums around Bandar Utama may allow pets depending on management regulations and landlord approval."
+    },
+    {
+      "question": "Are parking facilities available in Bandar Utama rental properties?",
+      "answer": "Most condominiums and apartments in Bandar Utama provide parking facilities, although availability depends on the rental unit and building management rules."
+    },
+    {
+      "question": "Do Bandar Utama condominiums have swimming pools and gyms?",
+      "answer": "Yes. Many Bandar Utama condominiums provide facilities such as swimming pools, gyms, playgrounds, security services, lounges and recreational areas."
+    },
+    {
+      "question": "Why is Bandar Utama popular for rental properties?",
+      "answer": "Bandar Utama is popular because of its premium lifestyle, MRT connectivity, 1 Utama Shopping Centre, business accessibility, quality residences and strong rental demand."
+    },
+    {
+      "question": "Is Bandar Utama a good investment location for rental properties?",
+      "answer": "Yes. Bandar Utama has strong rental demand due to its strategic location, commercial activities, MRT connectivity and popularity among professionals and expatriates."
+    },
+    {
+      "question": "Are condominium rooms available near 1 Utama?",
+      "answer": "Yes. Many condominium rooms near 1 Utama are available for rent, offering convenient access to shopping, dining and entertainment facilities."
+    },
+    {
+      "question": "What makes Bandar Utama different from other rental areas in Petaling Jaya?",
+      "answer": "Bandar Utama combines premium residential living, excellent public transportation, major shopping destinations, business connectivity and a family-friendly environment."
+    },
+    {
+      "question": "Is Bandar Utama convenient for people working in Kuala Lumpur?",
+      "answer": "Yes. Bandar Utama residents can travel to Kuala Lumpur through MRT, highways and major roads connecting Petaling Jaya with the city centre."
+    },
+    {
+      "question": "Are there rooms near Bandar Utama offices?",
+      "answer": "Yes. Rental rooms near Bandar Utama are popular among employees working in nearby corporate offices, commercial buildings and business parks."
+    },
+    {
+      "question": "Is Bandar Utama suitable for foreign professionals?",
+      "answer": "Yes. Foreign professionals often choose Bandar Utama because of its international lifestyle, premium housing options, shopping convenience and accessibility."
+    },
+    {
+      "question": "What areas are near Bandar Utama for cheaper rental options?",
+      "answer": "Nearby affordable rental alternatives include Damansara Perdana, Mutiara Damansara, Kota Damansara and parts of Petaling Jaya."
+    },
+    {
+      "question": "Are there rooms near The Curve from Bandar Utama?",
+      "answer": "Yes. Bandar Utama is close to The Curve and Mutiara Damansara, making it convenient for tenants working or spending time in these areas."
+    },
+    {
+      "question": "Are there rooms near IKEA Damansara from Bandar Utama?",
+      "answer": "Yes. Tenants can find rental properties around Bandar Utama with easy access to IKEA Damansara through nearby roads and public transportation."
+    },
+    {
+      "question": "Are there rooms near One Utama MRT?",
+      "answer": "Yes. Bandar Utama MRT Station provides excellent access to One Utama and surrounding commercial areas, making nearby rooms highly searched."
+    },
+    {
+      "question": "What type of tenants usually rent in Bandar Utama?",
+      "answer": "Bandar Utama attracts working professionals, executives, expatriates, students, couples and families looking for convenient rental housing."
+    },
+    {
+      "question": "Are executive rooms available in Bandar Utama?",
+      "answer": "Yes. Executive rooms and premium master rooms are available in selected condominiums and serviced residences around Bandar Utama."
+    },
+    {
+      "question": "Are luxury apartments available in Bandar Utama?",
+      "answer": "Yes. Bandar Utama has premium apartments and condominiums offering modern facilities, security, spacious layouts and upscale living environments."
+    },
+    {
+      "question": "How long does it take from Bandar Utama to KLCC?",
+      "answer": "Travel time from Bandar Utama to KLCC depends on traffic and transportation method, but MRT and road connections provide convenient access to Kuala Lumpur city centre."
+    },
+    {
+      "question": "How long does it take from Bandar Utama to Bangsar?",
+      "answer": "Bandar Utama provides convenient access to Bangsar through highways and public transport connections, making it suitable for tenants working in Bangsar."
+    },
+    {
+      "question": "How long does it take from Bandar Utama to Petaling Jaya offices?",
+      "answer": "Bandar Utama is located within Petaling Jaya, making it one of the most convenient rental locations for employees working in PJ offices and commercial areas."
+    },
+    {
+      "question": "Is Bandar Utama suitable for long-term rental?",
+      "answer": "Yes. Bandar Utama is highly suitable for long-term rental due to its stable residential environment, premium facilities, transportation access and strong lifestyle convenience."
+    },
+    {
+      "question": "Can I rent a condominium unit in Bandar Utama?",
+      "answer": "Yes. Bandar Utama offers many condominium rental options including family units, executive apartments, serviced residences and fully furnished condominium units."
+    },
+    {
+      "question": "Are 2-bedroom apartments available for rent in Bandar Utama?",
+      "answer": "Yes. Many condominiums around Bandar Utama offer 2-bedroom apartments suitable for couples, small families and professionals."
+    },
+    {
+      "question": "Are 3-bedroom condos available in Bandar Utama?",
+      "answer": "Yes. Larger 3-bedroom condominium units are available in Bandar Utama and are popular among families and tenants who need more living space."
+    },
+    {
+      "question": "Are newly renovated rooms available in Bandar Utama?",
+      "answer": "Yes. Some landlords offer renovated and upgraded rental rooms with modern furniture, improved interiors and better living comfort."
+    },
+    {
+      "question": "Can I rent a room near Bandar Utama MRT without a car?",
+      "answer": "Yes. Renting near Bandar Utama MRT is ideal for tenants without private vehicles because MRT provides direct connectivity to many Klang Valley locations."
+    },
+    {
+      "question": "Are Bandar Utama rentals suitable for daily commuters?",
+      "answer": "Yes. Bandar Utama is highly suitable for commuters because of MRT access, nearby highways and easy connections to Petaling Jaya and Kuala Lumpur."
+    },
+    {
+      "question": "Which MRT line serves Bandar Utama?",
+      "answer": "Bandar Utama MRT Station is served by the MRT Kajang Line, connecting residents to major destinations across Klang Valley."
+    },
+    {
+      "question": "What are the nearby attractions around Bandar Utama?",
+      "answer": "Nearby attractions include 1 Utama Shopping Centre, Central Park Bandar Utama, The Club Bandar Utama, The Curve, IKEA Damansara and Mutiara Damansara commercial areas."
+    },
+    {
+      "question": "Are rooms near 1 Utama suitable for working professionals?",
+      "answer": "Yes. Professionals prefer rooms near 1 Utama because of easy access to restaurants, shopping, offices and transportation facilities."
+    },
+    {
+      "question": "Is Bandar Utama suitable for millennials?",
+      "answer": "Yes. Bandar Utama is popular among millennials because of its lifestyle facilities, cafes, shopping centres, connectivity and modern residential options."
+    },
+    {
+      "question": "Are there affordable master rooms in Bandar Utama?",
+      "answer": "Yes. Affordable master rooms may be available depending on condominium, location, furnishing and rental market conditions."
+    },
+    {
+      "question": "Are rooms with attached bathrooms available in Bandar Utama?",
+      "answer": "Yes. Many master rooms and premium rooms in Bandar Utama include attached bathrooms for tenants seeking additional privacy."
+    },
+    {
+      "question": "Can students find affordable accommodation in Bandar Utama?",
+      "answer": "Yes. Students can find affordable rooms in Bandar Utama and nearby areas with access to public transport and daily amenities."
+    },
+    {
+      "question": "Is Bandar Utama better than Damansara Perdana for rental?",
+      "answer": "Bandar Utama offers stronger lifestyle facilities and MRT connectivity, while Damansara Perdana may provide slightly lower rental prices."
+    },
+    {
+      "question": "Is Bandar Utama better than Kota Damansara for rental?",
+      "answer": "Both areas have rental demand, but Bandar Utama is preferred by tenants who value premium surroundings, MRT access and proximity to 1 Utama."
+    },
+    {
+      "question": "Are there affordable rooms near Bandar Utama MRT?",
+      "answer": "Yes. Tenants looking for affordable MRT-connected rooms can explore options in Bandar Utama and surrounding Damansara neighbourhoods."
+    },
+    {
+      "question": "Are Bandar Utama rental properties suitable for foreigners?",
+      "answer": "Yes. Many rental properties in Bandar Utama are suitable for foreigners due to modern facilities, security and international lifestyle amenities."
+    },
+    {
+      "question": "What is included in a fully furnished Bandar Utama room?",
+      "answer": "Fully furnished rooms usually include a bed, wardrobe, air conditioning, study table, curtains, basic furniture and access to shared facilities."
+    },
+    {
+      "question": "Can I find female-only rooms for rent in Bandar Utama?",
+      "answer": "Yes. Some landlords and property owners offer female-only rental rooms depending on availability and tenant preferences."
+    },
+    {
+      "question": "Can I find male-only rooms for rent in Bandar Utama?",
+      "answer": "Yes. Male-only rental rooms may be available in selected apartments and condominiums around Bandar Utama."
+    },
+    {
+      "question": "Are Bandar Utama rooms suitable for working adults?",
+      "answer": "Yes. Bandar Utama is one of the preferred rental areas for working adults because of its convenience, transportation and proximity to employment hubs."
+    },
+    {
+      "question": "What is the best area to rent near Bandar Utama MRT?",
+      "answer": "The best rental areas near Bandar Utama MRT include Bandar Utama itself, Damansara Perdana, Mutiara Damansara and nearby Petaling Jaya residential areas."
+    },
+    {
+      "question": "Why choose Bandar Utama over cheaper rental areas?",
+      "answer": "Tenants choose Bandar Utama because it offers better lifestyle quality, transportation access, safety, shopping convenience and long-term rental value."
+    }
+  ],
+  "focusKeywords": [
+    "Bandar Utama room for rent",
+    "Bandar Utama room rental",
+    "Bandar Utama condo for rent",
+    "Bandar Utama apartment for rent",
+    "room near Bandar Utama MRT",
+    "room near 1 Utama Shopping Centre",
+    "room near One Utama",
+    "furnished room Bandar Utama",
+    "fully furnished room Bandar Utama",
+    "cheap room Bandar Utama",
+    "affordable room rental Bandar Utama",
+    "Bandar Utama rental property",
+    "Bandar Utama condominium rental",
+    "luxury condo Bandar Utama for rent",
+    "studio apartment Bandar Utama",
+    "master room Bandar Utama",
+    "single room Bandar Utama",
+    "medium room Bandar Utama",
+    "private room Bandar Utama",
+    "shared room Bandar Utama",
+    "monthly rental Bandar Utama",
+    "serviced apartment Bandar Utama",
+    "premium condo Bandar Utama",
+    "executive apartment Bandar Utama",
+    "expat housing Bandar Utama",
+    "family apartment Bandar Utama",
+    "student room rental Bandar Utama",
+    "professional room rental Bandar Utama",
+    "MRT connected rental Bandar Utama",
+    "room near Bandar Utama MRT Station",
+    "room near Petaling Jaya",
+    "room near TTDI from Bandar Utama",
+    "room near Mont Kiara from Bandar Utama",
+    "room near Sri Hartamas from Bandar Utama",
+    "room near The Curve Damansara",
+    "room near IKEA Damansara",
+    "room near Tropicana Mall",
+    "room near Centrepoint Bandar Utama",
+    "room near Bandar Utama Golf Course"
+  ],
+  "longTailKeywords": [
+    "fully furnished room for rent near Bandar Utama MRT station",
+    "cheap room rental in Bandar Utama for working professionals",
+    "best room rental in Bandar Utama Petaling Jaya",
+    "luxury condo for rent in Bandar Utama Kuala Lumpur",
+    "expat friendly apartment for rent in Bandar Utama",
+    "master room with private bathroom in Bandar Utama",
+    "studio apartment for rent in Bandar Utama fully furnished",
+    "room near 1 Utama Shopping Centre for rent",
+    "room near Bandar Utama MRT station for professionals",
+    "premium condominium rental in Bandar Utama Petaling Jaya",
+    "fully furnished condo room near One Utama",
+    "cheap master room rental near Bandar Utama MRT",
+    "affordable apartment rental near 1 Utama",
+    "private room with attached bathroom for rent Bandar Utama",
+    "best area to rent room near Petaling Jaya offices",
+    "room rental near The Curve and IKEA Damansara",
+    "student accommodation near Bandar Utama MRT station",
+    "modern serviced residence for rent in Bandar Utama",
+    "monthly room rental near Bandar Utama shopping malls",
+    "budget room rental near Bandar Utama MRT",
+    "condo room rental near Bandar Utama",
+    "room for rent near Bandar Utama Golf Course",
+    "professional accommodation near Bandar Utama MRT",
+    "family apartment rental near 1 Utama Shopping Centre",
+    "cheap furnished room near Bandar Utama",
+    "high quality condo rental near Bandar Utama MRT",
+    "room rental for foreigners in Bandar Utama",
+    "affordable housing near Mont Kiara and Sri Hartamas",
+    "best furnished room rental area near Petaling Jaya",
+    "premium room rental near Kuala Lumpur and PJ"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Bandar Utama",
+      "budget room near Bandar Utama MRT",
+      "student room near Bandar Utama MRT Station",
+      "affordable accommodation Bandar Utama Petaling Jaya",
+      "student rental room Bandar Utama",
+      "shared room rental Bandar Utama",
+      "cheap furnished room Bandar Utama",
+      "budget apartment near Bandar Utama MRT",
+      "student accommodation near 1 Utama",
+      "affordable room near Petaling Jaya colleges"
+    ],
+    "expat": [
+      "expat housing Bandar Utama",
+      "furnished condo Bandar Utama",
+      "serviced apartment Bandar Utama",
+      "international tenant friendly condo Bandar Utama",
+      "luxury apartment rental Bandar Utama",
+      "premium condo near 1 Utama",
+      "comfortable rental near Petaling Jaya",
+      "fully furnished apartment Bandar Utama Kuala Lumpur",
+      "expat friendly condominium near MRT Bandar Utama",
+      "high quality rental home Bandar Utama"
+    ],
+    "professional": [
+      "Bandar Utama condo near MRT",
+      "room near Bandar Utama MRT for professionals",
+      "room near PJ offices from Bandar Utama",
+      "room near Petaling Jaya business district",
+      "room near TTDI from Bandar Utama",
+      "room near Mont Kiara from Bandar Utama",
+      "premium apartment Bandar Utama",
+      "executive residence Bandar Utama",
+      "working professional room rental Bandar Utama",
+      "corporate housing Bandar Utama"
+    ],
+    "shortStay": [
+      "short term rental Bandar Utama",
+      "monthly rental Bandar Utama",
+      "serviced residence Bandar Utama",
+      "flexible room rental Bandar Utama",
+      "short stay apartment Bandar Utama Petaling Jaya",
+      "temporary accommodation Bandar Utama",
+      "monthly furnished room Bandar Utama",
+      "weekly rental Bandar Utama",
+      "business traveller accommodation Bandar Utama"
+    ],
+    "premiumIntent": [
+      "luxury condo Bandar Utama for rent",
+      "high end apartment Bandar Utama",
+      "executive residence Bandar Utama",
+      "premium serviced apartment Bandar Utama",
+      "luxury condominium rental near 1 Utama",
+      "modern condo rental Bandar Utama Petaling Jaya",
+      "premium furnished room Bandar Utama",
+      "exclusive apartment near TTDI Bandar Utama",
+      "luxury rental property near MRT Bandar Utama",
+      "premium residence near One Utama"
+    ],
+    "family": [
+      "family apartment Bandar Utama",
+      "3 bedroom condo Bandar Utama rental",
+      "family friendly condo near 1 Utama",
+      "safe residential area Bandar Utama",
+      "large apartment rental Bandar Utama Petaling Jaya",
+      "family condo near MRT Bandar Utama",
+      "child friendly condominium Bandar Utama",
+      "school friendly rental Bandar Utama"
+    ],
+    "budgetTenant": [
+      "cheap room Bandar Utama Petaling Jaya",
+      "low budget rental Bandar Utama",
+      "affordable apartment Bandar Utama",
+      "room under RM1200 Bandar Utama",
+      "budget friendly room near Bandar Utama MRT",
+      "cheap furnished room Bandar Utama",
+      "affordable condo room Bandar Utama",
+      "low cost rental near 1 Utama"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Bandar Utama room for rent",
+    "secondaryKeywords": [
+      "Bandar Utama condo for rent",
+      "Bandar Utama apartment for rent",
+      "room near Bandar Utama MRT",
+      "room near Bandar Utama MRT Station",
+      "room near 1 Utama Shopping Centre",
+      "room near One Utama",
+      "furnished room Bandar Utama",
+      "fully furnished room Bandar Utama",
+      "cheap room Bandar Utama Petaling Jaya",
+      "luxury condo Bandar Utama",
+      "expat housing Bandar Utama",
+      "serviced apartment Bandar Utama",
+      "master room Bandar Utama",
+      "room near TTDI from Bandar Utama",
+      "room near Mont Kiara from Bandar Utama",
+      "room near Petaling Jaya from Bandar Utama"
+    ],
+    "seoScore": 99,
+    "canonicalUrl": "https://yourdomain.com/petaling-jaya/bandar-utama/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "premium-connected-pj-lifestyle-rentals",
+    "contentCluster": [
+      "Bandar Utama room rental",
+      "Bandar Utama condo rental",
+      "MRT connected rentals Bandar Utama",
+      "premium rental properties Petaling Jaya",
+      "student accommodation Bandar Utama",
+      "professional housing Bandar Utama",
+      "expat housing Petaling Jaya",
+      "1 Utama Shopping Centre nearby accommodation",
+      "TTDI nearby rental",
+      "Mont Kiara affordable rental alternative",
+      "furnished rooms Bandar Utama",
+      "premium condominiums Bandar Utama",
+      "luxury serviced apartments Bandar Utama",
+      "family friendly rentals Bandar Utama"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Mutiara Damansara",
+        "Taman Tun Dr Ismail",
+        "Damansara Perdana",
+        "Kota Damansara",
+        "Petaling Jaya",
+        "Mont Kiara",
+        "Sri Hartamas",
+        "Bangsar",
+        "KL Sentral",
+        "KLCC"
+      ],
+      "nearbyHotspots": [
+        "Bandar Utama MRT Station",
+        "1 Utama Shopping Centre",
+        "The Curve",
+        "IKEA Damansara",
+        "Centrepoint Bandar Utama",
+        "Bandar Utama Golf Course",
+        "Tropicana Gardens Mall",
+        "Mutiara Damansara MRT Station",
+        "Surian MRT Station",
+        "TTDI MRT Station"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Bandar Utama Rooms for Rent",
+        "url": "/room-rental-bandar-utama",
+        "keyword": "bandar utama room for rent"
+      },
+      {
+        "title": "Bandar Utama Condos for Rent",
+        "url": "/condo-for-rent-bandar-utama",
+        "keyword": "bandar utama condo for rent"
+      },
+      {
+        "title": "Cheap Rooms in Bandar Utama",
+        "url": "/cheap-room-bandar-utama",
+        "keyword": "cheap room bandar utama"
+      },
+      {
+        "title": "Rooms Near Bandar Utama MRT",
+        "url": "/room-near-bandar-utama-mrt",
+        "keyword": "room near bandar utama mrt"
+      },
+      {
+        "title": "Rooms Near 1 Utama Shopping Centre",
+        "url": "/room-near-1-utama",
+        "keyword": "room near 1 utama shopping centre"
+      },
+      {
+        "title": "Luxury Condos in Bandar Utama",
+        "url": "/luxury-condo-bandar-utama",
+        "keyword": "luxury condo bandar utama"
+      },
+      {
+        "title": "Expat Housing Bandar Utama",
+        "url": "/expat-housing-bandar-utama",
+        "keyword": "expat housing bandar utama"
+      },
+      {
+        "title": "Bandar Utama Petaling Jaya Rental",
+        "url": "/bandar-utama-petaling-jaya-room-rental",
+        "keyword": "bandar utama petaling jaya rental"
+      },
+      {
+        "title": "Rooms Near TTDI From Bandar Utama",
+        "url": "/room-near-ttdi-bandar-utama",
+        "keyword": "room near ttdi from bandar utama"
+      },
+      {
+        "title": "Rooms Near Mont Kiara From Bandar Utama",
+        "url": "/room-near-mont-kiara-bandar-utama",
+        "keyword": "room near mont kiara from bandar utama"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Bandar Utama Area Guide",
+        "url": "/area-guide-bandar-utama",
+        "type": "guide"
+      },
+      {
+        "title": "Bandar Utama Price Guide 2026",
+        "url": "/price-guide-bandar-utama",
+        "type": "pricing"
+      },
+      {
+        "title": "Bandar Utama MRT Guide",
+        "url": "/bandar-utama-mrt-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in Bandar Utama",
+        "url": "/luxury-condo-bandar-utama",
+        "type": "listing-category"
+      },
+      {
+        "title": "Expat Housing Bandar Utama",
+        "url": "/expat-housing-bandar-utama",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Bandar Utama",
+        "url": "/furnished-room-bandar-utama",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Bandar Utama",
+        "url": "/short-term-rental-bandar-utama",
+        "type": "rental-type"
+      },
+      {
+        "title": "Rooms Near 1 Utama From Bandar Utama",
+        "url": "/room-near-1-utama-bandar-utama",
+        "type": "location-intent-page"
+      },
+      {
+        "title": "Rooms Near TTDI From Bandar Utama",
+        "url": "/room-near-ttdi-bandar-utama",
+        "type": "location-intent-page"
+      },
+      {
+        "title": "Rooms Near Mont Kiara From Bandar Utama",
+        "url": "/room-near-mont-kiara-bandar-utama",
+        "type": "location-intent-page"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1311 @@
+{
+  "area": {
+    "name": "Kepong",
+    "slug": "kepong",
+    "heroImage": "assets/images/areas/kepong.jpg",
+    "metaTitle": "Rooms for Rent in Kepong | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Kepong near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Kepong – Complete Guide to Room Rental, Condo & Apartment Rental in Kuala Lumpur",
+    "description": "Kepong is one of the most popular and rapidly developing residential areas in northern Kuala Lumpur, offering a wide range of room rental, condominium rental and apartment rental options for students, working professionals, families and expatriates. Located approximately 10 kilometres from Kuala Lumpur City Centre, Kepong provides an attractive balance between affordable rental prices, excellent transportation connectivity, modern residential developments, shopping facilities and nature-focused lifestyle living. Whether you are searching for a master room for rent in Kepong, single room rental near MRT Kepong Baru, fully furnished condo room, studio apartment, affordable apartment rental or premium condominium residence, Kepong offers diverse accommodation choices suitable for different budgets and lifestyles. The area is especially popular among professionals working in Mont Kiara, Sri Hartamas, KL Sentral, Petaling Jaya and central Kuala Lumpur due to its strategic location and accessibility. Residents enjoy convenient access through MRT Putrajaya Line stations including Kepong Baru MRT Station, Metro Prima MRT Station and Jinjang MRT Station, as well as KTM Kepong Station and Kepong Sentral KTM Station. Major roads including Jalan Kepong, MRR2, DUKE Highway and LDP provide excellent connectivity to Kuala Lumpur and surrounding areas. Popular landmarks such as AEON Mall Metro Prima, Brem Mall, Desa ParkCity, Kepong Metropolitan Park, FRIM (Forest Research Institute Malaysia), Perdana Botanical Gardens and major healthcare facilities make Kepong one of the most attractive rental locations in Kuala Lumpur. With its combination of affordable housing, public transport access, greenery, shopping convenience and proximity to premium neighbourhoods, Kepong continues to experience strong demand in the Kuala Lumpur rental market.",
+    "buttonText": "Explore Kepong Rental Guide",
+    "buttonLink": "/room-rental-kepong",
+    "highlights": [
+      "Wide selection of master rooms, single rooms, medium rooms, studio apartments and condominiums for rent in Kepong",
+      "Affordable rental location near Mont Kiara, Sri Hartamas, KL city centre and Petaling Jaya",
+      "Excellent MRT and KTM connectivity through Kepong Baru MRT, Metro Prima MRT and Kepong KTM stations",
+      "Popular among professionals working in Mont Kiara, Sri Hartamas, KL Sentral and Kuala Lumpur CBD",
+      "Highly suitable for students, young professionals, families and expatriates",
+      "Lower rental prices compared with Mont Kiara and Sri Hartamas while maintaining excellent accessibility",
+      "Modern condominiums with swimming pools, gyms, security and lifestyle facilities",
+      "Close to major shopping destinations including AEON Mall Metro Prima and Brem Mall",
+      "Green residential environment near Kepong Metropolitan Park and FRIM",
+      "Strong rental demand due to MRT connectivity and strategic location",
+      "Wide range of affordable apartments and premium condominium residences",
+      "One of northern Kuala Lumpur's strongest rental markets"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Excellent MRT & KTM Connectivity",
+        "description": "Kepong provides excellent public transportation access through MRT Putrajaya Line stations including Kepong Baru MRT Station, Metro Prima MRT Station and Jinjang MRT Station. KTM Kepong Station and Kepong Sentral KTM Station further improve connectivity to Kuala Lumpur, making Kepong highly attractive for tenants without private vehicles."
+      },
+      {
+        "icon": "fas fa-home",
+        "title": "Affordable Rental Properties",
+        "description": "Kepong offers diverse rental choices including master rooms, single rooms, medium rooms, shared rooms, studio apartments, serviced residences and condominium units. Tenants can find affordable accommodation options while enjoying access to modern facilities."
+      },
+      {
+        "icon": "fas fa-briefcase",
+        "title": "Ideal Location for Working Professionals",
+        "description": "Many professionals choose Kepong because of its convenient access to Mont Kiara, Sri Hartamas, KL Sentral, Petaling Jaya and Kuala Lumpur city centre. The area provides better rental value compared with premium neighbourhoods nearby."
+      },
+      {
+        "icon": "fas fa-graduation-cap",
+        "title": "Popular Among Students",
+        "description": "Kepong provides affordable accommodation options for students with easy access to public transportation, food areas, shopping malls and nearby educational institutions around Kuala Lumpur."
+      },
+      {
+        "icon": "fas fa-tree",
+        "title": "Green & Healthy Lifestyle Environment",
+        "description": "Kepong is known for its greenery and outdoor lifestyle with attractions such as Kepong Metropolitan Park and FRIM. Residents enjoy a more peaceful environment while staying connected to Kuala Lumpur."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Daily Convenience",
+        "description": "Residents have convenient access to shopping destinations including AEON Mall Metro Prima, Brem Mall, Lotus's Kepong and numerous restaurants, cafes, supermarkets and local amenities."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Modern Condominiums & Apartments",
+        "description": "Kepong features many established and modern residential developments offering facilities such as swimming pools, gyms, playgrounds, security services, parking spaces and landscaped gardens."
+      },
+      {
+        "icon": "fas fa-users",
+        "title": "Suitable for Families, Expats & Professionals",
+        "description": "With affordable rental prices, excellent connectivity and lifestyle facilities, Kepong attracts families, expatriates, professionals and long-term tenants searching for quality accommodation in Kuala Lumpur."
+      }
+    ],
+    "popularResidences": [
+      "M Centura Residences",
+      "M Arisa Residences",
+      "Residensi Metro Kepong",
+      "Kepong Sentral Residences",
+      "Casa Prima Kepong",
+      "Desa Eight Kepong",
+      "Kepong Baru Residences",
+      "Metro Prima Kepong",
+      "Menjalara Parkhomes",
+      "Kepong Urban Residences",
+      "Platinum Arena Residences",
+      "Brem Park",
+      "The Henge Kepong",
+      "D'Shire Villa",
+      "Kepong Village Residences",
+      "Desa ParkCity",
+      "The Westside II",
+      "ParkCity Heights",
+      "Summer Residences Kepong",
+      "Vista Magna Kepong"
+    ],
+    "nearbyLandmarks": [
+      "Kepong Baru MRT Station",
+      "Metro Prima MRT Station",
+      "Jinjang MRT Station",
+      "Kepong KTM Station",
+      "Kepong Sentral KTM Station",
+      "AEON Mall Metro Prima",
+      "Brem Mall",
+      "Kepong Metropolitan Park",
+      "Forest Research Institute Malaysia (FRIM)",
+      "Desa ParkCity",
+      "The Waterfront Desa ParkCity",
+      "Sri Hartamas",
+      "Mont Kiara",
+      "KL Sentral",
+      "Kuala Lumpur City Centre",
+      "Publika Shopping Gallery",
+      "Sunway Putra Mall",
+      "Taman Tun Dr Ismail",
+      "Petaling Jaya",
+      "Jalan Kepong"
+    ],
+    "nearbyUniversities": [
+      "Tunku Abdul Rahman University of Management and Technology (TAR UMT)",
+      "Universiti Malaya (UM)",
+      "International Islamic University Malaysia (IIUM)",
+      "Universiti Teknologi Malaysia Kuala Lumpur (UTM KL)",
+      "HELP University",
+      "Taylor's University",
+      "Sunway University",
+      "Asia Pacific University (APU)",
+      "Open University Malaysia",
+      "UCSI University"
+    ],
+    "majorEmployers": [
+      "Public Bank",
+      "Maybank",
+      "CIMB Group",
+      "Hong Leong Bank",
+      "HSBC Malaysia",
+      "Standard Chartered Malaysia",
+      "Petronas",
+      "Kuala Lumpur City Centre companies",
+      "Mont Kiara corporate offices",
+      "Sri Hartamas businesses",
+      "Desa ParkCity companies",
+      "Accenture Malaysia",
+      "Deloitte Malaysia",
+      "PwC Malaysia",
+      "EY Malaysia",
+      "KPMG Malaysia",
+      "IBM Malaysia",
+      "Microsoft Malaysia",
+      "Grab Malaysia",
+      "Maxis",
+      "CelcomDigi"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Kepong Baru MRT Station",
+      "slug": "kepong-baru-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "3 mins drive",
+      "distanceMeters": 800,
+      "distanceText": "3 mins drive (800 m)",
+      "title": "Kepong Baru MRT Station",
+      "shortDescription": "Kepong Baru MRT Station is one of the most important transportation hubs serving Kepong residents. It provides direct MRT connectivity towards central Kuala Lumpur, making nearby rooms and condominiums highly searched by professionals and students looking for convenient public transport access.",
+      "averageRoomRent": 900,
+      "nearbyLandmarks": [
+        "Kepong Baru Town Centre",
+        "AEON Mall Metro Prima",
+        "Jalan Kepong"
+      ],
+      "nearbyResidences": [
+        "M Centura Residences",
+        "Metro Prima Kepong",
+        "Kepong Baru Residences"
+      ],
+      "popularSearches": [
+        "Room near Kepong Baru MRT",
+        "Kepong Baru room rental",
+        "Condo near Kepong Baru MRT"
+      ]
+    },
+    {
+      "name": "Metro Prima MRT Station",
+      "slug": "metro-prima-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1200,
+      "distanceText": "5 mins drive (1.2 km)",
+      "title": "Metro Prima MRT Station",
+      "shortDescription": "Metro Prima MRT Station serves one of Kepong's busiest residential and commercial areas. The station is highly popular among tenants searching for affordable rooms near shopping malls, restaurants and convenient MRT transportation.",
+      "averageRoomRent": 1000,
+      "nearbyLandmarks": [
+        "AEON Mall Metro Prima",
+        "Metro Prima Shopping Centre",
+        "Jalan Metro Perdana"
+      ],
+      "nearbyResidences": [
+        "Residensi Metro Kepong",
+        "Vista Magna Kepong",
+        "M Arisa Residences"
+      ],
+      "popularSearches": [
+        "Room near Metro Prima MRT",
+        "Metro Prima room rental",
+        "Kepong condo near MRT"
+      ]
+    },
+    {
+      "name": "Jinjang MRT Station",
+      "slug": "jinjang-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "7 mins drive",
+      "distanceMeters": 2500,
+      "distanceText": "7 mins drive (2.5 km)",
+      "title": "Jinjang MRT Station",
+      "shortDescription": "Jinjang MRT Station provides additional MRT connectivity for Kepong residents. The surrounding neighbourhood offers affordable rental properties suitable for students, young professionals and tenants seeking budget-friendly accommodation.",
+      "averageRoomRent": 800,
+      "nearbyLandmarks": [
+        "Jinjang Town Centre",
+        "Jalan Kepong",
+        "Kepong Metropolitan Park"
+      ],
+      "nearbyResidences": [
+        "Kepong Urban Residences",
+        "Casa Prima Kepong",
+        "Affordable Apartments Jinjang"
+      ],
+      "popularSearches": [
+        "Room near Jinjang MRT",
+        "Cheap room Kepong",
+        "Affordable rental Jinjang"
+      ]
+    },
+    {
+      "name": "Kepong KTM Station",
+      "slug": "kepong-ktm",
+      "stationType": "KTM",
+      "line": "Port Klang Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1500,
+      "distanceText": "5 mins drive (1.5 km)",
+      "title": "Kepong KTM Station",
+      "shortDescription": "Kepong KTM Station provides commuter rail connectivity to Kuala Lumpur and surrounding areas. It is frequently searched by tenants looking for affordable rooms with easy access to public transportation.",
+      "averageRoomRent": 850,
+      "nearbyLandmarks": [
+        "Kepong Town Centre",
+        "Jalan Kepong",
+        "Brem Mall"
+      ],
+      "nearbyResidences": [
+        "Casa Prima Kepong",
+        "Kepong Sentral Residences",
+        "Kepong Apartments"
+      ],
+      "popularSearches": [
+        "Room near Kepong KTM",
+        "Kepong KTM room rental",
+        "Apartment near KTM Kepong"
+      ]
+    },
+    {
+      "name": "Kepong Sentral KTM Station",
+      "slug": "kepong-sentral-ktm",
+      "stationType": "KTM",
+      "line": "Port Klang Line",
+      "walkingTime": "6 mins drive",
+      "distanceMeters": 2200,
+      "distanceText": "6 mins drive (2.2 km)",
+      "title": "Kepong Sentral KTM Station",
+      "shortDescription": "Kepong Sentral KTM Station is a convenient transport option for residents travelling between Kepong, Kuala Lumpur and nearby areas. Rental properties around this area attract professionals and students who prefer affordable housing with rail connectivity.",
+      "averageRoomRent": 900,
+      "nearbyLandmarks": [
+        "Kepong Sentral",
+        "Jalan Kepong",
+        "Metro Prima"
+      ],
+      "nearbyResidences": [
+        "Kepong Sentral Residences",
+        "M Centura Residences",
+        "Metro Prima Apartments"
+      ],
+      "popularSearches": [
+        "Room near Kepong Sentral",
+        "Kepong Sentral rental",
+        "Condo near KTM Kepong"
+      ]
+    },
+    {
+      "name": "Sri Delima MRT Station",
+      "slug": "sri-delima-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 3500,
+      "distanceText": "8 mins drive (3.5 km)",
+      "title": "Sri Delima MRT Station",
+      "shortDescription": "Sri Delima MRT Station provides connectivity for residents around northern Kuala Lumpur. It improves accessibility for tenants searching for affordable rental homes around Kepong and nearby residential communities.",
+      "averageRoomRent": 850,
+      "nearbyLandmarks": [
+        "Sri Delima",
+        "Kepong",
+        "Jalan Ipoh"
+      ],
+      "nearbyResidences": [
+        "Kepong Residential Apartments",
+        "Vista Magna Kepong",
+        "Affordable Condo Kepong"
+      ],
+      "popularSearches": [
+        "Room near Sri Delima MRT",
+        "Kepong MRT room rental",
+        "Cheap room near MRT"
+      ]
+    },
+    {
+      "name": "Segambut KTM Station",
+      "slug": "segambut-ktm",
+      "stationType": "KTM",
+      "line": "Port Klang Line",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 5000,
+      "distanceText": "10 mins drive (5 km)",
+      "title": "Segambut KTM Station",
+      "shortDescription": "Segambut KTM Station is a nearby transport option connecting Kepong residents towards central Kuala Lumpur. Many tenants compare Kepong and Segambut rentals due to proximity to Mont Kiara, Sri Hartamas and city employment areas.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "Mont Kiara",
+        "Sri Hartamas",
+        "Publika Shopping Gallery"
+      ],
+      "nearbyResidences": [
+        "Desa ParkCity",
+        "Segambut Residences",
+        "Premium Apartments Near Mont Kiara"
+      ],
+      "popularSearches": [
+        "Room near Mont Kiara from Kepong",
+        "Kepong Sri Hartamas rental",
+        "Affordable room near Publika"
+      ]
+    },
+    {
+      "name": "Mutiara Damansara MRT Station",
+      "slug": "mutiara-damansara-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 9000,
+      "distanceText": "15 mins drive (9 km)",
+      "title": "Mutiara Damansara MRT Station",
+      "shortDescription": "Mutiara Damansara MRT Station provides connectivity towards Petaling Jaya and commercial areas. It is relevant for Kepong tenants working in nearby business districts and looking for affordable rental alternatives.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "The Curve",
+        "IKEA Damansara",
+        "1 Utama Shopping Centre"
+      ],
+      "nearbyResidences": [
+        "Desa ParkCity",
+        "Kepong Premium Residences",
+        "Modern Condominiums Kepong"
+      ],
+      "popularSearches": [
+        "Room near Mutiara Damansara",
+        "Kepong near PJ rental",
+        "Affordable room near Petaling Jaya"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 600,
+      "maxPrice": 1200
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 850,
+      "maxPrice": 1500
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1200,
+      "maxPrice": 2200
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 1800,
+      "maxPrice": 3500
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1100,
+    "priceGrowth": 5.2,
+    "demandLevel": "Very High",
+    "vacancyRate": 2.5
+  },
+  "nearbyAreas": [
+    {
+      "name": "Desa ParkCity",
+      "slug": "desa-parkcity",
+      "averageRent": 1800,
+      "mrtAccess": false,
+      "distanceFromArea": 5,
+      "popularFor": "Families, Professionals, Expats",
+      "description": "Desa ParkCity is one of Kuala Lumpur's most premium residential townships located near Kepong. Known for luxury condominiums, landscaped parks, international lifestyle facilities and a family-friendly environment, it is popular among professionals and expatriates seeking high-quality rental homes."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 2200,
+      "mrtAccess": false,
+      "distanceFromArea": 8,
+      "popularFor": "Expats, Executives, Families",
+      "description": "Mont Kiara is a premium expatriate neighbourhood near Kepong featuring luxury condominiums, international schools, shopping malls and business facilities. Many tenants choose Kepong as a more affordable rental alternative while maintaining access to Mont Kiara."
+    },
+    {
+      "name": "Sri Hartamas",
+      "slug": "sri-hartamas",
+      "averageRent": 1800,
+      "mrtAccess": false,
+      "distanceFromArea": 9,
+      "popularFor": "Professionals, Expats",
+      "description": "Sri Hartamas is a popular lifestyle area offering restaurants, cafes, shopping destinations and premium residences. Kepong provides more affordable rental options for tenants working around Sri Hartamas and nearby corporate areas."
+    },
+    {
+      "name": "Segambut",
+      "slug": "segambut",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Professionals, Young Adults",
+      "description": "Segambut is a nearby residential area with growing rental demand due to its location between Kepong, Mont Kiara and Kuala Lumpur city centre. It offers apartments and condominiums at competitive rental prices."
+    },
+    {
+      "name": "Batu Caves",
+      "slug": "batu-caves",
+      "averageRent": 900,
+      "mrtAccess": false,
+      "distanceFromArea": 8,
+      "popularFor": "Families, Students, Budget Tenants",
+      "description": "Batu Caves offers affordable rental properties with convenient access to Kuala Lumpur through highways and public transportation. It is suitable for tenants looking for budget-friendly rooms and apartments."
+    },
+    {
+      "name": "Wangsa Maju",
+      "slug": "wangsa-maju",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Students, Professionals",
+      "description": "Wangsa Maju is a mature residential area with LRT connectivity, shopping centres and affordable housing options. Many tenants compare Wangsa Maju and Kepong when searching for budget-friendly Kuala Lumpur rentals."
+    },
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 2500,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Executives, Expats, Professionals",
+      "description": "KLCC is Kuala Lumpur's main business and lifestyle district. Kepong attracts tenants working in KLCC because it provides larger residential options and lower rental prices while maintaining city accessibility."
+    },
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 1800,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Professionals, Expats",
+      "description": "Bangsar is a premium lifestyle district known for restaurants, cafes, offices and upscale residences. Kepong offers a more affordable rental market for tenants commuting to Bangsar and central Kuala Lumpur."
+    },
+    {
+      "name": "Cheras",
+      "slug": "cheras",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 15,
+      "popularFor": "Students, Professionals, Families",
+      "description": "Cheras is one of Kuala Lumpur's largest residential areas offering affordable rooms, apartments and condominiums. Like Kepong, it is popular among tenants seeking value-for-money rentals with good transportation access."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Professionals, Office Workers",
+      "description": "Petaling Jaya is a major employment and commercial hub near Kuala Lumpur. Kepong rental properties attract tenants who work in PJ due to comparatively affordable housing and improving transportation connections."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Kepong",
+      "url": "/master-room-rental-kepong"
+    },
+    {
+      "title": "Single Room Kepong",
+      "url": "/single-room-rental-kepong"
+    },
+    {
+      "title": "Condo Room Kepong",
+      "url": "/condo-room-rental-kepong"
+    },
+    {
+      "title": "Room Near Kepong Baru MRT",
+      "url": "/room-near-kepong-baru-mrt"
+    },
+    {
+      "title": "Room Near Metro Prima MRT",
+      "url": "/room-near-metro-prima-mrt"
+    },
+    {
+      "title": "Kepong Room Rental",
+      "url": "/kepong-room-rental"
+    },
+    {
+      "title": "Cheap Room Rental Kepong",
+      "url": "/cheap-room-rental-kepong"
+    },
+    {
+      "title": "Affordable Apartment Kepong",
+      "url": "/affordable-apartment-kepong"
+    },
+    {
+      "title": "Luxury Condo Kepong For Rent",
+      "url": "/luxury-condo-kepong"
+    },
+    {
+      "title": "Studio Apartment Kepong",
+      "url": "/studio-apartment-kepong"
+    },
+    {
+      "title": "Fully Furnished Room Kepong",
+      "url": "/fully-furnished-room-kepong"
+    },
+    {
+      "title": "Room Near Kepong KTM Station",
+      "url": "/room-near-kepong-ktm"
+    },
+    {
+      "title": "Room Near Kepong MRT",
+      "url": "/room-near-kepong-mrt"
+    },
+    {
+      "title": "Expat Room Rental Kepong",
+      "url": "/expat-room-rental-kepong"
+    },
+    {
+      "title": "Family Apartment Rental Kepong",
+      "url": "/family-apartment-kepong"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at M Centura Residences Kepong",
+      "price": 1500,
+      "rentedDate": "2026-06-10"
+    },
+    {
+      "title": "Single Room at Metro Prima Kepong",
+      "price": 850,
+      "rentedDate": "2026-06-05"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Marketing Executive"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "University Student"
+    },
+    {
+      "gender": "Male",
+      "budget": 1300,
+      "occupation": "Account Executive"
+    },
+    {
+      "gender": "Female",
+      "budget": 1000,
+      "occupation": "Nurse"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a room for rent in Kepong cost?",
+      "answer": "Room rental prices in Kepong generally range from RM600 to RM2200 per month depending on room type, condominium facilities, furnishing level, location, MRT or KTM accessibility and proximity to commercial areas such as Metro Prima, Kepong Baru and Desa ParkCity."
+    },
+    {
+      "question": "Where can I find cheap rooms for rent in Kepong?",
+      "answer": "Affordable rooms in Kepong can be found around Kepong Baru, Jinjang, Taman Bukit Maluri, Kepong Town Centre and nearby apartment areas. These locations provide budget-friendly accommodation with access to MRT, KTM, shops and daily amenities."
+    },
+    {
+      "question": "Are fully furnished rooms available for rent in Kepong?",
+      "answer": "Yes. Many Kepong rental rooms come fully furnished with beds, wardrobes, air conditioning, WiFi, washing machines and kitchen facilities. Furnished rooms are popular among professionals, students and tenants moving to Kuala Lumpur."
+    },
+    {
+      "question": "What types of rooms are available for rent in Kepong?",
+      "answer": "Kepong offers different rental options including master rooms, single rooms, medium rooms, private rooms, shared rooms, studio apartments, serviced residences and condominium rooms suitable for different budgets."
+    },
+    {
+      "question": "How much is a master room for rent in Kepong?",
+      "answer": "Master rooms in Kepong typically range from RM1200 to RM2200 per month depending on attached bathroom, room size, condominium facilities, furnishing and distance from MRT or KTM stations."
+    },
+    {
+      "question": "How much is a single room for rent in Kepong?",
+      "answer": "Single room rentals in Kepong usually range between RM600 and RM1200 per month, making Kepong one of the more affordable rental areas in Kuala Lumpur."
+    },
+    {
+      "question": "Are there rooms near Kepong MRT Station?",
+      "answer": "Yes. Many tenants search for rooms near Kepong Baru MRT, Metro Prima MRT and other MRT-connected areas because they provide convenient access to Kuala Lumpur city centre."
+    },
+    {
+      "question": "Is Kepong a good place to rent a room in Kuala Lumpur?",
+      "answer": "Yes. Kepong is a popular residential area offering affordable rental prices, shopping malls, parks, restaurants, public transportation and easy access to Kuala Lumpur, Mont Kiara and Petaling Jaya."
+    },
+    {
+      "question": "Is Kepong suitable for working professionals?",
+      "answer": "Yes. Kepong is increasingly popular among professionals working in Kuala Lumpur, Mont Kiara, Sri Hartamas and Petaling Jaya because of its affordable rental market and improving transportation connectivity."
+    },
+    {
+      "question": "Are there luxury condominiums for rent in Kepong?",
+      "answer": "Yes. Kepong has modern condominium developments offering facilities such as swimming pools, gyms, security services, parking facilities and lifestyle amenities suitable for professionals and families."
+    },
+    {
+      "question": "Is Kepong cheaper than Mont Kiara for rental properties?",
+      "answer": "Yes. Kepong generally offers more affordable rental options compared with Mont Kiara while maintaining convenient access to premium neighbourhoods and business districts."
+    },
+    {
+      "question": "Are students able to find rooms for rent in Kepong?",
+      "answer": "Yes. Kepong provides affordable accommodation options suitable for students, including private rooms, shared rooms and budget apartments near public transportation."
+    },
+    {
+      "question": "Can foreigners rent rooms in Kepong?",
+      "answer": "Yes. Many condominium and apartment owners in Kepong welcome foreign tenants, especially professionals and expatriates looking for affordable housing near Kuala Lumpur."
+    },
+    {
+      "question": "Are there rooms with private bathrooms in Kepong?",
+      "answer": "Yes. Master rooms and premium condominium rooms in Kepong often include attached bathrooms, providing additional privacy and comfort."
+    },
+    {
+      "question": "Can I live in Kepong without owning a car?",
+      "answer": "Yes. Kepong has MRT stations, KTM connectivity, bus services and ride-hailing options, allowing many residents to travel conveniently without owning a private vehicle."
+    },
+    {
+      "question": "What are the best areas to rent in Kepong?",
+      "answer": "Popular rental locations in Kepong include Kepong Baru, Metro Prima, Taman Bukit Maluri, Desa ParkCity, Jinjang and areas close to MRT stations."
+    },
+    {
+      "question": "Is Kepong a good place to rent a room in Kuala Lumpur?",
+      "answer": "Yes. Kepong is one of the fastest-growing residential areas in northern Kuala Lumpur, offering affordable room rentals, modern condominiums, MRT and KTM connectivity, shopping malls, restaurants and convenient access to Mont Kiara, Sri Hartamas, Petaling Jaya and Kuala Lumpur city centre."
+    },
+    {
+      "question": "Why do people choose Kepong for rental properties?",
+      "answer": "Many tenants choose Kepong because it provides lower rental prices compared with central Kuala Lumpur while offering excellent connectivity, mature amenities, green spaces and easy access to major employment areas."
+    },
+    {
+      "question": "Is Kepong cheaper than Mont Kiara for rental properties?",
+      "answer": "Yes. Kepong generally offers more affordable rooms, apartments and condominiums compared with Mont Kiara while still providing convenient access to Mont Kiara, Sri Hartamas and Kuala Lumpur business districts."
+    },
+    {
+      "question": "Which part of Kepong is best for renting a room?",
+      "answer": "Popular rental locations in Kepong include Kepong Baru, Metro Prima, Taman Bukit Maluri, Jinjang and areas near MRT or KTM stations because they provide convenient transportation and daily amenities."
+    },
+    {
+      "question": "Are there rooms near Kepong Baru MRT Station?",
+      "answer": "Yes. Many tenants search for rooms near Kepong Baru MRT Station because it provides convenient access to Kuala Lumpur through the Putrajaya MRT Line. Nearby apartments and condominiums offer various rental options."
+    },
+    {
+      "question": "How much is room rental near Kepong MRT?",
+      "answer": "Room rentals near Kepong MRT generally range from RM700 to RM1800 depending on room type, furnishing, condominium facilities and distance from the station."
+    },
+    {
+      "question": "Can I travel to KLCC from Kepong using public transport?",
+      "answer": "Yes. Residents can travel from Kepong using MRT and KTM connections with interchange options to reach KLCC, Bukit Bintang, TRX and other major Kuala Lumpur areas."
+    },
+    {
+      "question": "What are the best condos for rent in Kepong?",
+      "answer": "Popular condominium options in Kepong include M Centura Residences, Metro Prima residences, Vista Magna and other modern apartments offering facilities such as swimming pools, gyms, security and parking."
+    },
+    {
+      "question": "Are luxury condos available for rent in Kepong?",
+      "answer": "Yes. Kepong has modern condominium developments suitable for tenants looking for premium facilities, spacious layouts, security services and lifestyle amenities."
+    },
+    {
+      "question": "Can I find studio apartments for rent in Kepong?",
+      "answer": "Yes. Studio apartments and compact serviced residences are available in Kepong, suitable for single professionals and tenants who prefer private living spaces."
+    },
+    {
+      "question": "Is Kepong suitable for working professionals?",
+      "answer": "Yes. Kepong is popular among professionals working in Kuala Lumpur, Mont Kiara, Sri Hartamas and Petaling Jaya because of affordable rental prices and improving transportation connections."
+    },
+    {
+      "question": "Is Kepong suitable for foreigners?",
+      "answer": "Yes. Foreign tenants can find furnished rooms, condominium units and apartments in Kepong with convenient access to international communities and business districts."
+    },
+    {
+      "question": "Is Kepong suitable for students?",
+      "answer": "Yes. Kepong offers affordable rooms and apartments with public transport access, making it suitable for students and young adults."
+    },
+    {
+      "question": "What documents are needed to rent a room in Kepong?",
+      "answer": "Most landlords require identification documents, employment or student details, rental deposits and a signed tenancy agreement before moving into a rental property in Kepong."
+    },
+    {
+      "question": "How much deposit is required for room rental in Kepong?",
+      "answer": "Rental deposits commonly depend on landlord requirements and tenancy agreements. Many landlords request a security deposit and utility deposit before move-in."
+    },
+    {
+      "question": "Are utilities included in Kepong room rental prices?",
+      "answer": "Some rental rooms include utilities such as electricity, water and internet, while others require tenants to pay separately depending on the rental agreement."
+    },
+    {
+      "question": "Are there rooms near AEON Mall Metro Prima Kepong?",
+      "answer": "Yes. Many apartments and rooms around Metro Prima provide easy access to AEON Mall Metro Prima, restaurants, supermarkets and daily necessities."
+    },
+    {
+      "question": "Are there rooms near Desa ParkCity from Kepong?",
+      "answer": "Yes. Kepong is a popular affordable alternative for tenants working or spending time around Desa ParkCity because it offers lower rental prices while maintaining close proximity."
+    },
+    {
+      "question": "Are there rooms near Mont Kiara from Kepong?",
+      "answer": "Yes. Many professionals choose Kepong rental properties because they can access Mont Kiara and Sri Hartamas while enjoying more affordable accommodation."
+    }
+  ],
+  "focusKeywords": [
+    "Kepong room for rent",
+    "Kepong room rental",
+    "Kepong condo for rent",
+    "Kepong apartment for rent",
+    "room near Kepong MRT",
+    "room near Kepong Baru MRT",
+    "room near Metro Prima MRT",
+    "room near Kepong KTM",
+    "furnished room Kepong",
+    "fully furnished room Kepong",
+    "cheap room Kepong Kuala Lumpur",
+    "affordable room rental Kepong",
+    "Kepong rental property",
+    "Kepong condominium rental",
+    "luxury condo Kepong for rent",
+    "studio apartment Kepong",
+    "master room Kepong",
+    "single room Kepong",
+    "medium room Kepong",
+    "monthly rental Kepong",
+    "private room Kepong",
+    "shared room Kepong",
+    "Kepong apartment rental Kuala Lumpur",
+    "Kepong housing rental",
+    "Kepong accommodation Kuala Lumpur",
+    "room near Desa ParkCity",
+    "room near Mont Kiara from Kepong",
+    "room near Sri Hartamas from Kepong",
+    "student room rental Kepong",
+    "professional room rental Kepong",
+    "expat housing Kepong",
+    "serviced apartment Kepong",
+    "family apartment Kepong",
+    "premium condo Kepong",
+    "executive apartment Kepong",
+    "MRT connected rental Kepong",
+    "KTM connected rental Kepong",
+    "room near AEON Mall Metro Prima",
+    "room near Kepong Metropolitan Park",
+    "room near Jalan Kepong"
+  ],
+  "longTailKeywords": [
+    "fully furnished room for rent near Kepong Baru MRT station",
+    "cheap room rental in Kepong for working professionals",
+    "affordable room rental near Metro Prima MRT Kuala Lumpur",
+    "best room rental in Kepong Kuala Lumpur",
+    "luxury condo for rent in Kepong Kuala Lumpur",
+    "expat friendly apartment for rent in Kepong",
+    "master room with private bathroom in Kepong",
+    "studio apartment for rent in Kepong fully furnished",
+    "room near Kepong MRT station for professionals",
+    "room near Kepong KTM station with easy transportation",
+    "premium condominium rental in Kepong Kuala Lumpur",
+    "fully furnished condo room near M Centura Residences Kepong",
+    "cheap master room rental near Kepong Baru MRT",
+    "affordable apartment rental near AEON Mall Metro Prima",
+    "private room with attached bathroom for rent in Kepong",
+    "best area to rent room near Mont Kiara from Kepong",
+    "room rental near Desa ParkCity Kuala Lumpur",
+    "student accommodation near Kepong MRT station",
+    "modern serviced residence for rent in Kepong Kuala Lumpur",
+    "monthly room rental near Kepong shopping malls",
+    "budget room rental near Jalan Kepong",
+    "condo room rental near Metro Prima Kepong",
+    "room for rent near Kepong Metropolitan Park",
+    "professional accommodation near MRT Kepong",
+    "family apartment rental near Desa ParkCity",
+    "cheap furnished room near Kepong Kuala Lumpur",
+    "high quality condo rental near Kepong MRT",
+    "room rental for foreigners in Kepong Kuala Lumpur",
+    "affordable housing near Mont Kiara and Sri Hartamas",
+    "best furnished room rental area in northern Kuala Lumpur"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Kepong",
+      "budget room near Kepong MRT",
+      "student room near Kepong Baru MRT",
+      "affordable accommodation Kepong Kuala Lumpur",
+      "student rental room Kepong",
+      "shared room rental Kepong",
+      "cheap furnished room Kepong",
+      "budget apartment near Kepong KTM",
+      "student accommodation near MRT Kepong"
+    ],
+    "expat": [
+      "expat housing Kepong",
+      "furnished condo Kepong",
+      "serviced apartment Kepong",
+      "international tenant friendly condo Kepong",
+      "luxury apartment rental Kepong",
+      "premium condo near Desa ParkCity",
+      "comfortable rental near Mont Kiara from Kepong",
+      "fully furnished apartment Kepong Kuala Lumpur"
+    ],
+    "professional": [
+      "Kepong condo near MRT",
+      "room near Kepong Baru MRT for professionals",
+      "room near Metro Prima offices",
+      "room near Mont Kiara from Kepong",
+      "room near Sri Hartamas from Kepong",
+      "premium apartment Kepong",
+      "executive residence Kepong",
+      "working professional room rental Kepong"
+    ],
+    "shortStay": [
+      "short term rental Kepong",
+      "monthly rental Kepong",
+      "serviced residence Kepong",
+      "flexible room rental Kepong",
+      "short stay apartment Kepong Kuala Lumpur",
+      "temporary accommodation Kepong",
+      "monthly furnished room Kepong"
+    ],
+    "premiumIntent": [
+      "luxury condo Kepong for rent",
+      "high end apartment Kepong",
+      "executive residence Kepong",
+      "premium serviced apartment Kepong",
+      "luxury condominium rental near Desa ParkCity",
+      "modern condo rental Kepong Kuala Lumpur",
+      "premium furnished room Kepong",
+      "exclusive apartment near Mont Kiara Kepong"
+    ],
+    "family": [
+      "family apartment Kepong",
+      "3 bedroom condo Kepong rental",
+      "family friendly condo near Desa ParkCity",
+      "safe residential area Kepong",
+      "large apartment rental Kepong Kuala Lumpur"
+    ],
+    "budgetTenant": [
+      "cheap room Kepong Kuala Lumpur",
+      "low budget rental Kepong",
+      "affordable apartment Kepong",
+      "room under RM1000 Kepong",
+      "budget friendly room near MRT Kepong"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Kepong room for rent",
+    "secondaryKeywords": [
+      "Kepong condo for rent",
+      "Kepong apartment for rent",
+      "room near Kepong MRT",
+      "room near Kepong Baru MRT",
+      "room near Metro Prima MRT",
+      "furnished room Kepong",
+      "cheap room Kepong Kuala Lumpur",
+      "luxury condo Kepong",
+      "expat housing Kepong",
+      "serviced apartment Kepong",
+      "master room Kepong",
+      "room near Desa ParkCity from Kepong",
+      "room near Mont Kiara from Kepong"
+    ],
+    "seoScore": 98,
+    "canonicalUrl": "https://yourdomain.com/kuala-lumpur/kepong/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "affordable-connected-northern-kl-rentals",
+    "contentCluster": [
+      "Kepong room rental",
+      "Kepong condo rental",
+      "MRT connected rentals Kepong",
+      "KTM connected rentals Kepong",
+      "affordable rental properties Kuala Lumpur",
+      "student accommodation Kepong",
+      "professional housing Kepong",
+      "expat housing Kuala Lumpur",
+      "Desa ParkCity nearby accommodation",
+      "Mont Kiara affordable rental alternative",
+      "furnished rooms Kepong",
+      "premium condominiums Kepong"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Desa ParkCity",
+        "Mont Kiara",
+        "Sri Hartamas",
+        "Segambut",
+        "Batu Caves",
+        "Wangsa Maju",
+        "Cheras",
+        "KLCC",
+        "Bangsar",
+        "Petaling Jaya"
+      ],
+      "nearbyHotspots": [
+        "AEON Mall Metro Prima",
+        "Metro Prima Shopping Centre",
+        "Kepong Metropolitan Park",
+        "Kepong Baru MRT Station",
+        "Metro Prima MRT Station",
+        "Kepong KTM Station",
+        "Kepong Sentral KTM Station",
+        "Desa ParkCity",
+        "Publika Shopping Gallery",
+        "Mont Kiara"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Kepong Rooms for Rent",
+        "url": "/room-rental-kepong",
+        "keyword": "kepong room for rent"
+      },
+      {
+        "title": "Kepong Condos for Rent",
+        "url": "/condo-for-rent-kepong",
+        "keyword": "kepong condo for rent"
+      },
+      {
+        "title": "Cheap Rooms in Kepong",
+        "url": "/cheap-room-kepong",
+        "keyword": "cheap room kepong"
+      },
+      {
+        "title": "Rooms Near Kepong MRT",
+        "url": "/room-near-kepong-mrt",
+        "keyword": "room near kepong mrt"
+      },
+      {
+        "title": "Rooms Near Kepong Baru MRT",
+        "url": "/room-near-kepong-baru-mrt",
+        "keyword": "room near kepong baru mrt"
+      },
+      {
+        "title": "Rooms Near Metro Prima MRT",
+        "url": "/room-near-metro-prima-mrt",
+        "keyword": "room near metro prima mrt"
+      },
+      {
+        "title": "Kepong Desa ParkCity Rental",
+        "url": "/kepong-desa-parkcity-room-rental",
+        "keyword": "room near desa parkcity from kepong"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Kepong Area Guide",
+        "url": "/area-guide-kepong",
+        "type": "guide"
+      },
+      {
+        "title": "Kepong Price Guide 2026",
+        "url": "/price-guide-kepong",
+        "type": "pricing"
+      },
+      {
+        "title": "Kepong MRT & KTM Guide",
+        "url": "/kepong-mrt-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in Kepong",
+        "url": "/luxury-condo-kepong",
+        "type": "listing-category"
+      },
+      {
+        "title": "Expat Housing Kepong",
+        "url": "/expat-housing-kepong",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Kepong",
+        "url": "/furnished-room-kepong",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Kepong",
+        "url": "/short-term-rental-kepong",
+        "type": "rental-type"
+      },
+      {
+        "title": "Rooms Near Desa ParkCity From Kepong",
+        "url": "/room-near-desa-parkcity-kepong",
+        "type": "location-intent-page"
+      },
+      {
+        "title": "Rooms Near Mont Kiara From Kepong",
+        "url": "/room-near-mont-kiara-kepong",
+        "type": "location-intent-page"
+      }
+    ]
+  }
+}

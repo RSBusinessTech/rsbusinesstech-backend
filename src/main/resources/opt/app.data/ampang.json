@@ -1,0 +1,1223 @@
+{
+  "area": {
+    "name": "Ampang",
+    "slug": "ampang",
+    "heroImage": "assets/images/areas/ampang.jpg",
+    "metaTitle": "Rooms for Rent in Ampang | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Ampang near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Ampang – Complete Guide to Room Rental, Condo & Apartment Rental in Kuala Lumpur",
+    "description": "Ampang is one of Kuala Lumpur's most established and highly desirable residential locations for room rental, condominium rental and apartment rental. Located just east of Kuala Lumpur City Centre, Ampang offers an attractive combination of premium residential developments, international communities, excellent amenities, healthcare facilities, shopping destinations and convenient access to KLCC, Bukit Bintang and major business districts. Whether you are searching for a master room for rent in Ampang, a single room near Ampang LRT, a fully furnished condo room, a luxury serviced apartment, a studio apartment or an affordable room rental, Ampang provides accommodation options suitable for professionals, expatriates, students, couples and families. The area is especially popular among executives working in KLCC, Tun Razak Exchange (TRX), Jalan Ampang and major corporate offices due to its strategic location and excellent connectivity. Residents enjoy easy access to Ampang LRT Station, Jelatek LRT Station, Dato Keramat LRT Station, MRR2, Jalan Ampang and major highways connecting Kuala Lumpur and the Klang Valley. Popular landmarks including Ampang Point Shopping Centre, Great Eastern Mall, Gleneagles Hospital Kuala Lumpur, KPJ Ampang Puteri Specialist Hospital, KLCC Park and Jalan Ampang continue to make Ampang one of the most sought-after rental markets in Kuala Lumpur.",
+    "buttonText": "Explore Ampang Rental Guide",
+    "buttonLink": "/room-rental-ampang",
+    "highlights": [
+      "Wide selection of master rooms, single rooms, medium rooms, studio apartments, serviced residences and condominiums for rent in Ampang",
+      "Prime residential location near KLCC, Jalan Ampang, TRX and Kuala Lumpur City Centre",
+      "Excellent connectivity through Ampang LRT Line, RapidKL buses and major highways",
+      "Highly popular among expatriates, professionals, executives and families",
+      "Close proximity to international schools, hospitals, embassies and corporate offices",
+      "Affordable rental options compared with KLCC while maintaining city accessibility",
+      "Premium condominiums featuring swimming pools, gyms, security and modern facilities",
+      "Popular area for foreign tenants due to international community and lifestyle environment",
+      "Easy access to shopping malls including Great Eastern Mall and Ampang Point",
+      "Strong rental demand from professionals working around KLCC and Jalan Ampang",
+      "Suitable for tenants looking for luxury, convenience and peaceful residential living",
+      "One of Kuala Lumpur's most established rental locations with mature infrastructure"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Excellent LRT & Public Transportation Connectivity",
+        "description": "Ampang offers convenient public transportation through Ampang LRT Station, Jelatek LRT Station, Dato Keramat LRT Station, Cahaya LRT Station and Ampang Line connections. Residents can easily travel to KLCC, Bukit Bintang, Masjid Jamek, Wangsa Maju and other major areas in Kuala Lumpur."
+      },
+      {
+        "icon": "fas fa-home",
+        "title": "Wide Range of Rental Properties",
+        "description": "Ampang provides diverse rental choices including master rooms, medium rooms, single rooms, studio apartments, serviced residences, luxury condominiums and family apartments. Tenants can find affordable rooms as well as premium residences depending on lifestyle and budget."
+      },
+      {
+        "icon": "fas fa-briefcase",
+        "title": "Preferred Location for Professionals",
+        "description": "Ampang is highly popular among professionals working in KLCC, Jalan Ampang, TRX, Bukit Bintang and central Kuala Lumpur due to its short commuting distance and excellent transportation options."
+      },
+      {
+        "icon": "fas fa-globe",
+        "title": "Popular Expatriate Residential Area",
+        "description": "Ampang has long been recognised as an expatriate-friendly neighbourhood with international schools, embassies, premium condominiums, international restaurants and healthcare facilities."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Lifestyle Convenience",
+        "description": "Residents enjoy easy access to Great Eastern Mall, Ampang Point Shopping Centre, Ampang Park, Pavilion Kuala Lumpur, Suria KLCC and numerous cafes, restaurants and lifestyle outlets."
+      },
+      {
+        "icon": "fas fa-hospital",
+        "title": "Excellent Healthcare Facilities",
+        "description": "Ampang is home to major healthcare facilities including Gleneagles Hospital Kuala Lumpur and KPJ Ampang Puteri Specialist Hospital, making it attractive for healthcare professionals and families."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Premium Condominiums & Serviced Residences",
+        "description": "Ampang features many established residential developments offering swimming pools, gyms, security services, landscaped gardens, parking facilities and modern condominium amenities."
+      },
+      {
+        "icon": "fas fa-users",
+        "title": "Ideal for Families, Expats & Professionals",
+        "description": "Ampang attracts families, expatriates, executives and professionals seeking a balanced lifestyle with city accessibility, greenery, education options and premium residential communities."
+      }
+    ],
+    "popularResidences": [
+      "Ampang Hilir",
+      "The Elements Ampang",
+      "The Address Ampang",
+      "One Ampang Avenue",
+      "M City Ampang",
+      "Nadayu 63",
+      "Ampang Putra Residency",
+      "The Meritz",
+      "Vista Damai",
+      "D'Rapport Residences",
+      "Sri Ampang Mas",
+      "Ampang Boulevard",
+      "Ampang Prima",
+      "Axis Residence Ampang",
+      "Villa Putera",
+      "Oakleaf Park",
+      "Taman Bukit Indah Residences",
+      "Wangsa 9 Residency",
+      "Datum Jelatek",
+      "Embassy View"
+    ],
+    "nearbyLandmarks": [
+      "KLCC",
+      "Petronas Twin Towers",
+      "Jalan Ampang",
+      "Great Eastern Mall",
+      "Ampang Point Shopping Centre",
+      "Gleneagles Hospital Kuala Lumpur",
+      "KPJ Ampang Puteri Specialist Hospital",
+      "Ampang LRT Station",
+      "Jelatek LRT Station",
+      "Dato Keramat LRT Station",
+      "Royal Embassy Area",
+      "Pavilion Kuala Lumpur",
+      "Bukit Bintang",
+      "Tun Razak Exchange (TRX)",
+      "KL Forest Eco Park",
+      "Ampang Lookout Point",
+      "Taman Melawati",
+      "Wangsa Maju",
+      "Setiawangsa",
+      "Kuala Lumpur City Centre"
+    ],
+    "nearbyUniversities": [
+      "UCSI University",
+      "Tunku Abdul Rahman University of Management and Technology (TAR UMT)",
+      "International Islamic University Malaysia (IIUM)",
+      "Universiti Teknologi Malaysia Kuala Lumpur (UTM KL)",
+      "HELP University",
+      "Taylor's University",
+      "Sunway University",
+      "Asia Pacific University (APU)",
+      "Universiti Malaya (UM)",
+      "Open University Malaysia"
+    ],
+    "majorEmployers": [
+      "Petronas",
+      "Maybank",
+      "CIMB Group",
+      "Public Bank",
+      "HSBC Malaysia",
+      "Standard Chartered Malaysia",
+      "Suria KLCC",
+      "Kuala Lumpur City Centre companies",
+      "Shell Malaysia",
+      "Accenture Malaysia",
+      "Deloitte Malaysia",
+      "PwC Malaysia",
+      "EY Malaysia",
+      "KPMG Malaysia",
+      "IBM Malaysia",
+      "Microsoft Malaysia",
+      "Grab Malaysia",
+      "Maxis",
+      "CelcomDigi",
+      "Gleneagles Hospital Kuala Lumpur",
+      "KPJ Ampang Puteri Specialist Hospital"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Ampang LRT Station",
+      "slug": "ampang-lrt",
+      "stationType": "LRT",
+      "line": "Ampang Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1500,
+      "distanceText": "5 mins drive (1.5 km)",
+      "title": "Ampang LRT Station",
+      "shortDescription": "Ampang LRT Station is the main transit hub serving Ampang residents and provides direct connectivity to central Kuala Lumpur, Bukit Bintang, Masjid Jamek and other major destinations. It is one of the most searched transport locations for tenants looking for affordable rooms and apartments in Ampang.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "Ampang Point Shopping Centre",
+        "Ampang Town Centre",
+        "Great Eastern Mall"
+      ],
+      "nearbyResidences": [
+        "Ampang Boulevard",
+        "Ampang Prima",
+        "One Ampang Avenue"
+      ],
+      "popularSearches": [
+        "Room near Ampang LRT",
+        "Ampang room rental",
+        "Condo near Ampang LRT"
+      ]
+    },
+    {
+      "name": "Jelatek LRT Station",
+      "slug": "jelatek-lrt",
+      "stationType": "LRT",
+      "line": "Ampang Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1800,
+      "distanceText": "5 mins drive (1.8 km)",
+      "title": "Jelatek LRT Station",
+      "shortDescription": "Jelatek LRT Station is highly popular among professionals working in KLCC and Jalan Ampang due to its strategic location. Many tenants search for rooms near Jelatek LRT because of fast access to Kuala Lumpur City Centre and premium residential areas.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "Jalan Ampang",
+        "Gleneagles Hospital Kuala Lumpur",
+        "KLCC"
+      ],
+      "nearbyResidences": [
+        "Datum Jelatek",
+        "D'Rapport Residences",
+        "Vista Damai"
+      ],
+      "popularSearches": [
+        "Room near Jelatek LRT",
+        "Ampang KLCC room rental",
+        "Condo near Jelatek"
+      ]
+    },
+    {
+      "name": "Dato Keramat LRT Station",
+      "slug": "dato-keramat-lrt",
+      "stationType": "LRT",
+      "line": "Ampang Line",
+      "walkingTime": "6 mins drive",
+      "distanceMeters": 2200,
+      "distanceText": "6 mins drive (2.2 km)",
+      "title": "Dato Keramat LRT Station",
+      "shortDescription": "Dato Keramat LRT Station provides convenient transportation access for residents around eastern Kuala Lumpur. It is popular among students, professionals and tenants searching for affordable accommodation near public transport.",
+      "averageRoomRent": 1000,
+      "nearbyLandmarks": [
+        "Dato Keramat Market",
+        "Jalan Ampang",
+        "Setiawangsa"
+      ],
+      "nearbyResidences": [
+        "The Elements Ampang",
+        "Axis Residence Ampang",
+        "Sri Ampang Mas"
+      ],
+      "popularSearches": [
+        "Room near Dato Keramat LRT",
+        "Cheap room Ampang",
+        "Rental near Ampang LRT Line"
+      ]
+    },
+    {
+      "name": "Cahaya LRT Station",
+      "slug": "cahaya-lrt",
+      "stationType": "LRT",
+      "line": "Ampang Line",
+      "walkingTime": "7 mins drive",
+      "distanceMeters": 3200,
+      "distanceText": "7 mins drive (3.2 km)",
+      "title": "Cahaya LRT Station",
+      "shortDescription": "Cahaya LRT Station serves residential communities in Ampang and surrounding areas. It offers convenient access to Kuala Lumpur and is attractive for tenants seeking more affordable rental options.",
+      "averageRoomRent": 900,
+      "nearbyLandmarks": [
+        "Taman Cahaya",
+        "Ampang Town Centre",
+        "Ampang Point"
+      ],
+      "nearbyResidences": [
+        "Ampang Putra Residency",
+        "Sri Ampang Mas",
+        "Ampang Prima"
+      ],
+      "popularSearches": [
+        "Room near Cahaya LRT",
+        "Affordable room Ampang",
+        "Ampang apartment rental"
+      ]
+    },
+    {
+      "name": "Pandamaran LRT Station",
+      "slug": "pandamaran-lrt",
+      "stationType": "LRT",
+      "line": "Ampang Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 4000,
+      "distanceText": "8 mins drive (4 km)",
+      "title": "Pandamaran LRT Station",
+      "shortDescription": "Pandamaran LRT provides connectivity for residents around Ampang and nearby eastern Kuala Lumpur areas. The surrounding neighbourhoods offer affordable rental properties with access to public transportation.",
+      "averageRoomRent": 850,
+      "nearbyLandmarks": [
+        "Ampang",
+        "Taman Melawati",
+        "Wangsa Maju"
+      ],
+      "nearbyResidences": [
+        "Ampang Hilir Residences",
+        "Ampang Prima",
+        "Residential apartments Ampang"
+      ],
+      "popularSearches": [
+        "Room near Ampang LRT Line",
+        "Cheap rental Ampang",
+        "Apartment near LRT Ampang"
+      ]
+    },
+    {
+      "name": "Setiawangsa LRT Station",
+      "slug": "setiawangsa-lrt",
+      "stationType": "LRT",
+      "line": "Ampang Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 4500,
+      "distanceText": "8 mins drive (4.5 km)",
+      "title": "Setiawangsa LRT Station",
+      "shortDescription": "Setiawangsa LRT Station is a popular nearby transit point for Ampang residents, offering easy access to KLCC, Wangsa Maju and central Kuala Lumpur. It is frequently searched by professionals looking for affordable rentals near the city.",
+      "averageRoomRent": 1000,
+      "nearbyLandmarks": [
+        "Setiawangsa",
+        "Wangsa Walk Mall",
+        "KLCC"
+      ],
+      "nearbyResidences": [
+        "Datum Jelatek",
+        "Wangsa 9 Residency",
+        "The Elements Ampang"
+      ],
+      "popularSearches": [
+        "Room near Setiawangsa LRT",
+        "Ampang near KLCC room",
+        "Rental near LRT Ampang"
+      ]
+    },
+    {
+      "name": "Ampang Park MRT Station",
+      "slug": "ampang-park-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 5000,
+      "distanceText": "10 mins drive (5 km)",
+      "title": "Ampang Park MRT Station",
+      "shortDescription": "Ampang Park MRT Station provides direct access to KLCC, Tun Razak Exchange and major business districts. It is highly preferred by professionals renting accommodation in Ampang due to its proximity to corporate offices and lifestyle destinations.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "Suria KLCC",
+        "KLCC Park",
+        "Ampang Park Mall"
+      ],
+      "nearbyResidences": [
+        "The Meritz",
+        "Embassy View",
+        "Luxury Residences Jalan Ampang"
+      ],
+      "popularSearches": [
+        "Room near Ampang Park MRT",
+        "KLCC room rental",
+        "Ampang luxury condo rental"
+      ]
+    },
+    {
+      "name": "KLCC LRT Station",
+      "slug": "klcc-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 6000,
+      "distanceText": "12 mins drive (6 km)",
+      "title": "KLCC LRT Station",
+      "shortDescription": "KLCC LRT Station connects Ampang residents directly to Kuala Lumpur's main business and lifestyle district. Many professionals working in KLCC choose Ampang rentals due to the short commute and better rental value.",
+      "averageRoomRent": 1800,
+      "nearbyLandmarks": [
+        "Petronas Twin Towers",
+        "Suria KLCC",
+        "KLCC Park"
+      ],
+      "nearbyResidences": [
+        "Luxury condominiums KLCC",
+        "Embassy View",
+        "Ampang Hilir Residences"
+      ],
+      "popularSearches": [
+        "Room near KLCC from Ampang",
+        "Ampang KLCC rental",
+        "Executive room rental Kuala Lumpur"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 700,
+      "maxPrice": 1300
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 1000,
+      "maxPrice": 1700
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1400,
+      "maxPrice": 2500
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 2200,
+      "maxPrice": 4500
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1350,
+    "priceGrowth": 5.5,
+    "demandLevel": "Very High",
+    "vacancyRate": 2.1
+  },
+  "nearbyAreas": [
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 1800,
+      "mrtAccess": true,
+      "distanceFromArea": 6,
+      "popularFor": "Professionals, Expats, Executives",
+      "description": "Kuala Lumpur's premier business and lifestyle district located near Ampang. Popular among executives working in multinational companies, financial institutions and luxury offices. Ampang provides a more affordable rental option while maintaining quick access to KLCC."
+    },
+    {
+      "name": "Jalan Ampang",
+      "slug": "jalan-ampang",
+      "averageRent": 1600,
+      "mrtAccess": true,
+      "distanceFromArea": 2,
+      "popularFor": "Expats, Professionals",
+      "description": "One of Kuala Lumpur's most prestigious addresses featuring embassies, international schools, premium condominiums, corporate offices and luxury residences."
+    },
+    {
+      "name": "Setiawangsa",
+      "slug": "setiawangsa",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Professionals, Families",
+      "description": "A mature residential neighbourhood near Ampang offering affordable condominium rentals, LRT connectivity and convenient access to KLCC."
+    },
+    {
+      "name": "Wangsa Maju",
+      "slug": "wangsa-maju",
+      "averageRent": 950,
+      "mrtAccess": true,
+      "distanceFromArea": 7,
+      "popularFor": "Students, Young Professionals",
+      "description": "Popular affordable rental location with LRT access, shopping malls, universities and diverse housing options suitable for budget-conscious tenants."
+    },
+    {
+      "name": "Taman Melawati",
+      "slug": "taman-melawati",
+      "averageRent": 1200,
+      "mrtAccess": false,
+      "distanceFromArea": 6,
+      "popularFor": "Families, Professionals",
+      "description": "Peaceful residential neighbourhood offering landed properties, condominiums, greenery and easy access to Ampang, KLCC and major highways."
+    },
+    {
+      "name": "Bukit Bintang",
+      "slug": "bukit-bintang",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Professionals, Expats",
+      "description": "Kuala Lumpur's lifestyle and entertainment district featuring shopping malls, restaurants, hotels and business opportunities. Ampang residents enjoy convenient access through public transportation."
+    },
+    {
+      "name": "Tun Razak Exchange (TRX)",
+      "slug": "trx",
+      "averageRent": 1700,
+      "mrtAccess": true,
+      "distanceFromArea": 7,
+      "popularFor": "Finance Professionals, Executives",
+      "description": "Malaysia's emerging international financial district. Ampang is becoming increasingly popular among professionals working in TRX due to its strategic location and rental value."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 1900,
+      "mrtAccess": false,
+      "distanceFromArea": 12,
+      "popularFor": "Expats, Families",
+      "description": "Premium expatriate neighbourhood known for luxury condominiums, international schools and upscale lifestyle facilities."
+    },
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Professionals, Expats",
+      "description": "Popular lifestyle district offering cafes, restaurants, premium residences and excellent connectivity to Kuala Lumpur business areas."
+    },
+    {
+      "name": "Cheras",
+      "slug": "cheras",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Students, Professionals",
+      "description": "Large residential area offering affordable rental options, MRT connectivity and convenient access to Kuala Lumpur city centre."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Ampang",
+      "url": "/master-room-rental-ampang"
+    },
+    {
+      "title": "Single Room Ampang",
+      "url": "/single-room-rental-ampang"
+    },
+    {
+      "title": "Condo Room Ampang",
+      "url": "/condo-room-rental-ampang"
+    },
+    {
+      "title": "Room Near Ampang LRT",
+      "url": "/room-near-ampang-lrt"
+    },
+    {
+      "title": "Room Near Jelatek LRT",
+      "url": "/room-near-jelatek-lrt"
+    },
+    {
+      "title": "Ampang KLCC Room Rental",
+      "url": "/ampang-klcc-room-rental"
+    },
+    {
+      "title": "Studio Apartment Ampang",
+      "url": "/studio-apartment-ampang"
+    },
+    {
+      "title": "Luxury Condo Ampang",
+      "url": "/luxury-condo-ampang"
+    },
+    {
+      "title": "Expat Room Rental Ampang",
+      "url": "/expat-room-rental-ampang"
+    },
+    {
+      "title": "Affordable Room Rental Ampang",
+      "url": "/cheap-room-rental-ampang"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a room for rent in Ampang cost?",
+      "answer": "Room rental prices in Ampang generally range from RM700 to RM2500 per month depending on room type, condominium facilities, furnishing, location, proximity to LRT stations and whether the property is located near KLCC or Jalan Ampang."
+    },
+    {
+      "question": "Where can I find cheap rooms for rent in Ampang?",
+      "answer": "Affordable rooms in Ampang can be found around Ampang Town Centre, Taman Cahaya, Pandan Indah, Dato Keramat and nearby residential areas while still providing convenient access to LRT stations and Kuala Lumpur city centre."
+    },
+    {
+      "question": "Are fully furnished rooms available for rent in Ampang?",
+      "answer": "Yes. Many Ampang room rentals are fully furnished with beds, wardrobes, air conditioning, WiFi, washing machines, kitchen facilities and condominium amenities, making them suitable for students, professionals and expatriates."
+    },
+    {
+      "question": "What types of rooms are available for rent in Ampang?",
+      "answer": "Ampang offers master rooms, medium rooms, single rooms, private rooms, shared rooms, studio apartments, serviced apartments and condominium rooms suitable for different budgets and lifestyles."
+    },
+    {
+      "question": "How much is a master room for rent in Ampang?",
+      "answer": "Master room rentals in Ampang typically range between RM1400 and RM2500 per month depending on room size, attached bathroom, condominium facilities, furnishing level and distance to LRT stations."
+    },
+    {
+      "question": "How much is a single room for rent in Ampang?",
+      "answer": "Single rooms in Ampang generally cost between RM700 and RM1300 per month depending on property location, facilities, furnishing and accessibility to public transportation."
+    },
+    {
+      "question": "How much is a medium room for rent in Ampang?",
+      "answer": "Medium room rentals in Ampang usually range from RM1000 to RM1700 per month depending on condominium quality, location and included facilities."
+    },
+    {
+      "question": "Are studio apartments available for rent in Ampang?",
+      "answer": "Yes. Ampang offers studio apartments and serviced residences with private bathrooms, kitchen areas and modern facilities, especially in newer condominium developments."
+    },
+    {
+      "question": "Is Ampang a good place to rent a room in Kuala Lumpur?",
+      "answer": "Yes. Ampang is one of Kuala Lumpur's most established residential areas, offering excellent access to KLCC, premium condominiums, shopping malls, hospitals, international schools and public transportation."
+    },
+    {
+      "question": "Is Ampang suitable for working professionals?",
+      "answer": "Yes. Ampang is highly preferred by professionals working in KLCC, Jalan Ampang, TRX, Bukit Bintang and Kuala Lumpur city centre because of its convenient location and rental value."
+    },
+    {
+      "question": "Are there rooms near Ampang LRT Station?",
+      "answer": "Yes. Many apartments and condominiums around Ampang offer easy access to Ampang LRT Station, making them popular among tenants who rely on public transportation."
+    },
+    {
+      "question": "Are there rooms near Jelatek LRT Station?",
+      "answer": "Yes. Jelatek LRT Station is a popular search location among professionals because it provides convenient access to KLCC, Jalan Ampang and central Kuala Lumpur."
+    },
+    {
+      "question": "Can I find rooms near KLCC from Ampang?",
+      "answer": "Yes. Ampang is one of the closest residential areas to KLCC. Many tenants choose Ampang because they can enjoy lower rental prices while maintaining quick access to Kuala Lumpur's main business district."
+    },
+    {
+      "question": "Is Ampang popular among expatriates?",
+      "answer": "Yes. Ampang is one of Kuala Lumpur's most established expatriate communities due to its international schools, embassies, premium condominiums, restaurants and proximity to KLCC."
+    },
+    {
+      "question": "Can foreigners rent rooms in Ampang?",
+      "answer": "Yes. Many landlords in Ampang welcome foreign tenants, especially in condominiums and serviced residences popular among expatriates and international professionals."
+    },
+    {
+      "question": "Are there luxury condominiums for rent in Ampang?",
+      "answer": "Yes. Ampang offers premium condominiums and serviced residences featuring swimming pools, gyms, security services, landscaped gardens, parking facilities and modern lifestyle amenities."
+    },
+    {
+      "question": "Which are the best condos for rent in Ampang?",
+      "answer": "Popular condominium developments in Ampang include The Elements Ampang, M City Ampang, D'Rapport Residences, Datum Jelatek, The Address Ampang and other premium residential communities."
+    },
+    {
+      "question": "Is Ampang cheaper than KLCC for rental properties?",
+      "answer": "Yes. Ampang generally offers more affordable room and condominium rental prices compared with KLCC while still providing convenient access to the city centre."
+    },
+    {
+      "question": "Are there cheap apartments for rent in Ampang?",
+      "answer": "Yes. Ampang has many affordable apartments and rooms suitable for students, young professionals and tenants looking for budget-friendly accommodation near Kuala Lumpur."
+    },
+    {
+      "question": "Is Ampang suitable for students?",
+      "answer": "Yes. Ampang provides affordable rental options, public transportation access and convenient travel to universities such as UCSI University and other educational institutions."
+    },
+    {
+      "question": "Are student rooms available in Ampang?",
+      "answer": "Yes. Students can find affordable rooms, shared accommodation and private rooms in apartments and condominiums around Ampang."
+    },
+    {
+      "question": "Are there female-only rooms available in Ampang?",
+      "answer": "Yes. Some landlords offer female-only rooms in Ampang to provide additional privacy, security and comfort for female tenants."
+    },
+    {
+      "question": "Are couple-friendly rooms available in Ampang?",
+      "answer": "Yes. Many master rooms, studio apartments and serviced residences in Ampang may accommodate couples depending on landlord approval and tenancy conditions."
+    },
+    {
+      "question": "Are rooms with private bathrooms available in Ampang?",
+      "answer": "Yes. Master rooms and premium condominium rooms in Ampang often include attached private bathrooms for additional comfort and privacy."
+    },
+    {
+      "question": "Are utilities included in Ampang room rentals?",
+      "answer": "Some Ampang room rentals include utilities such as electricity, water and internet, while others require tenants to pay separately depending on landlord agreements."
+    },
+    {
+      "question": "Do Ampang rental rooms include WiFi?",
+      "answer": "Many fully furnished rooms in Ampang include high-speed WiFi, making them suitable for professionals, students and remote workers."
+    },
+    {
+      "question": "Can I find short-term rental rooms in Ampang?",
+      "answer": "Some landlords and serviced residences in Ampang offer short-term rental options depending on availability, building regulations and tenancy requirements."
+    },
+    {
+      "question": "What documents are required to rent a room in Ampang?",
+      "answer": "Tenants usually need identification documents, rental deposits and a signed tenancy agreement before moving into an Ampang rental property."
+    },
+    {
+      "question": "How much deposit is required for Ampang room rental?",
+      "answer": "Most landlords require a security deposit and utility deposit, commonly equivalent to one or two months of rental depending on tenancy terms."
+    },
+    {
+      "question": "Can I live in Ampang without owning a car?",
+      "answer": "Yes. Ampang has LRT stations, RapidKL bus services, ride-hailing availability and convenient access to essential amenities, allowing many residents to live without a car."
+    },
+    {
+      "question": "What facilities do Ampang condominiums provide?",
+      "answer": "Common condominium facilities in Ampang include swimming pools, gyms, 24-hour security, CCTV monitoring, parking spaces, gardens, playgrounds and recreational areas."
+    },
+    {
+      "question": "Is parking available with Ampang room rentals?",
+      "answer": "Many condominiums and serviced apartments in Ampang provide parking facilities, although availability depends on the landlord and rental package."
+    },
+    {
+      "question": "Are Ampang rooms suitable for remote workers?",
+      "answer": "Yes. Many Ampang residences offer reliable internet access and the area has cafes, restaurants and convenient facilities suitable for remote professionals."
+    },
+    {
+      "question": "Why do people choose Ampang instead of KLCC?",
+      "answer": "Many tenants choose Ampang because it offers larger residential spaces, lower rental prices, quieter neighbourhoods and easy access to KLCC and central Kuala Lumpur."
+    },
+    {
+      "question": "What are the best areas to rent in Ampang?",
+      "answer": "Popular rental areas include Ampang Hilir, Jalan Ampang, Jelatek, Ampang Point, Taman Melawati and areas near Ampang LRT Station."
+    },
+    {
+      "question": "Is Ampang safe for tenants?",
+      "answer": "Ampang has many established residential communities with gated condominiums, security services and mature neighbourhood infrastructure."
+    },
+    {
+      "question": "Are there serviced apartments for rent in Ampang?",
+      "answer": "Yes. Ampang offers serviced apartments with modern facilities, furnished units and convenient locations suitable for professionals and expatriates."
+    },
+    {
+      "question": "How can I find the best room rental deals in Ampang?",
+      "answer": "Compare room prices, check transportation access, review facilities, understand tenancy terms and search early to secure the best rental options in Ampang."
+    }
+  ],
+  "focusKeywords": [
+    "Ampang room for rent",
+    "Ampang condo for rent",
+    "Ampang apartment for rent",
+    "room near Ampang LRT",
+    "room near Jelatek LRT",
+    "furnished room Ampang",
+    "cheap room Ampang Kuala Lumpur",
+    "affordable room rental Ampang",
+    "Ampang rental property",
+    "Ampang condominium rental",
+    "luxury condo Ampang for rent",
+    "expat housing Ampang",
+    "serviced apartment Ampang",
+    "studio apartment Ampang",
+    "master room Ampang",
+    "single room Ampang",
+    "medium room Ampang",
+    "monthly rental Ampang",
+    "fully furnished room Ampang",
+    "room near KLCC from Ampang",
+    "room near Jalan Ampang",
+    "room near Gleneagles Hospital Kuala Lumpur",
+    "room near Great Eastern Mall Ampang",
+    "student room rental Ampang",
+    "family apartment Ampang",
+    "premium condo Ampang",
+    "executive apartment Ampang",
+    "MRT LRT connected rental Ampang",
+    "private room Ampang",
+    "shared room Ampang"
+  ],
+  "longTailKeywords": [
+    "fully furnished room for rent near Ampang LRT station",
+    "cheap room rental in Ampang for working professionals",
+    "affordable room rental near KLCC Kuala Lumpur",
+    "luxury condo for rent in Ampang Kuala Lumpur",
+    "expat friendly apartment for rent in Ampang",
+    "master room with private bathroom in Ampang",
+    "serviced apartment near Jalan Ampang offices",
+    "monthly room rental near Great Eastern Mall Ampang",
+    "studio apartment for rent in Ampang fully furnished",
+    "room near Jelatek LRT station for professionals",
+    "premium condominium rental in Ampang for expatriates",
+    "room for rent near Gleneagles Hospital Kuala Lumpur",
+    "condo room rental near KLCC from Ampang",
+    "affordable apartment rental near Ampang Point",
+    "private room with attached bathroom for rent in Ampang",
+    "best room rental area near KLCC Ampang",
+    "fully furnished condo room near Datum Jelatek",
+    "cheap master room rental near Ampang LRT",
+    "student accommodation near UCSI University Ampang",
+    "modern serviced residence for rent in Ampang Kuala Lumpur"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Ampang",
+      "budget room near Ampang LRT",
+      "student room near UCSI University",
+      "affordable accommodation Ampang Kuala Lumpur",
+      "student rental room Ampang"
+    ],
+    "expat": [
+      "expat housing Ampang",
+      "furnished condo Ampang",
+      "serviced apartment Ampang",
+      "international tenant friendly condo Ampang",
+      "luxury apartment rental Ampang"
+    ],
+    "professional": [
+      "Ampang condo near KLCC",
+      "room near Jalan Ampang offices",
+      "room near KLCC from Ampang",
+      "premium apartment Ampang",
+      "executive residence Ampang"
+    ],
+    "shortStay": [
+      "short term rental Ampang",
+      "monthly rental Ampang",
+      "serviced residence Ampang",
+      "flexible room rental Ampang",
+      "short stay apartment Ampang Kuala Lumpur"
+    ],
+    "premiumIntent": [
+      "luxury condo Ampang for rent",
+      "high end apartment Ampang",
+      "executive residence Ampang",
+      "premium serviced apartment Ampang",
+      "luxury condominium rental near KLCC Ampang"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Ampang room for rent",
+    "secondaryKeywords": [
+      "Ampang condo for rent",
+      "Ampang apartment for rent",
+      "room near Ampang LRT",
+      "furnished room Ampang",
+      "cheap room Ampang Kuala Lumpur",
+      "luxury condo Ampang",
+      "expat housing Ampang",
+      "serviced apartment Ampang",
+      "master room Ampang",
+      "room near KLCC from Ampang"
+    ],
+    "seoScore": 98,
+    "canonicalUrl": "https://yourdomain.com/kuala-lumpur/ampang/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "premium-connected-urban-rentals",
+    "contentCluster": [
+      "Ampang room rental",
+      "KLCC nearby accommodation",
+      "expat housing Kuala Lumpur",
+      "premium condominiums Ampang",
+      "LRT connected rentals Ampang",
+      "serviced apartments Ampang",
+      "affordable rental properties Kuala Lumpur",
+      "professional housing near KLCC"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "KLCC",
+        "Jalan Ampang",
+        "TRX",
+        "Setiawangsa",
+        "Wangsa Maju",
+        "Mont Kiara",
+        "Bangsar",
+        "Cheras"
+      ],
+      "nearbyHotspots": [
+        "Great Eastern Mall",
+        "Ampang Point Shopping Centre",
+        "Gleneagles Hospital Kuala Lumpur",
+        "KPJ Ampang Puteri Specialist Hospital",
+        "Jelatek LRT Station",
+        "Ampang LRT Station",
+        "KLCC",
+        "Petronas Twin Towers"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Ampang Rooms for Rent",
+        "url": "/room-rental-ampang",
+        "keyword": "ampang room for rent"
+      },
+      {
+        "title": "Ampang Condos for Rent",
+        "url": "/condo-for-rent-ampang",
+        "keyword": "ampang condo for rent"
+      },
+      {
+        "title": "Cheap Rooms in Ampang",
+        "url": "/cheap-room-ampang",
+        "keyword": "cheap room ampang"
+      },
+      {
+        "title": "Rooms Near Ampang LRT",
+        "url": "/room-near-ampang-lrt",
+        "keyword": "room near ampang lrt"
+      },
+      {
+        "title": "Rooms Near Jelatek LRT",
+        "url": "/room-near-jelatek-lrt",
+        "keyword": "room near jelatek lrt"
+      },
+      {
+        "title": "Ampang KLCC Rental",
+        "url": "/ampang-klcc-room-rental",
+        "keyword": "room near klcc from ampang"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Ampang Area Guide",
+        "url": "/area-guide-ampang",
+        "type": "guide"
+      },
+      {
+        "title": "Ampang Price Guide 2026",
+        "url": "/price-guide-ampang",
+        "type": "pricing"
+      },
+      {
+        "title": "Ampang LRT Guide",
+        "url": "/ampang-lrt-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in Ampang",
+        "url": "/luxury-condo-ampang",
+        "type": "listing-category"
+      },
+      {
+        "title": "Expat Housing Ampang",
+        "url": "/expat-housing-ampang",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Ampang",
+        "url": "/furnished-room-ampang",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Ampang",
+        "url": "/short-term-rental-ampang",
+        "type": "rental-type"
+      },
+      {
+        "title": "Rooms Near KLCC from Ampang",
+        "url": "/room-near-klcc-ampang",
+        "type": "location-intent-page"
+      }
+    ]
+  }
+}

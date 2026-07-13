@@ -1,0 +1,1614 @@
+{
+  "area": {
+    "name": "Sunway",
+    "slug": "sunway",
+    "heroImage": "assets/images/areas/sunway.jpg",
+    "metaTitle": "Rooms for Rent in Sunway | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Sunway near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Sunway – Complete Guide to Room Rental, Condo & Apartment Rental in Bandar Sunway, Selangor",
+    "description": "Bandar Sunway is one of the most popular and highly demanded rental locations in Selangor, attracting students, working professionals, families and expatriates due to its world-class lifestyle facilities, education hubs, entertainment destinations and excellent connectivity. Located strategically between Petaling Jaya, Subang Jaya and Kuala Lumpur, Sunway offers a wide range of rental properties including master rooms, single rooms, medium rooms, fully furnished rooms, studio apartments, serviced residences, condominiums and family apartments. Whether you are searching for a room for rent near Sunway University, affordable accommodation near Sunway Pyramid, condo rental near Sunway Medical Centre, or premium serviced apartment living in Bandar Sunway, the area provides diverse housing options for different budgets and lifestyles. Sunway is especially popular among students studying at Sunway University, Monash University Malaysia and nearby education institutions, as well as professionals working in Petaling Jaya, Subang Jaya, Shah Alam, Kuala Lumpur and major corporate areas across Klang Valley. Residents enjoy excellent connectivity through BRT Sunway Line, nearby LRT stations including USJ7 and Setia Jaya KTM Station, as well as major highways such as LDP, Federal Highway, KESAS and NKVE. Famous landmarks including Sunway Pyramid, Sunway Lagoon, Sunway Medical Centre, Sunway University, Monash University Malaysia, Sunway Geo Avenue and Sunway Resort make Bandar Sunway one of the strongest rental markets in Selangor. With its combination of education facilities, entertainment, shopping convenience, healthcare services, modern condominiums and strategic location, Sunway continues to be one of the most searched rental destinations in Klang Valley.",
+    "buttonText": "Explore Sunway Rental Guide",
+    "buttonLink": "/room-rental-sunway",
+    "highlights": [
+      "Wide selection of master rooms, single rooms, medium rooms, studio apartments and condominiums for rent in Sunway",
+      "One of the strongest student rental markets in Selangor due to Sunway University and Monash University Malaysia",
+      "Highly searched location for rooms near Sunway Pyramid and Sunway Medical Centre",
+      "Excellent connectivity through BRT Sunway Line, nearby LRT and KTM stations",
+      "Popular among students, working professionals, families and expatriates",
+      "Affordable rental alternatives compared with Kuala Lumpur city centre",
+      "Modern condominiums with swimming pools, gyms, security and lifestyle facilities",
+      "Walking distance accommodation options near universities and shopping destinations",
+      "Strong demand for furnished rooms and serviced apartments",
+      "Strategic location between Petaling Jaya, Subang Jaya and Kuala Lumpur",
+      "Close to major commercial hubs and employment areas",
+      "One of Selangor's highest-demand rental property locations"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-graduation-cap",
+        "title": "Top Student Rental Destination",
+        "description": "Bandar Sunway is one of Malaysia's leading student accommodation areas due to its proximity to Sunway University, Monash University Malaysia, Taylor's University and other educational institutions. Students can easily find affordable rooms, shared accommodation and fully furnished apartments."
+      },
+      {
+        "icon": "fas fa-train",
+        "title": "Excellent Public Transport Connectivity",
+        "description": "Sunway provides convenient transportation through the BRT Sunway Line, nearby LRT stations including USJ7 and Setia Jaya KTM Station. This makes Sunway attractive for tenants without private vehicles."
+      },
+      {
+        "icon": "fas fa-home",
+        "title": "Wide Range of Rental Properties",
+        "description": "Sunway offers diverse accommodation choices including single rooms, master rooms, condo rooms, studio apartments, serviced apartments and family condominiums suitable for different tenant requirements."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Entertainment Lifestyle",
+        "description": "Residents enjoy direct access to Sunway Pyramid, Sunway Lagoon, Sunway Geo Avenue and numerous restaurants, cafes, entertainment facilities and lifestyle attractions."
+      },
+      {
+        "icon": "fas fa-briefcase",
+        "title": "Ideal for Working Professionals",
+        "description": "Sunway attracts professionals working in Petaling Jaya, Subang Jaya, Shah Alam and Kuala Lumpur due to its strategic location and convenient highway connections."
+      },
+      {
+        "icon": "fas fa-hospital",
+        "title": "Healthcare Convenience",
+        "description": "Sunway Medical Centre provides world-class healthcare services, making the area attractive for medical professionals, patients, families and long-term residents."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Modern Condominiums & Serviced Residences",
+        "description": "Sunway features modern residential developments offering facilities such as swimming pools, gyms, security services, parking spaces and lifestyle amenities."
+      },
+      {
+        "icon": "fas fa-users",
+        "title": "Suitable for Students, Families & Expats",
+        "description": "With international education facilities, modern housing, shopping convenience and excellent connectivity, Sunway attracts diverse tenant groups including students, families, professionals and expatriates."
+      }
+    ],
+    "popularResidences": [
+      "Sunway Geo Residences",
+      "Sunway Lagoon Resort Suites",
+      "Sunway South Quay Residences",
+      "Sunway Clio Residences",
+      "Sunway Court",
+      "Sunway Mentari Apartments",
+      "Sunway Sutera Residences",
+      "Nadayu 28 Residences",
+      "The Arcuz",
+      "Casa Tropicana",
+      "Sunway Palazzio",
+      "D'Latour Bandar Sunway",
+      "Saujana Residency",
+      "Mentari Court",
+      "Sunway SPK Residence",
+      "Sunway Vivaldi",
+      "Sunway Pinnacle",
+      "Sunway Resort Suites",
+      "Geo Lakeview Residences",
+      "Bandar Sunway Apartments"
+    ],
+    "nearbyLandmarks": [
+      "Sunway Pyramid",
+      "Sunway Lagoon",
+      "Sunway University",
+      "Monash University Malaysia",
+      "Sunway Medical Centre",
+      "Sunway Geo Avenue",
+      "Sunway Resort Hotel",
+      "BRT Sunway Lagoon Station",
+      "BRT Sunway-Setia Jaya Station",
+      "Setia Jaya KTM Station",
+      "USJ7 LRT Station",
+      "Taylor's University",
+      "Subang Jaya",
+      "Petaling Jaya",
+      "SS15 Subang Jaya",
+      "Paradigm Mall PJ",
+      "1 Utama Shopping Centre",
+      "Mid Valley Megamall",
+      "Kuala Lumpur City Centre",
+      "Shah Alam"
+    ],
+    "nearbyUniversities": [
+      "Sunway University",
+      "Monash University Malaysia",
+      "Taylor's University",
+      "INTI International College Subang",
+      "UOW Malaysia KDU",
+      "Asia Pacific University (APU)",
+      "Universiti Malaya (UM)",
+      "HELP University",
+      "SEGi University Kota Damansara",
+      "Universiti Teknologi MARA (UiTM) Shah Alam"
+    ],
+    "majorEmployers": [
+      "Sunway Group",
+      "Sunway Medical Centre",
+      "Sunway University",
+      "Monash University Malaysia",
+      "Petaling Jaya companies",
+      "Subang Jaya businesses",
+      "Shah Alam industrial companies",
+      "Public Bank",
+      "Maybank",
+      "CIMB Group",
+      "Hong Leong Bank",
+      "HSBC Malaysia",
+      "Standard Chartered Malaysia",
+      "Accenture Malaysia",
+      "Deloitte Malaysia",
+      "PwC Malaysia",
+      "EY Malaysia",
+      "KPMG Malaysia",
+      "IBM Malaysia",
+      "Microsoft Malaysia",
+      "Grab Malaysia",
+      "Maxis",
+      "CelcomDigi"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "BRT Sunway Lagoon Station",
+      "slug": "brt-sunway-lagoon",
+      "stationType": "BRT",
+      "line": "Sunway BRT Line",
+      "walkingTime": "3 mins walk",
+      "distanceMeters": 300,
+      "distanceText": "3 mins walk (300 m)",
+      "title": "BRT Sunway Lagoon Station",
+      "shortDescription": "BRT Sunway Lagoon Station is one of the most important transport hubs serving Bandar Sunway residents. Located near Sunway Pyramid, Sunway Lagoon and Sunway University, this station is highly searched by students and professionals looking for rooms and condominiums with excellent public transportation access.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "Sunway Pyramid",
+        "Sunway Lagoon",
+        "Sunway University"
+      ],
+      "nearbyResidences": [
+        "Sunway Geo Residences",
+        "Sunway Lagoon Resort Suites",
+        "Sunway Clio Residences"
+      ],
+      "popularSearches": [
+        "Room near Sunway Lagoon BRT",
+        "Sunway BRT room rental",
+        "Condo near Sunway BRT"
+      ]
+    },
+    {
+      "name": "BRT Sunway-Setia Jaya Station",
+      "slug": "brt-sunway-setia-jaya",
+      "stationType": "BRT",
+      "line": "Sunway BRT Line",
+      "walkingTime": "5 mins walk",
+      "distanceMeters": 600,
+      "distanceText": "5 mins walk (600 m)",
+      "title": "BRT Sunway-Setia Jaya Station",
+      "shortDescription": "BRT Sunway-Setia Jaya Station provides convenient connectivity between Bandar Sunway and Setia Jaya KTM Station. It is popular among tenants searching for affordable rooms near Sunway, Petaling Jaya and Klang Valley employment areas.",
+      "averageRoomRent": 1200,
+      "nearbyLandmarks": [
+        "Setia Jaya KTM Station",
+        "Sunway Mentari",
+        "Sunway Medical Centre"
+      ],
+      "nearbyResidences": [
+        "Sunway Mentari Apartments",
+        "Mentari Court",
+        "Sunway Court"
+      ],
+      "popularSearches": [
+        "Room near Sunway Setia Jaya BRT",
+        "Affordable room Sunway",
+        "Sunway Mentari rental"
+      ]
+    },
+    {
+      "name": "Setia Jaya KTM Station",
+      "slug": "setia-jaya-ktm",
+      "stationType": "KTM",
+      "line": "Port Klang Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 2500,
+      "distanceText": "8 mins drive (2.5 km)",
+      "title": "Setia Jaya KTM Station",
+      "shortDescription": "Setia Jaya KTM Station provides rail connectivity between Bandar Sunway, Petaling Jaya, Kuala Lumpur and Klang areas. Many tenants choose Sunway rental properties because of easy access to KTM and BRT transportation.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "Setia Jaya",
+        "Sunway Mentari",
+        "Federal Highway"
+      ],
+      "nearbyResidences": [
+        "Sunway Geo Residences",
+        "Sunway Mentari Apartments",
+        "Sunway Court"
+      ],
+      "popularSearches": [
+        "Room near Setia Jaya KTM",
+        "Sunway KTM room rental",
+        "Affordable room near KTM"
+      ]
+    },
+    {
+      "name": "USJ7 LRT Station",
+      "slug": "usj7-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 4500,
+      "distanceText": "12 mins drive (4.5 km)",
+      "title": "USJ7 LRT Station",
+      "shortDescription": "USJ7 LRT Station provides additional transportation access for Sunway residents travelling towards Subang Jaya, Petaling Jaya and Kuala Lumpur. It is commonly searched by tenants comparing Sunway and Subang Jaya rental options.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "USJ7",
+        "Subang Jaya",
+        "Da Men Mall"
+      ],
+      "nearbyResidences": [
+        "Sunway South Quay Residences",
+        "D'Latour Bandar Sunway",
+        "Sunway Geo Residences"
+      ],
+      "popularSearches": [
+        "Room near USJ7 LRT",
+        "Sunway USJ rental",
+        "Room near Subang Jaya LRT"
+      ]
+    },
+    {
+      "name": "Subang Jaya LRT Station",
+      "slug": "subang-jaya-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 6000,
+      "distanceText": "15 mins drive (6 km)",
+      "title": "Subang Jaya LRT Station",
+      "shortDescription": "Subang Jaya LRT Station provides convenient connectivity for Sunway tenants travelling towards Kuala Lumpur, Petaling Jaya and surrounding commercial areas. Many residents choose Sunway due to accessibility from nearby LRT and KTM networks.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "SS15 Subang Jaya",
+        "Subang Parade",
+        "Empire Shopping Gallery"
+      ],
+      "nearbyResidences": [
+        "Sunway Geo Residences",
+        "Sunway Clio Residences",
+        "Sunway Lagoon Resort Suites"
+      ],
+      "popularSearches": [
+        "Room near Subang Jaya LRT",
+        "Sunway Subang rental",
+        "Condo near Subang LRT"
+      ]
+    },
+    {
+      "name": "SS15 LRT Station",
+      "slug": "ss15-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 5500,
+      "distanceText": "15 mins drive (5.5 km)",
+      "title": "SS15 LRT Station",
+      "shortDescription": "SS15 LRT Station is a popular transport option for Sunway residents due to its proximity to commercial areas, restaurants, education centres and Subang Jaya rental neighbourhoods.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "SS15 Commercial Area",
+        "Taylor's University",
+        "Subang Jaya"
+      ],
+      "nearbyResidences": [
+        "Sunway Geo Residences",
+        "Sunway Court",
+        "Sunway Apartments"
+      ],
+      "popularSearches": [
+        "Room near SS15 LRT",
+        "Sunway student rental",
+        "Room near Taylor's University"
+      ]
+    },
+    {
+      "name": "Ara Damansara LRT Station",
+      "slug": "ara-damansara-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "18 mins drive",
+      "distanceMeters": 8500,
+      "distanceText": "18 mins drive (8.5 km)",
+      "title": "Ara Damansara LRT Station",
+      "shortDescription": "Ara Damansara LRT Station provides additional connectivity for Sunway tenants working around Petaling Jaya, Glenmarie and nearby business districts. It is often considered when comparing rental locations in the western Klang Valley.",
+      "averageRoomRent": 1600,
+      "nearbyLandmarks": [
+        "Ara Damansara",
+        "Citta Mall",
+        "Glenmarie"
+      ],
+      "nearbyResidences": [
+        "Sunway Geo Residences",
+        "Premium Sunway Condominiums",
+        "Serviced Apartments Sunway"
+      ],
+      "popularSearches": [
+        "Room near Ara Damansara",
+        "Sunway PJ rental",
+        "Affordable room near PJ"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 700,
+      "maxPrice": 1400
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 1000,
+      "maxPrice": 1800
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1400,
+      "maxPrice": 2600
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 1800,
+      "maxPrice": 3500
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1400,
+    "priceGrowth": 6.5,
+    "demandLevel": "Very High",
+    "vacancyRate": 2.2
+  },
+  "nearbyAreas": [
+    {
+      "name": "Subang Jaya",
+      "slug": "subang-jaya",
+      "averageRent": 1400,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Students, Professionals, Families",
+      "description": "Subang Jaya is one of the closest and most popular rental alternatives to Sunway. Known for SS15, universities, commercial areas and excellent LRT connectivity, many tenants compare Subang Jaya and Bandar Sunway when searching for affordable rooms and condominium rentals."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1600,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Professionals, Office Workers, Expats",
+      "description": "Petaling Jaya is a major employment and commercial hub near Sunway. Many professionals choose Sunway rental properties because they offer better value while maintaining convenient access to PJ offices and business districts."
+    },
+    {
+      "name": "Bandar Utama",
+      "slug": "bandar-utama",
+      "averageRent": 1900,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Professionals, Families, Expats",
+      "description": "Bandar Utama is a premium residential and commercial area near Petaling Jaya. Sunway provides a more affordable rental option while still offering excellent connectivity to major lifestyle and business locations."
+    },
+    {
+      "name": "Ara Damansara",
+      "slug": "ara-damansara",
+      "averageRent": 1700,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Professionals, Young Adults",
+      "description": "Ara Damansara is a growing residential area with LRT connectivity, shopping malls and modern condominiums. Many tenants compare Ara Damansara and Sunway for convenient Klang Valley living."
+    },
+    {
+      "name": "Kelana Jaya",
+      "slug": "kelana-jaya",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Professionals, Students, Families",
+      "description": "Kelana Jaya offers established residential communities, LRT access and proximity to Petaling Jaya. Sunway remains popular among tenants who want education facilities and entertainment nearby."
+    },
+    {
+      "name": "Shah Alam",
+      "slug": "shah-alam",
+      "averageRent": 1000,
+      "mrtAccess": false,
+      "distanceFromArea": 12,
+      "popularFor": "Families, Budget Tenants, Professionals",
+      "description": "Shah Alam offers affordable rental properties and larger homes. Tenants working around Sunway and Subang often compare Shah Alam for lower rental costs."
+    },
+    {
+      "name": "Puchong",
+      "slug": "puchong",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Families, Students, Professionals",
+      "description": "Puchong is a popular affordable rental area near Sunway with many apartments, condominiums and excellent highway connections."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 2500,
+      "mrtAccess": false,
+      "distanceFromArea": 18,
+      "popularFor": "Expats, Executives, Families",
+      "description": "Mont Kiara is a premium expatriate neighbourhood in Kuala Lumpur. Sunway provides a more affordable alternative with excellent lifestyle facilities and international education access."
+    },
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 2800,
+      "mrtAccess": true,
+      "distanceFromArea": 25,
+      "popularFor": "Executives, Expats, Professionals",
+      "description": "KLCC is Kuala Lumpur's main business district. Many professionals choose Sunway because it provides larger rental choices at lower prices while remaining connected through highways and public transport."
+    },
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 2200,
+      "mrtAccess": true,
+      "distanceFromArea": 18,
+      "popularFor": "Professionals, Expats",
+      "description": "Bangsar is a premium lifestyle area with restaurants, offices and upscale residences. Sunway offers a more affordable rental market with strong connectivity to Bangsar and Kuala Lumpur."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Sunway",
+      "url": "/master-room-rental-sunway"
+    },
+    {
+      "title": "Single Room Sunway",
+      "url": "/single-room-rental-sunway"
+    },
+    {
+      "title": "Condo Room Sunway",
+      "url": "/condo-room-rental-sunway"
+    },
+    {
+      "title": "Room Near Sunway University",
+      "url": "/room-near-sunway-university"
+    },
+    {
+      "title": "Room Near Sunway Pyramid",
+      "url": "/room-near-sunway-pyramid"
+    },
+    {
+      "title": "Room Near Sunway Medical Centre",
+      "url": "/room-near-sunway-medical-centre"
+    },
+    {
+      "title": "Sunway Room Rental",
+      "url": "/sunway-room-rental"
+    },
+    {
+      "title": "Cheap Room Rental Sunway",
+      "url": "/cheap-room-rental-sunway"
+    },
+    {
+      "title": "Affordable Apartment Sunway",
+      "url": "/affordable-apartment-sunway"
+    },
+    {
+      "title": "Luxury Condo Sunway For Rent",
+      "url": "/luxury-condo-sunway"
+    },
+    {
+      "title": "Studio Apartment Sunway",
+      "url": "/studio-apartment-sunway"
+    },
+    {
+      "title": "Fully Furnished Room Sunway",
+      "url": "/fully-furnished-room-sunway"
+    },
+    {
+      "title": "Room Near Sunway BRT",
+      "url": "/room-near-sunway-brt"
+    },
+    {
+      "title": "Room Near Setia Jaya KTM",
+      "url": "/room-near-setia-jaya-ktm"
+    },
+    {
+      "title": "Student Room Rental Sunway",
+      "url": "/student-room-rental-sunway"
+    },
+    {
+      "title": "Expat Room Rental Sunway",
+      "url": "/expat-room-rental-sunway"
+    },
+    {
+      "title": "Family Apartment Rental Sunway",
+      "url": "/family-apartment-rental-sunway"
+    },
+    {
+      "title": "Serviced Apartment Sunway",
+      "url": "/serviced-apartment-sunway"
+    },
+    {
+      "title": "Room Near Monash University Malaysia",
+      "url": "/room-near-monash-university-malaysia"
+    },
+    {
+      "title": "Room Near Taylor's University",
+      "url": "/room-near-taylors-university"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the best areas to rent a room in Sunway?",
+      "answer": "The best areas to rent a room in Sunway include Bandar Sunway, Sunway Geo area, Sunway Mentari, Sunway South Quay and areas near Sunway University and Sunway Pyramid. These locations provide easy access to education facilities, shopping malls, transportation and daily amenities."
+    },
+    {
+      "question": "How much is the average room rental price in Sunway?",
+      "answer": "The average room rental price in Sunway ranges from around RM700 to RM2600 depending on room type, location, furnishing, facilities and condominium quality. Single rooms are usually more affordable while master rooms and premium condo rooms have higher rental prices."
+    },
+    {
+      "question": "Is Sunway a good place to rent a room?",
+      "answer": "Yes, Sunway is one of the most popular rental locations in Selangor because of its excellent lifestyle facilities, education hubs, transportation connectivity and strong demand from students, professionals and expatriates."
+    },
+    {
+      "question": "Why is Sunway popular among students?",
+      "answer": "Sunway is highly popular among students because it is close to Sunway University, Monash University Malaysia, Taylor's University and many education facilities. Students can find affordable rooms, shared accommodation and furnished apartments near their campuses."
+    },
+    {
+      "question": "How can I find a room near Sunway University?",
+      "answer": "You can find rooms near Sunway University by searching for furnished rooms, condo rooms and apartments around Bandar Sunway, Sunway Geo Residences, Sunway Clio Residences and Sunway Pyramid areas."
+    },
+    {
+      "question": "Are there fully furnished rooms available for rent in Sunway?",
+      "answer": "Yes, Sunway has many fully furnished rooms including master rooms, single rooms, medium rooms and studio apartments. Many properties include beds, wardrobes, tables, appliances and basic facilities."
+    },
+    {
+      "question": "Is Sunway suitable for working professionals?",
+      "answer": "Yes, Sunway is suitable for working professionals because of its strategic location near Petaling Jaya, Subang Jaya, Shah Alam and Kuala Lumpur. The area offers convenient highways, public transport and modern residential options."
+    },
+    {
+      "question": "What types of rental properties are available in Sunway?",
+      "answer": "Sunway offers various rental properties including single rooms, master rooms, medium rooms, shared rooms, studio apartments, serviced apartments, condominiums and family apartments."
+    },
+    {
+      "question": "Is Sunway expensive compared with other areas in Selangor?",
+      "answer": "Sunway rental prices are generally higher than some surrounding areas because of its premium lifestyle facilities, universities, shopping malls and strong rental demand. However, it still offers good value compared with premium Kuala Lumpur areas."
+    },
+    {
+      "question": "Which condominiums are popular for rent in Sunway?",
+      "answer": "Popular rental residences in Sunway include Sunway Geo Residences, Sunway Lagoon Resort Suites, Sunway Clio Residences, Sunway South Quay Residences and other nearby serviced apartments."
+    },
+    {
+      "question": "Is Sunway safe for students and tenants?",
+      "answer": "Yes, Sunway is considered a safe residential area with established condominiums, security facilities, active commercial areas and many students and professionals living in the neighbourhood."
+    },
+    {
+      "question": "Are rooms near Sunway Pyramid available?",
+      "answer": "Yes, many rooms and apartments are available near Sunway Pyramid. These properties are popular because tenants can easily access shopping, restaurants, entertainment and public transportation."
+    },
+    {
+      "question": "How far is Sunway University from rental properties?",
+      "answer": "Many rental properties in Bandar Sunway are within walking distance or a short drive from Sunway University, making the area highly convenient for students."
+    },
+    {
+      "question": "Is Sunway suitable for foreigners and expatriates?",
+      "answer": "Yes, Sunway is suitable for expatriates due to international universities, modern condominiums, healthcare facilities, shopping destinations and convenient access to Petaling Jaya and Kuala Lumpur."
+    },
+    {
+      "question": "What is the cheapest room rental option in Sunway?",
+      "answer": "The cheapest room rental options in Sunway are usually shared rooms and smaller single rooms. Prices depend on location, furnishing and condominium facilities."
+    },
+    {
+      "question": "Can I rent a master room with private bathroom in Sunway?",
+      "answer": "Yes, many condominiums and apartments in Sunway offer master rooms with attached bathrooms, providing more privacy and comfort for tenants."
+    },
+    {
+      "question": "Are there studio apartments for rent in Sunway?",
+      "answer": "Yes, Sunway has many studio apartments and serviced residences suitable for professionals, couples and tenants looking for private living spaces."
+    },
+    {
+      "question": "Is Sunway connected by public transport?",
+      "answer": "Yes, Sunway has excellent public transport connectivity through the BRT Sunway Line, nearby KTM services and access to LRT stations around Subang Jaya."
+    },
+    {
+      "question": "Which transport station is closest to Sunway?",
+      "answer": "The BRT Sunway Lagoon Station and BRT Sunway-Setia Jaya Station are among the closest transport options serving Bandar Sunway residents."
+    },
+    {
+      "question": "Can I find rooms near Sunway BRT station?",
+      "answer": "Yes, many rooms and condominiums are available near Sunway BRT stations, making them popular among students and professionals who rely on public transportation."
+    },
+    {
+      "question": "Is Sunway good for long-term rental?",
+      "answer": "Yes, Sunway is highly suitable for long-term rental because of stable demand from students, professionals, families and expatriates."
+    },
+    {
+      "question": "Are short-term rentals available in Sunway?",
+      "answer": "Yes, some serviced apartments and furnished residences in Sunway offer flexible rental options including short-term and monthly stays."
+    },
+    {
+      "question": "What amenities are available near Sunway rental properties?",
+      "answer": "Sunway residents have access to shopping malls, supermarkets, restaurants, cafes, healthcare facilities, universities, entertainment venues and recreational attractions."
+    },
+    {
+      "question": "Is Sunway a good alternative to Petaling Jaya rental areas?",
+      "answer": "Yes, Sunway provides many advantages similar to Petaling Jaya while offering stronger access to universities, Sunway Pyramid and lifestyle facilities."
+    },
+    {
+      "question": "How much is a master room rental in Sunway?",
+      "answer": "Master room rental prices in Sunway typically range from around RM1400 to RM2600 depending on condominium quality, furnishing and location."
+    },
+    {
+      "question": "How much is a single room rental in Sunway?",
+      "answer": "Single room rental prices in Sunway generally range from around RM700 to RM1400 depending on facilities and proximity to universities and transport."
+    },
+    {
+      "question": "Are there affordable apartments for rent in Sunway?",
+      "answer": "Yes, Sunway offers affordable apartments and rooms suitable for students, young professionals and tenants looking for budget-friendly accommodation."
+    },
+    {
+      "question": "Why choose Sunway for rental property investment?",
+      "answer": "Sunway is attractive for rental investment because of consistent tenant demand from universities, offices, hospitals, shopping destinations and lifestyle attractions."
+    },
+    {
+      "question": "Is Sunway suitable for families?",
+      "answer": "Yes, families can find suitable condominiums and apartments in Sunway with security, facilities, healthcare access and nearby schools."
+    },
+    {
+      "question": "Are pets allowed in Sunway condos?",
+      "answer": "Pet policies depend on individual condominium management rules. Tenants should confirm pet policies before renting."
+    },
+    {
+      "question": "What documents are needed to rent a room in Sunway?",
+      "answer": "Common rental documents include identification documents, employment or student verification and rental deposits depending on landlord requirements."
+    },
+    {
+      "question": "How many months deposit is required for Sunway rental?",
+      "answer": "Most Sunway rentals follow standard Malaysian rental practices, commonly requiring security deposit and utility deposit amounts agreed between landlord and tenant."
+    },
+    {
+      "question": "Can international students rent rooms in Sunway?",
+      "answer": "Yes, many landlords in Sunway accept international students, especially because the area has a large international student population."
+    },
+    {
+      "question": "Where can I find cheap furnished rooms near Sunway University?",
+      "answer": "Affordable furnished rooms can often be found around Bandar Sunway, Sunway Mentari and nearby condominium developments close to Sunway University."
+    },
+    {
+      "question": "What is the best condo to rent in Sunway?",
+      "answer": "Some of the popular condominiums for rent in Sunway include Sunway Geo Residences, Sunway Clio Residences, Sunway Lagoon Resort Suites and Sunway South Quay Residences. The best choice depends on budget, location preference and required facilities."
+    },
+    {
+      "question": "Is Sunway Geo Residences good for rental?",
+      "answer": "Yes, Sunway Geo Residences is one of the most searched rental residences in Bandar Sunway because of its proximity to Sunway University, Sunway Pyramid, Sunway Medical Centre and lifestyle facilities."
+    },
+    {
+      "question": "Can I find a room within walking distance to Sunway University?",
+      "answer": "Yes, many rooms are available within walking distance of Sunway University, especially around Sunway Geo Residences, Sunway Clio and nearby Bandar Sunway condominiums."
+    },
+    {
+      "question": "Is Sunway a good location for Monash University Malaysia students?",
+      "answer": "Yes, Sunway is one of the preferred rental locations for Monash University Malaysia students because of its convenient distance, transportation options and availability of student-friendly accommodation."
+    },
+    {
+      "question": "Are rooms near Sunway Medical Centre available?",
+      "answer": "Yes, many furnished rooms and apartments are available near Sunway Medical Centre, making the area suitable for healthcare workers, visitors and long-term residents."
+    },
+    {
+      "question": "What are the advantages of renting near Sunway Pyramid?",
+      "answer": "Renting near Sunway Pyramid provides easy access to shopping, restaurants, entertainment, public transport and daily conveniences, making it highly attractive for students and professionals."
+    },
+    {
+      "question": "Is Bandar Sunway different from Sunway?",
+      "answer": "Bandar Sunway generally refers to the township area developed around Sunway Pyramid, Sunway University, Sunway Lagoon and surrounding residential areas. It is commonly searched online as Sunway."
+    },
+    {
+      "question": "How far is Sunway from Kuala Lumpur?",
+      "answer": "Sunway is approximately 15 to 25 kilometres from Kuala Lumpur city centre depending on the route and traffic conditions."
+    },
+    {
+      "question": "Is Sunway closer to Petaling Jaya or Kuala Lumpur?",
+      "answer": "Sunway is closer to Petaling Jaya. It is strategically located near PJ, Subang Jaya and provides convenient access towards Kuala Lumpur."
+    },
+    {
+      "question": "What highways connect Sunway?",
+      "answer": "Sunway has excellent highway connectivity through the LDP, Federal Highway, KESAS and NKVE, allowing convenient travel around Klang Valley."
+    },
+    {
+      "question": "Are there cheap rooms near Sunway BRT?",
+      "answer": "Yes, affordable rooms are available near Sunway BRT stations, especially around Sunway Mentari and older apartment developments."
+    },
+    {
+      "question": "Is Sunway suitable without owning a car?",
+      "answer": "Yes, Sunway is one of the better areas for car-free living because of BRT connectivity, nearby KTM and access to shopping malls, universities and essential services."
+    },
+    {
+      "question": "What is the average rental for a condo in Sunway?",
+      "answer": "Condo rental prices in Sunway typically range from around RM1800 to RM3500 depending on size, facilities, location and building quality."
+    },
+    {
+      "question": "Are fully furnished condos available in Sunway?",
+      "answer": "Yes, many condominiums in Sunway are available fully furnished with beds, wardrobes, kitchen appliances and basic furniture."
+    },
+    {
+      "question": "Can professionals working in Kuala Lumpur rent in Sunway?",
+      "answer": "Yes, many professionals working in Kuala Lumpur choose Sunway because rental prices are often more affordable while maintaining good connectivity."
+    },
+    {
+      "question": "Is Sunway suitable for young working adults?",
+      "answer": "Yes, Sunway is popular among young professionals due to restaurants, entertainment, transport facilities, modern residences and proximity to employment hubs."
+    },
+    {
+      "question": "What are the popular room types in Sunway?",
+      "answer": "Popular room types in Sunway include single rooms, medium rooms, master rooms, rooms with private bathrooms, shared rooms and studio apartments."
+    },
+    {
+      "question": "Are shared rooms available in Sunway?",
+      "answer": "Yes, shared rooms are available and are popular among students looking for lower rental costs near universities."
+    },
+    {
+      "question": "Can I rent a private room in Sunway?",
+      "answer": "Yes, private rooms are widely available across Sunway condominiums and apartments, suitable for students and professionals."
+    },
+    {
+      "question": "Are utilities included in Sunway room rental prices?",
+      "answer": "Utility arrangements depend on each landlord. Some rentals include internet and utilities while others require separate payment."
+    },
+    {
+      "question": "Does Sunway have international-friendly housing?",
+      "answer": "Yes, Sunway has many international-friendly residences because of its large expatriate and international student population."
+    },
+    {
+      "question": "What makes Sunway rental market strong?",
+      "answer": "Sunway rental demand remains strong because of universities, hospitals, shopping malls, offices, entertainment attractions and excellent accessibility."
+    },
+    {
+      "question": "Is Sunway better than Subang Jaya for renting?",
+      "answer": "Both areas are popular, but Sunway is preferred by tenants who want closer access to Sunway University, Sunway Pyramid and lifestyle facilities."
+    },
+    {
+      "question": "Is Sunway better than Petaling Jaya for rental?",
+      "answer": "Sunway offers competitive rental options with stronger access to universities and lifestyle attractions, while Petaling Jaya offers wider employment connectivity."
+    },
+    {
+      "question": "What is the cheapest apartment rental in Sunway?",
+      "answer": "The cheapest apartment rentals are usually found in older apartment developments and smaller units around Sunway Mentari and surrounding areas."
+    },
+    {
+      "question": "Are there luxury apartments for rent in Sunway?",
+      "answer": "Yes, Sunway has premium residences and serviced apartments offering facilities such as swimming pools, gyms, security and modern lifestyle features."
+    },
+    {
+      "question": "Is Sunway good for medical professionals?",
+      "answer": "Yes, Sunway is convenient for medical professionals working at Sunway Medical Centre due to its nearby residential options."
+    },
+    {
+      "question": "Can I find accommodation near Sunway Lagoon?",
+      "answer": "Yes, many rental properties are located near Sunway Lagoon, offering convenient access to entertainment and lifestyle facilities."
+    },
+    {
+      "question": "What facilities do Sunway condominiums offer?",
+      "answer": "Most Sunway condominiums offer facilities such as swimming pools, gyms, security, parking, playgrounds and common areas."
+    },
+    {
+      "question": "Is Sunway a good place for long-term living?",
+      "answer": "Yes, Sunway provides a complete lifestyle environment with education, healthcare, shopping, transport and residential facilities."
+    },
+    {
+      "question": "How early should I search for a room in Sunway before moving?",
+      "answer": "Students and professionals are recommended to search early, especially before university intake periods when rental demand increases."
+    },
+    {
+      "question": "Are there rooms near Taylor's University from Sunway?",
+      "answer": "Yes, tenants can find rooms around Sunway and Subang areas with convenient access to Taylor's University."
+    },
+    {
+      "question": "Are Sunway rental properties suitable for couples?",
+      "answer": "Yes, couples often choose studio apartments, serviced residences and one-bedroom condominiums in Sunway."
+    },
+    {
+      "question": "Can foreigners rent apartments in Sunway?",
+      "answer": "Yes, many landlords in Sunway accept foreign tenants, especially due to the area's international student and expatriate community."
+    },
+    {
+      "question": "What is the best condo to rent in Sunway?",
+      "answer": "Some of the popular condominiums for rent in Sunway include Sunway Geo Residences, Sunway Clio Residences, Sunway Lagoon Resort Suites and Sunway South Quay Residences. The best choice depends on budget, location preference and required facilities."
+    },
+    {
+      "question": "Is Sunway Geo Residences good for rental?",
+      "answer": "Yes, Sunway Geo Residences is one of the most searched rental residences in Bandar Sunway because of its proximity to Sunway University, Sunway Pyramid, Sunway Medical Centre and lifestyle facilities."
+    },
+    {
+      "question": "Can I find a room within walking distance to Sunway University?",
+      "answer": "Yes, many rooms are available within walking distance of Sunway University, especially around Sunway Geo Residences, Sunway Clio and nearby Bandar Sunway condominiums."
+    },
+    {
+      "question": "Is Sunway a good location for Monash University Malaysia students?",
+      "answer": "Yes, Sunway is one of the preferred rental locations for Monash University Malaysia students because of its convenient distance, transportation options and availability of student-friendly accommodation."
+    },
+    {
+      "question": "Are rooms near Sunway Medical Centre available?",
+      "answer": "Yes, many furnished rooms and apartments are available near Sunway Medical Centre, making the area suitable for healthcare workers, visitors and long-term residents."
+    },
+    {
+      "question": "What are the advantages of renting near Sunway Pyramid?",
+      "answer": "Renting near Sunway Pyramid provides easy access to shopping, restaurants, entertainment, public transport and daily conveniences, making it highly attractive for students and professionals."
+    },
+    {
+      "question": "Is Bandar Sunway different from Sunway?",
+      "answer": "Bandar Sunway generally refers to the township area developed around Sunway Pyramid, Sunway University, Sunway Lagoon and surrounding residential areas. It is commonly searched online as Sunway."
+    },
+    {
+      "question": "How far is Sunway from Kuala Lumpur?",
+      "answer": "Sunway is approximately 15 to 25 kilometres from Kuala Lumpur city centre depending on the route and traffic conditions."
+    },
+    {
+      "question": "Is Sunway closer to Petaling Jaya or Kuala Lumpur?",
+      "answer": "Sunway is closer to Petaling Jaya. It is strategically located near PJ, Subang Jaya and provides convenient access towards Kuala Lumpur."
+    },
+    {
+      "question": "What highways connect Sunway?",
+      "answer": "Sunway has excellent highway connectivity through the LDP, Federal Highway, KESAS and NKVE, allowing convenient travel around Klang Valley."
+    },
+    {
+      "question": "Are there cheap rooms near Sunway BRT?",
+      "answer": "Yes, affordable rooms are available near Sunway BRT stations, especially around Sunway Mentari and older apartment developments."
+    },
+    {
+      "question": "Is Sunway suitable without owning a car?",
+      "answer": "Yes, Sunway is one of the better areas for car-free living because of BRT connectivity, nearby KTM and access to shopping malls, universities and essential services."
+    },
+    {
+      "question": "What is the average rental for a condo in Sunway?",
+      "answer": "Condo rental prices in Sunway typically range from around RM1800 to RM3500 depending on size, facilities, location and building quality."
+    },
+    {
+      "question": "Are fully furnished condos available in Sunway?",
+      "answer": "Yes, many condominiums in Sunway are available fully furnished with beds, wardrobes, kitchen appliances and basic furniture."
+    },
+    {
+      "question": "Can professionals working in Kuala Lumpur rent in Sunway?",
+      "answer": "Yes, many professionals working in Kuala Lumpur choose Sunway because rental prices are often more affordable while maintaining good connectivity."
+    },
+    {
+      "question": "Is Sunway suitable for young working adults?",
+      "answer": "Yes, Sunway is popular among young professionals due to restaurants, entertainment, transport facilities, modern residences and proximity to employment hubs."
+    },
+    {
+      "question": "What are the popular room types in Sunway?",
+      "answer": "Popular room types in Sunway include single rooms, medium rooms, master rooms, rooms with private bathrooms, shared rooms and studio apartments."
+    },
+    {
+      "question": "Are shared rooms available in Sunway?",
+      "answer": "Yes, shared rooms are available and are popular among students looking for lower rental costs near universities."
+    },
+    {
+      "question": "Can I rent a private room in Sunway?",
+      "answer": "Yes, private rooms are widely available across Sunway condominiums and apartments, suitable for students and professionals."
+    },
+    {
+      "question": "Are utilities included in Sunway room rental prices?",
+      "answer": "Utility arrangements depend on each landlord. Some rentals include internet and utilities while others require separate payment."
+    },
+    {
+      "question": "Does Sunway have international-friendly housing?",
+      "answer": "Yes, Sunway has many international-friendly residences because of its large expatriate and international student population."
+    },
+    {
+      "question": "What makes Sunway rental market strong?",
+      "answer": "Sunway rental demand remains strong because of universities, hospitals, shopping malls, offices, entertainment attractions and excellent accessibility."
+    },
+    {
+      "question": "Is Sunway better than Subang Jaya for renting?",
+      "answer": "Both areas are popular, but Sunway is preferred by tenants who want closer access to Sunway University, Sunway Pyramid and lifestyle facilities."
+    },
+    {
+      "question": "Is Sunway better than Petaling Jaya for rental?",
+      "answer": "Sunway offers competitive rental options with stronger access to universities and lifestyle attractions, while Petaling Jaya offers wider employment connectivity."
+    },
+    {
+      "question": "What is the cheapest apartment rental in Sunway?",
+      "answer": "The cheapest apartment rentals are usually found in older apartment developments and smaller units around Sunway Mentari and surrounding areas."
+    },
+    {
+      "question": "Are there luxury apartments for rent in Sunway?",
+      "answer": "Yes, Sunway has premium residences and serviced apartments offering facilities such as swimming pools, gyms, security and modern lifestyle features."
+    },
+    {
+      "question": "Is Sunway good for medical professionals?",
+      "answer": "Yes, Sunway is convenient for medical professionals working at Sunway Medical Centre due to its nearby residential options."
+    },
+    {
+      "question": "Can I find accommodation near Sunway Lagoon?",
+      "answer": "Yes, many rental properties are located near Sunway Lagoon, offering convenient access to entertainment and lifestyle facilities."
+    },
+    {
+      "question": "What facilities do Sunway condominiums offer?",
+      "answer": "Most Sunway condominiums offer facilities such as swimming pools, gyms, security, parking, playgrounds and common areas."
+    },
+    {
+      "question": "Is Sunway a good place for long-term living?",
+      "answer": "Yes, Sunway provides a complete lifestyle environment with education, healthcare, shopping, transport and residential facilities."
+    },
+    {
+      "question": "How early should I search for a room in Sunway before moving?",
+      "answer": "Students and professionals are recommended to search early, especially before university intake periods when rental demand increases."
+    },
+    {
+      "question": "Are there rooms near Taylor's University from Sunway?",
+      "answer": "Yes, tenants can find rooms around Sunway and Subang areas with convenient access to Taylor's University."
+    },
+    {
+      "question": "Are Sunway rental properties suitable for couples?",
+      "answer": "Yes, couples often choose studio apartments, serviced residences and one-bedroom condominiums in Sunway."
+    },
+    {
+      "question": "Can foreigners rent apartments in Sunway?",
+      "answer": "Yes, many landlords in Sunway accept foreign tenants, especially due to the area's international student and expatriate community."
+    }
+  ],
+  "focusKeywords": [
+    "Sunway room for rent",
+    "Sunway room rental",
+    "Sunway condo for rent",
+    "Sunway apartment for rent",
+    "room near Sunway University",
+    "room near Sunway Pyramid",
+    "room near Sunway Medical Centre",
+    "room near Sunway BRT",
+    "room near Sunway Lagoon",
+    "room near Setia Jaya KTM",
+    "furnished room Sunway",
+    "fully furnished room Sunway",
+    "cheap room Sunway Selangor",
+    "affordable room rental Sunway",
+    "Sunway rental property",
+    "Sunway condominium rental",
+    "luxury condo Sunway for rent",
+    "studio apartment Sunway",
+    "master room Sunway",
+    "single room Sunway",
+    "medium room Sunway",
+    "monthly rental Sunway",
+    "private room Sunway",
+    "shared room Sunway",
+    "Sunway apartment rental Selangor",
+    "Sunway housing rental",
+    "Sunway accommodation",
+    "student room rental Sunway",
+    "professional room rental Sunway",
+    "expat housing Sunway",
+    "serviced apartment Sunway",
+    "family apartment Sunway",
+    "premium condo Sunway",
+    "executive apartment Sunway",
+    "BRT connected rental Sunway",
+    "KTM connected rental Sunway",
+    "room near Sunway Geo Avenue",
+    "room near Sunway Lagoon",
+    "room near Sunway Resort",
+    "room near Bandar Sunway"
+  ],
+
+  "longTailKeywords": [
+    "fully furnished room for rent near Sunway University",
+    "cheap room rental in Sunway for working professionals",
+    "affordable room rental near Sunway Pyramid Malaysia",
+    "best room rental in Bandar Sunway Selangor",
+    "luxury condo for rent in Bandar Sunway",
+    "expat friendly apartment for rent in Sunway",
+    "master room with private bathroom in Sunway",
+    "studio apartment for rent in Sunway fully furnished",
+    "room near Sunway BRT station for students",
+    "room near Setia Jaya KTM station with easy transportation",
+    "premium condominium rental in Bandar Sunway",
+    "fully furnished condo room near Sunway Geo Residences",
+    "cheap master room rental near Sunway University",
+    "affordable apartment rental near Sunway Pyramid",
+    "private room with attached bathroom for rent in Sunway",
+    "best area to rent room near Monash University Malaysia",
+    "student accommodation near Sunway University Malaysia",
+    "modern serviced residence for rent in Bandar Sunway",
+    "monthly room rental near Sunway shopping malls",
+    "budget room rental near Sunway Lagoon",
+    "condo room rental near Sunway Medical Centre",
+    "room for rent near Sunway BRT station",
+    "professional accommodation near Sunway",
+    "family apartment rental near Sunway Pyramid",
+    "cheap furnished room near Bandar Sunway",
+    "high quality condo rental near Sunway University",
+    "room rental for foreigners in Bandar Sunway",
+    "affordable housing near Sunway and Subang Jaya",
+    "best furnished room rental area near Sunway University",
+    "room rental near Monash University Malaysia",
+    "room rental near Taylor's University Sunway",
+    "fully furnished apartment near Sunway Medical Centre",
+    "short term rental Sunway Selangor",
+    "monthly furnished room near Sunway Pyramid",
+    "room under RM1000 near Sunway University",
+    "condo rental near Sunway Lagoon Malaysia",
+    "cheap accommodation near Sunway Pyramid",
+    "best condo room rental in Bandar Sunway",
+    "safe student accommodation Sunway",
+    "room rental near Sunway Resort Hotel"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Sunway",
+      "budget room near Sunway University",
+      "student room near Sunway Pyramid",
+      "affordable accommodation Bandar Sunway",
+      "student rental room Sunway",
+      "shared room rental Sunway",
+      "cheap furnished room Sunway",
+      "budget apartment near Sunway BRT",
+      "student accommodation near Monash University Malaysia",
+      "room near Taylor's University Sunway",
+      "room near Sunway University Malaysia",
+      "affordable student housing Sunway"
+    ],
+    "expat": [
+      "expat housing Sunway",
+      "furnished condo Sunway",
+      "serviced apartment Sunway",
+      "international tenant friendly condo Sunway",
+      "luxury apartment rental Sunway",
+      "premium condo near Sunway Pyramid",
+      "comfortable rental near Petaling Jaya from Sunway",
+      "fully furnished apartment Bandar Sunway",
+      "expat friendly condominium Sunway",
+      "premium serviced residence Sunway"
+    ],
+    "professional": [
+      "Sunway condo near BRT",
+      "room near Sunway University for professionals",
+      "room near Sunway Medical Centre",
+      "room near Petaling Jaya from Sunway",
+      "room near Subang Jaya from Sunway",
+      "premium apartment Sunway",
+      "executive residence Sunway",
+      "working professional room rental Sunway",
+      "room near Sunway business area",
+      "condo rental near Sunway corporate offices"
+    ],
+    "shortStay": [
+      "short term rental Sunway",
+      "monthly rental Sunway",
+      "serviced residence Sunway",
+      "flexible room rental Sunway",
+      "short stay apartment Bandar Sunway",
+      "temporary accommodation Sunway",
+      "monthly furnished room Sunway",
+      "weekly room rental Sunway",
+      "short term condo rental near Sunway Pyramid"
+    ],
+    "premiumIntent": [
+      "luxury condo Sunway for rent",
+      "high end apartment Sunway",
+      "executive residence Sunway",
+      "premium serviced apartment Sunway",
+      "luxury condominium rental near Sunway Pyramid",
+      "modern condo rental Bandar Sunway",
+      "premium furnished room Sunway",
+      "exclusive apartment near Sunway University",
+      "luxury serviced residence Sunway",
+      "high quality condo rental Sunway"
+    ],
+    "family": [
+      "family apartment Sunway",
+      "3 bedroom condo Sunway rental",
+      "family friendly condo near Sunway Pyramid",
+      "safe residential area Sunway",
+      "large apartment rental Bandar Sunway",
+      "family condo near Sunway Medical Centre",
+      "spacious house rental Sunway",
+      "child friendly residence Sunway"
+    ],
+    "budgetTenant": [
+      "cheap room Sunway Selangor",
+      "low budget rental Sunway",
+      "affordable apartment Sunway",
+      "room under RM1000 Sunway",
+      "budget friendly room near Sunway BRT",
+      "cheap accommodation near Sunway University",
+      "low cost room rental Bandar Sunway",
+      "affordable furnished room Sunway",
+      "budget condo rental Sunway"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Sunway room for rent",
+    "secondaryKeywords": [
+      "Sunway condo for rent",
+      "Sunway apartment for rent",
+      "room near Sunway University",
+      "room near Sunway Pyramid",
+      "room near Sunway Medical Centre",
+      "room near Sunway BRT",
+      "room near Setia Jaya KTM",
+      "furnished room Sunway",
+      "cheap room Sunway Selangor",
+      "luxury condo Sunway",
+      "expat housing Sunway",
+      "serviced apartment Sunway",
+      "master room Sunway",
+      "student accommodation Sunway",
+      "room near Monash University Malaysia",
+      "room near Taylor's University Sunway"
+    ],
+    "seoScore": 98,
+    "canonicalUrl": "https://yourdomain.com/selangor/sunway/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "student-professional-lifestyle-connected-sunway-rentals",
+    "contentCluster": [
+      "Sunway room rental",
+      "Sunway condo rental",
+      "Sunway apartment rental",
+      "BRT connected rentals Sunway",
+      "KTM connected rentals Sunway",
+      "affordable rental properties Selangor",
+      "student accommodation Sunway",
+      "professional housing Sunway",
+      "expat housing Selangor",
+      "Sunway University accommodation",
+      "Monash University Malaysia accommodation",
+      "Sunway Pyramid nearby accommodation",
+      "furnished rooms Sunway",
+      "premium condominiums Bandar Sunway",
+      "serviced apartments Sunway"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Petaling Jaya",
+        "Subang Jaya",
+        "Bandar Utama",
+        "Ara Damansara",
+        "Kelana Jaya",
+        "Puchong",
+        "Shah Alam",
+        "Mont Kiara",
+        "Bangsar",
+        "KLCC"
+      ],
+      "nearbyHotspots": [
+        "Sunway Pyramid",
+        "Sunway Lagoon",
+        "Sunway University",
+        "Monash University Malaysia",
+        "Sunway Medical Centre",
+        "Sunway Geo Avenue",
+        "BRT Sunway Lagoon Station",
+        "BRT Sunway-Setia Jaya Station",
+        "Setia Jaya KTM Station",
+        "Taylor's University"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Sunway Rooms for Rent",
+        "url": "/room-rental-sunway",
+        "keyword": "sunway room for rent"
+      },
+      {
+        "title": "Sunway Condos for Rent",
+        "url": "/condo-for-rent-sunway",
+        "keyword": "sunway condo for rent"
+      },
+      {
+        "title": "Cheap Rooms in Sunway",
+        "url": "/cheap-room-sunway",
+        "keyword": "cheap room sunway"
+      },
+      {
+        "title": "Rooms Near Sunway University",
+        "url": "/room-near-sunway-university",
+        "keyword": "room near sunway university"
+      },
+      {
+        "title": "Rooms Near Sunway Pyramid",
+        "url": "/room-near-sunway-pyramid",
+        "keyword": "room near sunway pyramid"
+      },
+      {
+        "title": "Rooms Near Sunway Medical Centre",
+        "url": "/room-near-sunway-medical-centre",
+        "keyword": "room near sunway medical centre"
+      },
+      {
+        "title": "Student Accommodation Sunway",
+        "url": "/student-accommodation-sunway",
+        "keyword": "student accommodation sunway"
+      },
+      {
+        "title": "Luxury Condos in Sunway",
+        "url": "/luxury-condo-sunway",
+        "keyword": "luxury condo sunway"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Sunway Area Guide",
+        "url": "/area-guide-sunway",
+        "type": "guide"
+      },
+      {
+        "title": "Sunway Rental Price Guide 2026",
+        "url": "/price-guide-sunway",
+        "type": "pricing"
+      },
+      {
+        "title": "Sunway BRT & Transport Guide",
+        "url": "/sunway-transport-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in Sunway",
+        "url": "/luxury-condo-sunway",
+        "type": "listing-category"
+      },
+      {
+        "title": "Student Housing Sunway",
+        "url": "/student-housing-sunway",
+        "type": "audience-page"
+      },
+      {
+        "title": "Expat Housing Sunway",
+        "url": "/expat-housing-sunway",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Sunway",
+        "url": "/furnished-room-sunway",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Sunway",
+        "url": "/short-term-rental-sunway",
+        "type": "rental-type"
+      },
+      {
+        "title": "Rooms Near Sunway University",
+        "url": "/room-near-sunway-university",
+        "type": "location-intent-page"
+      },
+      {
+        "title": "Rooms Near Sunway Pyramid",
+        "url": "/room-near-sunway-pyramid",
+        "type": "location-intent-page"
+      },
+      {
+        "title": "Rooms Near Monash University Malaysia",
+        "url": "/room-near-monash-university-sunway",
+        "type": "education-intent-page"
+      }
+    ]
+  }
+}

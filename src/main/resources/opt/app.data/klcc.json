@@ -1076,28 +1076,88 @@
   ],
   "intentMapping": {
     "student": [
-      "cheap room klcc",
-      "budget room near klcc mrt"
+      "cheap room KLCC",
+      "budget room near KLCC",
+      "student room near KLCC",
+      "affordable accommodation KLCC Kuala Lumpur",
+      "student rental room KLCC",
+      "shared room rental KLCC",
+      "cheap furnished room KLCC",
+      "budget apartment near KLCC MRT",
+      "student accommodation near KLCC LRT",
+      "room near Universiti Kuala Lumpur KLCC",
+      "student friendly room rental KLCC"
     ],
     "expat": [
-      "furnished condo klcc",
-      "studio apartment kl city center",
-      "serviced residence klcc kuala lumpur"
+      "expat housing KLCC",
+      "furnished condo KLCC",
+      "serviced apartment KLCC",
+      "international tenant friendly condo KLCC",
+      "luxury apartment rental KLCC",
+      "premium condo near Petronas Twin Towers",
+      "fully furnished apartment KLCC Kuala Lumpur",
+      "expat friendly residence KLCC",
+      "high end condo rental KLCC",
+      "foreign tenant apartment KLCC"
     ],
     "professional": [
-      "luxury condo klcc",
-      "klcc apartment near office towers",
-      "high rise condo klcc skyline view"
+      "KLCC condo near MRT",
+      "room near KLCC for professionals",
+      "room near Petronas Twin Towers",
+      "room near Kuala Lumpur City Centre offices",
+      "room near Bukit Bintang from KLCC",
+      "premium apartment KLCC",
+      "executive residence KLCC",
+      "working professional room rental KLCC",
+      "corporate housing KLCC Kuala Lumpur",
+      "office worker accommodation KLCC"
     ],
     "shortStay": [
-      "short term rental klcc",
-      "airbnb style apartment klcc",
-      "monthly serviced apartment klcc"
+      "short term rental KLCC",
+      "monthly rental KLCC",
+      "serviced residence KLCC",
+      "flexible room rental KLCC",
+      "short stay apartment KLCC Kuala Lumpur",
+      "temporary accommodation KLCC",
+      "monthly furnished room KLCC",
+      "weekly apartment rental KLCC",
+      "business stay KLCC",
+      "holiday rental KLCC apartment"
     ],
     "premiumIntent": [
-      "luxury klcc condo for rent petronas view",
-      "high end apartment klcc kuala lumpur",
-      "executive residence klcc city center"
+      "luxury condo KLCC for rent",
+      "high end apartment KLCC",
+      "executive residence KLCC",
+      "premium serviced apartment KLCC",
+      "luxury condominium rental near Petronas Twin Towers",
+      "modern condo rental KLCC Kuala Lumpur",
+      "premium furnished room KLCC",
+      "exclusive apartment KLCC",
+      "five star serviced residence KLCC",
+      "luxury skyline view condo KLCC"
+    ],
+    "family": [
+      "family apartment KLCC",
+      "3 bedroom condo KLCC rental",
+      "family friendly condo near KLCC",
+      "safe residential area KLCC",
+      "large apartment rental KLCC Kuala Lumpur",
+      "family condo near KLCC Park",
+      "child friendly apartment KLCC",
+      "long term family rental KLCC",
+      "spacious condominium KLCC"
+    ],
+    "budgetTenant": [
+      "cheap room KLCC Kuala Lumpur",
+      "low budget rental KLCC",
+      "affordable apartment KLCC",
+      "room under RM1500 KLCC",
+      "budget friendly room near KLCC MRT",
+      "cheap furnished room near KLCC",
+      "affordable condo room KLCC",
+      "low cost accommodation Kuala Lumpur city centre",
+      "budget room walking distance KLCC",
+      "cheap rental near Petronas Towers"
     ]
   },
   "seo": {
@@ -1114,7 +1174,7 @@
       "high rise condo KLCC skyline view"
     ],
     "seoScore": 97,
-    "canonicalUrl": "https://yourdomain.com/kuala-lumpur/klcc/condo-for-rent",
+    "canonicalUrl": "https://roomrentalkl.com/kuala-lumpur/klcc/condo-for-rent",
     "schemaType": "Apartment",
     "intentCluster": "premium-city-center-rentals",
     "contentCluster": [

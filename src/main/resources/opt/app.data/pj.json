@@ -1,0 +1,1653 @@
+{
+  "area": {
+    "name": "Petaling Jaya",
+    "slug": "pj",
+    "heroImage": "assets/images/areas/pj.jpg",
+    "metaTitle": "Rooms for Rent in Petaling Jaya | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Petaling Jaya near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Petaling Jaya – Complete Guide to Room Rental, Condo & Apartment Rental in Kuala Lumpur",
+    "description": "Petaling Jaya (PJ) is one of the most established and highly demanded rental locations in the Klang Valley, offering a wide range of room rental, condominium rental and apartment rental options for students, working professionals, families and expatriates. Located directly west of Kuala Lumpur, Petaling Jaya provides excellent connectivity, mature infrastructure, established commercial hubs, premium residential developments and convenient access to major employment areas. Whether you are searching for a master room for rent in Petaling Jaya, single room rental near PJ LRT stations, fully furnished condo room, studio apartment, affordable apartment rental or luxury condominium residence, PJ offers diverse accommodation choices suitable for different budgets and lifestyles. The area is especially popular among professionals working in Kuala Lumpur, Bangsar, KL Sentral, Mont Kiara, Subang Jaya, Cyberjaya and Shah Alam due to its strategic location and extensive transportation network. Residents enjoy excellent connectivity through LRT Kelana Jaya Line stations including Taman Jaya LRT Station, Asia Jaya LRT Station, Taman Paramount LRT Station, Kelana Jaya LRT Station and Ara Damansara LRT Station, while MRT stations around Bandar Utama, Mutiara Damansara and Kota Damansara further improve accessibility. Major highways including Federal Highway, LDP, SPRINT Highway, NKVE and Penchala Link provide convenient road connections throughout Klang Valley. Popular landmarks such as 1 Utama Shopping Centre, Paradigm Mall PJ, Jaya One, Atria Shopping Gallery, The Curve, Sunway Pyramid, PJ Digital, University Malaya and major corporate offices make Petaling Jaya one of the strongest rental markets in Selangor. With its combination of excellent transportation, employment opportunities, shopping convenience, education facilities and wide residential choices, Petaling Jaya continues to attract strong rental demand from tenants seeking quality accommodation near Kuala Lumpur.",
+    "buttonText": "Explore Petaling Jaya Rental Guide",
+    "buttonLink": "/room-rental-petaling-jaya",
+    "highlights": [
+      "Wide selection of master rooms, single rooms, medium rooms, studio apartments and condominiums for rent in Petaling Jaya",
+      "One of Klang Valley's strongest rental markets for professionals, families and expatriates",
+      "Excellent LRT and MRT connectivity across major PJ neighbourhoods",
+      "Popular among professionals working in Kuala Lumpur, Bangsar, KL Sentral, Subang and PJ business hubs",
+      "Highly suitable for students due to proximity to University Malaya and nearby education institutions",
+      "Wide range of affordable rooms and premium condominium residences",
+      "Close to major shopping destinations including 1 Utama, Paradigm Mall PJ, Jaya One and Sunway Pyramid",
+      "Strong demand from expatriates due to international lifestyle facilities",
+      "Mature residential environment with healthcare, schools and daily amenities",
+      "Excellent highway connectivity through Federal Highway, LDP and SPRINT",
+      "Suitable for budget tenants, working professionals and luxury rental seekers",
+      "One of the best alternatives to Kuala Lumpur city centre rental locations"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Excellent LRT & MRT Connectivity",
+        "description": "Petaling Jaya offers excellent public transportation access through multiple LRT stations including Taman Jaya, Asia Jaya, Taman Paramount, Kelana Jaya and Ara Damansara. MRT connectivity around Bandar Utama, Mutiara Damansara and Kota Damansara further improves accessibility for tenants without private vehicles."
+      },
+      {
+        "icon": "fas fa-home",
+        "title": "Wide Range of Rental Properties",
+        "description": "Petaling Jaya provides diverse rental options including master rooms, single rooms, medium rooms, private rooms, shared rooms, studio apartments, serviced apartments and condominium units suitable for different tenant requirements."
+      },
+      {
+        "icon": "fas fa-briefcase",
+        "title": "Ideal Location for Working Professionals",
+        "description": "Many professionals choose Petaling Jaya because of its proximity to major employment hubs including PJ Digital, Section 13, Bandar Utama, Bangsar, KL Sentral, Kuala Lumpur city centre and Subang Jaya."
+      },
+      {
+        "icon": "fas fa-graduation-cap",
+        "title": "Popular Among Students",
+        "description": "Petaling Jaya is highly suitable for students due to its proximity to University Malaya, private colleges, universities and excellent public transportation connections."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Modern Condominiums & Apartments",
+        "description": "PJ features many established and modern residential developments offering facilities such as swimming pools, gyms, security services, parking spaces, playgrounds and landscaped gardens."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Lifestyle Convenience",
+        "description": "Residents enjoy easy access to major shopping destinations including 1 Utama Shopping Centre, Paradigm Mall PJ, Jaya One, Atria Shopping Gallery, The Curve and Sunway Pyramid."
+      },
+      {
+        "icon": "fas fa-tree",
+        "title": "Established Residential Environment",
+        "description": "Petaling Jaya offers mature neighbourhoods with parks, recreational areas, healthcare facilities, schools and community amenities suitable for long-term residents."
+      },
+      {
+        "icon": "fas fa-users",
+        "title": "Suitable for Families, Expats & Professionals",
+        "description": "With excellent connectivity, lifestyle facilities and diverse housing options, Petaling Jaya attracts families, expatriates, professionals, students and long-term rental tenants."
+      }
+    ],
+    "popularResidences": [
+      "PJ Midtown",
+      "Pacific Place Ara Damansara",
+      "HighPark Suites Kelana Jaya",
+      "The Grand Subang Jaya",
+      "Aman Suria Residences",
+      "Tropicana City Tropics",
+      "The Arcuz Kelana Jaya",
+      "Jaya One Residences",
+      "The Hub SS2",
+      "Ritze Perdana Damansara Perdana",
+      "Verve Suites Mont Kiara Nearby PJ",
+      "Atria Residences",
+      "Oasis Ara Damansara",
+      "Cascades Residences",
+      "PJ Trade Centre Residences",
+      "Mutiara Damansara Residences",
+      "Bandar Utama Condominiums",
+      "Kelana Putera",
+      "Kelana Sentral",
+      "Sunway Geo Residences"
+    ],
+    "nearbyLandmarks": [
+      "Taman Jaya LRT Station",
+      "Asia Jaya LRT Station",
+      "Taman Paramount LRT Station",
+      "Kelana Jaya LRT Station",
+      "Ara Damansara LRT Station",
+      "Bandar Utama MRT Station",
+      "1 Utama Shopping Centre",
+      "Paradigm Mall PJ",
+      "Jaya One",
+      "Atria Shopping Gallery",
+      "The Curve",
+      "IKEA Damansara",
+      "Sunway Pyramid",
+      "University Malaya",
+      "PJ Digital",
+      "Section 13 Petaling Jaya",
+      "Section 14 PJ",
+      "Bangsar",
+      "KL Sentral",
+      "Kuala Lumpur City Centre"
+    ],
+    "nearbyUniversities": [
+      "University of Malaya (UM)",
+      "Taylor's University",
+      "Sunway University",
+      "Monash University Malaysia",
+      "Asia Pacific University (APU)",
+      "HELP University",
+      "UCSI University",
+      "SEGi University Kota Damansara",
+      "Open University Malaysia",
+      "INTI International College Subang"
+    ],
+    "majorEmployers": [
+      "Petaling Jaya Digital Hub companies",
+      "Malaysia Digital Economy Corporation (MDEC)",
+      "IBM Malaysia",
+      "Microsoft Malaysia",
+      "Deloitte Malaysia",
+      "PwC Malaysia",
+      "EY Malaysia",
+      "KPMG Malaysia",
+      "Public Bank",
+      "Maybank",
+      "CIMB Group",
+      "Hong Leong Bank",
+      "Standard Chartered Malaysia",
+      "Sunway Group",
+      "Monash University Malaysia",
+      "University Malaya",
+      "Subang Jaya corporate offices",
+      "Bangsar corporate offices",
+      "Kuala Lumpur city centre companies"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Taman Jaya LRT Station",
+      "slug": "taman-jaya-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "3 mins drive",
+      "distanceMeters": 800,
+      "distanceText": "3 mins drive (800 m)",
+      "title": "Taman Jaya LRT Station",
+      "shortDescription": "Taman Jaya LRT Station is one of the most important transportation hubs serving central Petaling Jaya residents. Rooms and condominiums near Taman Jaya LRT are highly searched by professionals and students who need convenient access to Kuala Lumpur, Bangsar and major PJ employment areas.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "Taman Jaya Park",
+        "Amcorp Mall",
+        "Section 52 Petaling Jaya"
+      ],
+      "nearbyResidences": [
+        "PJ Midtown",
+        "Amcorp Serviced Apartments",
+        "Taman Jaya Residences"
+      ],
+      "popularSearches": [
+        "Room near Taman Jaya LRT",
+        "Taman Jaya room rental",
+        "Condo near Taman Jaya LRT"
+      ]
+    },
+    {
+      "name": "Asia Jaya LRT Station",
+      "slug": "asia-jaya-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1200,
+      "distanceText": "5 mins drive (1.2 km)",
+      "title": "Asia Jaya LRT Station",
+      "shortDescription": "Asia Jaya LRT Station serves one of Petaling Jaya's major commercial and office areas. Rental properties near Asia Jaya LRT are popular among working professionals looking for easy access to PJ offices, Bangsar and Kuala Lumpur.",
+      "averageRoomRent": 1200,
+      "nearbyLandmarks": [
+        "PJ Section 13",
+        "Jaya 33",
+        "PJ Digital"
+      ],
+      "nearbyResidences": [
+        "Asia Jaya Apartments",
+        "PJ Midtown",
+        "PJ Residential Condominiums"
+      ],
+      "popularSearches": [
+        "Room near Asia Jaya LRT",
+        "Asia Jaya room rental",
+        "PJ office area room rental"
+      ]
+    },
+    {
+      "name": "Taman Paramount LRT Station",
+      "slug": "taman-paramount-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1500,
+      "distanceText": "5 mins drive (1.5 km)",
+      "title": "Taman Paramount LRT Station",
+      "shortDescription": "Taman Paramount LRT Station provides convenient transportation access for residents around Paramount Garden, SS2 and nearby PJ neighbourhoods. The area attracts tenants looking for affordable rooms close to cafes, restaurants and public transport.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "Taman Paramount",
+        "SS2 Commercial Area",
+        "Kelana Jaya"
+      ],
+      "nearbyResidences": [
+        "The Hub SS2",
+        "Paramount View Residences",
+        "PJ Apartments"
+      ],
+      "popularSearches": [
+        "Room near Taman Paramount LRT",
+        "SS2 room rental",
+        "Affordable room PJ"
+      ]
+    },
+    {
+      "name": "Kelana Jaya LRT Station",
+      "slug": "kelana-jaya-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1800,
+      "distanceText": "5 mins drive (1.8 km)",
+      "title": "Kelana Jaya LRT Station",
+      "shortDescription": "Kelana Jaya LRT Station is a major transportation hub connecting Petaling Jaya residents to Kuala Lumpur and surrounding areas. Nearby rental properties are highly demanded by professionals working in PJ, Bangsar and city centre locations.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "Paradigm Mall PJ",
+        "Kelana Jaya Lake",
+        "LDP Highway"
+      ],
+      "nearbyResidences": [
+        "HighPark Suites Kelana Jaya",
+        "Kelana Putera",
+        "Kelana Sentral"
+      ],
+      "popularSearches": [
+        "Room near Kelana Jaya LRT",
+        "Kelana Jaya room rental",
+        "Condo near Kelana Jaya Station"
+      ]
+    },
+    {
+      "name": "Ara Damansara LRT Station",
+      "slug": "ara-damansara-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "7 mins drive",
+      "distanceMeters": 2500,
+      "distanceText": "7 mins drive (2.5 km)",
+      "title": "Ara Damansara LRT Station",
+      "shortDescription": "Ara Damansara LRT Station provides excellent connectivity for tenants searching for modern condominium rentals near Petaling Jaya. The area is popular among professionals and expatriates due to premium residences and lifestyle facilities.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "Oasis Ara Damansara",
+        "Citta Mall",
+        "Ara Damansara Business Park"
+      ],
+      "nearbyResidences": [
+        "Pacific Place Ara Damansara",
+        "Oasis Ara Damansara",
+        "Ara Greens Residences"
+      ],
+      "popularSearches": [
+        "Room near Ara Damansara LRT",
+        "Ara Damansara rental",
+        "Luxury condo PJ"
+      ]
+    },
+    {
+      "name": "Bandar Utama MRT Station",
+      "slug": "bandar-utama-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 5000,
+      "distanceText": "10 mins drive (5 km)",
+      "title": "Bandar Utama MRT Station",
+      "shortDescription": "Bandar Utama MRT Station provides important connectivity for Petaling Jaya residents towards Kuala Lumpur and surrounding commercial areas. Rental properties nearby are popular among professionals who want MRT access and premium lifestyle facilities.",
+      "averageRoomRent": 1700,
+      "nearbyLandmarks": [
+        "1 Utama Shopping Centre",
+        "Bandar Utama Commercial Area",
+        "The Curve"
+      ],
+      "nearbyResidences": [
+        "Bandar Utama Condominiums",
+        "Cascades Residences",
+        "Premium PJ Residences"
+      ],
+      "popularSearches": [
+        "Room near Bandar Utama MRT",
+        "PJ MRT room rental",
+        "Condo near 1 Utama"
+      ]
+    },
+    {
+      "name": "Setia Jaya KTM Station",
+      "slug": "setia-jaya-ktm",
+      "stationType": "KTM",
+      "line": "Port Klang Line",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 6000,
+      "distanceText": "10 mins drive (6 km)",
+      "title": "Setia Jaya KTM Station",
+      "shortDescription": "Setia Jaya KTM Station provides commuter rail connectivity between Petaling Jaya, Subang Jaya and Kuala Lumpur. It is attractive for tenants searching for affordable rental properties with public transport access.",
+      "averageRoomRent": 1000,
+      "nearbyLandmarks": [
+        "Setia Jaya",
+        "Sunway",
+        "Federal Highway"
+      ],
+      "nearbyResidences": [
+        "Sunway Geo Residences",
+        "Affordable PJ Apartments",
+        "Sunway Nearby Condominiums"
+      ],
+      "popularSearches": [
+        "Room near Setia Jaya KTM",
+        "Affordable PJ room rental",
+        "Sunway room rental"
+      ]
+    },
+    {
+      "name": "Mutiara Damansara MRT Station",
+      "slug": "mutiara-damansara-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 7000,
+      "distanceText": "12 mins drive (7 km)",
+      "title": "Mutiara Damansara MRT Station",
+      "shortDescription": "Mutiara Damansara MRT Station provides connectivity to popular commercial destinations including The Curve and IKEA Damansara. It is relevant for PJ tenants looking for rental homes near lifestyle and employment areas.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "The Curve",
+        "IKEA Damansara",
+        "IPC Shopping Centre"
+      ],
+      "nearbyResidences": [
+        "Ritze Perdana",
+        "Mutiara Damansara Residences",
+        "Premium Damansara Apartments"
+      ],
+      "popularSearches": [
+        "Room near Mutiara Damansara MRT",
+        "Damansara room rental",
+        "Affordable PJ rental"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 700,
+      "maxPrice": 1500
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 1000,
+      "maxPrice": 1800
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1400,
+      "maxPrice": 2800
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 1800,
+      "maxPrice": 4000
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1500,
+    "priceGrowth": 6.5,
+    "demandLevel": "Very High",
+    "vacancyRate": 2.2
+  },
+  "nearbyAreas": [
+    {
+      "name": "Bandar Utama",
+      "slug": "bandar-utama",
+      "averageRent": 2000,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Professionals, Expats, Families",
+      "description": "Bandar Utama is one of Petaling Jaya's most premium residential and commercial areas. Known for 1 Utama Shopping Centre, MRT connectivity, international lifestyle facilities and luxury condominiums, it attracts professionals, executives and expatriates. Many tenants choose Petaling Jaya as a more affordable rental alternative while maintaining easy access to Bandar Utama."
+    },
+    {
+      "name": "Kelana Jaya",
+      "slug": "kelana-jaya",
+      "averageRent": 1600,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Professionals, Students, Families",
+      "description": "Kelana Jaya is a mature residential neighbourhood in Petaling Jaya offering excellent LRT connectivity, shopping facilities and modern condominium developments. It is popular among tenants working around PJ, Subang Jaya and Kuala Lumpur due to its strategic location."
+    },
+    {
+      "name": "Ara Damansara",
+      "slug": "ara-damansara",
+      "averageRent": 1800,
+      "mrtAccess": true,
+      "distanceFromArea": 6,
+      "popularFor": "Professionals, Expats",
+      "description": "Ara Damansara is a growing premium residential area featuring serviced apartments, condominiums, lifestyle malls and business parks. Its LRT connectivity and proximity to Subang Airport, Petaling Jaya and major highways make it attractive for working professionals."
+    },
+    {
+      "name": "Damansara Utama",
+      "slug": "damansara-utama",
+      "averageRent": 1900,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Professionals, Young Adults, Expats",
+      "description": "Damansara Utama, also known as Uptown PJ, is a popular lifestyle district offering restaurants, cafes, offices and convenient access to Bandar Utama. Rental properties here attract tenants looking for vibrant city living near major commercial areas."
+    },
+    {
+      "name": "SS2 Petaling Jaya",
+      "slug": "ss2-petaling-jaya",
+      "averageRent": 1400,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Students, Young Professionals, Budget Tenants",
+      "description": "SS2 is one of Petaling Jaya's most established neighbourhoods known for food streets, local amenities and affordable rental options. It is popular among students and professionals looking for convenient accommodation with easy access to PJ and Kuala Lumpur."
+    },
+    {
+      "name": "Taman Paramount",
+      "slug": "taman-paramount",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Professionals, Families",
+      "description": "Taman Paramount offers a balanced urban lifestyle with LRT connectivity, cafes, restaurants and established residential communities. Tenants choose this area for its convenience and accessibility within Petaling Jaya."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 2500,
+      "mrtAccess": false,
+      "distanceFromArea": 12,
+      "popularFor": "Expats, Executives, Families",
+      "description": "Mont Kiara is a premium expatriate neighbourhood near Petaling Jaya featuring luxury condominiums, international schools and upscale lifestyle facilities. Petaling Jaya provides a more affordable rental option for tenants working near Mont Kiara and Kuala Lumpur."
+    },
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 2200,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Professionals, Expats",
+      "description": "Bangsar is a premium lifestyle and business district close to Petaling Jaya. Many professionals compare PJ rental properties with Bangsar because PJ offers larger homes and better rental value while maintaining excellent connectivity."
+    },
+    {
+      "name": "KL Sentral",
+      "slug": "kl-sentral",
+      "averageRent": 2300,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Office Workers, Expats, Frequent Travellers",
+      "description": "KL Sentral is Kuala Lumpur's main transportation and business hub. Petaling Jaya attracts tenants working in KL Sentral because it provides more affordable rental options with convenient LRT, MRT and road connectivity."
+    },
+    {
+      "name": "Subang Jaya",
+      "slug": "subang-jaya",
+      "averageRent": 1400,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Students, Professionals, Families",
+      "description": "Subang Jaya is a major residential and education hub near Petaling Jaya. It offers affordable apartments, condominiums and student accommodation with excellent access to universities, shopping malls and employment areas."
+    },
+    {
+      "name": "Shah Alam",
+      "slug": "shah-alam",
+      "averageRent": 1000,
+      "mrtAccess": false,
+      "distanceFromArea": 18,
+      "popularFor": "Families, Budget Tenants",
+      "description": "Shah Alam offers affordable rental properties compared with Petaling Jaya. It is suitable for tenants looking for larger homes and lower rental prices while commuting to PJ through highways and public transportation."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Petaling Jaya",
+      "url": "/master-room-rental-petaling-jaya"
+    },
+    {
+      "title": "Single Room Petaling Jaya",
+      "url": "/single-room-rental-petaling-jaya"
+    },
+    {
+      "title": "Condo Room Petaling Jaya",
+      "url": "/condo-room-rental-petaling-jaya"
+    },
+    {
+      "title": "Room Near PJ LRT Station",
+      "url": "/room-near-pj-lrt"
+    },
+    {
+      "title": "Room Near Taman Jaya LRT",
+      "url": "/room-near-taman-jaya-lrt"
+    },
+    {
+      "title": "Room Near Asia Jaya LRT",
+      "url": "/room-near-asia-jaya-lrt"
+    },
+    {
+      "title": "Petaling Jaya Room Rental",
+      "url": "/petaling-jaya-room-rental"
+    },
+    {
+      "title": "Cheap Room Rental Petaling Jaya",
+      "url": "/cheap-room-rental-petaling-jaya"
+    },
+    {
+      "title": "Affordable Apartment Petaling Jaya",
+      "url": "/affordable-apartment-petaling-jaya"
+    },
+    {
+      "title": "Luxury Condo Petaling Jaya For Rent",
+      "url": "/luxury-condo-petaling-jaya"
+    },
+    {
+      "title": "Studio Apartment Petaling Jaya",
+      "url": "/studio-apartment-petaling-jaya"
+    },
+    {
+      "title": "Fully Furnished Room Petaling Jaya",
+      "url": "/fully-furnished-room-petaling-jaya"
+    },
+    {
+      "title": "Room Near Bandar Utama MRT",
+      "url": "/room-near-bandar-utama-mrt"
+    },
+    {
+      "title": "Room Near Kelana Jaya LRT",
+      "url": "/room-near-kelana-jaya-lrt"
+    },
+    {
+      "title": "Expat Room Rental Petaling Jaya",
+      "url": "/expat-room-rental-petaling-jaya"
+    },
+    {
+      "title": "Family Apartment Rental Petaling Jaya",
+      "url": "/family-apartment-rental-petaling-jaya"
+    },
+    {
+      "title": "Student Room Rental Petaling Jaya",
+      "url": "/student-room-rental-petaling-jaya"
+    },
+    {
+      "title": "Serviced Apartment Petaling Jaya",
+      "url": "/serviced-apartment-petaling-jaya"
+    },
+    {
+      "title": "Room Near 1 Utama",
+      "url": "/room-near-1-utama"
+    },
+    {
+      "title": "Room Near Sunway",
+      "url": "/room-near-sunway"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a room for rent in Petaling Jaya cost?",
+      "answer": "Room rental prices in Petaling Jaya generally range from RM700 to RM2800 per month depending on room type, condominium quality, furnishing, facilities, location and distance to LRT or MRT stations."
+    },
+    {
+      "question": "What is the average room rental price in Petaling Jaya?",
+      "answer": "The average room rental price in Petaling Jaya is around RM1500 per month, while premium master rooms, serviced apartments and luxury condominiums may cost more."
+    },
+    {
+      "question": "Is Petaling Jaya a good place to rent a room?",
+      "answer": "Yes. Petaling Jaya is one of the most popular rental locations in Klang Valley because of its strategic location, excellent public transport, employment opportunities, shopping facilities and lifestyle convenience."
+    },
+    {
+      "question": "Where can I find cheap rooms for rent in Petaling Jaya?",
+      "answer": "Affordable rooms in Petaling Jaya can be found around SS2, Taman Paramount, Kelana Jaya, Section 17, Section 14 and nearby apartments while maintaining convenient access to transportation."
+    },
+    {
+      "question": "Are fully furnished rooms available for rent in Petaling Jaya?",
+      "answer": "Yes. Many Petaling Jaya room rentals come fully furnished with beds, wardrobes, air conditioning, WiFi, washing machines, kitchen facilities and condominium amenities."
+    },
+    {
+      "question": "What types of rooms are available for rent in Petaling Jaya?",
+      "answer": "Petaling Jaya offers master rooms, medium rooms, single rooms, private rooms, shared rooms, studio apartments, serviced residences and condominium rooms."
+    },
+    {
+      "question": "How much is a master room for rent in Petaling Jaya?",
+      "answer": "Master rooms in Petaling Jaya generally range from RM1400 to RM2800 per month depending on room size, attached bathroom, furnishing and condominium facilities."
+    },
+    {
+      "question": "How much is a single room for rent in Petaling Jaya?",
+      "answer": "Single rooms in Petaling Jaya usually range between RM700 and RM1500 per month depending on location, facilities and whether utilities are included."
+    },
+    {
+      "question": "How much is a medium room for rent in Petaling Jaya?",
+      "answer": "Medium rooms in Petaling Jaya generally cost between RM1000 and RM1800 per month depending on condominium type and location."
+    },
+    {
+      "question": "Are studio apartments available in Petaling Jaya?",
+      "answer": "Yes. Studio apartments and serviced residences are widely available in areas such as Kelana Jaya, Ara Damansara, Bandar Utama and central Petaling Jaya."
+    },
+    {
+      "question": "Are private rooms available in Petaling Jaya?",
+      "answer": "Yes. Many condominiums and apartments in Petaling Jaya offer private rooms with furnished options and access to shared facilities."
+    },
+    {
+      "question": "Are shared rooms available in Petaling Jaya?",
+      "answer": "Yes. Shared rooms are available for tenants looking for more affordable accommodation near workplaces, universities and transportation hubs."
+    },
+    {
+      "question": "Are there rooms near Petaling Jaya LRT stations?",
+      "answer": "Yes. Many rental properties are available near Taman Jaya LRT, Asia Jaya LRT, Taman Paramount LRT and Kelana Jaya LRT stations."
+    },
+    {
+      "question": "Can I find rooms near Taman Jaya LRT Station?",
+      "answer": "Yes. Rooms near Taman Jaya LRT are popular among professionals because of easy access to Kuala Lumpur, Bangsar and Petaling Jaya offices."
+    },
+    {
+      "question": "Are there rooms near Asia Jaya LRT Station?",
+      "answer": "Yes. Asia Jaya LRT area offers convenient rental options close to PJ business districts, offices and commercial areas."
+    },
+    {
+      "question": "Are there rooms near Kelana Jaya LRT Station?",
+      "answer": "Yes. Kelana Jaya provides many condominium and apartment rental choices with excellent LRT connectivity."
+    },
+    {
+      "question": "Are there rooms near Bandar Utama MRT Station?",
+      "answer": "Yes. Tenants can find rental rooms near Bandar Utama MRT with convenient access to 1 Utama, offices and lifestyle facilities."
+    },
+    {
+      "question": "Can I live in Petaling Jaya without a car?",
+      "answer": "Yes. Petaling Jaya is suitable for car-free living due to LRT, MRT, KTM, buses, e-hailing services and excellent connectivity."
+    },
+    {
+      "question": "Why do professionals choose Petaling Jaya for rental?",
+      "answer": "Professionals choose Petaling Jaya because it provides easy access to offices in PJ, Bangsar, Kuala Lumpur, Bandar Utama, Subang and major business districts."
+    },
+    {
+      "question": "Is Petaling Jaya suitable for office workers?",
+      "answer": "Yes. Petaling Jaya is one of Klang Valley's largest employment areas with many offices, commercial centres and corporate buildings."
+    },
+    {
+      "question": "Are rooms near PJ Section 13 available?",
+      "answer": "Yes. Section 13 Petaling Jaya has strong rental demand due to nearby offices, commercial buildings and convenient road access."
+    },
+    {
+      "question": "Is Petaling Jaya popular among expatriates?",
+      "answer": "Yes. Petaling Jaya attracts expatriates because of international lifestyle facilities, modern condominiums, shopping malls and connectivity."
+    },
+    {
+      "question": "Can foreigners rent rooms in Petaling Jaya?",
+      "answer": "Yes. Many landlords in Petaling Jaya accept foreign tenants, especially in condominiums and serviced residences."
+    },
+    {
+      "question": "Are expat-friendly apartments available in Petaling Jaya?",
+      "answer": "Yes. Petaling Jaya offers many expat-friendly condominiums with security, swimming pools, gyms and modern facilities."
+    },
+    {
+      "question": "Is Petaling Jaya suitable for international students?",
+      "answer": "Yes. Students choose Petaling Jaya because of affordable rentals, transportation access and proximity to universities and colleges."
+    },
+    {
+      "question": "Are student rooms available near Petaling Jaya?",
+      "answer": "Yes. Affordable student rooms are available around SS2, Kelana Jaya, Section 17 and nearby areas."
+    },
+    {
+      "question": "Is Petaling Jaya suitable for families?",
+      "answer": "Yes. Petaling Jaya offers family-friendly condominiums, apartments, schools, healthcare facilities and shopping centres."
+    },
+    {
+      "question": "Are family apartments available in Petaling Jaya?",
+      "answer": "Yes. Families can find larger apartments and condominiums with multiple bedrooms and lifestyle facilities."
+    },
+    {
+      "question": "Are couple-friendly rooms available in Petaling Jaya?",
+      "answer": "Yes. Some master rooms, studios and serviced apartments allow couples depending on landlord approval."
+    },
+    {
+      "question": "Are rooms with private bathrooms available in Petaling Jaya?",
+      "answer": "Yes. Many master rooms and premium rental units include attached bathrooms."
+    },
+    {
+      "question": "Do Petaling Jaya rooms include WiFi?",
+      "answer": "Many furnished rooms include WiFi or allow tenants to arrange internet services depending on rental agreements."
+    },
+    {
+      "question": "Are utilities included in Petaling Jaya room rental?",
+      "answer": "Some rentals include electricity, water and internet while others require separate payment depending on landlord terms."
+    },
+    {
+      "question": "How much deposit is required for Petaling Jaya room rental?",
+      "answer": "Most landlords require security and utility deposits based on rental agreements, commonly calculated according to monthly rental value."
+    },
+    {
+      "question": "What documents are needed to rent a room in Petaling Jaya?",
+      "answer": "Tenants usually need identification documents, employment or student details, deposits and a signed tenancy agreement."
+    },
+    {
+      "question": "Are short-term rentals available in Petaling Jaya?",
+      "answer": "Yes. Some serviced apartments and residences offer short-term rental options depending on availability and building rules."
+    },
+    {
+      "question": "Are monthly rentals available in Petaling Jaya?",
+      "answer": "Yes. Monthly room rentals are available for professionals, students, expatriates and temporary residents."
+    },
+    {
+      "question": "What are the best areas to rent a room in Petaling Jaya?",
+      "answer": "Popular rental areas in Petaling Jaya include Bandar Utama, Kelana Jaya, SS2, Taman Paramount, Section 14, Section 17, Ara Damansara, Damansara Jaya and Kota Damansara."
+    },
+    {
+      "question": "Is Bandar Utama Petaling Jaya good for rental?",
+      "answer": "Yes. Bandar Utama is one of the most premium rental locations in Petaling Jaya because of 1 Utama Shopping Centre, MRT connectivity, offices and luxury condominiums."
+    },
+    {
+      "question": "Is Kelana Jaya a good place to rent a room?",
+      "answer": "Yes. Kelana Jaya is popular among professionals due to LRT connectivity, nearby offices, shopping malls, restaurants and convenient access to Kuala Lumpur."
+    },
+    {
+      "question": "Is SS2 Petaling Jaya suitable for room rental?",
+      "answer": "Yes. SS2 is a popular residential area offering affordable rooms, restaurants, cafes and convenient access to major PJ locations."
+    },
+    {
+      "question": "Is Section 17 Petaling Jaya good for students?",
+      "answer": "Yes. Section 17 is popular among students and young professionals due to affordable rentals, food options and accessibility to universities."
+    },
+    {
+      "question": "Is Section 14 Petaling Jaya good for professionals?",
+      "answer": "Yes. Section 14 is suitable for professionals because of nearby offices, commercial areas, shopping facilities and public transport."
+    },
+    {
+      "question": "Are luxury condos available for rent in Petaling Jaya?",
+      "answer": "Yes. Petaling Jaya has many luxury condominiums and serviced residences offering swimming pools, gyms, security and premium facilities."
+    },
+    {
+      "question": "What are the best condos for rent in Petaling Jaya?",
+      "answer": "Popular condominiums include Empire Damansara, Tropicana City Residences, PJ Midtown, Atria Sofo Suites, Pacific Place, The Grand Subang and Ara Damansara residences."
+    },
+    {
+      "question": "Is Petaling Jaya cheaper than Kuala Lumpur for rental?",
+      "answer": "Generally, Petaling Jaya offers competitive rental prices compared with central Kuala Lumpur while providing excellent access to business areas."
+    },
+    {
+      "question": "Why rent in Petaling Jaya instead of Kuala Lumpur?",
+      "answer": "Many tenants choose Petaling Jaya because it offers better rental value, larger residential options, lifestyle facilities and convenient access to Kuala Lumpur."
+    },
+    {
+      "question": "Are affordable apartments available in Petaling Jaya?",
+      "answer": "Yes. Petaling Jaya offers affordable apartments suitable for students, young professionals and budget tenants."
+    },
+    {
+      "question": "Are furnished apartments available in Petaling Jaya?",
+      "answer": "Yes. Many apartments and serviced residences in Petaling Jaya come fully furnished with modern facilities."
+    },
+    {
+      "question": "Are serviced apartments available in Petaling Jaya?",
+      "answer": "Yes. Serviced apartments are available in areas such as Bandar Utama, Ara Damansara, Kelana Jaya and central PJ."
+    },
+    {
+      "question": "Is Petaling Jaya good for remote workers?",
+      "answer": "Yes. Petaling Jaya offers reliable internet access, cafes, coworking spaces and comfortable residential environments suitable for remote workers."
+    },
+    {
+      "question": "Is Petaling Jaya suitable for digital nomads?",
+      "answer": "Yes. Digital nomads can find furnished rooms and serviced apartments with convenient access to cafes, malls and transportation."
+    },
+    {
+      "question": "Are rooms near 1 Utama available?",
+      "answer": "Yes. Many rental rooms and condominiums are available near 1 Utama Shopping Centre and Bandar Utama MRT Station."
+    },
+    {
+      "question": "Are rooms near The Curve available?",
+      "answer": "Yes. Tenants can find rental properties near The Curve and Mutiara Damansara with easy access to Petaling Jaya and Kuala Lumpur."
+    },
+    {
+      "question": "Are rooms near IKEA Damansara available?",
+      "answer": "Yes. Rental options near IKEA Damansara include apartments, condominiums and serviced residences."
+    },
+    {
+      "question": "Are rooms near Sunway Pyramid available?",
+      "answer": "Yes. Many tenants choose Petaling Jaya areas near Sunway Pyramid because of shopping, entertainment and employment opportunities."
+    },
+    {
+      "question": "Are rooms near Universiti Malaya available?",
+      "answer": "Yes. Petaling Jaya offers rental rooms near Universiti Malaya with convenient access through roads and public transport."
+    },
+    {
+      "question": "Are rooms near Taylor's University available?",
+      "answer": "Yes. Students can find rental accommodation around Subang Jaya and Petaling Jaya with easy access to Taylor's University."
+    },
+    {
+      "question": "Are rooms near Sunway University available?",
+      "answer": "Yes. Affordable rooms and apartments are available around Petaling Jaya and nearby Sunway areas."
+    },
+    {
+      "question": "Are rooms near Asia Pacific University available?",
+      "answer": "Yes. Students can find rental options with convenient transportation access to APU and surrounding areas."
+    },
+    {
+      "question": "Are there rooms near PJ Digital Mall?",
+      "answer": "Yes. Rental properties around central Petaling Jaya provide convenient access to Digital Mall and nearby commercial areas."
+    },
+    {
+      "question": "Are there rooms near Jaya One Petaling Jaya?",
+      "answer": "Yes. Jaya One area has nearby apartments and condominiums suitable for professionals and students."
+    },
+    {
+      "question": "Are rooms near The Starling Mall available?",
+      "answer": "Yes. Tenants can find rental rooms around Damansara Uptown and nearby Petaling Jaya residential areas."
+    },
+    {
+      "question": "Is Petaling Jaya connected to KLCC?",
+      "answer": "Yes. Petaling Jaya residents can reach KLCC through LRT, MRT, buses and major highways."
+    },
+    {
+      "question": "How far is Petaling Jaya from Kuala Lumpur city centre?",
+      "answer": "Petaling Jaya is approximately 10 to 15 kilometres from Kuala Lumpur city centre depending on the exact location."
+    },
+    {
+      "question": "Is Petaling Jaya near Bangsar?",
+      "answer": "Yes. Petaling Jaya is located close to Bangsar and provides convenient access through highways and public transportation."
+    },
+    {
+      "question": "Is Petaling Jaya near Mont Kiara?",
+      "answer": "Yes. Some Petaling Jaya areas provide convenient access to Mont Kiara through major highways."
+    },
+    {
+      "question": "Is Petaling Jaya near Subang Jaya?",
+      "answer": "Yes. Petaling Jaya shares close connectivity with Subang Jaya and is popular among tenants working in both areas."
+    },
+    {
+      "question": "Is Petaling Jaya safe for tenants?",
+      "answer": "Yes. Many Petaling Jaya condominiums provide security guards, CCTV monitoring, controlled access and modern safety features."
+    },
+    {
+      "question": "What facilities do Petaling Jaya condominiums provide?",
+      "answer": "Common facilities include swimming pools, gyms, security, parking spaces, playgrounds, gardens and recreational areas."
+    },
+    {
+      "question": "Can foreigners rent condos in Petaling Jaya?",
+      "answer": "Yes. Many Petaling Jaya condominiums accept foreign tenants depending on landlord requirements and tenancy conditions."
+    },
+    {
+      "question": "What is the cheapest room rental option in Petaling Jaya?",
+      "answer": "Budget rooms in Petaling Jaya usually include single rooms or shared rooms starting from around RM700 depending on location and facilities."
+    },
+    {
+      "question": "What is the best area in Petaling Jaya for working professionals?",
+      "answer": "Popular areas for working professionals in Petaling Jaya include Bandar Utama, Kelana Jaya, Section 13, Section 14, Ara Damansara and Damansara Uptown because of office accessibility and transportation options."
+    },
+    {
+      "question": "Where should young professionals rent in Petaling Jaya?",
+      "answer": "Young professionals often choose areas such as Bandar Utama, Kelana Jaya, SS2, Taman Paramount and Ara Damansara due to lifestyle facilities, cafes, malls and convenient commuting options."
+    },
+    {
+      "question": "Where can I find budget rooms under RM1000 in Petaling Jaya?",
+      "answer": "Budget rooms under RM1000 can be found in areas such as SS2, Section 17, Section 14, Kelana Jaya and older apartments around Petaling Jaya."
+    },
+    {
+      "question": "Are there rooms for rent near PJ offices?",
+      "answer": "Yes. Many rooms are available near Petaling Jaya office areas including Section 13, Section 14, Section 16, Bandar Utama and Ara Damansara."
+    },
+    {
+      "question": "Are there rooms near Menara MBPJ?",
+      "answer": "Yes. Central Petaling Jaya has many apartments and rooms available near Menara MBPJ and surrounding commercial areas."
+    },
+    {
+      "question": "Are there rooms near PJ City Centre?",
+      "answer": "Yes. Petaling Jaya city centre offers various rental options including apartments, condominium rooms and serviced residences."
+    },
+    {
+      "question": "Are there rooms near Amcorp Mall Petaling Jaya?",
+      "answer": "Yes. Rental properties near Amcorp Mall are popular due to LRT access, shopping facilities and connectivity to Kuala Lumpur."
+    },
+    {
+      "question": "Are there rooms near Taman Paramount LRT?",
+      "answer": "Yes. Taman Paramount offers convenient room rental options with access to LRT, restaurants and established residential neighbourhoods."
+    },
+    {
+      "question": "Are there rooms near Asia Jaya LRT for professionals?",
+      "answer": "Yes. Asia Jaya LRT is a popular location for professionals working in PJ because of nearby offices and direct transportation access."
+    },
+    {
+      "question": "Are there rooms near Phileo Damansara MRT?",
+      "answer": "Yes. Tenants can find rental properties near Phileo Damansara MRT with access to PJ, Bangsar and Kuala Lumpur."
+    },
+    {
+      "question": "Are there rooms near Taman Jaya LRT for students?",
+      "answer": "Yes. Students prefer rooms near Taman Jaya LRT because of affordable rentals and easy access to universities."
+    },
+    {
+      "question": "Are there rooms near Kelana Jaya Park?",
+      "answer": "Yes. Kelana Jaya offers many residential properties near parks, shopping areas and transportation facilities."
+    },
+    {
+      "question": "Are there rooms near Ara Damansara?",
+      "answer": "Yes. Ara Damansara has many modern condominiums, serviced apartments and furnished rooms suitable for professionals."
+    },
+    {
+      "question": "Are there rooms near Tropicana Mall?",
+      "answer": "Yes. Rental rooms and condominiums are available around Tropicana and nearby Petaling Jaya residential areas."
+    },
+    {
+      "question": "Are there rooms near Tropicana Gardens MRT?",
+      "answer": "Yes. Tropicana Gardens MRT provides convenient transportation and nearby residential options for tenants."
+    },
+    {
+      "question": "Are there rooms near Kota Damansara?",
+      "answer": "Yes. Kota Damansara offers various rental rooms, apartments and condominiums with good access to Petaling Jaya."
+    },
+    {
+      "question": "Are there rooms near Damansara Perdana?",
+      "answer": "Yes. Damansara Perdana has many affordable and premium rental properties close to Petaling Jaya and Mutiara Damansara."
+    },
+    {
+      "question": "Are there rooms near Empire Damansara?",
+      "answer": "Yes. Empire Damansara and surrounding areas offer studio units, rooms and serviced apartments popular among professionals."
+    },
+    {
+      "question": "Are there rooms near The Curve Petaling Jaya?",
+      "answer": "Yes. Tenants can find rental properties around Mutiara Damansara, Damansara Perdana and nearby Petaling Jaya areas."
+    },
+    {
+      "question": "Are there condominium rooms for rent in Petaling Jaya?",
+      "answer": "Yes. Petaling Jaya has a wide selection of condominium rooms with facilities such as swimming pools, gyms, security and parking."
+    },
+    {
+      "question": "Are there premium condominium rentals in Petaling Jaya?",
+      "answer": "Yes. Premium condominium rentals are available in Bandar Utama, Tropicana, Ara Damansara and Damansara areas."
+    },
+    {
+      "question": "Are there affordable condo rentals in Petaling Jaya?",
+      "answer": "Yes. Tenants can find affordable condominium rentals in older but well-maintained developments across Petaling Jaya."
+    },
+    {
+      "question": "Is Petaling Jaya suitable for budget tenants?",
+      "answer": "Yes. Petaling Jaya offers a wide range of budget rental options including shared rooms, single rooms and affordable apartments."
+    },
+    {
+      "question": "Is Petaling Jaya suitable for premium tenants?",
+      "answer": "Yes. Premium tenants can find luxury condominiums, serviced apartments and executive residences with modern facilities."
+    },
+    {
+      "question": "Are pet-friendly rentals available in Petaling Jaya?",
+      "answer": "Some condominiums and apartments in Petaling Jaya allow pets depending on building management rules and landlord approval."
+    },
+    {
+      "question": "Are parking facilities available in Petaling Jaya rentals?",
+      "answer": "Many condominium and apartment rentals in Petaling Jaya provide dedicated parking spaces or visitor parking facilities."
+    },
+    {
+      "question": "Can I rent a room monthly in Petaling Jaya?",
+      "answer": "Yes. Monthly room rentals are widely available in Petaling Jaya for students, professionals and temporary residents."
+    },
+    {
+      "question": "Can I find no-deposit room rental in Petaling Jaya?",
+      "answer": "Some rental providers may offer flexible deposit arrangements depending on rental terms, landlord agreement and tenancy conditions."
+    },
+    {
+      "question": "Are female-only rooms available in Petaling Jaya?",
+      "answer": "Yes. Some landlords and rental providers offer female-only rooms in selected apartments and condominiums."
+    },
+    {
+      "question": "Are male-only rooms available in Petaling Jaya?",
+      "answer": "Yes. Male-only room rental options may be available depending on property availability and tenant preferences."
+    }
+  ],
+  "focusKeywords": [
+    "Petaling Jaya room for rent",
+    "Petaling Jaya room rental",
+    "PJ room for rent",
+    "PJ room rental Kuala Lumpur",
+    "Petaling Jaya condo for rent",
+    "Petaling Jaya apartment for rent",
+    "room near Petaling Jaya LRT",
+    "room near Taman Jaya LRT",
+    "room near Asia Jaya LRT",
+    "room near Taman Paramount LRT",
+    "room near Kelana Jaya LRT",
+    "room near Bandar Utama MRT",
+    "furnished room Petaling Jaya",
+    "fully furnished room PJ",
+    "cheap room Petaling Jaya",
+    "affordable room rental PJ",
+    "luxury condo Petaling Jaya for rent",
+    "Petaling Jaya condominium rental",
+    "Petaling Jaya rental property",
+    "studio apartment Petaling Jaya",
+    "master room Petaling Jaya",
+    "single room Petaling Jaya",
+    "medium room Petaling Jaya",
+    "private room Petaling Jaya",
+    "shared room Petaling Jaya",
+    "monthly rental Petaling Jaya",
+    "serviced apartment Petaling Jaya",
+    "expat housing Petaling Jaya",
+    "professional room rental PJ",
+    "student accommodation Petaling Jaya",
+    "family apartment Petaling Jaya",
+    "premium condo Petaling Jaya",
+    "executive apartment PJ",
+    "MRT connected rental Petaling Jaya",
+    "LRT connected rental Petaling Jaya",
+    "room near 1 Utama",
+    "room near Bandar Utama",
+    "room near Sunway",
+    "room near SS2 Petaling Jaya",
+    "room near Paradigm Mall PJ",
+    "room near Amcorp Mall",
+    "room near Jaya 33",
+    "room near Petaling Jaya Section 13"
+  ],
+
+  "longTailKeywords": [
+    "fully furnished room for rent in Petaling Jaya near LRT station",
+    "cheap room rental in Petaling Jaya for working professionals",
+    "affordable room rental near Taman Jaya LRT Kuala Lumpur",
+    "best room rental in Petaling Jaya Malaysia",
+    "luxury condo for rent in Petaling Jaya Kuala Lumpur",
+    "expat friendly apartment for rent in Petaling Jaya",
+    "master room with private bathroom for rent in PJ",
+    "studio apartment for rent in Petaling Jaya fully furnished",
+    "room near Petaling Jaya LRT station for professionals",
+    "room near Asia Jaya LRT station with easy transportation",
+    "room near Taman Jaya LRT station Petaling Jaya",
+    "premium condominium rental in Petaling Jaya",
+    "fully furnished condo room near Bandar Utama PJ",
+    "cheap master room rental near Kelana Jaya LRT",
+    "affordable apartment rental near 1 Utama Shopping Centre",
+    "private room with attached bathroom for rent in Petaling Jaya",
+    "best area to rent room near Bandar Utama from PJ",
+    "room rental near Sunway Petaling Jaya",
+    "student accommodation near Petaling Jaya LRT station",
+    "modern serviced residence for rent in Petaling Jaya",
+    "monthly room rental near Petaling Jaya shopping malls",
+    "budget room rental near SS2 Petaling Jaya",
+    "condo room rental near Kelana Jaya PJ",
+    "room for rent near Paradigm Mall Petaling Jaya",
+    "professional accommodation near PJ LRT",
+    "family apartment rental near Bandar Utama",
+    "cheap furnished room near Petaling Jaya Kuala Lumpur",
+    "high quality condo rental near Petaling Jaya transit",
+    "room rental for foreigners in Petaling Jaya",
+    "affordable housing near Bangsar and Kuala Lumpur",
+    "best furnished room rental area in Petaling Jaya",
+    "room near PJ office areas for working professionals",
+    "condo room near Asia Jaya business district",
+    "affordable master room near Petaling Jaya city centre",
+    "fully furnished apartment near Bandar Utama MRT",
+    "room rental near The Curve and 1 Utama",
+    "safe family apartment rental in Petaling Jaya",
+    "short term furnished room rental Petaling Jaya",
+    "premium serviced apartment Petaling Jaya Malaysia",
+    "budget friendly room under RM1000 Petaling Jaya"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Petaling Jaya",
+      "budget room near PJ LRT",
+      "student room near Taman Jaya LRT",
+      "student accommodation Petaling Jaya Kuala Lumpur",
+      "student rental room PJ",
+      "shared room rental Petaling Jaya",
+      "cheap furnished room PJ",
+      "budget apartment near Asia Jaya LRT",
+      "student accommodation near Petaling Jaya transport",
+      "room near universities in Petaling Jaya",
+      "affordable student room near Sunway",
+      "student room near SS2 Petaling Jaya"
+    ],
+    "expat": [
+      "expat housing Petaling Jaya",
+      "furnished condo Petaling Jaya",
+      "serviced apartment Petaling Jaya",
+      "international tenant friendly condo PJ",
+      "luxury apartment rental Petaling Jaya",
+      "premium condo near Bandar Utama",
+      "comfortable rental near 1 Utama",
+      "fully furnished apartment Petaling Jaya Kuala Lumpur",
+      "expat friendly residence near PJ",
+      "modern condominium for foreigners in PJ"
+    ],
+    "professional": [
+      "Petaling Jaya condo near LRT",
+      "room near Taman Jaya LRT for professionals",
+      "room near Asia Jaya offices",
+      "room near Bandar Utama MRT for professionals",
+      "room near Kelana Jaya LRT",
+      "room near PJ Section 13 offices",
+      "premium apartment Petaling Jaya",
+      "executive residence Petaling Jaya",
+      "working professional room rental PJ",
+      "corporate housing Petaling Jaya",
+      "room near PJ business district",
+      "MRT LRT connected room rental PJ"
+    ],
+    "shortStay": [
+      "short term rental Petaling Jaya",
+      "monthly rental Petaling Jaya",
+      "serviced residence Petaling Jaya",
+      "flexible room rental PJ",
+      "short stay apartment Petaling Jaya Kuala Lumpur",
+      "temporary accommodation Petaling Jaya",
+      "monthly furnished room PJ",
+      "weekly rental Petaling Jaya",
+      "business traveller accommodation PJ",
+      "temporary housing near Petaling Jaya offices"
+    ],
+    "premiumIntent": [
+      "luxury condo Petaling Jaya for rent",
+      "high end apartment Petaling Jaya",
+      "executive residence PJ",
+      "premium serviced apartment Petaling Jaya",
+      "luxury condominium rental near Bandar Utama",
+      "modern condo rental Petaling Jaya Kuala Lumpur",
+      "premium furnished room PJ",
+      "exclusive apartment near 1 Utama",
+      "luxury residence near MRT Petaling Jaya",
+      "premium condo near Ara Damansara"
+    ],
+    "family": [
+      "family apartment Petaling Jaya",
+      "3 bedroom condo Petaling Jaya rental",
+      "family friendly condo near Bandar Utama",
+      "safe residential area Petaling Jaya",
+      "large apartment rental PJ Kuala Lumpur",
+      "family house rental Petaling Jaya",
+      "child friendly condominium PJ",
+      "quiet neighbourhood rental Petaling Jaya",
+      "family condo near schools in PJ",
+      "spacious apartment for rent Petaling Jaya"
+    ],
+    "budgetTenant": [
+      "cheap room Petaling Jaya Kuala Lumpur",
+      "low budget rental Petaling Jaya",
+      "affordable apartment PJ",
+      "room under RM1000 Petaling Jaya",
+      "budget friendly room near PJ LRT",
+      "cheap furnished room PJ",
+      "low cost accommodation Petaling Jaya",
+      "affordable shared room PJ",
+      "cheap rental near Petaling Jaya transport",
+      "budget apartment near SS2 PJ"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Petaling Jaya room for rent",
+    "secondaryKeywords": [
+      "Petaling Jaya room rental",
+      "PJ room for rent",
+      "Petaling Jaya condo for rent",
+      "Petaling Jaya apartment for rent",
+      "room near Taman Jaya LRT",
+      "room near Asia Jaya LRT",
+      "room near Kelana Jaya LRT",
+      "room near Bandar Utama MRT",
+      "furnished room Petaling Jaya",
+      "fully furnished room PJ",
+      "cheap room Petaling Jaya Kuala Lumpur",
+      "luxury condo Petaling Jaya",
+      "expat housing Petaling Jaya",
+      "serviced apartment Petaling Jaya",
+      "master room Petaling Jaya",
+      "room near 1 Utama from Petaling Jaya",
+      "room near Sunway from Petaling Jaya",
+      "room near Bangsar from Petaling Jaya",
+      "room near Kuala Lumpur from Petaling Jaya"
+    ],
+    "seoScore": 98,
+    "canonicalUrl": "https://yourdomain.com/kuala-lumpur/petaling-jaya/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "connected-affordable-premium-petaling-jaya-rentals",
+    "contentCluster": [
+      "Petaling Jaya room rental",
+      "PJ condo rental",
+      "Petaling Jaya apartment rental",
+      "LRT connected rentals Petaling Jaya",
+      "MRT connected rentals Petaling Jaya",
+      "affordable rental properties Kuala Lumpur",
+      "student accommodation Petaling Jaya",
+      "professional housing Petaling Jaya",
+      "expat housing Kuala Lumpur",
+      "Bandar Utama nearby accommodation",
+      "Sunway nearby accommodation",
+      "Bangsar affordable rental alternative",
+      "furnished rooms Petaling Jaya",
+      "premium condominiums PJ",
+      "family friendly rentals Petaling Jaya"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Bandar Utama",
+        "Damansara Utama",
+        "Kelana Jaya",
+        "Ara Damansara",
+        "SS2 Petaling Jaya",
+        "Taman Paramount",
+        "Subang Jaya",
+        "Sunway",
+        "Bangsar",
+        "Mont Kiara",
+        "KL Sentral",
+        "Kuala Lumpur City Centre"
+      ],
+      "nearbyHotspots": [
+        "Taman Jaya LRT Station",
+        "Asia Jaya LRT Station",
+        "Taman Paramount LRT Station",
+        "Kelana Jaya LRT Station",
+        "Bandar Utama MRT Station",
+        "1 Utama Shopping Centre",
+        "The Curve",
+        "Paradigm Mall PJ",
+        "Amcorp Mall",
+        "Jaya 33",
+        "PJ Section 13",
+        "Sunway Pyramid"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Petaling Jaya Rooms for Rent",
+        "url": "/room-rental-petaling-jaya",
+        "keyword": "petaling jaya room for rent"
+      },
+      {
+        "title": "PJ Condos for Rent",
+        "url": "/condo-for-rent-petaling-jaya",
+        "keyword": "petaling jaya condo for rent"
+      },
+      {
+        "title": "Cheap Rooms in Petaling Jaya",
+        "url": "/cheap-room-petaling-jaya",
+        "keyword": "cheap room petaling jaya"
+      },
+      {
+        "title": "Rooms Near Taman Jaya LRT",
+        "url": "/room-near-taman-jaya-lrt",
+        "keyword": "room near taman jaya lrt"
+      },
+      {
+        "title": "Rooms Near Asia Jaya LRT",
+        "url": "/room-near-asia-jaya-lrt",
+        "keyword": "room near asia jaya lrt"
+      },
+      {
+        "title": "Rooms Near Kelana Jaya LRT",
+        "url": "/room-near-kelana-jaya-lrt",
+        "keyword": "room near kelana jaya lrt"
+      },
+      {
+        "title": "Rooms Near Bandar Utama MRT",
+        "url": "/room-near-bandar-utama-mrt",
+        "keyword": "room near bandar utama mrt"
+      },
+      {
+        "title": "Petaling Jaya Sunway Rental",
+        "url": "/petaling-jaya-sunway-room-rental",
+        "keyword": "room near sunway from petaling jaya"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Petaling Jaya Area Guide",
+        "url": "/area-guide-petaling-jaya",
+        "type": "guide"
+      },
+      {
+        "title": "Petaling Jaya Price Guide 2026",
+        "url": "/price-guide-petaling-jaya",
+        "type": "pricing"
+      },
+      {
+        "title": "Petaling Jaya LRT & MRT Guide",
+        "url": "/petaling-jaya-transit-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in Petaling Jaya",
+        "url": "/luxury-condo-petaling-jaya",
+        "type": "listing-category"
+      },
+      {
+        "title": "Expat Housing Petaling Jaya",
+        "url": "/expat-housing-petaling-jaya",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Petaling Jaya",
+        "url": "/furnished-room-petaling-jaya",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Petaling Jaya",
+        "url": "/short-term-rental-petaling-jaya",
+        "type": "rental-type"
+      },
+      {
+        "title": "Rooms Near Bandar Utama From Petaling Jaya",
+        "url": "/room-near-bandar-utama-petaling-jaya",
+        "type": "location-intent-page"
+      },
+      {
+        "title": "Rooms Near Sunway From Petaling Jaya",
+        "url": "/room-near-sunway-petaling-jaya",
+        "type": "location-intent-page"
+      },
+      {
+        "title": "Rooms Near Bangsar From Petaling Jaya",
+        "url": "/room-near-bangsar-petaling-jaya",
+        "type": "location-intent-page"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1922 @@
+{
+  "area": {
+    "name": "KL Sentral",
+    "slug": "kl-sentra",
+    "heroImage": "assets/images/areas/kl-sentra.jpg",
+    "metaTitle": "Rooms for Rent in KL Sentral | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in KL Sentral near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in KL Sentral – Complete Guide to Room Rental, Condo & Apartment Rental in Kuala Lumpur",
+    "description": "KL Sentral is one of Kuala Lumpur's most connected and strategically located residential and commercial hubs, making it one of the most searched areas for room rental, condo rental and apartment rental in Kuala Lumpur. Located in the heart of Kuala Lumpur, KL Sentral offers unmatched transportation connectivity, modern residential developments, business centres, shopping destinations, healthcare facilities and easy access to major employment districts. Whether you are searching for a master room for rent in KL Sentral, single room near KL Sentral Station, fully furnished room rental, condo room rental, serviced apartment, studio apartment or affordable accommodation near Kuala Lumpur city centre, KL Sentral provides rental options for professionals, expatriates, students, couples and families. The area is especially popular among executives working in multinational companies, financial institutions, technology companies and government offices because of its direct connectivity to Bangsar, Mid Valley, Bangsar South, KLCC, Bukit Bintang and Petaling Jaya. KL Sentral is home to Malaysia's largest transportation hub connecting MRT, LRT, KTM Komuter, KL Monorail, Express Rail Link (ERL) and RapidKL services. Residents enjoy easy access to Nu Sentral Mall, Little India Brickfields, Bangsar, Mid Valley Megamall, The Gardens Mall, University Malaya Medical Centre, Kuala Lumpur General Hospital and major business districts. With premium condominiums, serviced residences and affordable rooms available, KL Sentral remains one of the most desirable rental locations for tenants seeking convenience, connectivity and urban lifestyle living in Kuala Lumpur.",
+    "buttonText": "Explore KL Sentral Rental Guide",
+    "buttonLink": "/room-rental-kl-sentral",
+    "highlights": [
+      "Prime central Kuala Lumpur location with direct access to Malaysia's largest transportation hub",
+      "Wide selection of master rooms, single rooms, medium rooms, studio apartments, serviced residences and condominiums for rent",
+      "Excellent connectivity through KL Sentral MRT, LRT, KTM, Monorail and ERL transportation networks",
+      "Highly popular among professionals working in Kuala Lumpur CBD, Bangsar, Mid Valley and Bangsar South",
+      "Preferred residential location for expatriates due to international lifestyle facilities and connectivity",
+      "Walking distance to Nu Sentral Mall, restaurants, cafes, supermarkets and daily conveniences",
+      "Close proximity to Bangsar, Brickfields, Mid Valley, The Gardens Mall and Kuala Lumpur city centre",
+      "Ideal location for tenants who need easy airport access through KLIA Ekspres and KLIA Transit",
+      "Premium condominiums featuring swimming pools, gyms, security and modern facilities",
+      "Strong rental demand from executives, foreigners, students and frequent travellers",
+      "Affordable alternative compared with KLCC while maintaining excellent city accessibility",
+      "One of Kuala Lumpur's strongest rental markets due to unmatched public transportation connectivity",
+      "Suitable for tenants looking for car-free urban living with excellent accessibility",
+      "Strategic location near universities, hospitals, corporate offices and lifestyle destinations"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Malaysia's Largest Transportation Hub",
+        "description": "KL Sentral provides unmatched public transportation connectivity through KL Sentral Station, connecting KTM Komuter, MRT, LRT, KL Monorail, ERL and RapidKL services. Residents can easily travel to KLCC, Bukit Bintang, Bangsar, Petaling Jaya, Cyberjaya and Kuala Lumpur International Airport."
+      },
+      {
+        "icon": "fas fa-home",
+        "title": "Wide Range of Rental Properties",
+        "description": "KL Sentral offers diverse rental options including master rooms, private rooms, single rooms, condo rooms, studio apartments, serviced apartments and luxury residences suitable for different budgets and lifestyles."
+      },
+      {
+        "icon": "fas fa-briefcase",
+        "title": "Perfect Location for Professionals",
+        "description": "KL Sentral is highly preferred by professionals working in corporate offices, technology companies, financial institutions, government agencies and business districts due to its central location."
+      },
+      {
+        "icon": "fas fa-globe",
+        "title": "Expat-Friendly Residential Area",
+        "description": "The area attracts many expatriates because of international restaurants, premium residences, easy airport access, modern facilities and proximity to global business hubs."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping and Lifestyle Convenience",
+        "description": "Residents enjoy direct access to Nu Sentral Mall and nearby lifestyle destinations including Mid Valley Megamall, The Gardens Mall, Bangsar Shopping Centre and Brickfields dining areas."
+      },
+      {
+        "icon": "fas fa-hospital",
+        "title": "Nearby Healthcare Facilities",
+        "description": "KL Sentral residents benefit from convenient access to major healthcare facilities including University Malaya Medical Centre, Kuala Lumpur General Hospital and private medical centres around Bangsar."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Premium Condominiums and Serviced Residences",
+        "description": "KL Sentral features modern residential developments offering facilities such as swimming pools, gyms, security services, parking spaces, landscaped gardens and lifestyle amenities."
+      },
+      {
+        "icon": "fas fa-plane",
+        "title": "Direct Airport Connectivity",
+        "description": "KL Sentral is the main gateway to Kuala Lumpur International Airport through KLIA Ekspres and KLIA Transit, making it highly attractive for frequent travellers and international professionals."
+      }
+    ],
+    "popularResidences": [
+      "The Sentral Residences",
+      "Suasana Sentral Loft",
+      "Suasana Sentral Condominium",
+      "St Regis Residences Kuala Lumpur",
+      "Bangsar South Residences",
+      "The Establishment Bangsar South",
+      "Alia Premier",
+      "Sentral Suites",
+      "Q Sentral Residences",
+      "Menara Rajawali Residences",
+      "The Horizon Residences",
+      "Residensi Sentral",
+      "KL Sentral Suites",
+      "Nadi Bangsar",
+      "Verve Suites KL South",
+      "The Sentral Park",
+      "Bangsar Trade Centre Residences",
+      "Kerinchi Residences",
+      "The Vertical Bangsar South",
+      "Mid Valley Residences"
+    ],
+    "nearbyLandmarks": [
+      "KL Sentral Station",
+      "Nu Sentral Mall",
+      "Brickfields Little India",
+      "Bangsar",
+      "Bangsar South",
+      "Mid Valley Megamall",
+      "The Gardens Mall",
+      "Petaling Jaya",
+      "Kuala Lumpur City Centre",
+      "KLCC",
+      "Bukit Bintang",
+      "Tun Razak Exchange (TRX)",
+      "University Malaya",
+      "University Malaya Medical Centre",
+      "Kuala Lumpur General Hospital",
+      "National Museum Malaysia",
+      "Perdana Botanical Gardens",
+      "Merdeka Square",
+      "Central Market Kuala Lumpur",
+      "Kuala Lumpur International Airport"
+    ],
+    "nearbyUniversities": [
+      "University of Malaya (UM)",
+      "Asia Pacific University (APU)",
+      "Taylor's University",
+      "Sunway University",
+      "HELP University",
+      "Open University Malaysia",
+      "Tunku Abdul Rahman University of Management and Technology (TAR UMT)",
+      "Universiti Kuala Lumpur (UniKL)",
+      "UCSI University",
+      "International Medical University (IMU)"
+    ],
+    "majorEmployers": [
+      "Petronas",
+      "Maybank",
+      "CIMB Group",
+      "Public Bank",
+      "HSBC Malaysia",
+      "Standard Chartered Malaysia",
+      "Axiata Group",
+      "Telekom Malaysia",
+      "Maxis",
+      "CelcomDigi",
+      "Prudential Malaysia",
+      "IBM Malaysia",
+      "Microsoft Malaysia",
+      "Accenture Malaysia",
+      "Deloitte Malaysia",
+      "PwC Malaysia",
+      "EY Malaysia",
+      "KPMG Malaysia",
+      "Bangsar South companies",
+      "Mid Valley corporate offices",
+      "Kuala Lumpur Sentral business offices"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "KL Sentral Station",
+      "slug": "kl-sentral-station",
+      "stationType": "Integrated Transport Hub",
+      "line": "KTM Komuter, MRT, LRT, Monorail, ERL",
+      "walkingTime": "1-5 mins walk",
+      "distanceMeters": 200,
+      "distanceText": "1-5 mins walk",
+      "title": "KL Sentral Station",
+      "shortDescription": "KL Sentral Station is Malaysia's largest integrated transportation hub and one of the most important connectivity points in Kuala Lumpur. It provides direct access to KTM Komuter, MRT, LRT, KL Monorail and KLIA Express, making it one of the most searched locations for tenants looking for rooms and apartments near public transport.",
+      "averageRoomRent": 1600,
+      "nearbyLandmarks": [
+        "Nu Sentral Mall",
+        "Brickfields Little India",
+        "St Regis Kuala Lumpur"
+      ],
+      "nearbyResidences": [
+        "The Sentral Residences",
+        "Suasana Sentral Loft",
+        "Sentral Suites"
+      ],
+      "popularSearches": [
+        "Room near KL Sentral",
+        "KL Sentral room rental",
+        "Condo near KL Sentral Station"
+      ]
+    },
+    {
+      "name": "Muzium Negara MRT Station",
+      "slug": "muzium-negara-mrt",
+      "stationType": "MRT",
+      "line": "MRT Kajang Line",
+      "walkingTime": "3 mins walk",
+      "distanceMeters": 400,
+      "distanceText": "3 mins walk (400m)",
+      "title": "Muzium Negara MRT Station",
+      "shortDescription": "Muzium Negara MRT Station is directly connected to KL Sentral through a covered pedestrian link. It provides convenient access to major destinations including Bukit Bintang, Pasar Seni, TRX and central Kuala Lumpur, making nearby rentals highly attractive for professionals.",
+      "averageRoomRent": 1700,
+      "nearbyLandmarks": [
+        "National Museum Malaysia",
+        "KL Sentral",
+        "Perdana Botanical Gardens"
+      ],
+      "nearbyResidences": [
+        "The Sentral Residences",
+        "St Regis Residences Kuala Lumpur",
+        "Suasana Sentral Loft"
+      ],
+      "popularSearches": [
+        "Room near Muzium Negara MRT",
+        "KL Sentral MRT room rental",
+        "Condo near MRT KL Sentral"
+      ]
+    },
+    {
+      "name": "Bangsar LRT Station",
+      "slug": "bangsar-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1800,
+      "distanceText": "5 mins drive (1.8 km)",
+      "title": "Bangsar LRT Station",
+      "shortDescription": "Bangsar LRT Station is a popular nearby transit option for KL Sentral residents. The station provides easy access to Bangsar, KLCC, Petaling Jaya and major business areas, making surrounding properties popular among professionals and expatriates.",
+      "averageRoomRent": 1800,
+      "nearbyLandmarks": [
+        "Bangsar Village",
+        "Bangsar Shopping Centre",
+        "Bangsar South"
+      ],
+      "nearbyResidences": [
+        "Nadi Bangsar",
+        "The Establishment Bangsar South",
+        "Bangsar South Residences"
+      ],
+      "popularSearches": [
+        "Room near Bangsar LRT",
+        "Bangsar KL Sentral rental",
+        "Condo near Bangsar LRT"
+      ]
+    },
+    {
+      "name": "Abdullah Hukum LRT Station",
+      "slug": "abdullah-hukum-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "6 mins drive",
+      "distanceMeters": 2500,
+      "distanceText": "6 mins drive (2.5 km)",
+      "title": "Abdullah Hukum LRT Station",
+      "shortDescription": "Abdullah Hukum LRT Station serves the Bangsar South and Kerinchi areas near KL Sentral. It provides convenient connectivity to corporate offices, shopping malls and residential developments, making it popular among working professionals.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "Bangsar South",
+        "The Vertical",
+        "Mid Valley City"
+      ],
+      "nearbyResidences": [
+        "The Vertical Bangsar South",
+        "Alia Premier",
+        "Nexus Bangsar South"
+      ],
+      "popularSearches": [
+        "Room near Abdullah Hukum LRT",
+        "Bangsar South room rental",
+        "Affordable room near KL Sentral"
+      ]
+    },
+    {
+      "name": "Pasar Seni MRT Station",
+      "slug": "pasar-seni-mrt",
+      "stationType": "MRT",
+      "line": "MRT Kajang Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 3000,
+      "distanceText": "8 mins drive (3 km)",
+      "title": "Pasar Seni MRT Station",
+      "shortDescription": "Pasar Seni MRT Station connects KL Sentral residents to Kuala Lumpur's cultural district, Chinatown, Central Market and Bukit Bintang. It is popular among tenants looking for affordable city-centre accommodation.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "Central Market",
+        "Petaling Street",
+        "Merdeka Square"
+      ],
+      "nearbyResidences": [
+        "City Centre Apartments",
+        "Modern serviced residences Kuala Lumpur",
+        "Downtown Kuala Lumpur Condos"
+      ],
+      "popularSearches": [
+        "Room near Pasar Seni MRT",
+        "Cheap room near KL city centre",
+        "KL Sentral affordable rental"
+      ]
+    },
+    {
+      "name": "Abdullah Hukum KTM Station",
+      "slug": "abdullah-hukum-ktm",
+      "stationType": "KTM",
+      "line": "KTM Komuter",
+      "walkingTime": "7 mins drive",
+      "distanceMeters": 2800,
+      "distanceText": "7 mins drive (2.8 km)",
+      "title": "Abdullah Hukum KTM Station",
+      "shortDescription": "Abdullah Hukum KTM Station provides additional rail connectivity for residents around KL Sentral, Bangsar South and nearby residential areas. It is useful for tenants commuting between Kuala Lumpur and surrounding Klang Valley locations.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "Bangsar South",
+        "Mid Valley",
+        "Kerinchi"
+      ],
+      "nearbyResidences": [
+        "The Vertical Bangsar South",
+        "Kerinchi Residences",
+        "Bangsar South Apartments"
+      ],
+      "popularSearches": [
+        "Room near KTM Abdullah Hukum",
+        "KL Sentral KTM rental",
+        "Bangsar South room rental"
+      ]
+    },
+    {
+      "name": "KLCC LRT Station",
+      "slug": "klcc-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 6000,
+      "distanceText": "15 mins drive (6 km)",
+      "title": "KLCC LRT Station",
+      "shortDescription": "KLCC LRT Station connects KL Sentral residents directly to Kuala Lumpur's premier business and lifestyle district. Many professionals choose KL Sentral rentals because they can commute easily to KLCC while enjoying better rental value.",
+      "averageRoomRent": 2200,
+      "nearbyLandmarks": [
+        "Petronas Twin Towers",
+        "Suria KLCC",
+        "KLCC Park"
+      ],
+      "nearbyResidences": [
+        "Luxury KLCC Condominiums",
+        "Serviced Apartments KLCC",
+        "Executive Residences Kuala Lumpur"
+      ],
+      "popularSearches": [
+        "Room near KLCC from KL Sentral",
+        "KLCC working professional rental",
+        "Executive room Kuala Lumpur"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 800,
+      "maxPrice": 1500
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 1200,
+      "maxPrice": 1900
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1600,
+      "maxPrice": 2800
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 2200,
+      "maxPrice": 4500
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1700,
+    "priceGrowth": 6.2,
+    "demandLevel": "Very High",
+    "vacancyRate": 1.8
+  },
+  "nearbyAreas": [
+    {
+      "name": "Brickfields",
+      "slug": "brickfields",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 1,
+      "popularFor": "Students, Professionals, Foreign Tenants",
+      "description": "Brickfields is the closest neighbourhood to KL Sentral and is one of Kuala Lumpur's most popular rental areas. It offers affordable rooms, apartments and condominiums with direct walking access to KL Sentral Station, Nu Sentral Mall, restaurants and daily amenities."
+    },
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 1800,
+      "mrtAccess": true,
+      "distanceFromArea": 2,
+      "popularFor": "Professionals, Expats, Executives",
+      "description": "Bangsar is a premium residential neighbourhood near KL Sentral known for upscale condominiums, cafes, restaurants and excellent connectivity. Many professionals choose Bangsar rentals due to its proximity to KL Sentral, Bangsar South and Kuala Lumpur business districts."
+    },
+    {
+      "name": "Bangsar South",
+      "slug": "bangsar-south",
+      "averageRent": 1600,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Corporate Professionals, Expats",
+      "description": "Bangsar South is a modern business and residential district near KL Sentral featuring high-rise condominiums, serviced residences, corporate offices and lifestyle facilities. It is highly popular among tenants working in multinational companies."
+    },
+    {
+      "name": "Mid Valley",
+      "slug": "mid-valley",
+      "averageRent": 1500,
+      "mrtAccess": false,
+      "distanceFromArea": 3,
+      "popularFor": "Professionals, Families, Shoppers",
+      "description": "Mid Valley is one of Kuala Lumpur's major commercial and lifestyle destinations featuring Mid Valley Megamall and The Gardens Mall. Nearby residential areas provide convenient rental options for people working around KL Sentral and central Kuala Lumpur."
+    },
+    {
+      "name": "Kerinchi",
+      "slug": "kerinchi",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Students, Young Professionals",
+      "description": "Kerinchi offers more affordable rental properties near KL Sentral and Bangsar South. With LRT connectivity and nearby universities and offices, it is suitable for students and young professionals seeking budget-friendly accommodation."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Professionals, Families",
+      "description": "Petaling Jaya is a major employment and residential area near Kuala Lumpur. KL Sentral residents enjoy easy access to PJ through KTM, LRT and major highways, making it a practical rental location."
+    },
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 2200,
+      "mrtAccess": true,
+      "distanceFromArea": 6,
+      "popularFor": "Executives, Expats, Finance Professionals",
+      "description": "KLCC is Kuala Lumpur's premier business and lifestyle district. Many professionals choose KL Sentral rentals as a more affordable alternative while maintaining convenient access to KLCC offices and attractions."
+    },
+    {
+      "name": "Bukit Bintang",
+      "slug": "bukit-bintang",
+      "averageRent": 1800,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Professionals, Tourists, Expats",
+      "description": "Bukit Bintang is Kuala Lumpur's entertainment and shopping district. KL Sentral provides excellent connectivity to Bukit Bintang through public transportation, making it attractive for tenants seeking city-centre living."
+    },
+    {
+      "name": "Tun Razak Exchange (TRX)",
+      "slug": "trx",
+      "averageRent": 2000,
+      "mrtAccess": true,
+      "distanceFromArea": 7,
+      "popularFor": "Finance Professionals, Executives",
+      "description": "TRX is Malaysia's international financial district. Professionals working in TRX often consider KL Sentral due to its excellent MRT connectivity and competitive rental prices."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 2200,
+      "mrtAccess": false,
+      "distanceFromArea": 10,
+      "popularFor": "Expats, Families",
+      "description": "Mont Kiara is a premium expatriate neighbourhood known for luxury condominiums, international schools and upscale facilities. KL Sentral remains attractive for tenants who prefer stronger public transport connectivity."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room KL Sentral",
+      "url": "/master-room-rental-kl-sentral"
+    },
+    {
+      "title": "Single Room KL Sentral",
+      "url": "/single-room-rental-kl-sentral"
+    },
+    {
+      "title": "Condo Room KL Sentral",
+      "url": "/condo-room-rental-kl-sentral"
+    },
+    {
+      "title": "Room Near KL Sentral Station",
+      "url": "/room-near-kl-sentral-station"
+    },
+    {
+      "title": "Room Near KL Sentral MRT",
+      "url": "/room-near-kl-sentral-mrt"
+    },
+    {
+      "title": "KL Sentral Bangsar Room Rental",
+      "url": "/kl-sentral-bangsar-room-rental"
+    },
+    {
+      "title": "Studio Apartment KL Sentral",
+      "url": "/studio-apartment-kl-sentral"
+    },
+    {
+      "title": "Luxury Condo KL Sentral",
+      "url": "/luxury-condo-kl-sentral"
+    },
+    {
+      "title": "Expat Room Rental KL Sentral",
+      "url": "/expat-room-rental-kl-sentral"
+    },
+    {
+      "title": "Affordable Room Rental KL Sentral",
+      "url": "/cheap-room-rental-kl-sentral"
+    },
+    {
+      "title": "Room Near Nu Sentral Mall",
+      "url": "/room-near-nu-sentral"
+    },
+    {
+      "title": "Room Near Bangsar LRT",
+      "url": "/room-near-bangsar-lrt"
+    },
+    {
+      "title": "Room Near Muzium Negara MRT",
+      "url": "/room-near-muzium-negara-mrt"
+    },
+    {
+      "title": "Fully Furnished Room KL Sentral",
+      "url": "/fully-furnished-room-kl-sentral"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at The Sentral Residences",
+      "price": 2200,
+      "rentedDate": "2026-06-05"
+    },
+    {
+      "title": "Single Room at Suasana Sentral Loft",
+      "price": 1200,
+      "rentedDate": "2026-05-30"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 1400,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1600,
+      "occupation": "Marketing Executive"
+    },
+    {
+      "gender": "Any",
+      "budget": 1800,
+      "occupation": "International Student"
+    },
+    {
+      "gender": "Any",
+      "budget": 2200,
+      "occupation": "Finance Professional"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a room for rent in KL Sentral cost?",
+      "answer": "Room rental prices in KL Sentral generally range from RM800 to RM2800 per month depending on room type, condominium quality, furnishing level, facilities, location, transportation access and proximity to KL Sentral Station."
+    },
+    {
+      "question": "What is the average rental price in KL Sentral?",
+      "answer": "The average room rental price in KL Sentral is around RM1700 per month, while premium master rooms, serviced residences and luxury condominiums may cost more due to their location, facilities and connectivity."
+    },
+    {
+      "question": "Is KL Sentral a good place to rent a room in Kuala Lumpur?",
+      "answer": "Yes. KL Sentral is one of the best rental locations in Kuala Lumpur because it offers excellent transportation connectivity, nearby shopping malls, business districts, restaurants, healthcare facilities and modern residential options."
+    },
+    {
+      "question": "Where can I find cheap rooms for rent near KL Sentral?",
+      "answer": "Affordable rooms near KL Sentral can be found around Brickfields, Kerinchi, Bangsar South and nearby residential apartments while still providing convenient access to KL Sentral Station and Kuala Lumpur city centre."
+    },
+    {
+      "question": "Are fully furnished rooms available for rent in KL Sentral?",
+      "answer": "Yes. Many KL Sentral room rentals are fully furnished with beds, wardrobes, air conditioning, WiFi, washing machines, kitchen facilities and condominium amenities."
+    },
+    {
+      "question": "What types of rooms are available for rent in KL Sentral?",
+      "answer": "KL Sentral offers master rooms, medium rooms, single rooms, private rooms, shared rooms, studio apartments, serviced apartments and condominium rooms suitable for professionals, students, expatriates and families."
+    },
+    {
+      "question": "How much is a master room for rent in KL Sentral?",
+      "answer": "Master rooms in KL Sentral typically range from RM1600 to RM2800 per month depending on attached bathroom, room size, furnishing, condominium facilities and distance to transportation hubs."
+    },
+    {
+      "question": "How much is a single room for rent in KL Sentral?",
+      "answer": "Single rooms near KL Sentral generally cost between RM800 and RM1500 per month depending on property location, facilities, furnishing level and included amenities."
+    },
+    {
+      "question": "How much is a medium room for rent in KL Sentral?",
+      "answer": "Medium room rentals around KL Sentral generally range between RM1200 and RM1900 per month depending on condominium quality, room size and included facilities."
+    },
+    {
+      "question": "Are studio apartments available for rent near KL Sentral?",
+      "answer": "Yes. KL Sentral and nearby areas offer studio apartments and serviced residences suitable for professionals, couples and tenants who prefer private living spaces."
+    },
+    {
+      "question": "Are private rooms available near KL Sentral?",
+      "answer": "Yes. Many condominiums and apartments near KL Sentral offer private rooms with furnished options, attached bathrooms and access to shared facilities."
+    },
+    {
+      "question": "Are shared rooms available near KL Sentral?",
+      "answer": "Yes. Shared accommodation options are available around Brickfields, Kerinchi and nearby residential areas for tenants looking for affordable rental solutions."
+    },
+    {
+      "question": "Are there rooms near KL Sentral Station?",
+      "answer": "Yes. Many apartments, condominiums and serviced residences are located within walking or short driving distance from KL Sentral Station."
+    },
+    {
+      "question": "Can I find a room near KL Sentral MRT?",
+      "answer": "Yes. KL Sentral is connected to Muzium Negara MRT Station, providing convenient access to major destinations through the MRT Kajang Line."
+    },
+    {
+      "question": "Are there rooms near Muzium Negara MRT Station?",
+      "answer": "Yes. Many rental properties around KL Sentral and Brickfields provide convenient access to Muzium Negara MRT Station."
+    },
+    {
+      "question": "Are there rooms near KL Sentral KTM Station?",
+      "answer": "Yes. KL Sentral KTM Station connects residents to multiple Klang Valley locations, making nearby rental properties popular among commuters."
+    },
+    {
+      "question": "Are there rooms near KLIA Express KL Sentral?",
+      "answer": "Yes. KL Sentral is the main KLIA Express terminal, making it ideal for frequent travellers, airline employees and international professionals."
+    },
+    {
+      "question": "Can I live in KL Sentral without owning a car?",
+      "answer": "Yes. KL Sentral is one of the best areas in Kuala Lumpur for car-free living because residents can use MRT, LRT, KTM, Monorail, ERL and bus services."
+    },
+    {
+      "question": "Why do professionals choose KL Sentral for rental?",
+      "answer": "Professionals choose KL Sentral because it provides quick access to corporate areas including Bangsar South, Bangsar, Mid Valley, KLCC and Kuala Lumpur city centre."
+    },
+    {
+      "question": "Is KL Sentral suitable for office workers?",
+      "answer": "Yes. KL Sentral is ideal for office workers because it is surrounded by corporate offices, business centres and excellent public transportation connections."
+    },
+    {
+      "question": "Are there rooms near Bangsar South offices?",
+      "answer": "Yes. KL Sentral is located close to Bangsar South and provides convenient transportation options for professionals working in the area."
+    },
+    {
+      "question": "Are there rooms near Mid Valley offices?",
+      "answer": "Yes. Tenants working around Mid Valley and The Gardens often choose KL Sentral due to its nearby location and convenient connectivity."
+    },
+    {
+      "question": "Is KL Sentral popular among expatriates?",
+      "answer": "Yes. KL Sentral is popular among expatriates due to its international environment, airport connectivity, modern residences and easy access to business districts."
+    },
+    {
+      "question": "Can foreigners rent rooms in KL Sentral?",
+      "answer": "Yes. Many landlords in KL Sentral accept foreign tenants, especially in condominiums and serviced residences popular among international professionals."
+    },
+    {
+      "question": "Are there expat-friendly apartments in KL Sentral?",
+      "answer": "Yes. KL Sentral offers expat-friendly residences with modern facilities, security, convenient transportation and access to international lifestyle amenities."
+    },
+    {
+      "question": "Is KL Sentral suitable for international students?",
+      "answer": "Yes. Students can find rental rooms around KL Sentral, Brickfields and Kerinchi with convenient transportation access to universities and colleges."
+    },
+    {
+      "question": "Are student rooms available near KL Sentral?",
+      "answer": "Yes. Affordable student accommodation is available around Brickfields and Kerinchi with easy access to public transport."
+    },
+    {
+      "question": "Is KL Sentral suitable for families?",
+      "answer": "Yes. Families can find larger apartments and condominiums near KL Sentral with access to schools, healthcare facilities, shopping malls and transportation."
+    },
+    {
+      "question": "Are couple-friendly rooms available in KL Sentral?",
+      "answer": "Yes. Some master rooms, studio apartments and serviced residences may allow couples depending on landlord approval and tenancy conditions."
+    },
+    {
+      "question": "Are rooms with private bathrooms available near KL Sentral?",
+      "answer": "Yes. Many master rooms and premium rental units around KL Sentral include attached private bathrooms for additional privacy and comfort."
+    },
+    {
+      "question": "Do KL Sentral rooms include WiFi?",
+      "answer": "Many fully furnished rooms near KL Sentral include WiFi or allow tenants to arrange internet services depending on rental agreements."
+    },
+    {
+      "question": "Are utilities included in KL Sentral room rental?",
+      "answer": "Some rentals include electricity, water and internet while others require separate payment depending on landlord terms."
+    },
+    {
+      "question": "What documents are required to rent a room in KL Sentral?",
+      "answer": "Tenants usually need identification documents, employment or student details, rental deposits and a signed tenancy agreement before moving into a KL Sentral rental property."
+    },
+    {
+      "question": "How much deposit is required for KL Sentral room rental?",
+      "answer": "Most KL Sentral rentals require security and utility deposits based on rental agreements, commonly calculated according to monthly rental value."
+    },
+    {
+      "question": "Are short-term rentals available in KL Sentral?",
+      "answer": "Some serviced apartments and residences around KL Sentral offer short-term rental options depending on availability and building regulations."
+    },
+    {
+      "question": "Are monthly room rentals available in KL Sentral?",
+      "answer": "Yes. Monthly rental rooms are available in KL Sentral and surrounding areas for professionals, students and temporary residents."
+    },
+    {
+      "question": "Is KL Sentral safe for tenants?",
+      "answer": "KL Sentral is considered a convenient urban area with many modern condominiums featuring security systems, CCTV monitoring and controlled access."
+    },
+    {
+      "question": "What facilities do KL Sentral condominiums provide?",
+      "answer": "Common facilities include swimming pools, gyms, security services, parking spaces, gardens, lounges and recreational areas."
+    },
+    {
+      "question": "Are there luxury condos for rent in KL Sentral?",
+      "answer": "Yes. KL Sentral offers premium residences including luxury condominiums and serviced apartments with swimming pools, gyms, security and modern lifestyle facilities."
+    },
+    {
+      "question": "What are the best condos near KL Sentral?",
+      "answer": "Popular residential developments near KL Sentral include The Sentral Residences, Suasana Sentral Loft, Sentral Suites and other nearby premium serviced residences."
+    },
+    {
+      "question": "Is KL Sentral cheaper than KLCC for rental properties?",
+      "answer": "Generally, KL Sentral offers better rental value compared with KLCC while still providing excellent connectivity to Kuala Lumpur's main business district."
+    },
+    {
+      "question": "Why rent in KL Sentral instead of Brickfields?",
+      "answer": "Many tenants choose KL Sentral for premium residences, direct transport access and proximity to business districts, while Brickfields provides more affordable rental options nearby."
+    },
+    {
+      "question": "Is KL Sentral good for people working in Bangsar South?",
+      "answer": "Yes. KL Sentral offers convenient access to Bangsar South through LRT, road connections and nearby transportation options."
+    },
+    {
+      "question": "How far is KL Sentral from KLIA?",
+      "answer": "KL Sentral provides direct airport connectivity through KLIA Express and KLIA Transit, making it one of the most convenient rental locations for frequent travellers."
+    },
+    {
+      "question": "Are KL Sentral rooms suitable for remote workers?",
+      "answer": "Yes. Many KL Sentral residences offer high-speed internet, cafes, shopping facilities and comfortable working environments suitable for remote professionals."
+    },
+    {
+      "question": "Are there rooms near Nu Sentral Mall?",
+      "answer": "Yes. Many rental properties near KL Sentral are located close to Nu Sentral Mall, offering convenient access to shopping, restaurants, supermarkets, cafes and daily necessities."
+    },
+    {
+      "question": "Are there rooms near Brickfields Kuala Lumpur?",
+      "answer": "Yes. Brickfields is one of the most popular nearby areas for affordable room rental near KL Sentral, offering many apartments, shops, restaurants and excellent public transportation access."
+    },
+    {
+      "question": "Is Brickfields a good place to rent near KL Sentral?",
+      "answer": "Yes. Brickfields is ideal for tenants looking for affordable rooms near KL Sentral because it is within walking distance and provides easy access to shops, restaurants and transportation."
+    },
+    {
+      "question": "Are there rooms near Little India KL?",
+      "answer": "Yes. Rooms near Little India KL are popular among tenants who want affordable accommodation close to KL Sentral, restaurants and public transport."
+    },
+    {
+      "question": "Are there rooms near Abdullah Hukum LRT Station?",
+      "answer": "Yes. Abdullah Hukum LRT Station is a convenient nearby transport option for tenants renting around KL Sentral, Bangsar South and Mid Valley areas."
+    },
+    {
+      "question": "Are there rooms near Bangsar LRT Station?",
+      "answer": "Yes. Tenants working in Bangsar and Bangsar South often choose KL Sentral rentals because of easy LRT and road connectivity."
+    },
+    {
+      "question": "Which MRT stations are near KL Sentral?",
+      "answer": "The nearest MRT station is Muzium Negara MRT Station, which is directly connected to KL Sentral through a covered walkway."
+    },
+    {
+      "question": "Which LRT station is near KL Sentral?",
+      "answer": "KL Sentral is connected to KL Sentral LRT Station and provides easy access to the Kelana Jaya Line."
+    },
+    {
+      "question": "Can I travel from KL Sentral to KLCC easily?",
+      "answer": "Yes. Residents renting near KL Sentral can easily travel to KLCC using LRT connections and other public transportation options."
+    },
+    {
+      "question": "Is KL Sentral suitable for fresh graduates?",
+      "answer": "Yes. KL Sentral is popular among fresh graduates because it offers affordable room rental options, excellent transportation and easy access to many employment areas."
+    },
+    {
+      "question": "Are female-only rooms available near KL Sentral?",
+      "answer": "Yes. Some landlords provide female-only rooms near KL Sentral with additional privacy and security features depending on availability."
+    },
+    {
+      "question": "Are working adults choosing KL Sentral for rental?",
+      "answer": "Yes. KL Sentral is highly preferred by working adults because it reduces commuting time and provides direct access to major business districts."
+    },
+    {
+      "question": "What are the advantages of living near KL Sentral?",
+      "answer": "Living near KL Sentral provides excellent connectivity, access to shopping malls, airport transportation, business districts, restaurants and modern residential facilities."
+    },
+    {
+      "question": "What companies are near KL Sentral?",
+      "answer": "KL Sentral is surrounded by corporate offices, multinational companies, financial institutions and business centres, making it attractive for professionals seeking nearby rental accommodation."
+    },
+    {
+      "question": "Is KL Sentral good for people working in Bangsar?",
+      "answer": "Yes. KL Sentral offers quick access to Bangsar through LRT, roads and nearby transportation connections, making it a popular rental choice."
+    },
+    {
+      "question": "Is KL Sentral expensive for room rental?",
+      "answer": "KL Sentral rental prices are generally higher than some outer Kuala Lumpur areas because of its premium location, but tenants benefit from excellent connectivity and convenience."
+    },
+    {
+      "question": "What is the best area to rent near KL Sentral?",
+      "answer": "Popular rental areas near KL Sentral include KL Sentral itself, Brickfields, Bangsar South, Kerinchi, Bangsar and Abdullah Hukum due to their accessibility."
+    },
+    {
+      "question": "Is KL Sentral better than Brickfields for rental?",
+      "answer": "KL Sentral offers more premium residences and direct transport access, while Brickfields usually provides more affordable rental choices within walking distance."
+    },
+    {
+      "question": "Is KL Sentral better than Bangsar for rental?",
+      "answer": "KL Sentral is preferred by tenants who prioritize transportation connectivity, while Bangsar is popular for lifestyle, cafes and premium residential areas."
+    },
+    {
+      "question": "Can I find affordable condo rental near KL Sentral?",
+      "answer": "Yes. Affordable condominium rentals can be found around nearby areas such as Brickfields, Kerinchi and Bangsar South while maintaining easy access to KL Sentral."
+    },
+    {
+      "question": "What is the closest residential area to KL Sentral?",
+      "answer": "The closest residential areas to KL Sentral include Brickfields, Sentral, Bangsar South, Kerinchi and Bangsar. These areas provide convenient room rental options within short walking or driving distance."
+    },
+    {
+      "question": "Are there rooms within walking distance from KL Sentral?",
+      "answer": "Yes. Several apartments, condominiums and serviced residences are located within walking distance or a short connection from KL Sentral Station."
+    },
+    {
+      "question": "Where should I rent if I work at KL Sentral?",
+      "answer": "Popular rental choices for KL Sentral workers include KL Sentral residences, Brickfields, Bangsar South, Kerinchi and Bangsar because they offer short commuting distances."
+    },
+    {
+      "question": "Are there rooms near corporate offices in KL Sentral?",
+      "answer": "Yes. KL Sentral has many nearby office towers and corporate buildings, making surrounding rental properties popular among executives and office workers."
+    },
+    {
+      "question": "Are there rooms near Menara Telekom?",
+      "answer": "Yes. Tenants working near Menara Telekom and Bangsar South often choose KL Sentral rentals because of convenient public transportation connections."
+    },
+    {
+      "question": "Are there rooms near Bangsar South LRT?",
+      "answer": "Yes. KL Sentral provides easy access to Bangsar South through LRT, buses and road connections, making it a preferred rental location."
+    },
+    {
+      "question": "Are there rooms near Mid Valley Megamall?",
+      "answer": "Yes. KL Sentral is located close to Mid Valley Megamall and The Gardens, making nearby rooms attractive for retail, office and business employees."
+    },
+    {
+      "question": "Are there rooms near The Gardens Mall?",
+      "answer": "Yes. Many tenants working around The Gardens Mall choose KL Sentral and nearby areas because of convenient transportation and affordable rental choices."
+    },
+    {
+      "question": "Are there rooms near NU Sentral Kuala Lumpur?",
+      "answer": "Yes. Rental properties near KL Sentral provide direct access to NU Sentral Mall, offering supermarkets, restaurants, cafes and daily necessities."
+    },
+    {
+      "question": "Are there rooms near Kuala Lumpur Sentral offices?",
+      "answer": "Yes. Many rental properties around KL Sentral are suitable for employees working in nearby corporate offices and business centres."
+    },
+    {
+      "question": "Is KL Sentral a good location for daily commuters?",
+      "answer": "Yes. KL Sentral is one of Kuala Lumpur's best locations for commuters because it connects multiple train networks including MRT, LRT, KTM, Monorail and ERL."
+    },
+    {
+      "question": "Can I rent a room near KL Sentral with easy airport access?",
+      "answer": "Yes. KL Sentral is one of the best rental areas for frequent travellers because KLIA Express and KLIA Transit provide direct airport connections."
+    },
+    {
+      "question": "Are serviced apartments available in KL Sentral?",
+      "answer": "Yes. KL Sentral has serviced residences and serviced apartments suitable for professionals, expatriates and tenants looking for furnished accommodation."
+    },
+    {
+      "question": "Are there condominium rooms near KL Sentral?",
+      "answer": "Yes. Many condominiums around KL Sentral offer room rental options with facilities such as swimming pools, gyms, security and parking."
+    },
+    {
+      "question": "Are there affordable apartments near KL Sentral?",
+      "answer": "Yes. Affordable apartments can be found in nearby neighbourhoods such as Brickfields, Kerinchi and Bangsar South while maintaining access to KL Sentral."
+    },
+    {
+      "question": "Is KL Sentral suitable for business travellers?",
+      "answer": "Yes. KL Sentral is suitable for business travellers because of its airport connection, hotels, offices, restaurants and central Kuala Lumpur location."
+    },
+    {
+      "question": "Is KL Sentral suitable for long-term rental?",
+      "answer": "Yes. KL Sentral offers many long-term rental options including rooms, apartments, condominiums and serviced residences."
+    },
+    {
+      "question": "Can I rent a room monthly in KL Sentral?",
+      "answer": "Yes. Monthly room rentals are available around KL Sentral for professionals, students, temporary workers and residents needing flexible accommodation."
+    },
+    {
+      "question": "Are there furnished apartments near KL Sentral?",
+      "answer": "Yes. Many furnished apartments near KL Sentral include furniture, appliances, internet facilities and condominium amenities."
+    },
+    {
+      "question": "Are KL Sentral rentals suitable for foreigners working in Kuala Lumpur?",
+      "answer": "Yes. KL Sentral is highly suitable for foreigners because of its international environment, transportation access and proximity to multinational companies."
+    },
+    {
+      "question": "What makes KL Sentral different from other rental areas in Kuala Lumpur?",
+      "answer": "KL Sentral stands out because it combines residential convenience, Malaysia's largest transportation hub, business accessibility and direct airport connectivity."
+    },
+    {
+      "question": "Why do people search for rooms near KL Sentral?",
+      "answer": "People search for rooms near KL Sentral because they want shorter commutes, easy train access, nearby workplaces, shopping facilities and convenient city living."
+    },
+    {
+      "question": "Are there rooms near KL Sentral for young professionals?",
+      "answer": "Yes. Young professionals frequently choose KL Sentral because of affordable shared rooms, modern condominiums and excellent access to employment areas."
+    },
+    {
+      "question": "Are there rooms near KL Sentral for interns?",
+      "answer": "Yes. Interns and temporary workers can find affordable rooms near KL Sentral with flexible rental options and convenient transportation."
+    },
+    {
+      "question": "Are there rooms near KL Sentral for students?",
+      "answer": "Yes. Students can find budget-friendly rooms near KL Sentral with easy access to universities, colleges and public transportation."
+    },
+    {
+      "question": "Is KL Sentral a convenient place for first-time renters?",
+      "answer": "Yes. KL Sentral is suitable for first-time renters because it offers many rental choices, excellent transport connections and access to essential facilities."
+    },
+    {
+      "question": "What should I check before renting a room in KL Sentral?",
+      "answer": "Before renting a room in KL Sentral, tenants should check rental price, furnishing, facilities, transportation distance, utilities, tenancy terms and landlord requirements."
+    },
+    {
+      "question": "How can I find the best KL Sentral room rental deals?",
+      "answer": "The best KL Sentral rental deals can be found by comparing room types, checking nearby locations, reviewing facilities and choosing properties that match budget and commuting needs."
+    },
+    {
+      "question": "Are parking facilities available in KL Sentral condominiums?",
+      "answer": "Yes. Many KL Sentral condominiums and serviced residences provide parking facilities, although availability depends on the rental unit and landlord agreement."
+    },
+    {
+      "question": "Are pets allowed in KL Sentral rental properties?",
+      "answer": "Pet policies vary depending on the condominium management and landlord approval. Tenants should confirm pet rules before renting."
+    },
+    {
+      "question": "What are the best areas to rent near KL Sentral?",
+      "answer": "The best areas to rent near KL Sentral include Brickfields, Bangsar, Bangsar South, Kerinchi, Pantai Dalam and Old Klang Road. These areas provide different rental options ranging from affordable rooms to premium condominiums with easy access to KL Sentral Station."
+    },
+    {
+      "question": "Which condos are near KL Sentral for rent?",
+      "answer": "Popular condominiums and serviced residences near KL Sentral include The Sentral Residences, Sentral Suites, Suasana Sentral Loft, Suasana Sentral Condominium, St Regis Residences Kuala Lumpur and nearby premium residential developments."
+    },
+    {
+      "question": "What is the cheapest room rental near KL Sentral?",
+      "answer": "The cheapest rooms near KL Sentral usually start from around RM800 to RM1200 per month depending on location, room size, furnishing, facilities and whether the property is located directly near KL Sentral or in surrounding areas like Brickfields and Kerinchi."
+    },
+    {
+      "question": "Where can I find affordable rooms near KL Sentral Station?",
+      "answer": "Affordable rooms near KL Sentral Station can be found in Brickfields apartments, Kerinchi residences and nearby condominium developments offering convenient access to public transportation and Kuala Lumpur city centre."
+    },
+    {
+      "question": "Are there rooms for rent within walking distance to KL Sentral?",
+      "answer": "Yes. Several apartments, condominiums and serviced residences are located within walking distance or a short commute from KL Sentral Station, making them popular among professionals and frequent travellers."
+    },
+    {
+      "question": "Is KL Sentral a good location for working professionals?",
+      "answer": "Yes. KL Sentral is one of Kuala Lumpur's top rental locations for professionals because it connects easily to offices in Bangsar South, Bangsar, Mid Valley, KLCC, TRX and other major business districts."
+    },
+    {
+      "question": "Which companies are located near KL Sentral?",
+      "answer": "KL Sentral is surrounded by corporate offices, technology companies, financial institutions, multinational companies and business centres, making it a preferred rental area for employees working nearby."
+    },
+    {
+      "question": "Is KL Sentral suitable for people working in KLCC?",
+      "answer": "Yes. Many KLCC workers choose KL Sentral because of excellent LRT and MRT connectivity, allowing convenient travel to Kuala Lumpur City Centre while enjoying more rental options."
+    },
+    {
+      "question": "How long does it take from KL Sentral to KLCC?",
+      "answer": "Travel time from KL Sentral to KLCC is approximately 15 to 20 minutes depending on the route and transportation choice using LRT, MRT connections or road transport."
+    },
+    {
+      "question": "How long does it take from KL Sentral to Bangsar South?",
+      "answer": "KL Sentral is located close to Bangsar South, and residents can reach the area quickly through public transportation, car or ride-hailing services."
+    },
+    {
+      "question": "How long does it take from KL Sentral to Mid Valley?",
+      "answer": "KL Sentral is close to Mid Valley Megamall and The Gardens Mall, making it convenient for tenants working or shopping in the Mid Valley area."
+    },
+    {
+      "question": "Are there rooms near Brickfields KL Sentral?",
+      "answer": "Yes. Brickfields is one of the most popular areas for KL Sentral room rental because it offers affordable accommodation, restaurants, shops and direct access to KL Sentral Station."
+    },
+    {
+      "question": "Are there rooms near Bangsar LRT from KL Sentral?",
+      "answer": "Yes. Tenants can find rental rooms near KL Sentral with convenient access to Bangsar through LRT, road connections and nearby transportation options."
+    },
+    {
+      "question": "Are there serviced apartments for rent in KL Sentral?",
+      "answer": "Yes. KL Sentral offers serviced apartments with modern facilities, security services, swimming pools, gyms and furnished living spaces suitable for professionals and expatriates."
+    },
+    {
+      "question": "Are luxury apartments available near KL Sentral?",
+      "answer": "Yes. Premium and luxury apartments near KL Sentral provide high-end facilities, strategic locations, security services and convenient access to Kuala Lumpur business districts."
+    },
+    {
+      "question": "Can I rent a condo near KL Sentral with parking?",
+      "answer": "Yes. Many condominiums near KL Sentral provide parking facilities, although availability depends on the unit owner and rental package."
+    },
+    {
+      "question": "Are there fully furnished condos for rent near KL Sentral?",
+      "answer": "Yes. Many condos near KL Sentral are available fully furnished with beds, wardrobes, sofas, kitchen appliances, air conditioning and internet facilities."
+    },
+    {
+      "question": "Are pet-friendly rentals available near KL Sentral?",
+      "answer": "Some condominiums near KL Sentral may allow pets depending on building regulations and landlord approval. Tenants should confirm pet policies before renting."
+    },
+    {
+      "question": "Can I find female-only rooms near KL Sentral?",
+      "answer": "Yes. Some landlords offer female-only rooms near KL Sentral with additional privacy and security features suitable for female tenants."
+    },
+    {
+      "question": "Can students rent rooms near KL Sentral?",
+      "answer": "Yes. KL Sentral is suitable for students because of affordable nearby rentals, public transport access and convenient connections to universities and colleges."
+    },
+    {
+      "question": "Which universities are accessible from KL Sentral?",
+      "answer": "Students living near KL Sentral can conveniently travel to universities and colleges across Kuala Lumpur using MRT, LRT, KTM and bus connections."
+    },
+    {
+      "question": "Is KL Sentral crowded to live in?",
+      "answer": "KL Sentral is a busy commercial and transportation hub during peak hours, but nearby residential developments provide comfortable living environments with modern facilities."
+    },
+    {
+      "question": "What amenities are available near KL Sentral rentals?",
+      "answer": "Residents near KL Sentral have access to shopping malls, restaurants, cafes, supermarkets, banks, healthcare facilities, offices and transportation services."
+    },
+    {
+      "question": "What shopping malls are near KL Sentral?",
+      "answer": "Popular shopping destinations near KL Sentral include Nu Sentral, Mid Valley Megamall, The Gardens Mall and nearby lifestyle areas."
+    },
+    {
+      "question": "Are there restaurants near KL Sentral rental properties?",
+      "answer": "Yes. KL Sentral and Brickfields offer many restaurants, cafes and food options serving local and international cuisines."
+    },
+    {
+      "question": "Is KL Sentral good for airport workers?",
+      "answer": "Yes. KL Sentral is highly suitable for airport workers because KLIA Express provides direct airport connectivity from KL Sentral Station."
+    },
+    {
+      "question": "Is KL Sentral suitable for frequent travellers?",
+      "answer": "Yes. KL Sentral is one of the best rental locations for frequent travellers because it provides direct access to KLIA Express, KTM, MRT, LRT and other transportation services."
+    },
+    {
+      "question": "Why choose KL Sentral instead of Bukit Bintang?",
+      "answer": "Many tenants choose KL Sentral because it offers better transportation connectivity, easier airport access and a wider range of rental options compared with some central entertainment districts."
+    },
+    {
+      "question": "Why choose KL Sentral instead of KLCC?",
+      "answer": "KL Sentral often provides better rental value while maintaining excellent connectivity to KLCC, business districts and major Kuala Lumpur attractions."
+    },
+    {
+      "question": "Is KL Sentral a good investment rental area?",
+      "answer": "KL Sentral is considered an attractive rental area due to strong tenant demand from professionals, expatriates, travellers and corporate employees."
+    },
+    {
+      "question": "What makes KL Sentral popular for rental properties?",
+      "answer": "KL Sentral is popular because of its central location, transportation hub status, nearby offices, shopping facilities, business opportunities and strong rental demand."
+    }
+  ],
+  "focusKeywords": [
+    "KL Sentral room for rent",
+    "KL Sentral room rental",
+    "KL Sentral condo for rent",
+    "KL Sentral apartment for rent",
+    "room near KL Sentral Station",
+    "room near KL Sentral MRT",
+    "room near Muzium Negara MRT",
+    "room near KL Sentral KTM",
+    "room near KL Sentral ERL",
+    "furnished room KL Sentral",
+    "fully furnished room KL Sentral",
+    "cheap room KL Sentral",
+    "affordable room rental KL Sentral",
+    "KL Sentral rental property",
+    "KL Sentral condominium rental",
+    "luxury condo KL Sentral for rent",
+    "serviced apartment KL Sentral",
+    "studio apartment KL Sentral",
+    "master room KL Sentral",
+    "single room KL Sentral",
+    "medium room KL Sentral",
+    "private room KL Sentral",
+    "shared room KL Sentral",
+    "monthly rental KL Sentral",
+    "short term rental KL Sentral",
+    "expat housing KL Sentral",
+    "professional room rental KL Sentral",
+    "executive apartment KL Sentral",
+    "premium condo KL Sentral",
+    "room near Brickfields KL Sentral",
+    "room near Bangsar KL Sentral",
+    "room near Bangsar South",
+    "room near Mid Valley",
+    "room near The Gardens Mall",
+    "room near KL Sentral office",
+    "room near KL Sentral LRT",
+    "MRT connected rental KL Sentral",
+    "LRT connected rental KL Sentral",
+    "airport access apartment KL Sentral",
+    "KLIA Express nearby room rental",
+    "corporate housing KL Sentral",
+    "business district rental KL Sentral",
+    "family apartment KL Sentral",
+    "student room rental KL Sentral",
+    "international tenant friendly KL Sentral",
+    "private bathroom room KL Sentral",
+    "condo room KL Sentral",
+    "cheap apartment KL Sentral Kuala Lumpur",
+    "best rental area near KL Sentral",
+    "property rental KL Sentral Kuala Lumpur"
+  ],
+  "longTailKeywords": [
+    "fully furnished room for rent near KL Sentral Station Kuala Lumpur",
+    "cheap room rental near KL Sentral for working professionals",
+    "affordable room rental walking distance to KL Sentral",
+    "best room rental near KL Sentral MRT Muzium Negara",
+    "luxury condo for rent near KL Sentral Kuala Lumpur",
+    "premium serviced apartment near KL Sentral Station",
+    "expat friendly apartment rental near KL Sentral",
+    "master room with private bathroom near KL Sentral",
+    "single room for rent near KL Sentral public transport",
+    "fully furnished condo room near KL Sentral Kuala Lumpur",
+    "monthly room rental near KL Sentral for professionals",
+    "short term rental apartment near KL Sentral Station",
+    "studio apartment for rent near KL Sentral fully furnished",
+    "room near KL Sentral KTM station for commuters",
+    "room near KLIA Express KL Sentral terminal",
+    "best condo rental near KL Sentral and Bangsar",
+    "affordable apartment rental near Brickfields KL Sentral",
+    "room for rent near Bangsar South office area",
+    "room rental near Mid Valley from KL Sentral",
+    "professional accommodation near KL Sentral Kuala Lumpur",
+    "executive apartment rental near KL Sentral business district",
+    "luxury serviced residence near KL Sentral Malaysia",
+    "private room with attached bathroom near KL Sentral",
+    "cheap master room rental near KL Sentral Station",
+    "fully furnished room near Muzium Negara MRT Station",
+    "student accommodation near KL Sentral Kuala Lumpur",
+    "student room rental near Brickfields KL Sentral",
+    "room near KL Sentral for foreign workers",
+    "international tenant friendly condo near KL Sentral",
+    "best place to rent near KL Sentral Kuala Lumpur",
+    "condo room rental near Nu Sentral Mall",
+    "room for rent near The Gardens Mall Kuala Lumpur",
+    "room near Mid Valley Megamall for working adults",
+    "apartment rental near KL Sentral without car",
+    "car free living apartment near KL Sentral",
+    "high rise condo rental near KL Sentral Station",
+    "modern serviced apartment near KL Sentral Kuala Lumpur",
+    "affordable luxury apartment near KL Sentral",
+    "KL Sentral accommodation for corporate professionals"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room KL Sentral",
+      "budget room near KL Sentral",
+      "student room rental KL Sentral",
+      "affordable accommodation near KL Sentral Kuala Lumpur",
+      "student accommodation near Brickfields",
+      "student room near Muzium Negara MRT",
+      "cheap shared room near KL Sentral",
+      "affordable room near public transport KL Sentral",
+      "student apartment rental Kuala Lumpur",
+      "budget friendly rental near KL Sentral Station"
+    ],
+    "expat": [
+      "expat housing KL Sentral",
+      "furnished condo KL Sentral",
+      "serviced apartment KL Sentral",
+      "international tenant friendly condo KL Sentral",
+      "luxury apartment rental KL Sentral",
+      "expat friendly residence near KL Sentral",
+      "fully furnished apartment for foreigners KL Sentral",
+      "premium condo rental near KL Sentral",
+      "international professional housing Kuala Lumpur",
+      "serviced residence near KL Sentral for expats"
+    ],
+    "professional": [
+      "KL Sentral condo near office",
+      "room near KL Sentral business district",
+      "room near Bangsar South offices",
+      "room near Mid Valley offices",
+      "room near KLCC from KL Sentral",
+      "professional accommodation KL Sentral",
+      "executive apartment KL Sentral",
+      "corporate housing KL Sentral",
+      "premium apartment near KL Sentral Station",
+      "working professional room rental Kuala Lumpur"
+    ],
+    "shortStay": [
+      "short term rental KL Sentral",
+      "monthly rental KL Sentral",
+      "flexible room rental KL Sentral",
+      "short stay apartment KL Sentral Kuala Lumpur",
+      "serviced apartment monthly KL Sentral",
+      "temporary accommodation near KL Sentral",
+      "weekly rental room KL Sentral",
+      "business traveller accommodation KL Sentral",
+      "KLIA transit accommodation KL Sentral",
+      "short term furnished apartment Kuala Lumpur"
+    ],
+    "premiumIntent": [
+      "luxury condo KL Sentral for rent",
+      "high end apartment KL Sentral",
+      "executive residence KL Sentral",
+      "premium serviced apartment KL Sentral",
+      "luxury condominium rental near KL Sentral",
+      "best luxury residence near KL Sentral Station",
+      "premium furnished condo Kuala Lumpur",
+      "exclusive apartment rental KL Sentral",
+      "five star residence near KL Sentral",
+      "luxury corporate housing KL Sentral"
+    ],
+    "family": [
+      "family apartment KL Sentral",
+      "family condo rental KL Sentral",
+      "2 bedroom apartment near KL Sentral",
+      "3 bedroom condo near KL Sentral",
+      "family friendly residence KL Sentral",
+      "apartment rental near KL Sentral for family",
+      "spacious condo for rent KL Sentral",
+      "safe residential area near KL Sentral",
+      "family housing near Brickfields",
+      "family apartment near Bangsar Kuala Lumpur",
+      "condominium with facilities near KL Sentral",
+      "long term family rental KL Sentral",
+      "school friendly apartment near KL Sentral",
+      "family friendly condo Kuala Lumpur",
+      "large apartment rental near KL Sentral Station"
+    ],
+    "budgetTenant": [
+      "cheap room KL Sentral",
+      "low budget room rental KL Sentral",
+      "affordable room near KL Sentral Station",
+      "budget apartment KL Sentral",
+      "cheap rental near Brickfields",
+      "low cost room near Muzium Negara MRT",
+      "affordable accommodation Kuala Lumpur city centre",
+      "cheap furnished room KL Sentral",
+      "budget friendly condo room KL Sentral",
+      "RM800 room rental KL Sentral",
+      "student budget room KL Sentral",
+      "affordable shared room KL Sentral",
+      "cheap monthly rental KL Sentral",
+      "low cost accommodation near KL Sentral",
+      "budget rental property Kuala Lumpur"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "KL Sentral room for rent",
+    "secondaryKeywords": [
+      "KL Sentral condo for rent",
+      "KL Sentral apartment for rent",
+      "room near KL Sentral Station",
+      "room near KL Sentral MRT",
+      "room near Muzium Negara MRT",
+      "furnished room KL Sentral",
+      "cheap room KL Sentral Kuala Lumpur",
+      "affordable room rental KL Sentral",
+      "luxury condo KL Sentral",
+      "expat housing KL Sentral",
+      "serviced apartment KL Sentral",
+      "master room KL Sentral",
+      "single room KL Sentral",
+      "studio apartment KL Sentral",
+      "room near Brickfields KL Sentral",
+      "room near Bangsar South",
+      "room near Mid Valley",
+      "KL Sentral rental property",
+      "professional accommodation KL Sentral",
+      "monthly rental KL Sentral"
+    ],
+    "seoScore": 98,
+    "canonicalUrl": "https://yourdomain.com/kuala-lumpur/kl-sentral/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "central-business-transport-connected-urban-rentals",
+    "contentCluster": [
+      "KL Sentral room rental",
+      "KL Sentral condo rental",
+      "KL Sentral apartment rental",
+      "MRT LRT connected rentals Kuala Lumpur",
+      "KLIA Express nearby accommodation",
+      "professional housing Kuala Lumpur",
+      "expat housing near KL Sentral",
+      "Brickfields rental properties",
+      "Bangsar South nearby accommodation",
+      "Mid Valley rental properties",
+      "affordable Kuala Lumpur city centre rentals",
+      "premium serviced apartments KL Sentral",
+      "student accommodation Kuala Lumpur",
+      "family apartments near KL Sentral",
+      "corporate housing Kuala Lumpur"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Brickfields",
+        "Bangsar",
+        "Bangsar South",
+        "Kerinchi",
+        "Pantai Dalam",
+        "Old Klang Road",
+        "Mid Valley",
+        "KLCC",
+        "Bukit Bintang",
+        "TRX",
+        "Mont Kiara",
+        "Cheras"
+      ],
+      "nearbyHotspots": [
+        "KL Sentral Station",
+        "Muzium Negara MRT Station",
+        "Nu Sentral Mall",
+        "Brickfields Kuala Lumpur",
+        "Bangsar South",
+        "Mid Valley Megamall",
+        "The Gardens Mall",
+        "St Regis Kuala Lumpur",
+        "Kuala Lumpur Sentral Business District",
+        "KLIA Express Terminal KL Sentral"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "KL Sentral Rooms for Rent",
+        "url": "/room-rental-kl-sentral",
+        "keyword": "KL Sentral room for rent"
+      },
+      {
+        "title": "KL Sentral Condos for Rent",
+        "url": "/condo-for-rent-kl-sentral",
+        "keyword": "KL Sentral condo for rent"
+      },
+      {
+        "title": "Cheap Rooms Near KL Sentral",
+        "url": "/cheap-room-kl-sentral",
+        "keyword": "cheap room KL Sentral"
+      },
+      {
+        "title": "Rooms Near KL Sentral Station",
+        "url": "/room-near-kl-sentral-station",
+        "keyword": "room near KL Sentral Station"
+      },
+      {
+        "title": "Rooms Near Muzium Negara MRT",
+        "url": "/room-near-muzium-negara-mrt",
+        "keyword": "room near Muzium Negara MRT"
+      },
+      {
+        "title": "KL Sentral Luxury Condo Rental",
+        "url": "/luxury-condo-kl-sentral",
+        "keyword": "luxury condo KL Sentral"
+      },
+      {
+        "title": "Expat Housing KL Sentral",
+        "url": "/expat-housing-kl-sentral",
+        "keyword": "expat housing KL Sentral"
+      },
+      {
+        "title": "Furnished Rooms KL Sentral",
+        "url": "/furnished-room-kl-sentral",
+        "keyword": "furnished room KL Sentral"
+      },
+      {
+        "title": "Short Term Rental KL Sentral",
+        "url": "/short-term-rental-kl-sentral",
+        "keyword": "short term rental KL Sentral"
+      },
+      {
+        "title": "Family Apartments Near KL Sentral",
+        "url": "/family-apartment-kl-sentral",
+        "keyword": "family apartment KL Sentral"
+      },
+      {
+        "title": "Rooms Near KL Sentral KTM Station",
+        "url": "/room-near-kl-sentral-ktm",
+        "keyword": "room near KL Sentral KTM"
+      },
+      {
+        "title": "Rooms Near KL Sentral LRT",
+        "url": "/room-near-kl-sentral-lrt",
+        "keyword": "room near KL Sentral LRT"
+      },
+      {
+        "title": "Rooms Near KLIA Express KL Sentral",
+        "url": "/room-near-klia-express-kl-sentral",
+        "keyword": "room near KLIA Express KL Sentral"
+      },
+      {
+        "title": "Rooms Near Nu Sentral Mall",
+        "url": "/room-near-nu-sentral",
+        "keyword": "room near Nu Sentral"
+      },
+      {
+        "title": "Rooms Near Brickfields",
+        "url": "/room-near-brickfields",
+        "keyword": "room near Brickfields"
+      },
+      {
+        "title": "Rooms Near Bangsar",
+        "url": "/room-near-bangsar",
+        "keyword": "room near Bangsar"
+      },
+      {
+        "title": "Rooms Near Bangsar South",
+        "url": "/room-near-bangsar-south",
+        "keyword": "room near Bangsar South"
+      },
+      {
+        "title": "Rooms Near Mid Valley",
+        "url": "/room-near-mid-valley",
+        "keyword": "room near Mid Valley"
+      },
+      {
+        "title": "Rooms Near The Gardens Mall",
+        "url": "/room-near-the-gardens",
+        "keyword": "room near The Gardens Mall"
+      },
+      {
+        "title": "Female Room Rental KL Sentral",
+        "url": "/female-room-rental-kl-sentral",
+        "keyword": "female room rental KL Sentral"
+      },
+      {
+        "title": "Male Room Rental KL Sentral",
+        "url": "/male-room-rental-kl-sentral",
+        "keyword": "male room rental KL Sentral"
+      },
+      {
+        "title": "Room With Private Bathroom KL Sentral",
+        "url": "/private-bathroom-room-kl-sentral",
+        "keyword": "private bathroom room KL Sentral"
+      },
+      {
+        "title": "Room With Parking KL Sentral",
+        "url": "/room-with-parking-kl-sentral",
+        "keyword": "room with parking KL Sentral"
+      },
+      {
+        "title": "Condo Room Rental KL Sentral",
+        "url": "/condo-room-rental-kl-sentral",
+        "keyword": "condo room rental KL Sentral"
+      },
+      {
+        "title": "Apartment Rental KL Sentral",
+        "url": "/apartment-rental-kl-sentral",
+        "keyword": "apartment rental KL Sentral"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "KL Sentral Area Guide",
+        "url": "/area-guide-kl-sentral",
+        "type": "guide"
+      },
+      {
+        "title": "KL Sentral Rental Price Guide 2026",
+        "url": "/price-guide-kl-sentral",
+        "type": "pricing"
+      },
+      {
+        "title": "KL Sentral Transport Guide",
+        "url": "/kl-sentral-transport-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos Near KL Sentral",
+        "url": "/luxury-condo-kl-sentral",
+        "type": "listing-category"
+      },
+      {
+        "title": "Expat Housing Near KL Sentral",
+        "url": "/expat-housing-kl-sentral",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms KL Sentral",
+        "url": "/furnished-room-kl-sentral",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals KL Sentral",
+        "url": "/short-term-rental-kl-sentral",
+        "type": "rental-type"
+      },
+      {
+        "title": "Student Accommodation KL Sentral",
+        "url": "/student-room-kl-sentral",
+        "type": "audience-page"
+      },
+      {
+        "title": "Family Apartments KL Sentral",
+        "url": "/family-apartment-kl-sentral",
+        "type": "audience-page"
+      },
+      {
+        "title": "Rooms Near KLIA Express KL Sentral",
+        "url": "/room-near-klia-express-kl-sentral",
+        "type": "location-intent-page"
+      },
+      {
+        "title": "KL Sentral Area Guide",
+        "url": "/area-guide-kl-sentral",
+        "type": "guide"
+      },
+      {
+        "title": "KL Sentral Rental Price Guide 2026",
+        "url": "/price-guide-kl-sentral",
+        "type": "pricing"
+      },
+      {
+        "title": "KL Sentral Transport Guide",
+        "url": "/kl-sentral-transport-guide",
+        "type": "transport"
+      },
+      {
+        "title": "KL Sentral MRT Guide",
+        "url": "/kl-sentral-mrt-guide",
+        "type": "transport"
+      },
+      {
+        "title": "KL Sentral KTM Guide",
+        "url": "/kl-sentral-ktm-guide",
+        "type": "transport"
+      },
+      {
+        "title": "KLIA Express From KL Sentral Guide",
+        "url": "/klia-express-kl-sentral-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Best Condos Near KL Sentral",
+        "url": "/best-condo-kl-sentral",
+        "type": "listing-guide"
+      },
+      {
+        "title": "Luxury Condos Near KL Sentral",
+        "url": "/luxury-condo-kl-sentral",
+        "type": "listing-category"
+      },
+      {
+        "title": "Affordable Apartments Near KL Sentral",
+        "url": "/affordable-apartment-kl-sentral",
+        "type": "listing-category"
+      },
+      {
+        "title": "Furnished Rooms KL Sentral",
+        "url": "/furnished-room-kl-sentral",
+        "type": "listing-category"
+      },
+      {
+        "title": "Master Rooms KL Sentral",
+        "url": "/master-room-kl-sentral",
+        "type": "listing-category"
+      },
+      {
+        "title": "Studio Apartments KL Sentral",
+        "url": "/studio-apartment-kl-sentral",
+        "type": "listing-category"
+      },
+      {
+        "title": "Expat Housing KL Sentral",
+        "url": "/expat-housing-kl-sentral",
+        "type": "audience-page"
+      },
+      {
+        "title": "Student Accommodation KL Sentral",
+        "url": "/student-accommodation-kl-sentral",
+        "type": "audience-page"
+      },
+      {
+        "title": "Family Apartments Near KL Sentral",
+        "url": "/family-apartment-kl-sentral",
+        "type": "audience-page"
+      },
+      {
+        "title": "Budget Rental KL Sentral",
+        "url": "/budget-rental-kl-sentral",
+        "type": "audience-page"
+      },
+      {
+        "title": "Professional Housing KL Sentral",
+        "url": "/professional-housing-kl-sentral",
+        "type": "audience-page"
+      },
+      {
+        "title": "Short Term Rental KL Sentral",
+        "url": "/short-term-rental-kl-sentral",
+        "type": "rental-type"
+      },
+      {
+        "title": "Monthly Rental KL Sentral",
+        "url": "/monthly-rental-kl-sentral",
+        "type": "rental-type"
+      },
+      {
+        "title": "KL Sentral Rental Market Report 2026",
+        "url": "/kl-sentral-rental-market-report",
+        "type": "market-analysis"
+      },
+      {
+        "title": "KL Sentral Rental Investment Guide",
+        "url": "/kl-sentral-rental-investment-guide",
+        "type": "investment-guide"
+      },
+      {
+        "title": "Living Cost Near KL Sentral",
+        "url": "/living-cost-kl-sentral",
+        "type": "guide"
+      },
+      {
+        "title": "Working Near KL Sentral Guide",
+        "url": "/working-near-kl-sentral",
+        "type": "audience-page"
+      },
+      {
+        "title": "KL Sentral Neighbourhood Guide",
+        "url": "/kl-sentral-neighbourhood-guide",
+        "type": "guide"
+      },
+      {
+        "title": "KL Sentral Facilities Guide",
+        "url": "/kl-sentral-facilities-guide",
+        "type": "guide"
+      }
+    ]
+  }
+}

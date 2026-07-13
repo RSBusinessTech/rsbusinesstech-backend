@@ -1,0 +1,1413 @@
+{
+  "area": {
+    "name": "Chow Kit",
+    "slug": "chow-kit",
+    "heroImage": "assets/images/areas/chow-kit.jpg",
+    "metaTitle": "Rooms for Rent in Chow Kit | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Chow Kit near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Chow Kit – Complete Guide to Room Rental in Kuala Lumpur",
+    "description": "Chow Kit is one of Kuala Lumpur's most established city-centre neighbourhoods, offering affordable room rental options with excellent connectivity and convenient access to major business districts. Located close to KLCC, Bukit Bintang, Jalan Sultan Ismail and Kuala Lumpur city centre, Chow Kit attracts students, working professionals, budget tenants, entrepreneurs and long-term residents looking for affordable urban living. Whether you are searching for a master room for rent in Chow Kit, a single room near Chow Kit Monorail Station, a fully furnished room close to Jalan Tuanku Abdul Rahman, a studio apartment in Chow Kit Kuala Lumpur or a budget-friendly shared room, the area provides diverse accommodation choices. Residents enjoy excellent public transportation, shopping streets, local food markets, commercial areas and quick access to central Kuala Lumpur, making Chow Kit a popular affordable rental location.",
+    "buttonText": "Explore Chow Kit Rental Guide",
+    "buttonLink": "/room-rental-chow-kit",
+    "highlights": [
+      "Wide range of master rooms, medium rooms, single rooms, studio rooms and shared rooms for rent in Chow Kit",
+      "Strategic location near KLCC, Bukit Bintang, Kampung Baru and Kuala Lumpur city centre",
+      "Excellent connectivity via Chow Kit Monorail Station, PWTC LRT Station and nearby MRT connections",
+      "Popular among students, working professionals, budget renters and city-centre workers",
+      "More affordable rental prices compared with KLCC and Bukit Bintang",
+      "Many furnished and semi-furnished room rental options available",
+      "Close to shopping streets, restaurants, supermarkets and daily amenities",
+      "Established neighbourhood with strong rental demand and convenient city access"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Transportation & Public Transport Connectivity",
+        "description": "Chow Kit provides excellent connectivity through Chow Kit Monorail Station, PWTC LRT Station, Putra MRT Station and multiple RapidKL bus routes. Residents can easily travel to KLCC, Bukit Bintang, TRX, KL Sentral, Bangsar and other Kuala Lumpur districts."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Popular Condominiums & Rental Choices",
+        "description": "Chow Kit offers various rental options including single rooms, master rooms, apartment rooms, studio units and serviced residences. Popular nearby residences include Regalia Suites, Maju Linq Residences, Quill Residences, The Face Suites and nearby city-centre apartments."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Lifestyle",
+        "description": "Residents enjoy easy access to Jalan Tuanku Abdul Rahman shopping street, Sunway Putra Mall, Quill City Mall, Pavilion Kuala Lumpur and Bukit Bintang shopping areas. The neighbourhood offers both local markets and modern retail options."
+      },
+      {
+        "icon": "fas fa-utensils",
+        "title": "Food & Dining",
+        "description": "Chow Kit is famous for its diverse food options including Malaysian cuisine, local restaurants, street food, cafes, traditional markets and affordable eateries around Jalan Chow Kit and Kampung Baru."
+      },
+      {
+        "icon": "fas fa-user-tie",
+        "title": "Ideal for Professionals & Students",
+        "description": "Chow Kit is suitable for professionals working in KLCC, Jalan Sultan Ismail, Bukit Bintang and government areas. Students and young workers also prefer the area due to affordable rental prices and easy transport access."
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "title": "Safety & Quality Living",
+        "description": "Many residential buildings around Chow Kit provide security features including CCTV monitoring, access card systems, security guards and building management services for comfortable city living."
+      }
+    ],
+    "popularResidences": [
+      "Regalia Suites",
+      "The Face Suites",
+      "Quill Residences",
+      "Maju Linq Residences",
+      "Sunway Putra Residences",
+      "Casa Mutiara",
+      "Anggun Residences",
+      "Arte Plus",
+      "Vista Damai",
+      "Putra Majestic"
+    ],
+    "nearbyLandmarks": [
+      "Chow Kit Market",
+      "Jalan Tuanku Abdul Rahman",
+      "Sunway Putra Mall",
+      "KLCC",
+      "Kampung Baru",
+      "Bukit Bintang",
+      "Putra World Trade Centre",
+      "Quill City Mall",
+      "Kuala Lumpur Tower",
+      "Jalan Sultan Ismail"
+    ],
+    "nearbyUniversities": [
+      "Tunku Abdul Rahman University College",
+      "Open University Malaysia",
+      "University of Malaya",
+      "SEGi College Kuala Lumpur",
+      "Asia Pacific University",
+      "UCSI University"
+    ],
+    "majorEmployers": [
+      "Petronas",
+      "Maybank",
+      "CIMB",
+      "HSBC",
+      "Standard Chartered",
+      "Bank Negara Malaysia",
+      "PwC",
+      "Deloitte",
+      "KPMG",
+      "EY",
+      "Accenture",
+      "Kuala Lumpur City Centre Companies"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Chow Kit Monorail Station",
+      "slug": "chow-kit-monorail",
+      "stationType": "MONORAIL",
+      "line": "KL Monorail Line",
+      "walkingTime": "2 mins walk",
+      "distanceMeters": 150,
+      "distanceText": "2 mins walk (150 m)",
+      "title": "Chow Kit Monorail Station",
+      "shortDescription": "Chow Kit Monorail Station is the main transport hub serving Chow Kit residents, connecting directly to Bukit Bintang, Imbi, Raja Chulan and Kuala Lumpur city-centre areas. The station is surrounded by affordable apartments, shops and rental options.",
+      "averageRoomRent": 850,
+      "nearbyLandmarks": [
+        "Chow Kit Market",
+        "Jalan Tuanku Abdul Rahman",
+        "Kampung Baru",
+        "KLCC"
+      ],
+      "nearbyResidences": [
+        "Regalia Suites",
+        "The Face Suites",
+        "Quill Residences",
+        "Anggun Residences"
+      ],
+      "popularSearches": [
+        "Room near Chow Kit Monorail",
+        "Chow Kit Monorail room rent",
+        "Studio near Chow Kit Station"
+      ]
+    },
+    {
+      "name": "PWTC LRT Station",
+      "slug": "pwtc-lrt",
+      "stationType": "LRT",
+      "line": "Ampang Line",
+      "walkingTime": "8 mins walk",
+      "distanceMeters": 650,
+      "distanceText": "8 mins walk (650 m)",
+      "title": "PWTC LRT Station",
+      "shortDescription": "PWTC LRT Station provides convenient connectivity between Chow Kit, Putra Heights, Ampang and central Kuala Lumpur. It is popular among professionals and students looking for affordable accommodation near public transport.",
+      "averageRoomRent": 900,
+      "nearbyLandmarks": [
+        "Putra World Trade Centre",
+        "Sunway Putra Mall",
+        "Kuala Lumpur Business District"
+      ],
+      "nearbyResidences": [
+        "Sunway Putra Residences",
+        "Regalia Suites",
+        "Maju Linq Residences"
+      ],
+      "popularSearches": [
+        "Room near PWTC LRT",
+        "Chow Kit LRT room rental"
+      ]
+    },
+    {
+      "name": "Putra MRT Station",
+      "slug": "putra-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "10 mins walk",
+      "distanceMeters": 800,
+      "distanceText": "10 mins walk (800 m)",
+      "title": "Putra MRT Station",
+      "shortDescription": "Putra MRT Station connects Chow Kit residents to major areas including KLCC, TRX and Putrajaya. It provides additional convenience for tenants working in Kuala Lumpur's business districts.",
+      "averageRoomRent": 950,
+      "nearbyLandmarks": [
+        "PWTC",
+        "Sunway Putra Mall",
+        "Jalan Tun Razak"
+      ],
+      "nearbyResidences": [
+        "Regalia Suites",
+        "The Face Suites",
+        "Putra Majestic"
+      ],
+      "popularSearches": [
+        "Room near Putra MRT",
+        "Chow Kit MRT room rent"
+      ]
+    },
+    {
+      "name": "Bukit Nanas Monorail Station",
+      "slug": "bukit-nanas-monorail",
+      "stationType": "MONORAIL",
+      "line": "KL Monorail Line",
+      "walkingTime": "12 mins walk",
+      "distanceMeters": 1000,
+      "distanceText": "12 mins walk (1 km)",
+      "title": "Bukit Nanas Monorail Station",
+      "shortDescription": "Bukit Nanas Monorail Station provides quick access to KL Tower, Jalan Sultan Ismail and Kuala Lumpur business areas. It is convenient for professionals working in city-centre offices.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "KL Tower",
+        "Jalan Sultan Ismail",
+        "Bukit Bintang"
+      ],
+      "nearbyResidences": [
+        "The Face Suites",
+        "Anggun Residences",
+        "Quill Residences"
+      ],
+      "popularSearches": [
+        "Room near Bukit Nanas Monorail",
+        "KL Tower room rental"
+      ]
+    },
+    {
+      "name": "Dang Wangi LRT Station",
+      "slug": "dang-wangi-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "15 mins walk",
+      "distanceMeters": 1200,
+      "distanceText": "15 mins walk (1.2 km)",
+      "title": "Dang Wangi LRT Station",
+      "shortDescription": "Dang Wangi LRT Station connects Chow Kit with KLCC, Masjid Jamek, Bangsar and other major Kuala Lumpur areas. It is suitable for professionals seeking city-centre access.",
+      "averageRoomRent": 1200,
+      "nearbyLandmarks": [
+        "KLCC",
+        "Jalan Sultan Ismail",
+        "Kuala Lumpur Tower"
+      ],
+      "nearbyResidences": [
+        "The Face Suites",
+        "Quill Residences",
+        "Anggun Residences"
+      ],
+      "popularSearches": [
+        "Room near Dang Wangi LRT",
+        "KLCC room from Chow Kit"
+      ]
+    },
+    {
+      "name": "Medan Tuanku Monorail Station",
+      "slug": "medan-tuanku-monorail",
+      "stationType": "MONORAIL",
+      "line": "KL Monorail Line",
+      "walkingTime": "10 mins walk",
+      "distanceMeters": 800,
+      "distanceText": "10 mins walk (800 m)",
+      "title": "Medan Tuanku Monorail Station",
+      "shortDescription": "Medan Tuanku Monorail Station offers convenient access between Chow Kit and central Kuala Lumpur commercial areas. It is popular among office workers and students.",
+      "averageRoomRent": 1000,
+      "nearbyLandmarks": [
+        "Jalan Tuanku Abdul Rahman",
+        "Quill City Mall",
+        "Bukit Bintang"
+      ],
+      "nearbyResidences": [
+        "Quill Residences",
+        "Anggun Residences",
+        "The Face Suites"
+      ],
+      "popularSearches": [
+        "Room near Medan Tuanku Monorail",
+        "City centre room rental"
+      ]
+    },
+    {
+      "name": "KLCC MRT Station",
+      "slug": "klcc-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "18 mins walk",
+      "distanceMeters": 1500,
+      "distanceText": "18 mins walk (1.5 km)",
+      "title": "KLCC MRT Station",
+      "shortDescription": "KLCC MRT Station provides direct access to Petronas Twin Towers, Suria KLCC and major corporate offices. Chow Kit is a more affordable residential option nearby.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "Petronas Twin Towers",
+        "Suria KLCC",
+        "KLCC Park"
+      ],
+      "nearbyResidences": [
+        "The Face Suites",
+        "Regalia Suites",
+        "Quill Residences"
+      ],
+      "popularSearches": [
+        "Room near KLCC from Chow Kit",
+        "Affordable KLCC nearby room"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 550,
+      "maxPrice": 900
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 750,
+      "maxPrice": 1200
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1000,
+      "maxPrice": 1600
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 1400,
+      "maxPrice": 2500
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 850,
+    "priceGrowth": 4.8,
+    "demandLevel": "High",
+    "vacancyRate": 3.2
+  },
+  "nearbyAreas": [
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Professionals, Expats, Executives",
+      "description": "KLCC is Kuala Lumpur's premium business district with luxury residences, corporate offices, shopping malls and excellent MRT connectivity. Chow Kit provides a more affordable nearby rental alternative."
+    },
+    {
+      "name": "Bukit Bintang",
+      "slug": "bukit-bintang",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Professionals, Retail Workers, Tourists",
+      "description": "Bukit Bintang is a major lifestyle district with shopping malls, entertainment venues, restaurants and strong rental demand. Chow Kit offers cheaper accommodation with easy access."
+    },
+    {
+      "name": "Kampung Baru",
+      "slug": "kampung-baru",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 2,
+      "popularFor": "Professionals, Families, Food Lovers",
+      "description": "Kampung Baru is a historic Kuala Lumpur neighbourhood known for local food, residential areas and proximity to KLCC."
+    },
+    {
+      "name": "Dang Wangi",
+      "slug": "dang-wangi",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 2,
+      "popularFor": "Professionals, Office Workers",
+      "description": "Dang Wangi offers central city living with LRT access, offices, restaurants and convenient connections to KLCC and Bukit Bintang."
+    },
+    {
+      "name": "KL Sentral",
+      "slug": "kl-sentral",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Professionals, Students",
+      "description": "KL Sentral is Kuala Lumpur's major transportation hub with offices, shopping facilities and excellent connectivity."
+    },
+    {
+      "name": "Brickfields",
+      "slug": "brickfields",
+      "averageRent": 950,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Students, Professionals",
+      "description": "Brickfields provides affordable rental options near KL Sentral with excellent public transport and city accessibility."
+    },
+    {
+      "name": "Pudu",
+      "slug": "pudu",
+      "averageRent": 850,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Budget Renters, Workers",
+      "description": "Pudu is another affordable central Kuala Lumpur area offering budget rooms, local food options and convenient MRT access."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 1800,
+      "mrtAccess": false,
+      "distanceFromArea": 8,
+      "popularFor": "Expats, Families, Executives",
+      "description": "Mont Kiara is a premium expatriate neighbourhood with luxury condominiums, international schools and lifestyle facilities."
+    },
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 7,
+      "popularFor": "Professionals, Expats",
+      "description": "Bangsar is a popular lifestyle and business area offering cafes, restaurants, offices and premium residences."
+    },
+    {
+      "name": "Ampang",
+      "slug": "ampang",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 6,
+      "popularFor": "Families, Professionals",
+      "description": "Ampang offers affordable housing options near embassies, shopping areas and Kuala Lumpur city centre."
+    },
+    {
+      "name": "Cheras",
+      "slug": "cheras",
+      "averageRent": 800,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Students, Budget Renters",
+      "description": "Cheras is popular for affordable rooms, apartments and good MRT connectivity."
+    },
+    {
+      "name": "Setapak",
+      "slug": "setapak",
+      "averageRent": 750,
+      "mrtAccess": true,
+      "distanceFromArea": 7,
+      "popularFor": "Students, Working Adults",
+      "description": "Setapak offers affordable rentals near universities, shopping centres and public transport."
+    },
+    {
+      "name": "TTDI",
+      "slug": "ttdi",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 11,
+      "popularFor": "Professionals, Expats",
+      "description": "TTDI is a premium residential area with cafes, parks, MRT access and comfortable housing options."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Students, Professionals",
+      "description": "Petaling Jaya is a major commercial hub with offices, universities and affordable rental choices."
+    },
+    {
+      "name": "Sunway",
+      "slug": "sunway",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 18,
+      "popularFor": "Students, Young Professionals",
+      "description": "Sunway is a popular education and lifestyle district with universities, shopping malls and rental demand."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Chow Kit",
+      "url": "/master-room-rental-chow-kit"
+    },
+    {
+      "title": "Single Room Chow Kit",
+      "url": "/single-room-rental-chow-kit"
+    },
+    {
+      "title": "Condo Room Chow Kit",
+      "url": "/condo-room-rental-chow-kit"
+    },
+    {
+      "title": "Room Near Chow Kit Monorail",
+      "url": "/room-near-chow-kit-monorail"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Chow Kit a good place to rent a room in Kuala Lumpur?",
+      "answer": "Yes, Chow Kit is a popular rental area because of its central location, affordable prices, public transport access and proximity to KLCC and Bukit Bintang."
+    },
+    {
+      "question": "What types of rooms are available for rent in Chow Kit?",
+      "answer": "Chow Kit offers single rooms, medium rooms, master rooms, studio units, shared rooms and furnished apartment rooms."
+    },
+    {
+      "question": "How much is the average room rental price in Chow Kit?",
+      "answer": "The average room rental price in Chow Kit is around RM850 depending on room type, building facilities and location."
+    },
+    {
+      "question": "Can I find cheap rooms in Chow Kit?",
+      "answer": "Yes, Chow Kit is known for affordable rental options compared with premium areas like KLCC and Bukit Bintang."
+    },
+    {
+      "question": "Are furnished rooms available in Chow Kit?",
+      "answer": "Yes, many rooms and apartments in Chow Kit come fully furnished with basic furniture and facilities."
+    },
+    {
+      "question": "Is Chow Kit suitable for students?",
+      "answer": "Yes, students choose Chow Kit because of affordable rentals and convenient access to universities and public transport."
+    },
+    {
+      "question": "Is Chow Kit suitable for working professionals?",
+      "answer": "Yes, professionals working in KLCC, Jalan Sultan Ismail and central Kuala Lumpur often choose Chow Kit for convenience."
+    },
+    {
+      "question": "How far is Chow Kit from KLCC?",
+      "answer": "Chow Kit is approximately 2 to 3 km from KLCC and can be reached easily by public transport or car."
+    },
+    {
+      "question": "Can I find a room near Chow Kit Monorail Station?",
+      "answer": "Yes, many rental rooms are available within walking distance of Chow Kit Monorail Station."
+    },
+    {
+      "question": "Is Chow Kit connected by public transport?",
+      "answer": "Yes, Chow Kit has access to Monorail, LRT, MRT connections and RapidKL bus services."
+    },
+    {
+      "question": "Are there condos for rent in Chow Kit?",
+      "answer": "Yes, Chow Kit has modern condominiums and serviced apartments suitable for long-term and short-term rental."
+    },
+    {
+      "question": "Can foreigners rent rooms in Chow Kit?",
+      "answer": "Yes, many landlords accept foreign tenants depending on rental terms and building policies."
+    },
+    {
+      "question": "Is Chow Kit cheaper than KLCC?",
+      "answer": "Yes, Chow Kit generally offers more affordable rental prices while maintaining convenient access to KLCC."
+    },
+    {
+      "question": "Are there studio apartments in Chow Kit?",
+      "answer": "Yes, studio apartments are available in selected serviced residences and condominium developments."
+    },
+    {
+      "question": "Is Chow Kit good for office workers?",
+      "answer": "Yes, Chow Kit is convenient for employees working in KLCC, Bukit Bintang, Jalan Sultan Ismail and nearby offices."
+    },
+    {
+      "question": "Are there rooms near Jalan Tuanku Abdul Rahman?",
+      "answer": "Yes, many rental properties are located near Jalan Tuanku Abdul Rahman shopping and commercial areas."
+    },
+    {
+      "question": "Is Chow Kit safe for tenants?",
+      "answer": "Many residential buildings in Chow Kit provide security features such as guards, CCTV and access control systems."
+    },
+    {
+      "question": "Can I rent a room monthly in Chow Kit?",
+      "answer": "Yes, monthly room rentals are commonly available in Chow Kit."
+    },
+    {
+      "question": "Are there short-term rentals in Chow Kit?",
+      "answer": "Yes, selected serviced apartments and residences offer short-term rental options."
+    },
+    {
+      "question": "Is Chow Kit close to Bukit Bintang?",
+      "answer": "Yes, Bukit Bintang is nearby and easily accessible from Chow Kit."
+    },
+    {
+      "question": "Is Chow Kit close to KL Sentral?",
+      "answer": "Yes, KL Sentral can be reached conveniently from Chow Kit using public transport."
+    },
+    {
+      "question": "Are there rooms near Sunway Putra Mall?",
+      "answer": "Yes, many apartments and rental rooms are available near Sunway Putra Mall."
+    },
+    {
+      "question": "Can I find a master room in Chow Kit?",
+      "answer": "Yes, master rooms are available in apartments and condominiums around Chow Kit."
+    },
+    {
+      "question": "Are single rooms available in Chow Kit?",
+      "answer": "Yes, single rooms are one of the most common rental options in Chow Kit."
+    },
+    {
+      "question": "Is Chow Kit suitable for budget tenants?",
+      "answer": "Yes, Chow Kit is one of the preferred areas for budget-conscious renters in central Kuala Lumpur."
+    },
+    {
+      "question": "Can I find rooms near KLCC at lower prices?",
+      "answer": "Yes, Chow Kit provides a more affordable alternative while remaining close to KLCC."
+    },
+    {
+      "question": "Are there apartments with swimming pools in Chow Kit?",
+      "answer": "Yes, some condominium developments offer swimming pools, gyms and lifestyle facilities."
+    },
+    {
+      "question": "Is Chow Kit suitable for expatriates?",
+      "answer": "Yes, expatriates looking for central but affordable housing may consider Chow Kit."
+    },
+    {
+      "question": "Are there restaurants near Chow Kit rental rooms?",
+      "answer": "Yes, Chow Kit has many restaurants, food stalls, cafes and local dining options."
+    },
+    {
+      "question": "Does Chow Kit have supermarkets?",
+      "answer": "Yes, residents have access to supermarkets, convenience stores and daily shopping facilities."
+    },
+    {
+      "question": "Can I rent a room near KL Tower from Chow Kit?",
+      "answer": "Yes, KL Tower is nearby and accessible from Chow Kit."
+    },
+    {
+      "question": "Is Chow Kit suitable for remote workers?",
+      "answer": "Yes, affordable rentals and city connectivity make Chow Kit suitable for remote workers."
+    },
+    {
+      "question": "Are there female-friendly rooms in Chow Kit?",
+      "answer": "Yes, some landlords provide female-friendly rental options depending on availability."
+    },
+    {
+      "question": "Are there male-friendly rooms in Chow Kit?",
+      "answer": "Yes, rental rooms are available for male tenants based on landlord requirements."
+    },
+    {
+      "question": "Can couples rent rooms in Chow Kit?",
+      "answer": "Some properties allow couples depending on the landlord and building rules."
+    },
+    {
+      "question": "Is parking available in Chow Kit condos?",
+      "answer": "Many condominium buildings provide parking facilities, depending on the rental unit."
+    },
+    {
+      "question": "Are there rooms near government offices from Chow Kit?",
+      "answer": "Yes, Chow Kit provides convenient access to several government and business areas."
+    },
+    {
+      "question": "How long does it take from Chow Kit to Bukit Bintang?",
+      "answer": "Travel time from Chow Kit to Bukit Bintang is usually around 10 to 15 minutes depending on transport."
+    },
+    {
+      "question": "Is Chow Kit a good alternative to Bukit Bintang rental?",
+      "answer": "Yes, Chow Kit offers lower rental costs while keeping good access to Bukit Bintang."
+    },
+    {
+      "question": "Are there new condos in Chow Kit?",
+      "answer": "Yes, several modern serviced residences and condominiums are available around Chow Kit."
+    },
+    {
+      "question": "Can I find rooms near MRT stations in Chow Kit?",
+      "answer": "Yes, some residences have convenient access to nearby MRT and LRT stations."
+    },
+    {
+      "question": "Is Chow Kit suitable for first-time Kuala Lumpur residents?",
+      "answer": "Yes, Chow Kit provides affordable housing with easy access to important city areas."
+    },
+    {
+      "question": "Are there cheap apartments near Chow Kit Monorail?",
+      "answer": "Yes, affordable apartments and rooms are available around Chow Kit Monorail."
+    },
+    {
+      "question": "Does Chow Kit have good road access?",
+      "answer": "Yes, Chow Kit connects easily to Jalan Tun Razak, Jalan Sultan Ismail and central Kuala Lumpur roads."
+    },
+    {
+      "question": "Are Chow Kit rentals suitable for long-term stays?",
+      "answer": "Yes, many tenants choose Chow Kit for long-term accommodation because of affordability and location."
+    },
+    {
+      "question": "Can I find rooms with utilities included in Chow Kit?",
+      "answer": "Some rental listings include utilities while others require separate payment."
+    },
+    {
+      "question": "Is Chow Kit suitable for business travellers?",
+      "answer": "Yes, its central location makes Chow Kit convenient for business visitors."
+    },
+    {
+      "question": "Why do people choose Chow Kit for room rental?",
+      "answer": "People choose Chow Kit because of affordable prices, transport connectivity, food options and access to Kuala Lumpur city centre."
+    },
+    {
+      "question": "Are there rooms near Chow Kit Market?",
+      "answer": "Yes, many rental rooms and apartments are available around Chow Kit Market with easy access to food and daily necessities."
+    },
+    {
+      "question": "Can I find affordable rooms near Jalan Sultan Ismail?",
+      "answer": "Yes, Chow Kit offers affordable room options near Jalan Sultan Ismail and surrounding commercial areas."
+    },
+    {
+      "question": "Is Chow Kit suitable for people working in KLCC?",
+      "answer": "Yes, many KLCC workers choose Chow Kit because it provides shorter commuting distance with lower rental costs."
+    },
+    {
+      "question": "Are there rooms near Kampung Baru from Chow Kit?",
+      "answer": "Yes, Kampung Baru is nearby and easily accessible from Chow Kit."
+    },
+    {
+      "question": "Can students find cheap accommodation in Chow Kit?",
+      "answer": "Yes, Chow Kit offers budget-friendly rooms suitable for students and interns."
+    },
+    {
+      "question": "Are there apartments near PWTC from Chow Kit?",
+      "answer": "Yes, PWTC is close to Chow Kit and many apartments are available nearby."
+    },
+    {
+      "question": "Does Chow Kit have convenient access to shopping areas?",
+      "answer": "Yes, residents can easily reach Sunway Putra Mall, Quill City Mall and Bukit Bintang shopping areas."
+    },
+    {
+      "question": "Can I rent a fully furnished condo in Chow Kit?",
+      "answer": "Yes, many serviced apartments and condominiums offer fully furnished rental units."
+    },
+    {
+      "question": "Are Chow Kit rentals suitable for young professionals?",
+      "answer": "Yes, young professionals often choose Chow Kit due to affordable prices and central location."
+    },
+    {
+      "question": "Is Chow Kit close to Kuala Lumpur nightlife areas?",
+      "answer": "Yes, entertainment areas such as Bukit Bintang are easily accessible from Chow Kit."
+    },
+    {
+      "question": "Can I find rooms near public transport in Chow Kit?",
+      "answer": "Yes, many rooms are located close to Monorail, LRT and bus routes."
+    },
+    {
+      "question": "Are there affordable master rooms near KL city centre?",
+      "answer": "Yes, Chow Kit provides affordable master rooms compared with many central KL locations."
+    },
+    {
+      "question": "Does Chow Kit have convenience stores nearby?",
+      "answer": "Yes, convenience stores and small shops are widely available throughout the area."
+    },
+    {
+      "question": "Can foreigners find furnished accommodation in Chow Kit?",
+      "answer": "Yes, furnished apartments suitable for foreign tenants are available in selected buildings."
+    },
+    {
+      "question": "Is Chow Kit suitable for long-term foreign workers?",
+      "answer": "Yes, many foreign workers prefer Chow Kit due to affordable rental and city accessibility."
+    },
+    {
+      "question": "Are there rooms near KL Monorail stations?",
+      "answer": "Yes, Chow Kit has direct access to Chow Kit Monorail Station and nearby stations."
+    },
+    {
+      "question": "Can I find budget studio apartments in Chow Kit?",
+      "answer": "Yes, budget-friendly studio apartments are available in selected developments."
+    },
+    {
+      "question": "Are there apartments with gyms in Chow Kit?",
+      "answer": "Yes, many modern condominiums provide gym facilities for residents."
+    },
+    {
+      "question": "Is Chow Kit suitable for people without cars?",
+      "answer": "Yes, Chow Kit is suitable for car-free living because of strong public transport connectivity."
+    },
+    {
+      "question": "Can I commute from Chow Kit to TRX?",
+      "answer": "Yes, Chow Kit residents can travel conveniently to TRX using public transport connections."
+    },
+    {
+      "question": "Are there rooms near Kuala Lumpur offices from Chow Kit?",
+      "answer": "Yes, Chow Kit provides easy access to many office buildings in central Kuala Lumpur."
+    },
+    {
+      "question": "Is Chow Kit cheaper than Brickfields?",
+      "answer": "Rental prices vary, but Chow Kit is generally considered one of the more affordable central KL areas."
+    },
+    {
+      "question": "Can I find rooms near restaurants in Chow Kit?",
+      "answer": "Yes, Chow Kit has many restaurants and food outlets within walking distance."
+    },
+    {
+      "question": "Are there shared rooms available in Chow Kit?",
+      "answer": "Yes, shared rooms are available for tenants looking for lower rental costs."
+    },
+    {
+      "question": "Is Chow Kit suitable for interns working in Kuala Lumpur?",
+      "answer": "Yes, interns often choose Chow Kit because of affordability and easy commuting."
+    },
+    {
+      "question": "Are utilities included in Chow Kit room rentals?",
+      "answer": "Some landlords include utilities while others charge separately depending on the agreement."
+    },
+    {
+      "question": "Can I find no-deposit rooms in Chow Kit?",
+      "answer": "Some listings may offer flexible rental terms, depending on landlord conditions."
+    },
+    {
+      "question": "Are there rooms near Quill City Mall?",
+      "answer": "Yes, Chow Kit is close to Quill City Mall and surrounding residences."
+    },
+    {
+      "question": "Is Chow Kit suitable for elderly tenants?",
+      "answer": "Some residences with lifts and convenient facilities may be suitable for elderly tenants."
+    },
+    {
+      "question": "Can I rent a room close to food markets in Chow Kit?",
+      "answer": "Yes, Chow Kit is well known for local markets and affordable food options."
+    },
+    {
+      "question": "Does Chow Kit have modern residential buildings?",
+      "answer": "Yes, the area has both established apartments and modern serviced residences."
+    },
+    {
+      "question": "Are there rooms suitable for couples near Chow Kit?",
+      "answer": "Some apartments and studios may be suitable for couples depending on rental rules."
+    },
+    {
+      "question": "Is Chow Kit a convenient place for daily commuting?",
+      "answer": "Yes, residents can easily travel to many Kuala Lumpur districts from Chow Kit."
+    },
+    {
+      "question": "Can I find rooms near Bukit Nanas from Chow Kit?",
+      "answer": "Yes, Bukit Nanas is nearby and accessible through public transport."
+    },
+    {
+      "question": "Are Chow Kit apartments pet friendly?",
+      "answer": "Pet policies depend on individual buildings and landlords."
+    },
+    {
+      "question": "Can I rent a room near KL Tower from Chow Kit?",
+      "answer": "Yes, KL Tower is within convenient travelling distance from Chow Kit."
+    },
+    {
+      "question": "Is Chow Kit a good investment rental area?",
+      "answer": "Yes, its central location and strong rental demand make it an attractive rental area."
+    },
+    {
+      "question": "Are there affordable condos near KLCC from Chow Kit?",
+      "answer": "Yes, Chow Kit provides more affordable condominium options close to KLCC."
+    },
+    {
+      "question": "Can I find rooms for fresh graduates in Chow Kit?",
+      "answer": "Yes, fresh graduates often choose Chow Kit because of affordable city-centre accommodation."
+    },
+    {
+      "question": "What makes Chow Kit popular among renters?",
+      "answer": "Chow Kit is popular because of affordable rental prices, transport access, food options and proximity to major Kuala Lumpur areas."
+    },
+    {
+      "question": "Is Chow Kit a good place to live in 2026?",
+      "answer": "Yes, Chow Kit continues to attract tenants due to its strategic location and affordable housing options."
+    },
+    {
+      "question": "How can I search for a room for rent in Chow Kit?",
+      "answer": "You can search based on budget, room type, furnishing, MRT distance and preferred residential facilities."
+    },
+    {
+      "question": "Are there rooms near Medan Tuanku Monorail Station from Chow Kit?",
+      "answer": "Yes, several rental rooms and apartments are available with convenient access to Medan Tuanku Monorail Station."
+    },
+    {
+      "question": "Can I find affordable rooms near KLCC without paying KLCC prices?",
+      "answer": "Yes, Chow Kit is a popular affordable alternative for tenants who want quick access to KLCC."
+    },
+    {
+      "question": "Are Chow Kit rooms suitable for office workers with daily commuting needs?",
+      "answer": "Yes, Chow Kit provides convenient transport connections for daily commuters working across Kuala Lumpur."
+    },
+    {
+      "question": "Is Chow Kit a good area for first-time renters in Kuala Lumpur?",
+      "answer": "Yes, Chow Kit offers affordable rentals, convenient transport and easy access to essential amenities."
+    },
+    {
+      "question": "Can I rent a room close to shopping streets in Chow Kit?",
+      "answer": "Yes, many rooms are located near Jalan Tuanku Abdul Rahman and other commercial areas."
+    },
+    {
+      "question": "Are there budget apartments near Chow Kit Monorail?",
+      "answer": "Yes, budget-friendly apartments and rooms are available near Chow Kit Monorail Station."
+    },
+    {
+      "question": "Why is Chow Kit popular among budget renters?",
+      "answer": "Chow Kit is popular because it provides central Kuala Lumpur access at more affordable rental prices."
+    },
+    {
+      "question": "Is Chow Kit suitable for tenants looking for city-centre living?",
+      "answer": "Yes, Chow Kit offers practical city-centre living with convenient transport, food and shopping facilities."
+    }
+  ],
+  "focusKeywords": [
+    "Chow Kit room for rent",
+    "Chow Kit condo for rent",
+    "Chow Kit apartment for rent",
+    "room near Chow Kit Monorail",
+    "furnished room Chow Kit",
+    "cheap room Chow Kit Kuala Lumpur",
+    "Kuala Lumpur city centre rental Chow Kit",
+    "affordable condo Chow Kit",
+    "Jalan Tuanku Abdul Rahman room rental",
+    "Chow Kit serviced apartment for rent",
+    "student accommodation Chow Kit Kuala Lumpur",
+    "working professional room Chow Kit",
+    "studio apartment Chow Kit for rent",
+    "monthly rental Chow Kit",
+    "budget room near KLCC"
+  ],
+  "longTailKeywords": [
+    "furnished room for rent near Chow Kit Monorail Kuala Lumpur walking distance",
+    "cheap room near Jalan Tuanku Abdul Rahman for working professionals",
+    "affordable condo room Chow Kit near KL city centre",
+    "studio apartment Chow Kit fully furnished for rent Kuala Lumpur",
+    "monthly rental room Chow Kit near public transport station",
+    "budget room near KLCC and Bukit Bintang Kuala Lumpur",
+    "high floor serviced apartment Chow Kit with city view",
+    "short term rental Chow Kit furnished apartment Kuala Lumpur",
+    "no deposit room for rent Chow Kit Kuala Lumpur",
+    "room near Chow Kit Monorail for office workers in KL city centre"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Chow Kit",
+      "budget room near Chow Kit",
+      "student room Chow Kit Kuala Lumpur",
+      "affordable accommodation Chow Kit",
+      "student rental room Chow Kit",
+      "shared room rental Chow Kit",
+      "cheap furnished room Chow Kit",
+      "budget apartment near Chow Kit Monorail",
+      "student accommodation near KL city centre",
+      "room near Tunku Abdul Rahman University College",
+      "student friendly room rental Chow Kit"
+    ],
+    "expat": [
+      "expat housing Chow Kit",
+      "furnished condo Chow Kit",
+      "serviced apartment Chow Kit",
+      "international tenant friendly condo Chow Kit",
+      "affordable apartment rental Chow Kit",
+      "condo near KLCC Chow Kit",
+      "fully furnished apartment Chow Kit Kuala Lumpur",
+      "expat friendly residence Chow Kit",
+      "modern condo rental Chow Kit",
+      "foreign tenant apartment Chow Kit"
+    ],
+    "professional": [
+      "Chow Kit condo near MRT",
+      "room near Chow Kit for professionals",
+      "room near KLCC from Chow Kit",
+      "room near Kuala Lumpur city centre offices",
+      "room near Jalan Sultan Ismail",
+      "affordable apartment Chow Kit",
+      "executive residence Chow Kit",
+      "working professional room rental Chow Kit",
+      "corporate housing Chow Kit Kuala Lumpur",
+      "office worker accommodation Chow Kit"
+    ],
+    "shortStay": [
+      "short term rental Chow Kit",
+      "monthly rental Chow Kit",
+      "serviced residence Chow Kit",
+      "flexible room rental Chow Kit",
+      "short stay apartment Chow Kit Kuala Lumpur",
+      "temporary accommodation Chow Kit",
+      "monthly furnished room Chow Kit",
+      "weekly apartment rental Chow Kit",
+      "business stay Chow Kit",
+      "holiday rental Chow Kit apartment"
+    ],
+    "premiumIntent": [
+      "luxury condo Chow Kit for rent",
+      "high end apartment Chow Kit",
+      "executive residence Chow Kit",
+      "premium serviced apartment Chow Kit",
+      "modern condominium rental Chow Kit Kuala Lumpur",
+      "luxury apartment near KLCC Chow Kit",
+      "premium furnished room Chow Kit",
+      "exclusive apartment Chow Kit",
+      "five star serviced residence near Chow Kit",
+      "city view condo Chow Kit"
+    ],
+    "family": [
+      "family apartment Chow Kit",
+      "3 bedroom condo Chow Kit rental",
+      "family friendly condo Chow Kit",
+      "safe residential area Chow Kit",
+      "large apartment rental Chow Kit Kuala Lumpur",
+      "family condo near KL city centre",
+      "child friendly apartment Chow Kit",
+      "long term family rental Chow Kit",
+      "spacious condominium Chow Kit"
+    ],
+    "budgetTenant": [
+      "cheap room Chow Kit Kuala Lumpur",
+      "low budget rental Chow Kit",
+      "affordable apartment Chow Kit",
+      "room under RM1000 Chow Kit",
+      "budget friendly room near Chow Kit Monorail",
+      "cheap furnished room Chow Kit",
+      "affordable condo room Chow Kit",
+      "low cost accommodation Kuala Lumpur city centre",
+      "budget room walking distance Chow Kit",
+      "cheap rental near KLCC"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Chow Kit room for rent",
+    "secondaryKeywords": [
+      "Chow Kit condo for rent",
+      "Chow Kit apartment for rent",
+      "Chow Kit serviced apartment for rent",
+      "cheap room Chow Kit Kuala Lumpur",
+      "room near Chow Kit Monorail",
+      "Jalan Tuanku Abdul Rahman room rental",
+      "Kuala Lumpur city centre room rental",
+      "affordable condo Chow Kit Kuala Lumpur",
+      "furnished room Chow Kit"
+    ],
+    "seoScore": 96,
+    "canonicalUrl": "https://roomrentalkl.com/kuala-lumpur/chow-kit/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "affordable-city-center-rentals",
+    "contentCluster": [
+      "affordable rooms Chow Kit",
+      "budget condos Kuala Lumpur",
+      "city centre rental rooms",
+      "MRT and Monorail connected rentals",
+      "student housing Chow Kit",
+      "professional accommodation near KLCC"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "KLCC",
+        "Bukit Bintang",
+        "Pudu",
+        "Brickfields",
+        "KL Sentral",
+        "Kampung Baru"
+      ],
+      "nearbyHotspots": [
+        "Chow Kit Market",
+        "Jalan Tuanku Abdul Rahman",
+        "Sunway Putra Mall",
+        "Kampung Baru",
+        "Putra World Trade Centre",
+        "KLCC"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Chow Kit Rooms for Rent",
+        "url": "/room-rental-chow-kit",
+        "keyword": "chow kit room for rent"
+      },
+      {
+        "title": "Chow Kit Condos for Rent",
+        "url": "/condo-for-rent-chow-kit",
+        "keyword": "chow kit condo for rent"
+      },
+      {
+        "title": "Cheap Rooms Near Chow Kit",
+        "url": "/cheap-room-chow-kit",
+        "keyword": "cheap room near chow kit"
+      },
+      {
+        "title": "Rooms Near Chow Kit Monorail",
+        "url": "/room-near-chow-kit-monorail",
+        "keyword": "room near chow kit monorail"
+      },
+      {
+        "title": "Kuala Lumpur City Centre Rentals",
+        "url": "/kl-city-centre-rentals",
+        "keyword": "kuala lumpur city centre room rental"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Chow Kit Area Guide",
+        "url": "/area-guide-chow-kit",
+        "type": "guide"
+      },
+      {
+        "title": "Chow Kit Price Guide 2026",
+        "url": "/price-guide-chow-kit",
+        "type": "pricing"
+      },
+      {
+        "title": "Chow Kit Transport Guide",
+        "url": "/chow-kit-transport-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Affordable Condos in Chow Kit",
+        "url": "/affordable-condo-chow-kit",
+        "type": "listing-category"
+      },
+      {
+        "title": "Student Housing in Chow Kit",
+        "url": "/student-housing-chow-kit",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Chow Kit",
+        "url": "/furnished-room-chow-kit",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Chow Kit",
+        "url": "/short-term-rental-chow-kit",
+        "type": "rental-type"
+      }
+    ]
+  }
+}

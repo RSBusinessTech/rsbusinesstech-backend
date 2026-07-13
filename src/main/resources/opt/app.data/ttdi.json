@@ -1,0 +1,1391 @@
+{
+  "area": {
+    "name": "TTDI",
+    "slug": "ttdi",
+    "heroImage": "assets/images/areas/ttdi.jpg",
+    "metaTitle": "Rooms for Rent in TTDI | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in TTDI near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in TTDI – Complete Guide to Room Rental in Taman Tun Dr Ismail Kuala Lumpur",
+    "description": "TTDI (Taman Tun Dr Ismail) is one of Kuala Lumpur's most established and desirable residential neighbourhoods for room rental. The area attracts professionals, expatriates, families, entrepreneurs, students and remote workers looking for comfortable living with excellent lifestyle facilities. Whether you are searching for a master room for rent in TTDI, a single room near TTDI MRT Station, a fully furnished room near 1 Utama, a condo room close to office districts or a premium apartment rental in Kuala Lumpur, TTDI offers a wide range of accommodation choices. Residents enjoy excellent MRT connectivity, popular cafes, restaurants, parks, shopping malls, healthcare facilities and easy access to Petaling Jaya, Mont Kiara, Bangsar and Kuala Lumpur city centre, making TTDI one of the most attractive places to rent a room in Klang Valley.",
+    "buttonText": "Explore TTDI Rental Guide",
+    "buttonLink": "/room-rental-ttdi",
+    "highlights": [
+      "Wide selection of master rooms, medium rooms, single rooms, studio rooms and condo rooms for rent in TTDI",
+      "Walking distance to TTDI MRT Station, Taman Tun Park, 1 Utama Shopping Centre and popular lifestyle areas",
+      "Excellent connectivity via TTDI MRT Station, Bandar Utama MRT Station and major highways",
+      "Popular among professionals, expatriates, families and long-term residents",
+      "Close to major employment areas including Bandar Utama, Damansara, Petaling Jaya and Kuala Lumpur",
+      "Many fully furnished, semi-furnished and premium condominium rental options",
+      "Established neighbourhood with cafes, restaurants, parks, supermarkets and healthcare facilities",
+      "One of Kuala Lumpur's most mature and highly sought-after residential communities"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Transportation & MRT Connectivity",
+        "description": "TTDI provides excellent connectivity through TTDI MRT Station, Bandar Utama MRT Station and major highways including Sprint Highway and LDP. Residents enjoy convenient access to Petaling Jaya, Bangsar, Mont Kiara, KL Sentral, KLCC and Kuala Lumpur International Airport."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Popular Condominiums & Rental Choices",
+        "description": "TTDI offers various rental options including master rooms, single rooms, studio units and condominium rooms. Popular residential developments include Kiara Park, TTDI Residences, TTDI Plaza, Trellises, The Greens and Kiara 163."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Lifestyle",
+        "description": "Residents enjoy easy access to 1 Utama Shopping Centre, The Starling Mall, Centrepoint Bandar Utama and Damansara Uptown. The area offers shopping, cinemas, fitness centres, cafes and entertainment facilities."
+      },
+      {
+        "icon": "fas fa-utensils",
+        "title": "Food & Dining",
+        "description": "TTDI is famous for its vibrant food scene with local restaurants, cafes, bakeries, coffee shops, brunch spots and international dining options suitable for residents and professionals."
+      },
+      {
+        "icon": "fas fa-user-tie",
+        "title": "Ideal for Professionals & Expats",
+        "description": "TTDI is a preferred residential choice for professionals working in Bandar Utama, Petaling Jaya, Bangsar, Mont Kiara and Kuala Lumpur due to its lifestyle convenience and connectivity."
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "title": "Safety & Quality Living",
+        "description": "Many TTDI residential developments provide 24-hour security, CCTV monitoring, access card systems and professional management, offering residents a safe and comfortable living environment."
+      }
+    ],
+    "popularResidences": [
+      "TTDI Residences",
+      "Kiara Park",
+      "TTDI Plaza",
+      "Taman Tun Dr Ismail Condominiums",
+      "Trellises",
+      "The Greens",
+      "Kiara 163",
+      "Casa Harmoni",
+      "Laman Suria",
+      "Damansara Foresta"
+    ],
+    "nearbyLandmarks": [
+      "TTDI MRT Station",
+      "Taman Tun Park",
+      "1 Utama Shopping Centre",
+      "The Starling Mall",
+      "Damansara Uptown",
+      "Kota Damansara",
+      "Bandar Utama",
+      "National Science Centre",
+      "Bukit Kiara Park",
+      "IKEA Damansara"
+    ],
+    "nearbyUniversities": [
+      "University of Malaya",
+      "HELP University",
+      "KDU University College",
+      "SEGi University Kota Damansara",
+      "Asia Pacific University",
+      "Monash University Malaysia"
+    ],
+    "majorEmployers": [
+      "IBM Malaysia",
+      "HSBC",
+      "CIMB",
+      "Maybank",
+      "Deloitte",
+      "PwC",
+      "EY",
+      "KPMG",
+      "Accenture",
+      "Petaling Jaya Corporate Offices",
+      "Bandar Utama Business Centres",
+      "Damansara Technology Companies"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "TTDI MRT Station",
+      "slug": "ttdi-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "3 mins walk",
+      "distanceMeters": 200,
+      "distanceText": "3 mins walk (200 m)",
+      "title": "TTDI MRT Station",
+      "shortDescription": "TTDI MRT Station is the main transport hub serving Taman Tun Dr Ismail. It provides direct connectivity to Bukit Bintang, TRX, KL Sentral and major employment areas, making TTDI highly attractive for professionals.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "Taman Tun Park",
+        "1 Utama Shopping Centre",
+        "The Starling Mall",
+        "Damansara Uptown"
+      ],
+      "nearbyResidences": [
+        "TTDI Residences",
+        "TTDI Plaza",
+        "Kiara Park",
+        "The Greens"
+      ],
+      "popularSearches": [
+        "Room near TTDI MRT",
+        "TTDI MRT room rent",
+        "Studio near TTDI MRT"
+      ]
+    },
+    {
+      "name": "Bandar Utama MRT Station",
+      "slug": "bandar-utama-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 1500,
+      "distanceText": "10 mins drive (1.5 km)",
+      "title": "Bandar Utama MRT Station",
+      "shortDescription": "Bandar Utama MRT Station connects TTDI residents to major commercial areas including 1 Utama, Petaling Jaya and Kuala Lumpur. It is popular among professionals working nearby.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "1 Utama Shopping Centre",
+        "Bandar Utama Business Park",
+        "Centrepoint Bandar Utama"
+      ],
+      "nearbyResidences": [
+        "The Greens",
+        "Kiara Park",
+        "Bandar Utama Condominiums"
+      ],
+      "popularSearches": [
+        "Room near Bandar Utama MRT",
+        "Bandar Utama studio room"
+      ]
+    },
+    {
+      "name": "Phileo Damansara MRT Station",
+      "slug": "phileo-damansara-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 2500,
+      "distanceText": "12 mins drive (2.5 km)",
+      "title": "Phileo Damansara MRT Station",
+      "shortDescription": "Phileo Damansara MRT provides convenient access towards Bangsar South, KL Sentral and Petaling Jaya business areas. It is useful for professionals living around TTDI.",
+      "averageRoomRent": 1350,
+      "nearbyLandmarks": [
+        "Phileo Damansara",
+        "Bangsar South",
+        "University Malaya"
+      ],
+      "nearbyResidences": [
+        "TTDI Residences",
+        "Casa Harmoni",
+        "Kiara Park"
+      ],
+      "popularSearches": [
+        "Room near Phileo Damansara MRT",
+        "TTDI nearby MRT room"
+      ]
+    },
+    {
+      "name": "Pusat Bandar Damansara MRT Station",
+      "slug": "pusat-bandar-damansara-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 4000,
+      "distanceText": "15 mins drive (4 km)",
+      "title": "Pusat Bandar Damansara MRT Station",
+      "shortDescription": "Pusat Bandar Damansara MRT connects TTDI residents to Bangsar, KL Sentral and central Kuala Lumpur. It is convenient for professionals working in corporate districts.",
+      "averageRoomRent": 1600,
+      "nearbyLandmarks": [
+        "Pusat Bandar Damansara",
+        "Bangsar",
+        "Menara Hap Seng"
+      ],
+      "nearbyResidences": [
+        "Damansara City Residences",
+        "TTDI Residences",
+        "Kiara Park"
+      ],
+      "popularSearches": [
+        "Room near Pusat Bandar Damansara MRT",
+        "Damansara MRT room rent"
+      ]
+    },
+    {
+      "name": "Mutiara Damansara MRT Station",
+      "slug": "mutiara-damansara-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 5000,
+      "distanceText": "15 mins drive (5 km)",
+      "title": "Mutiara Damansara MRT Station",
+      "shortDescription": "Mutiara Damansara MRT provides access to IKEA, The Curve, shopping areas and Damansara commercial zones. It is popular among residents around TTDI.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "IKEA Damansara",
+        "The Curve",
+        "IPC Shopping Centre"
+      ],
+      "nearbyResidences": [
+        "Damansara Perdana Residences",
+        "Kiara Park",
+        "TTDI Condominiums"
+      ],
+      "popularSearches": [
+        "Room near Mutiara Damansara MRT",
+        "Damansara room rental"
+      ]
+    },
+    {
+      "name": "Semantan MRT Station",
+      "slug": "semantan-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "18 mins drive",
+      "distanceMeters": 6000,
+      "distanceText": "18 mins drive (6 km)",
+      "title": "Semantan MRT Station",
+      "shortDescription": "Semantan MRT connects towards Mont Kiara, Bukit Bintang and central Kuala Lumpur areas, providing additional commuting options for TTDI residents.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "Mont Kiara",
+        "Damansara Heights",
+        "Bangsar"
+      ],
+      "nearbyResidences": [
+        "TTDI Residences",
+        "Kiara Park",
+        "Luxury Damansara Condos"
+      ],
+      "popularSearches": [
+        "Room near Semantan MRT",
+        "Damansara Heights room rent"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 800,
+      "maxPrice": 1200
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 1000,
+      "maxPrice": 1500
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1400,
+      "maxPrice": 2200
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 1800,
+      "maxPrice": 3500
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1500,
+    "priceGrowth": 5.0,
+    "demandLevel": "Very High",
+    "vacancyRate": 2.5
+  },
+  "nearbyAreas": [
+    {
+      "name": "Bandar Utama",
+      "slug": "bandar-utama",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Professionals, Families, Expats",
+      "description": "Bandar Utama is a premium neighbouring area known for 1 Utama Shopping Centre, corporate offices, MRT connectivity and quality condominiums."
+    },
+    {
+      "name": "Damansara",
+      "slug": "damansara",
+      "averageRent": 1400,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Professionals, Families",
+      "description": "Damansara offers modern residential developments, shopping facilities, offices and convenient access to Kuala Lumpur and Petaling Jaya."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 6,
+      "popularFor": "Professionals, Students",
+      "description": "Petaling Jaya is a major employment hub with universities, commercial centres and many rental options."
+    },
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 1600,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Professionals, Expats, Lifestyle Living",
+      "description": "Bangsar is a popular lifestyle and business area with cafes, restaurants, offices and premium residences."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 2500,
+      "mrtAccess": false,
+      "distanceFromArea": 8,
+      "popularFor": "Expats, Executives, Families",
+      "description": "Mont Kiara is a premium expatriate neighbourhood with luxury condominiums, international schools and lifestyle facilities."
+    },
+    {
+      "name": "Bangsar South",
+      "slug": "bangsar-south",
+      "averageRent": 1600,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Professionals, Expats",
+      "description": "Bangsar South is a modern business district with offices, residences, restaurants and strong rental demand."
+    },
+    {
+      "name": "KL Sentral",
+      "slug": "kl-sentral",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Professionals, Students",
+      "description": "KL Sentral is a major transport and business hub offering excellent connectivity to Kuala Lumpur and surrounding areas."
+    },
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 2500,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Executives, Expats, Luxury Living",
+      "description": "KLCC is Kuala Lumpur's prime business district with luxury residences, offices and premium lifestyle facilities."
+    },
+    {
+      "name": "Seputeh",
+      "slug": "seputeh",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 15,
+      "popularFor": "Professionals, Families, Budget Renters",
+      "description": "Seputeh provides more affordable residential options while remaining connected to Mid Valley, KL Sentral and Bangsar."
+    },
+    {
+      "name": "Brickfields",
+      "slug": "brickfields",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Students, Professionals",
+      "description": "Brickfields near KL Sentral offers convenient transportation, affordable rooms and easy access to city destinations."
+    },
+    {
+      "name": "Pudu",
+      "slug": "pudu",
+      "averageRent": 850,
+      "mrtAccess": true,
+      "distanceFromArea": 15,
+      "popularFor": "Budget Renters, Workers",
+      "description": "Pudu is a central Kuala Lumpur neighbourhood offering affordable rentals and convenient public transport."
+    },
+    {
+      "name": "Cheras",
+      "slug": "cheras",
+      "averageRent": 850,
+      "mrtAccess": true,
+      "distanceFromArea": 18,
+      "popularFor": "Students, Families, Budget Renters",
+      "description": "Cheras offers affordable accommodation, established communities and MRT connectivity."
+    },
+    {
+      "name": "Subang Jaya",
+      "slug": "subang-jaya",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 18,
+      "popularFor": "Students, Families, Professionals",
+      "description": "Subang Jaya is a popular residential area with universities, shopping malls and affordable rental options."
+    },
+    {
+      "name": "Sunway",
+      "slug": "sunway",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 20,
+      "popularFor": "Students, Young Professionals",
+      "description": "Sunway is an education and lifestyle hub with universities, shopping malls, hospitals and strong rental demand."
+    },
+    {
+      "name": "Cyberjaya",
+      "slug": "cyberjaya",
+      "averageRent": 900,
+      "mrtAccess": false,
+      "distanceFromArea": 35,
+      "popularFor": "Students, IT Professionals",
+      "description": "Cyberjaya provides affordable modern residences, universities and technology-focused employment opportunities."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room TTDI",
+      "url": "/master-room-rental-ttdi"
+    },
+    {
+      "title": "Single Room TTDI",
+      "url": "/single-room-rental-ttdi"
+    },
+    {
+      "title": "Condo Room TTDI",
+      "url": "/condo-room-rental-ttdi"
+    },
+    {
+      "title": "Room Near TTDI MRT",
+      "url": "/room-near-ttdi-mrt"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is TTDI a good place to rent a room in Kuala Lumpur?",
+      "answer": "Yes. TTDI is one of Kuala Lumpur's most desirable residential areas, offering excellent MRT connectivity, lifestyle facilities, parks, shopping malls and convenient access to Kuala Lumpur and Petaling Jaya."
+    },
+    {
+      "question": "How much is room rental in TTDI?",
+      "answer": "Room rental in TTDI usually ranges from around RM800 for single rooms to above RM2,000 for premium master rooms or studio units depending on location, facilities and furnishing."
+    },
+    {
+      "question": "What types of rooms are available for rent in TTDI?",
+      "answer": "Tenants can find single rooms, medium rooms, master rooms, studio rooms, condo rooms and shared accommodation options in TTDI."
+    },
+    {
+      "question": "Is TTDI suitable for working professionals?",
+      "answer": "Yes. TTDI is highly popular among professionals working in Petaling Jaya, Bandar Utama, Bangsar, Mont Kiara and Kuala Lumpur due to its location and transport options."
+    },
+    {
+      "question": "Is TTDI suitable for expatriates?",
+      "answer": "Yes. Many expatriates choose TTDI because of its safe environment, international lifestyle, restaurants, shopping options and premium residential developments."
+    },
+    {
+      "question": "Is there MRT access in TTDI?",
+      "answer": "Yes. TTDI MRT Station on the Kajang Line provides convenient access to major destinations including Bukit Bintang, TRX and Kuala Lumpur city areas."
+    },
+    {
+      "question": "How far is TTDI from Kuala Lumpur city centre?",
+      "answer": "TTDI is approximately 10 to 15 km from Kuala Lumpur city centre depending on the destination and traffic conditions."
+    },
+    {
+      "question": "How long does it take from TTDI to KLCC?",
+      "answer": "Travel time from TTDI to KLCC is usually around 25 to 40 minutes depending on traffic and public transport connections."
+    },
+    {
+      "question": "Are furnished rooms available in TTDI?",
+      "answer": "Yes. Many condominiums and apartments in TTDI offer fully furnished rooms with beds, wardrobes, tables, appliances and shared facilities."
+    },
+    {
+      "question": "Can foreigners rent rooms in TTDI?",
+      "answer": "Yes. TTDI is a popular choice for foreign tenants due to its established community and convenient lifestyle facilities."
+    },
+    {
+      "question": "What is the cheapest room rental option in TTDI?",
+      "answer": "Single rooms and shared rooms are usually the most affordable rental options in TTDI."
+    },
+    {
+      "question": "Is TTDI expensive for room rental?",
+      "answer": "TTDI is considered a premium residential area, so rental prices are generally higher than many suburban locations, but the facilities and connectivity add value."
+    },
+    {
+      "question": "Which MRT station is closest to TTDI rooms?",
+      "answer": "TTDI MRT Station is the main MRT station serving the neighbourhood and many residences are within walking or short driving distance."
+    },
+    {
+      "question": "Are there condo rooms for rent in TTDI?",
+      "answer": "Yes. TTDI has many condominium rooms available for rent with facilities such as swimming pools, gyms and security."
+    },
+    {
+      "question": "Is TTDI safe for students?",
+      "answer": "Yes. TTDI is generally considered a safe and comfortable area with convenient transport, food options and daily necessities."
+    },
+    {
+      "question": "Which universities are near TTDI?",
+      "answer": "Universities near TTDI include University of Malaya, HELP University, SEGi University Kota Damansara and other institutions around Petaling Jaya."
+    },
+    {
+      "question": "Is TTDI near 1 Utama?",
+      "answer": "Yes. TTDI is located close to 1 Utama Shopping Centre, one of Malaysia's largest shopping malls."
+    },
+    {
+      "question": "Is TTDI a good location for long term rental?",
+      "answer": "Yes. TTDI is highly suitable for long-term tenants due to its mature neighbourhood, amenities and stable rental demand."
+    },
+    {
+      "question": "Are there studio apartments for rent in TTDI?",
+      "answer": "Yes. Some residential developments around TTDI offer studio and compact apartment rental options."
+    },
+    {
+      "question": "Can I find a room near TTDI MRT Station?",
+      "answer": "Yes. Many tenants search specifically for rooms within walking distance of TTDI MRT Station."
+    },
+    {
+      "question": "What facilities do TTDI condominiums provide?",
+      "answer": "Many TTDI condominiums provide swimming pools, gyms, security services, parking areas and recreational facilities."
+    },
+    {
+      "question": "Is TTDI better than Bandar Utama for renting?",
+      "answer": "Both areas are attractive. TTDI offers a greener neighbourhood feel, while Bandar Utama is closer to major shopping and business facilities."
+    },
+    {
+      "question": "Is TTDI suitable for families?",
+      "answer": "Yes. TTDI is popular among families due to parks, schools, healthcare facilities and a peaceful residential environment."
+    },
+    {
+      "question": "Are there cheap rooms near TTDI?",
+      "answer": "Yes. Budget rooms can be found through shared houses, older condominiums and smaller room options."
+    },
+    {
+      "question": "What is the average master room rental in TTDI?",
+      "answer": "Master rooms in TTDI generally range from around RM1,400 to RM2,200 depending on the property and facilities."
+    },
+    {
+      "question": "Is TTDI close to Petaling Jaya?",
+      "answer": "Yes. TTDI is directly connected to Petaling Jaya and surrounding commercial areas."
+    },
+    {
+      "question": "Is TTDI near Bangsar?",
+      "answer": "Yes. Bangsar is accessible from TTDI by road and public transport connections."
+    },
+    {
+      "question": "Does TTDI have good food options?",
+      "answer": "Yes. TTDI is famous for cafes, restaurants, local food stalls and lifestyle dining options."
+    },
+    {
+      "question": "Are utilities included in TTDI room rental?",
+      "answer": "Utilities depend on the landlord or rental agreement. Some listings include internet or utilities while others require separate payment."
+    },
+    {
+      "question": "Can I rent a room monthly in TTDI?",
+      "answer": "Yes. Monthly room rental options are available in TTDI for students, professionals and short-term tenants."
+    },
+    {
+      "question": "How convenient is public transport in TTDI?",
+      "answer": "TTDI has excellent public transport access through TTDI MRT Station and nearby MRT connections, making commuting convenient without a private vehicle."
+    },
+    {
+      "question": "Is TTDI connected to Kuala Lumpur by MRT?",
+      "answer": "Yes. TTDI MRT Station connects residents to major areas including Bukit Bintang, TRX and central Kuala Lumpur."
+    },
+    {
+      "question": "Are there female-only rooms for rent in TTDI?",
+      "answer": "Yes. Some landlords offer female-only rooms and female-friendly shared accommodation options in TTDI."
+    },
+    {
+      "question": "Are there male-only rooms for rent in TTDI?",
+      "answer": "Yes. Male-only rooms and shared rental options may be available depending on current listings."
+    },
+    {
+      "question": "Can students rent rooms in TTDI?",
+      "answer": "Yes. Students looking for convenient access to universities and lifestyle facilities can find suitable room rentals in TTDI."
+    },
+    {
+      "question": "Is TTDI good for remote workers?",
+      "answer": "Yes. TTDI offers cafes, reliable internet options, peaceful residential areas and lifestyle amenities suitable for remote workers."
+    },
+    {
+      "question": "Are there rooms near Taman Tun Park?",
+      "answer": "Yes. Several residential properties around TTDI provide convenient access to Taman Tun Park."
+    },
+    {
+      "question": "How far is TTDI from 1 Utama Shopping Centre?",
+      "answer": "1 Utama is only a short distance from TTDI and is easily accessible by car, bus or MRT connections."
+    },
+    {
+      "question": "Is TTDI a premium neighbourhood?",
+      "answer": "Yes. TTDI is considered one of Kuala Lumpur's established premium residential neighbourhoods."
+    },
+    {
+      "question": "What makes TTDI popular among renters?",
+      "answer": "TTDI is popular because of its location, MRT connectivity, green surroundings, dining options and proximity to business districts."
+    },
+    {
+      "question": "Are there serviced apartments in TTDI?",
+      "answer": "Yes. Some developments around TTDI and nearby Damansara areas provide serviced apartment-style accommodation."
+    },
+    {
+      "question": "Can I rent a room near Bandar Utama from TTDI?",
+      "answer": "Yes. TTDI is located close to Bandar Utama, making it convenient for people working or studying there."
+    },
+    {
+      "question": "Is TTDI suitable for young professionals?",
+      "answer": "Yes. Many young professionals choose TTDI because of its lifestyle environment and easy access to offices."
+    },
+    {
+      "question": "Are pets allowed in TTDI condos?",
+      "answer": "Pet policies depend on individual condominium management and landlord rules."
+    },
+    {
+      "question": "Does TTDI have supermarkets and daily amenities?",
+      "answer": "Yes. TTDI has supermarkets, convenience stores, pharmacies, restaurants and other daily necessities nearby."
+    },
+    {
+      "question": "How much is a single room in TTDI?",
+      "answer": "Single rooms in TTDI typically range from around RM800 to RM1,200 depending on furnishing and location."
+    },
+    {
+      "question": "How much is a studio apartment in TTDI?",
+      "answer": "Studio apartment rental prices in TTDI usually range from around RM1,800 onwards depending on the building and facilities."
+    },
+    {
+      "question": "Are there luxury condos in TTDI?",
+      "answer": "Yes. TTDI and nearby Damansara areas have premium condominiums with modern facilities and higher-end rentals."
+    },
+    {
+      "question": "Is TTDI suitable for foreign professionals working in Kuala Lumpur?",
+      "answer": "Yes. TTDI offers convenient commuting options and lifestyle facilities preferred by many foreign professionals."
+    },
+    {
+      "question": "What are popular condo areas near TTDI?",
+      "answer": "Popular nearby residential areas include Bandar Utama, Damansara, Mont Kiara and Bangsar."
+    },
+    {
+      "question": "Is parking available in TTDI rental properties?",
+      "answer": "Many condominiums provide designated parking facilities, although availability depends on the property."
+    },
+    {
+      "question": "Can I find a room near TTDI MRT under RM1000?",
+      "answer": "Budget options may be available, especially single rooms or shared accommodation, depending on current listings."
+    },
+    {
+      "question": "Is TTDI suitable for couples?",
+      "answer": "Yes. Couples often choose TTDI for its lifestyle amenities, accessibility and residential environment."
+    },
+    {
+      "question": "Are there short-term rentals in TTDI?",
+      "answer": "Yes. Short-term and flexible rental options may be available depending on property owners."
+    },
+    {
+      "question": "Is TTDI near IKEA Damansara?",
+      "answer": "Yes. IKEA Damansara is located nearby and easily accessible from TTDI."
+    },
+    {
+      "question": "How far is TTDI from KL Sentral?",
+      "answer": "TTDI is approximately 10 km from KL Sentral and accessible through MRT and road connections."
+    },
+    {
+      "question": "Is TTDI better than Mont Kiara for renting?",
+      "answer": "TTDI offers a more local neighbourhood lifestyle with MRT access, while Mont Kiara is more focused on luxury expatriate living."
+    },
+    {
+      "question": "Are there furnished master rooms in TTDI?",
+      "answer": "Yes. Furnished master rooms are available in many condominiums and apartments around TTDI."
+    },
+    {
+      "question": "Can I rent a condo room instead of a whole unit in TTDI?",
+      "answer": "Yes. Condo room rentals are common in TTDI and are usually more affordable than renting an entire unit."
+    },
+    {
+      "question": "Why is TTDI rental demand high?",
+      "answer": "Rental demand is high because TTDI combines location, transport connectivity, lifestyle facilities and strong neighbourhood reputation."
+    },
+    {
+      "question": "What is the best type of room to rent in TTDI?",
+      "answer": "The best room type depends on budget and lifestyle. Single rooms suit budget tenants, while master rooms and studio units provide more privacy and comfort."
+    },
+    {
+      "question": "Is TTDI MRT within walking distance from condos?",
+      "answer": "Yes. Many TTDI residential properties are located within walking or short driving distance from TTDI MRT Station."
+    },
+    {
+      "question": "Are there affordable condo rooms in TTDI?",
+      "answer": "Yes. Tenants can find affordable condo room options by choosing shared units or older condominium developments."
+    },
+    {
+      "question": "Is TTDI good for people working in KLCC?",
+      "answer": "Yes. Professionals working in KLCC can commute from TTDI using MRT connections and road networks."
+    },
+    {
+      "question": "Is TTDI suitable for people working in Bangsar South?",
+      "answer": "Yes. TTDI provides convenient access to Bangsar South through MRT and major highways."
+    },
+    {
+      "question": "Are there rooms near The Starling Mall?",
+      "answer": "Yes. TTDI residents have easy access to The Starling Mall and surrounding residential areas."
+    },
+    {
+      "question": "Does TTDI have nightlife options?",
+      "answer": "TTDI has cafes, restaurants and lifestyle venues, while nearby areas such as Bangsar and Damansara offer more nightlife options."
+    },
+    {
+      "question": "Is TTDI suitable for elderly residents?",
+      "answer": "Yes. TTDI offers healthcare facilities, parks, amenities and a mature neighbourhood environment suitable for elderly residents."
+    },
+    {
+      "question": "What are the advantages of renting in TTDI?",
+      "answer": "Advantages include MRT connectivity, premium lifestyle facilities, nearby shopping centres, green spaces and easy access to employment hubs."
+    },
+    {
+      "question": "Are there rooms near University of Malaya from TTDI?",
+      "answer": "Yes. TTDI is located close to University of Malaya and provides convenient accommodation options for students and staff."
+    },
+    {
+      "question": "Can I find no-deposit rooms in TTDI?",
+      "answer": "Some landlords or rental platforms may offer flexible payment arrangements, depending on availability and agreement terms."
+    },
+    {
+      "question": "Are internet facilities available in TTDI rooms?",
+      "answer": "Many furnished rooms include internet access or allow tenants to subscribe to broadband services."
+    },
+    {
+      "question": "What documents are needed to rent a room in TTDI?",
+      "answer": "Common requirements include identification documents, proof of employment or study and rental deposit payments depending on the landlord."
+    },
+    {
+      "question": "Are utilities included in TTDI condo rentals?",
+      "answer": "Utility arrangements vary. Some rentals include certain utilities while others require tenants to pay separately."
+    },
+    {
+      "question": "Is TTDI suitable for long-term expatriate rental?",
+      "answer": "Yes. TTDI is attractive for expatriates seeking a comfortable residential area with good connectivity and lifestyle facilities."
+    },
+    {
+      "question": "What is the average rental increase in TTDI?",
+      "answer": "Rental prices in TTDI generally experience steady growth due to strong demand and limited supply of quality residences."
+    },
+    {
+      "question": "Are there new condominiums near TTDI?",
+      "answer": "Yes. New and upgraded residential developments are available around TTDI and neighbouring Damansara areas."
+    },
+    {
+      "question": "Is TTDI better than Petaling Jaya for room rental?",
+      "answer": "TTDI offers a more established residential environment, while Petaling Jaya provides more variety and often more affordable options."
+    },
+    {
+      "question": "Can I rent a room near MRT in TTDI without a car?",
+      "answer": "Yes. MRT access makes TTDI convenient for tenants who rely on public transportation."
+    },
+    {
+      "question": "Are there shared apartments in TTDI?",
+      "answer": "Yes. Shared apartment rentals are available and are popular among students and young professionals."
+    },
+    {
+      "question": "Is TTDI close to shopping malls?",
+      "answer": "Yes. TTDI is close to 1 Utama, The Starling Mall, IKEA Damansara and other shopping destinations."
+    },
+    {
+      "question": "What kind of tenants usually rent in TTDI?",
+      "answer": "Common tenants include professionals, expatriates, families, students and remote workers."
+    },
+    {
+      "question": "Are there female-friendly apartments in TTDI?",
+      "answer": "Yes. Some rental listings specifically cater to female tenants with safer shared living arrangements."
+    },
+    {
+      "question": "How long is the commute from TTDI to Petaling Jaya?",
+      "answer": "Travel time is usually around 10 to 20 minutes depending on the destination and traffic conditions."
+    },
+    {
+      "question": "Is TTDI a quiet residential area?",
+      "answer": "Yes. Despite being close to commercial areas, many parts of TTDI offer a peaceful neighbourhood atmosphere."
+    },
+    {
+      "question": "Can foreigners rent rooms near TTDI MRT?",
+      "answer": "Yes. Foreign tenants can find suitable room rentals near TTDI MRT depending on landlord requirements."
+    },
+    {
+      "question": "Are there premium furnished rooms in TTDI?",
+      "answer": "Yes. Premium furnished rooms with modern furniture and condominium facilities are available."
+    },
+    {
+      "question": "What makes TTDI different from other Kuala Lumpur areas?",
+      "answer": "TTDI combines urban convenience with greenery, established amenities, MRT connectivity and a strong community atmosphere."
+    },
+    {
+      "question": "Is TTDI recommended for first-time Kuala Lumpur residents?",
+      "answer": "Yes. TTDI is a beginner-friendly area because of its safety, accessibility and complete lifestyle facilities."
+    },
+    {
+      "question": "Where can I find rooms for rent in TTDI?",
+      "answer": "Rooms for rent in TTDI are available through rental platforms, property agents, condominium listings and local rental communities."
+    },
+    {
+      "question": "Is TTDI one of the best areas to rent in Kuala Lumpur?",
+      "answer": "Yes. TTDI is consistently considered one of Kuala Lumpur's most desirable rental neighbourhoods because of its location, connectivity and quality of life."
+    },
+    {
+      "question": "Does TTDI have access to highways?",
+      "answer": "Yes. TTDI connects easily through major roads and highways including Sprint Highway and LDP."
+    },
+    {
+      "question": "Are there rooms near Damansara Uptown from TTDI?",
+      "answer": "Yes. Damansara Uptown is nearby and easily accessible from TTDI."
+    },
+    {
+      "question": "Is TTDI suitable for business travellers?",
+      "answer": "Yes. Short-term serviced accommodation options around TTDI can suit business travellers needing access to Kuala Lumpur and Petaling Jaya."
+    },
+    {
+      "question": "Can I rent a fully furnished apartment in TTDI?",
+      "answer": "Yes. Fully furnished apartments and rooms are available depending on the development and landlord."
+    },
+    {
+      "question": "Does TTDI have healthcare facilities nearby?",
+      "answer": "Yes. TTDI residents have access to clinics, pharmacies and nearby hospitals in Petaling Jaya and Kuala Lumpur."
+    },
+    {
+      "question": "Is TTDI suitable for families with children?",
+      "answer": "Yes. TTDI offers parks, schools, safe residential areas and family-friendly amenities."
+    },
+    {
+      "question": "Are there luxury apartments near TTDI?",
+      "answer": "Yes. Premium residences are available in TTDI and nearby Damansara areas."
+    },
+    {
+      "question": "Why should I choose TTDI for room rental?",
+      "answer": "TTDI offers a balanced lifestyle with excellent connectivity, premium amenities, green spaces and convenient access to major employment areas."
+    }
+  ],
+  "focusKeywords": [
+    "TTDI room for rent",
+    "TTDI condo for rent",
+    "TTDI apartment for rent",
+    "room near TTDI MRT",
+    "furnished room TTDI",
+    "cheap room TTDI Kuala Lumpur",
+    "Taman Tun Dr Ismail rental",
+    "TTDI condo room rental",
+    "luxury condo TTDI for rent",
+    "studio apartment TTDI for rent",
+    "monthly rental TTDI",
+    "expat housing TTDI Kuala Lumpur",
+    "room near 1 Utama",
+    "Bandar Utama room rental",
+    "high end condo TTDI"
+  ],
+  "longTailKeywords": [
+    "furnished room for rent near TTDI MRT Station Kuala Lumpur",
+    "cheap room near 1 Utama Shopping Centre for professionals",
+    "luxury condo rental TTDI with modern facilities",
+    "studio apartment TTDI fully furnished for expats",
+    "monthly rental room TTDI near MRT station",
+    "high floor condo TTDI with city view for rent Kuala Lumpur",
+    "short term rental TTDI furnished apartment near Bandar Utama",
+    "no deposit room for rent TTDI Kuala Lumpur",
+    "premium condo rental near Taman Tun Park and MRT",
+    "executive apartment TTDI near Petaling Jaya offices"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room TTDI",
+      "budget room near TTDI",
+      "student room TTDI Kuala Lumpur",
+      "affordable accommodation TTDI",
+      "student rental room TTDI",
+      "shared room rental TTDI",
+      "cheap furnished room TTDI",
+      "budget apartment near TTDI MRT",
+      "student accommodation near TTDI MRT",
+      "room near University of Malaya from TTDI",
+      "student friendly room rental TTDI"
+    ],
+    "expat": [
+      "expat housing TTDI",
+      "furnished condo TTDI",
+      "serviced apartment TTDI",
+      "international tenant friendly condo TTDI",
+      "luxury apartment rental TTDI",
+      "premium condo near 1 Utama",
+      "fully furnished apartment TTDI Kuala Lumpur",
+      "expat friendly residence TTDI",
+      "high end condo rental TTDI",
+      "foreign tenant apartment TTDI"
+    ],
+    "professional": [
+      "TTDI condo near MRT",
+      "room near TTDI for professionals",
+      "room near 1 Utama offices",
+      "room near Petaling Jaya from TTDI",
+      "room near Bandar Utama business area",
+      "premium apartment TTDI",
+      "executive residence TTDI",
+      "working professional room rental TTDI",
+      "corporate housing TTDI Kuala Lumpur",
+      "office worker accommodation TTDI"
+    ],
+    "shortStay": [
+      "short term rental TTDI",
+      "monthly rental TTDI",
+      "serviced residence TTDI",
+      "flexible room rental TTDI",
+      "short stay apartment TTDI Kuala Lumpur",
+      "temporary accommodation TTDI",
+      "monthly furnished room TTDI",
+      "weekly apartment rental TTDI",
+      "business stay TTDI",
+      "holiday rental TTDI apartment"
+    ],
+    "premiumIntent": [
+      "luxury condo TTDI for rent",
+      "high end apartment TTDI",
+      "executive residence TTDI",
+      "premium serviced apartment TTDI",
+      "luxury condominium rental TTDI Kuala Lumpur",
+      "modern condo rental TTDI",
+      "premium furnished room TTDI",
+      "exclusive apartment TTDI",
+      "five star serviced residence TTDI",
+      "luxury city view condo TTDI"
+    ],
+    "family": [
+      "family apartment TTDI",
+      "3 bedroom condo TTDI rental",
+      "family friendly condo TTDI",
+      "safe residential area TTDI",
+      "large apartment rental TTDI Kuala Lumpur",
+      "family condo near Taman Tun Park",
+      "child friendly apartment TTDI",
+      "long term family rental TTDI",
+      "spacious condominium TTDI"
+    ],
+    "budgetTenant": [
+      "cheap room TTDI Kuala Lumpur",
+      "low budget rental TTDI",
+      "affordable apartment TTDI",
+      "room under RM1200 TTDI",
+      "budget friendly room near TTDI MRT",
+      "cheap furnished room TTDI",
+      "affordable condo room TTDI",
+      "low cost accommodation Kuala Lumpur",
+      "budget room walking distance TTDI MRT",
+      "cheap rental near 1 Utama"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "TTDI room for rent",
+    "secondaryKeywords": [
+      "TTDI condo for rent",
+      "TTDI apartment for rent",
+      "TTDI serviced apartment for rent",
+      "luxury condo TTDI Kuala Lumpur",
+      "room near TTDI MRT",
+      "Taman Tun Dr Ismail room rental",
+      "1 Utama condo for rent",
+      "Bandar Utama room rental",
+      "furnished room TTDI"
+    ],
+    "seoScore": 97,
+    "canonicalUrl": "https://roomrentalkl.com/kuala-lumpur/ttdi/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "premium-established-residential-rentals",
+    "contentCluster": [
+      "condo rooms TTDI",
+      "premium residential rentals TTDI",
+      "MRT connected rentals TTDI",
+      "professional housing Kuala Lumpur",
+      "expat accommodation TTDI",
+      "lifestyle neighbourhood rentals"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Bandar Utama",
+        "Damansara",
+        "Petaling Jaya",
+        "Bangsar",
+        "Mont Kiara",
+        "Bangsar South"
+      ],
+      "nearbyHotspots": [
+        "TTDI MRT Station",
+        "Taman Tun Park",
+        "1 Utama Shopping Centre",
+        "The Starling Mall",
+        "Damansara Uptown",
+        "IKEA Damansara"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "TTDI Rooms for Rent",
+        "url": "/room-rental-ttdi",
+        "keyword": "ttdi room for rent"
+      },
+      {
+        "title": "TTDI Condos for Rent",
+        "url": "/condo-for-rent-ttdi",
+        "keyword": "ttdi condo for rent"
+      },
+      {
+        "title": "Cheap Rooms Near TTDI",
+        "url": "/cheap-room-ttdi",
+        "keyword": "cheap room near ttdi"
+      },
+      {
+        "title": "Rooms Near TTDI MRT",
+        "url": "/room-near-ttdi-mrt",
+        "keyword": "room near ttdi mrt"
+      },
+      {
+        "title": "Bandar Utama Rentals",
+        "url": "/bandar-utama-rentals",
+        "keyword": "bandar utama room rental"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "TTDI Area Guide",
+        "url": "/area-guide-ttdi",
+        "type": "guide"
+      },
+      {
+        "title": "TTDI Price Guide 2026",
+        "url": "/price-guide-ttdi",
+        "type": "pricing"
+      },
+      {
+        "title": "TTDI MRT Connectivity Guide",
+        "url": "/ttdi-mrt-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in TTDI",
+        "url": "/luxury-condo-ttdi",
+        "type": "listing-category"
+      },
+      {
+        "title": "Expat Housing in TTDI",
+        "url": "/expat-housing-ttdi",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms TTDI",
+        "url": "/furnished-room-ttdi",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals TTDI",
+        "url": "/short-term-rental-ttdi",
+        "type": "rental-type"
+      }
+    ]
+  }
+}

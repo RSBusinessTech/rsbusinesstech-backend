@@ -1,0 +1,1371 @@
+{
+  "area": {
+    "name": "Cheras",
+    "slug": "cheras",
+    "heroImage": "assets/images/areas/cheras.jpg",
+    "metaTitle": "Rooms for Rent in Cheras | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Cheras near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Cheras – Complete Guide to Room Rental, Apartment & Condominium Rental in Kuala Lumpur",
+    "description": "Cheras is one of Kuala Lumpur's largest, most established and highly searched residential locations for room rental, apartment rental and condominium rental. Located on the border of Kuala Lumpur and Selangor, Cheras offers an excellent combination of affordability, modern residential developments, outstanding public transportation, established commercial centres and convenient access to Kuala Lumpur City Centre. Whether you are searching for a master room for rent in Cheras, a single room near MRT, a medium room for working professionals, a fully furnished condominium, a studio apartment, a serviced residence or a family-friendly apartment, Cheras provides rental options for every budget and lifestyle. The area is highly popular among university students, healthcare professionals, office workers, expatriates, young couples and families due to its excellent MRT connectivity, proximity to business districts, shopping malls, hospitals and educational institutions. Residents enjoy easy access to Taman Connaught, Bandar Tun Razak, Maluri, Sungai Besi, Bukit Jalil, KLCC, Bukit Bintang and Kuala Lumpur City Centre via the MRT Kajang Line, highways and RapidKL bus services. Popular destinations including Sunway Velocity Mall, AEON Mall Taman Maluri, Leisure Mall, EkoCheras Mall and Cheras Traders Square continue to strengthen Cheras as one of Kuala Lumpur's strongest rental property markets with consistent demand throughout the year.",
+    "buttonText": "Explore Cheras Rental Guide",
+    "buttonLink": "/room-rental-cheras",
+    "highlights": [
+      "Large selection of master rooms, medium rooms, single rooms, studio apartments, serviced residences and condominiums for rent in Cheras",
+      "Affordable rental options suitable for students, professionals, expatriates and families",
+      "Excellent MRT Kajang Line connectivity with multiple stations throughout Cheras",
+      "Easy access to Kuala Lumpur City Centre, Bukit Bintang, KLCC, Maluri, Sungai Besi and Bukit Jalil",
+      "Walking distance to shopping malls, supermarkets, restaurants, cafes and commercial centres",
+      "Wide selection of fully furnished, partially furnished and budget-friendly rental properties",
+      "Popular rental location near UCSI University, hospitals and major employment hubs",
+      "Modern condominiums offering swimming pools, gyms, playgrounds and 24-hour security",
+      "Strong rental demand supported by excellent transportation and affordable living costs",
+      "Suitable for long-term tenants, young professionals, students and growing families",
+      "One of the most searched locations in Kuala Lumpur for room rental, apartment rental and condominium rental",
+      "Excellent balance between affordability, convenience and modern urban lifestyle"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Excellent MRT & Public Transportation",
+        "description": "Cheras enjoys outstanding connectivity through the MRT Kajang Line with stations including Taman Mutiara, Taman Connaught, Taman Midah, Taman Suntex and Sri Raya. Residents also benefit from RapidKL buses and convenient access to major highways including the Cheras-Kajang Expressway, MRR2 and Sungai Besi Expressway, making daily commuting fast and convenient."
+      },
+      {
+        "icon": "fas fa-home",
+        "title": "Wide Variety of Rental Properties",
+        "description": "Cheras offers one of Kuala Lumpur's widest selections of rental accommodation including master rooms, medium rooms, single rooms, shared rooms, studio apartments, serviced apartments, condominiums and family apartments. Whether you need a fully furnished room near MRT or an affordable apartment close to workplaces and universities, Cheras provides excellent choices."
+      },
+      {
+        "icon": "fas fa-briefcase",
+        "title": "Close to Business & Employment Centres",
+        "description": "Cheras provides convenient access to Kuala Lumpur City Centre, Tun Razak Exchange (TRX), Bukit Bintang, Maluri, KL Eco City, Bandar Tun Razak, Sungai Besi and numerous commercial districts. This makes the area highly attractive for professionals working in finance, healthcare, education, technology and retail industries."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping Malls & Daily Convenience",
+        "description": "Residents enjoy excellent shopping facilities including Sunway Velocity Mall, AEON Mall Taman Maluri, Leisure Mall, EkoCheras Mall, MyTOWN Shopping Centre, IKEA Cheras, Lotus's, Giant and numerous supermarkets, restaurants, banks and convenience stores throughout the neighbourhood."
+      },
+      {
+        "icon": "fas fa-utensils",
+        "title": "Renowned Food Destination",
+        "description": "Cheras is famous for its vibrant food scene featuring traditional Malaysian cuisine, Chinese restaurants, hawker centres, cafes, international dining, kopitiams, dessert shops and the well-known Taman Connaught Night Market, attracting food lovers from across Kuala Lumpur."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Modern Residential Developments",
+        "description": "Many condominiums and serviced residences in Cheras provide premium facilities including swimming pools, gyms, children's playgrounds, landscaped gardens, multipurpose halls, covered parking, access card security and 24-hour guarded communities."
+      },
+      {
+        "icon": "fas fa-users",
+        "title": "Ideal for Students, Professionals & Families",
+        "description": "Cheras attracts university students, healthcare workers, corporate professionals, expatriates, entrepreneurs and families seeking affordable rental housing with convenient transportation, quality education, healthcare facilities and everyday amenities."
+      },
+      {
+        "icon": "fas fa-chart-line",
+        "title": "One of Kuala Lumpur's Strongest Rental Markets",
+        "description": "Cheras consistently remains one of the highest-demand rental locations due to its affordability, mature neighbourhoods, extensive MRT network, established infrastructure and continuous residential development, making it a preferred choice for long-term tenants."
+      }
+    ],
+    "popularResidences": [
+      "EkoCheras Residences",
+      "You Vista @ You City",
+      "You Residence",
+      "Suasana Lumayan",
+      "M Vertica",
+      "Maxim Residences",
+      "Verticas Residensi",
+      "Residensi Razakmas",
+      "The Netizen",
+      "Shamelin Star",
+      "Shamelin Bestari",
+      "The Mark Cheras",
+      "Twin Arkz",
+      "UNA Serviced Apartment",
+      "V Residence 2",
+      "Parc 3",
+      "Symphony Tower",
+      "Lavile Kuala Lumpur",
+      "Sri Raya Apartments",
+      "The Henge"
+    ],
+    "nearbyLandmarks": [
+      "Sunway Velocity Mall",
+      "AEON Mall Taman Maluri",
+      "Leisure Mall",
+      "EkoCheras Mall",
+      "MyTOWN Shopping Centre",
+      "IKEA Cheras",
+      "Taman Connaught Night Market",
+      "Hospital Canselor Tuanku Muhriz",
+      "Pantai Hospital Cheras",
+      "UCSI University",
+      "Cheras Traders Square",
+      "Taman Connaught",
+      "MRT Taman Mutiara",
+      "MRT Taman Connaught",
+      "MRT Taman Midah",
+      "MRT Taman Suntex",
+      "Bandar Tun Razak",
+      "Maluri",
+      "TRX",
+      "Bukit Bintang"
+    ],
+    "nearbyUniversities": [
+      "UCSI University",
+      "Universiti Kebangsaan Malaysia Medical Centre (UKMMC)",
+      "Universiti Kuala Lumpur (UniKL)",
+      "TAR UMT",
+      "HELP University",
+      "Sunway University",
+      "Taylor's University",
+      "Asia Pacific University (APU)",
+      "INTI International College Kuala Lumpur",
+      "SEGi College Kuala Lumpur"
+    ],
+    "majorEmployers": [
+      "Universiti Kebangsaan Malaysia Medical Centre (UKMMC)",
+      "Hospital Canselor Tuanku Muhriz",
+      "Pantai Hospital Cheras",
+      "Sunway Medical Group",
+      "Maybank",
+      "CIMB Group",
+      "Public Bank",
+      "RHB Bank",
+      "Petronas",
+      "Telekom Malaysia",
+      "CelcomDigi",
+      "Maxis",
+      "Grab Malaysia",
+      "Shopee Malaysia",
+      "Lazada Malaysia",
+      "Accenture Malaysia",
+      "IBM Malaysia",
+      "Oracle Malaysia",
+      "Deloitte",
+      "PwC",
+      "EY",
+      "KPMG",
+      "Mitsui Shopping Park LaLaport",
+      "Sunway Group",
+      "AEON Malaysia"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Taman Mutiara MRT Station",
+      "slug": "taman-mutiara-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1800,
+      "distanceText": "5 mins drive (1.8 km)",
+      "title": "Taman Mutiara MRT Station",
+      "shortDescription": "Taman Mutiara MRT Station is one of the busiest MRT stations serving Cheras. It offers direct connectivity to Bukit Bintang, TRX, Pasar Seni, Merdeka and Kajang, making it highly popular among working professionals, students and tenants searching for rooms and apartments near MRT in Cheras.",
+      "averageRoomRent": 900,
+      "nearbyLandmarks": [
+        "Leisure Mall",
+        "EkoCheras Mall",
+        "Taman Mutiara"
+      ],
+      "nearbyResidences": [
+        "EkoCheras Residences",
+        "The Henge",
+        "Twin Arkz"
+      ],
+      "popularSearches": [
+        "Room near Taman Mutiara MRT",
+        "Cheras MRT room rent",
+        "Condo room Cheras"
+      ]
+    },
+    {
+      "name": "Taman Connaught MRT Station",
+      "slug": "taman-connaught-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "4 mins drive",
+      "distanceMeters": 1500,
+      "distanceText": "4 mins drive (1.5 km)",
+      "title": "Taman Connaught MRT Station",
+      "shortDescription": "Located in the heart of Taman Connaught, this MRT station provides convenient access to Kuala Lumpur City Centre and Kajang. It is especially popular among UCSI University students and professionals seeking affordable room rentals in Cheras.",
+      "averageRoomRent": 850,
+      "nearbyLandmarks": [
+        "Taman Connaught Night Market",
+        "UCSI University",
+        "Cheras Traders Square"
+      ],
+      "nearbyResidences": [
+        "You Vista",
+        "You Residence",
+        "Symphony Tower"
+      ],
+      "popularSearches": [
+        "Room near Taman Connaught MRT",
+        "Taman Connaught room rent",
+        "Student room Cheras"
+      ]
+    },
+    {
+      "name": "Taman Midah MRT Station",
+      "slug": "taman-midah-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1700,
+      "distanceText": "5 mins drive (1.7 km)",
+      "title": "Taman Midah MRT Station",
+      "shortDescription": "Taman Midah MRT Station is a preferred transit point for residents living around central Cheras. It provides fast access to TRX, Bukit Bintang and Kuala Lumpur City Centre, making nearby rental properties highly sought after.",
+      "averageRoomRent": 880,
+      "nearbyLandmarks": [
+        "Taman Midah",
+        "AEON Big",
+        "Cheras Business Centre"
+      ],
+      "nearbyResidences": [
+        "M Vertica",
+        "Maxim Residences",
+        "Lavile Kuala Lumpur"
+      ],
+      "popularSearches": [
+        "Room near Taman Midah MRT",
+        "Cheras room rental",
+        "Apartment near MRT Cheras"
+      ]
+    },
+    {
+      "name": "Taman Suntex MRT Station",
+      "slug": "taman-suntex-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "6 mins drive",
+      "distanceMeters": 2200,
+      "distanceText": "6 mins drive (2.2 km)",
+      "title": "Taman Suntex MRT Station",
+      "shortDescription": "Serving eastern Cheras, Taman Suntex MRT Station connects residents directly to Kuala Lumpur and Kajang. The surrounding residential neighbourhoods offer affordable rooms, apartments and family-friendly rental properties.",
+      "averageRoomRent": 820,
+      "nearbyLandmarks": [
+        "Suntex Commercial Centre",
+        "Taman Suntex",
+        "Cheras Selatan"
+      ],
+      "nearbyResidences": [
+        "The Netizen",
+        "UNA Serviced Apartment",
+        "Symphony Tower"
+      ],
+      "popularSearches": [
+        "Room near Taman Suntex MRT",
+        "Cheras Selatan room rent",
+        "Affordable room Cheras"
+      ]
+    },
+    {
+      "name": "Sri Raya MRT Station",
+      "slug": "sri-raya-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "7 mins drive",
+      "distanceMeters": 2800,
+      "distanceText": "7 mins drive (2.8 km)",
+      "title": "Sri Raya MRT Station",
+      "shortDescription": "Sri Raya MRT Station serves the southern part of Cheras and provides direct access to Kuala Lumpur, TRX and Kajang. It is a preferred location for tenants looking for affordable room rentals with MRT convenience.",
+      "averageRoomRent": 800,
+      "nearbyLandmarks": [
+        "Sri Raya",
+        "Bandar Mahkota Cheras",
+        "Cheras Selatan"
+      ],
+      "nearbyResidences": [
+        "Sri Raya Apartments",
+        "The Netizen",
+        "UNA Serviced Apartment"
+      ],
+      "popularSearches": [
+        "Room near Sri Raya MRT",
+        "Sri Raya room rent",
+        "Apartment near MRT Cheras"
+      ]
+    },
+    {
+      "name": "Maluri MRT Station",
+      "slug": "maluri-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 3800,
+      "distanceText": "8 mins drive (3.8 km)",
+      "title": "Maluri MRT Station",
+      "shortDescription": "Maluri MRT Station is a major interchange connecting the Kajang Line with the Ampang LRT Line. It offers excellent connectivity to TRX, KLCC, Bukit Bintang and the wider Klang Valley, making it a popular choice for professionals renting in Cheras.",
+      "averageRoomRent": 1000,
+      "nearbyLandmarks": [
+        "Sunway Velocity Mall",
+        "AEON Mall Taman Maluri",
+        "MyTOWN Shopping Centre"
+      ],
+      "nearbyResidences": [
+        "Lavile Kuala Lumpur",
+        "M Vertica",
+        "Verticas Residensi"
+      ],
+      "popularSearches": [
+        "Room near Maluri MRT",
+        "Maluri room rent",
+        "Rental near Sunway Velocity"
+      ]
+    },
+    {
+      "name": "Taman Pertama MRT Station",
+      "slug": "taman-pertama-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "6 mins drive",
+      "distanceMeters": 2500,
+      "distanceText": "6 mins drive (2.5 km)",
+      "title": "Taman Pertama MRT Station",
+      "shortDescription": "Taman Pertama MRT Station offers quick access to Kuala Lumpur City Centre and is surrounded by mature residential neighbourhoods, making it attractive for tenants seeking affordable rooms and apartments in Cheras.",
+      "averageRoomRent": 850,
+      "nearbyLandmarks": [
+        "Taman Pertama",
+        "Leisure Mall",
+        "Cheras Business Centre"
+      ],
+      "nearbyResidences": [
+        "Shamelin Star",
+        "Shamelin Bestari",
+        "Twin Arkz"
+      ],
+      "popularSearches": [
+        "Room near Taman Pertama MRT",
+        "Cheras room rental",
+        "Condo near MRT Cheras"
+      ]
+    },
+    {
+      "name": "Bandar Tun Razak LRT Station",
+      "slug": "bandar-tun-razak-lrt",
+      "stationType": "LRT",
+      "line": "Sri Petaling Line",
+      "walkingTime": "9 mins drive",
+      "distanceMeters": 4200,
+      "distanceText": "9 mins drive (4.2 km)",
+      "title": "Bandar Tun Razak LRT Station",
+      "shortDescription": "Bandar Tun Razak LRT Station provides convenient access to Bukit Jalil, KL Sentral and central Kuala Lumpur. It is frequently searched by professionals and students looking for rental accommodation near southern Cheras.",
+      "averageRoomRent": 850,
+      "nearbyLandmarks": [
+        "Bandar Tun Razak",
+        "Hospital Canselor Tuanku Muhriz",
+        "Universiti Kebangsaan Malaysia Medical Centre"
+      ],
+      "nearbyResidences": [
+        "Residensi Razakmas",
+        "Parc 3",
+        "M Vertica"
+      ],
+      "popularSearches": [
+        "Room near Bandar Tun Razak LRT",
+        "Bandar Tun Razak room rent",
+        "Rental near UKMMC"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 450,
+      "maxPrice": 850
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 650,
+      "maxPrice": 1000
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 900,
+      "maxPrice": 1600
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 1300,
+      "maxPrice": 2800
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 980,
+    "priceGrowth": 4.6,
+    "demandLevel": "High",
+    "vacancyRate": 3.2
+  },
+  "nearbyAreas": [
+    {
+      "name": "Maluri",
+      "slug": "maluri",
+      "averageRent": 1050,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Professionals, Students",
+      "description": "One of the closest neighbourhoods to Cheras, Maluri offers excellent MRT and LRT connectivity, modern condominiums, shopping malls and convenient access to TRX, KLCC and Bukit Bintang."
+    },
+    {
+      "name": "Taman Connaught",
+      "slug": "taman-connaught",
+      "averageRent": 850,
+      "mrtAccess": true,
+      "distanceFromArea": 2,
+      "popularFor": "Students, Young Professionals",
+      "description": "Highly popular residential area known for affordable room rentals, UCSI University, MRT connectivity and the famous Taman Connaught Night Market."
+    },
+    {
+      "name": "Bandar Tun Razak",
+      "slug": "bandar-tun-razak",
+      "averageRent": 800,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Healthcare Workers, Families",
+      "description": "Affordable residential township located near UKMMC, Hospital Canselor Tuanku Muhriz and the Sri Petaling LRT Line with strong rental demand."
+    },
+    {
+      "name": "Sungai Besi",
+      "slug": "sungai-besi",
+      "averageRent": 900,
+      "mrtAccess": true,
+      "distanceFromArea": 6,
+      "popularFor": "Professionals, Families",
+      "description": "Strategic location offering excellent MRT and LRT access, convenient highway connections and easy commuting to Kuala Lumpur City Centre."
+    },
+    {
+      "name": "Bukit Jalil",
+      "slug": "bukit-jalil",
+      "averageRent": 1150,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Professionals, Students",
+      "description": "Fast-growing township featuring modern serviced residences, Pavilion Bukit Jalil, corporate offices, universities and excellent public transportation."
+    },
+    {
+      "name": "Ampang",
+      "slug": "ampang",
+      "averageRent": 950,
+      "mrtAccess": true,
+      "distanceFromArea": 7,
+      "popularFor": "Professionals, Families",
+      "description": "Well-established residential district offering affordable rental properties, shopping centres, embassies and convenient access to KLCC."
+    },
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 1800,
+      "mrtAccess": true,
+      "distanceFromArea": 9,
+      "popularFor": "Professionals, Expats",
+      "description": "Kuala Lumpur's central business district featuring luxury condominiums, multinational companies, MRT connectivity and premium lifestyle amenities."
+    },
+    {
+      "name": "Bukit Bintang",
+      "slug": "bukit-bintang",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Professionals, Expats",
+      "description": "Malaysia's premier shopping and entertainment district offering excellent MRT access, luxury residences, offices, restaurants and vibrant city living."
+    },
+    {
+      "name": "Tun Razak Exchange (TRX)",
+      "slug": "trx",
+      "averageRent": 1650,
+      "mrtAccess": true,
+      "distanceFromArea": 7,
+      "popularFor": "Finance Professionals, Executives",
+      "description": "Kuala Lumpur's international financial district attracting professionals seeking modern apartments with direct MRT connectivity and premium office access."
+    },
+    {
+      "name": "Kajang",
+      "slug": "kajang",
+      "averageRent": 800,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Students, Families",
+      "description": "Connected directly to Cheras via the MRT Kajang Line, Kajang offers affordable room rentals, landed homes, universities and excellent value for long-term tenants."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Cheras",
+      "url": "/master-room-rental-cheras"
+    },
+    {
+      "title": "Single Room Cheras",
+      "url": "/single-room-rental-cheras"
+    },
+    {
+      "title": "Medium Room Cheras",
+      "url": "/medium-room-rental-cheras"
+    },
+    {
+      "title": "Condo Room Cheras",
+      "url": "/condo-room-rental-cheras"
+    },
+    {
+      "title": "Room Near MRT Cheras",
+      "url": "/room-near-mrt-cheras"
+    },
+    {
+      "title": "Room Near UCSI University",
+      "url": "/room-near-ucsi-university"
+    },
+    {
+      "title": "Room Near Taman Connaught MRT",
+      "url": "/room-near-taman-connaught-mrt"
+    },
+    {
+      "title": "Studio Apartment Cheras",
+      "url": "/studio-apartment-rental-cheras"
+    },
+    {
+      "title": "Apartment Rental Cheras",
+      "url": "/apartment-rental-cheras"
+    },
+    {
+      "title": "Condominium Rental Cheras",
+      "url": "/condominium-rental-cheras"
+    },
+    {
+      "title": "Room Near EkoCheras Mall",
+      "url": "/room-near-ekocheras-mall"
+    },
+    {
+      "title": "Room Near Leisure Mall Cheras",
+      "url": "/room-near-leisure-mall-cheras"
+    },
+    {
+      "title": "Room Near Sunway Velocity",
+      "url": "/room-near-sunway-velocity"
+    },
+    {
+      "title": "Cheap Room Rental Cheras",
+      "url": "/cheap-room-rental-cheras"
+    },
+    {
+      "title": "Fully Furnished Room Cheras",
+      "url": "/fully-furnished-room-cheras"
+    },
+    {
+      "title": "Room for Students Cheras",
+      "url": "/student-room-rental-cheras"
+    },
+    {
+      "title": "Room Near UKMMC",
+      "url": "/room-near-ukmmc"
+    },
+    {
+      "title": "Room Near Hospital Canselor Tuanku Muhriz",
+      "url": "/room-near-hospital-canselor-tuanku-muhriz"
+    },
+    {
+      "title": "Room Near TRX",
+      "url": "/room-near-trx"
+    },
+    {
+      "title": "Room Rental Cheras Kuala Lumpur",
+      "url": "/room-rental-cheras"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a room for rent in Cheras cost?",
+      "answer": "Room rental prices in Cheras generally range from RM450 to RM1,600 per month depending on the room type, furnishing, condominium facilities, proximity to MRT stations and the exact location within Cheras."
+    },
+    {
+      "question": "Where can I find affordable rooms for rent in Cheras?",
+      "answer": "Affordable rooms are available throughout Cheras, especially around Taman Connaught, Taman Midah, Taman Suntex, Bandar Tun Razak and nearby residential neighbourhoods, all offering convenient access to MRT stations and everyday amenities."
+    },
+    {
+      "question": "Are there fully furnished rooms available in Cheras?",
+      "answer": "Yes. Many room rentals in Cheras are fully furnished with beds, wardrobes, air conditioning, WiFi, washing machines, refrigerators and kitchen access, making them ideal for students and working professionals."
+    },
+    {
+      "question": "What types of rooms are available for rent in Cheras?",
+      "answer": "Cheras offers master rooms, medium rooms, single rooms, shared rooms, studio apartments, serviced apartments, condominiums and co-living spaces suitable for different budgets and lifestyles."
+    },
+    {
+      "question": "How much is a master room for rent in Cheras?",
+      "answer": "Master rooms in Cheras typically rent between RM900 and RM1,600 per month depending on the property, attached bathroom, furnishings, facilities and MRT accessibility."
+    },
+    {
+      "question": "How much is a medium room for rent in Cheras?",
+      "answer": "Medium rooms in Cheras usually cost between RM650 and RM1,000 per month depending on the condominium, apartment, furnishing level and location."
+    },
+    {
+      "question": "How much is a single room for rent in Cheras?",
+      "answer": "Single rooms in Cheras generally range from RM450 to RM850 per month depending on property type, facilities, room size and distance from MRT stations."
+    },
+    {
+      "question": "Are studio apartments available for rent in Cheras?",
+      "answer": "Yes. Cheras offers many studio apartments and serviced residences with private bathrooms, kitchenettes, air conditioning and modern condominium facilities for individuals and couples."
+    },
+    {
+      "question": "Can I find monthly room rentals in Cheras?",
+      "answer": "Yes. Most room rentals in Cheras are offered on monthly tenancy agreements, while some landlords also provide flexible short-term rental arrangements depending on availability."
+    },
+    {
+      "question": "Are there rooms for rent near MRT stations in Cheras?",
+      "answer": "Yes. Many rental properties are located near Taman Mutiara MRT, Taman Connaught MRT, Taman Midah MRT, Taman Suntex MRT, Sri Raya MRT and Maluri MRT stations, providing excellent connectivity across Kuala Lumpur."
+    },
+    {
+      "question": "Is Cheras a good location for working professionals?",
+      "answer": "Yes. Cheras offers affordable rental housing, excellent MRT connectivity and convenient access to TRX, Bukit Bintang, KLCC, Maluri, Sungai Besi and Kuala Lumpur City Centre, making it highly attractive for working professionals."
+    },
+    {
+      "question": "Can I find rooms near UCSI University?",
+      "answer": "Yes. Many apartments, condominiums and shared houses around Taman Connaught and Cheras provide rental rooms within a short distance of UCSI University, making them popular with local and international students."
+    },
+    {
+      "question": "Is Cheras suitable for university students?",
+      "answer": "Yes. Cheras is one of Kuala Lumpur's most popular locations for students because of its affordable room rentals, MRT connectivity, nearby universities and extensive food and shopping options."
+    },
+    {
+      "question": "Can foreigners rent rooms in Cheras?",
+      "answer": "Yes. Many landlords in Cheras welcome international tenants, expatriates and foreign students, especially in condominiums and serviced apartments."
+    },
+    {
+      "question": "Are female-only rooms available in Cheras?",
+      "answer": "Yes. Many landlords offer female-only rooms that provide additional privacy, comfort and security for female students and working professionals."
+    },
+    {
+      "question": "Are couple-friendly rooms available in Cheras?",
+      "answer": "Yes. Many master bedrooms, studio apartments and serviced residences in Cheras are suitable for couples, subject to the landlord's approval and tenancy agreement."
+    },
+    {
+      "question": "Which MRT stations serve Cheras?",
+      "answer": "Cheras is served by multiple MRT Kajang Line stations including Taman Mutiara MRT, Taman Connaught MRT, Taman Midah MRT, Taman Suntex MRT, Sri Raya MRT, Bandar Tun Hussein Onn MRT and nearby Maluri MRT."
+    },
+    {
+      "question": "Can I live in Cheras without owning a car?",
+      "answer": "Yes. Cheras has excellent MRT connectivity, RapidKL bus services, ride-hailing options and numerous shopping centres within easy reach, making it convenient to live without a private vehicle."
+    },
+    {
+      "question": "Are utilities included in Cheras room rentals?",
+      "answer": "Some room rentals include electricity, water, WiFi and maintenance fees, while others charge utilities separately depending on the landlord's rental package."
+    },
+    {
+      "question": "Do rooms for rent in Cheras include WiFi?",
+      "answer": "Many fully furnished rooms in Cheras include high-speed WiFi, making them suitable for students, professionals, remote workers and digital nomads."
+    },
+    {
+      "question": "Are rooms in Cheras suitable for remote workers?",
+      "answer": "Yes. Many rental properties in Cheras offer high-speed internet, dedicated workspaces, quiet residential environments and easy access to cafés and coworking spaces, making them suitable for remote workers and freelancers."
+    },
+    {
+      "question": "Are there rooms with private bathrooms in Cheras?",
+      "answer": "Yes. Most master rooms and many studio apartments in Cheras come with attached private bathrooms, providing additional privacy and convenience."
+    },
+    {
+      "question": "Are condominium rooms available for rent in Cheras?",
+      "answer": "Yes. Cheras has a large selection of condominium room rentals in developments such as EkoCheras Residences, M Vertica, You Vista, Maxim Residences, Lavile Kuala Lumpur and many other modern residential projects."
+    },
+    {
+      "question": "What facilities are commonly available in Cheras condominiums?",
+      "answer": "Most condominiums in Cheras provide facilities including swimming pools, fitness centres, 24-hour security, access card systems, covered parking, children's playgrounds, BBQ areas, multipurpose halls and landscaped gardens."
+    },
+    {
+      "question": "Is parking available with room rentals in Cheras?",
+      "answer": "Many condominiums and serviced apartments in Cheras provide parking bays for tenants, although availability depends on the landlord and the individual rental agreement."
+    },
+    {
+      "question": "Are move-in ready rooms available in Cheras?",
+      "answer": "Yes. Many rooms in Cheras are fully furnished and move-in ready with beds, wardrobes, air conditioning, washing machines, refrigerators, kitchen appliances and internet access."
+    },
+    {
+      "question": "Are shared rooms available in Cheras?",
+      "answer": "Yes. Shared rooms are available throughout Cheras and are popular among students, interns and young professionals looking for affordable monthly rental options."
+    },
+    {
+      "question": "Are short-term room rentals available in Cheras?",
+      "answer": "Some landlords in Cheras offer flexible short-term rental options, although availability depends on the property, building management policies and tenancy agreement."
+    },
+    {
+      "question": "What documents are required to rent a room in Cheras?",
+      "answer": "Most landlords require identification documents such as an IC or passport, rental deposits, the first month's rent and a signed tenancy agreement before move-in."
+    },
+    {
+      "question": "How much deposit is required for renting a room in Cheras?",
+      "answer": "Most landlords require one or two months' security deposit together with a utility deposit before the tenancy begins. The exact amount varies depending on the property."
+    },
+    {
+      "question": "Are rooms in Cheras pet-friendly?",
+      "answer": "Pet policies vary between landlords and condominium managements. Prospective tenants should confirm whether pets are allowed before signing a tenancy agreement."
+    },
+    {
+      "question": "Which areas near Cheras have cheaper room rentals?",
+      "answer": "Affordable rental options can often be found in Bandar Tun Razak, Taman Connaught, Taman Midah, Taman Suntex, Kajang, Balakong and Sungai Besi while still offering convenient access to Cheras."
+    },
+    {
+      "question": "How can I find the best room rental deals in Cheras?",
+      "answer": "Compare rental prices, review property facilities, check MRT accessibility, inspect the room condition, compare nearby amenities and secure listings early to obtain the best rental value."
+    },
+    {
+      "question": "Why is Cheras one of Kuala Lumpur's most popular rental locations?",
+      "answer": "Cheras is popular because it offers affordable rental prices, excellent MRT connectivity, numerous shopping malls, universities, hospitals, restaurants and convenient access to Kuala Lumpur City Centre."
+    },
+    {
+      "question": "What property types are available for rent in Cheras?",
+      "answer": "Tenants can rent rooms in condominiums, serviced apartments, apartments, landed houses, SOHO units, studios and co-living properties throughout Cheras."
+    },
+    {
+      "question": "Can I find budget-friendly rooms in Cheras?",
+      "answer": "Yes. Cheras is widely recognised as one of Kuala Lumpur's best areas for affordable room rentals, with many budget-friendly options suitable for students and working professionals."
+    },
+    {
+      "question": "How do I choose the best room for rent in Cheras?",
+      "answer": "Consider your monthly budget, room size, furnishing level, nearby MRT stations, workplace or university location, condominium facilities, safety, internet availability and surrounding amenities before making your decision."
+    },
+    {
+      "question": "Are rooms available near EkoCheras Mall?",
+      "answer": "Yes. EkoCheras Residences and nearby condominiums offer many rental rooms within walking distance of EkoCheras Mall and Taman Mutiara MRT Station."
+    },
+    {
+      "question": "Are there rooms near Leisure Mall Cheras?",
+      "answer": "Yes. Leisure Mall is surrounded by apartments, condominiums and serviced residences offering a wide selection of single rooms, master rooms and fully furnished rental units."
+    },
+    {
+      "question": "Is Cheras a good location for families?",
+      "answer": "Yes. Cheras is well suited for families due to its established residential neighbourhoods, reputable schools, healthcare facilities, shopping malls, parks, supermarkets and excellent public transportation."
+    },
+    {
+      "question": "Are there rooms for rent near Sunway Velocity Mall?",
+      "answer": "Yes. Many rental properties in Cheras are located within a short drive or MRT ride from Sunway Velocity Mall, making them popular among professionals working in TRX, Maluri and Kuala Lumpur City Centre."
+    },
+    {
+      "question": "Can I find rooms near UKMMC in Cheras?",
+      "answer": "Yes. Cheras has numerous rental rooms, apartments and condominiums near Universiti Kebangsaan Malaysia Medical Centre (UKMMC), making the area popular among medical students, healthcare professionals and hospital staff."
+    },
+    {
+      "question": "Is Cheras suitable for expatriates?",
+      "answer": "Yes. Many expatriates choose Cheras because it offers modern serviced residences, excellent MRT connectivity, international dining options, shopping malls and more affordable rental prices compared with Kuala Lumpur City Centre."
+    },
+    {
+      "question": "What are the most popular condominiums for rent in Cheras?",
+      "answer": "Popular rental developments in Cheras include EkoCheras Residences, M Vertica, You Vista, You Residence, Maxim Residences, Lavile Kuala Lumpur, The Netizen, Twin Arkz, Shamelin Star and UNA Serviced Apartment."
+    },
+    {
+      "question": "Which shopping malls are close to rental properties in Cheras?",
+      "answer": "Residents living in Cheras enjoy convenient access to EkoCheras Mall, Leisure Mall, Sunway Velocity Mall, AEON Mall Taman Maluri, MyTOWN Shopping Centre, IKEA Cheras and several neighbourhood retail centres."
+    },
+    {
+      "question": "Are there many restaurants and food options in Cheras?",
+      "answer": "Yes. Cheras is one of Kuala Lumpur's most popular food destinations, offering local hawker stalls, cafés, kopitiams, international restaurants, dessert shops and the famous Taman Connaught Night Market."
+    },
+    {
+      "question": "How convenient is public transportation in Cheras?",
+      "answer": "Cheras has excellent public transportation with multiple MRT Kajang Line stations, nearby LRT stations, RapidKL bus services and easy access to major highways connecting residents to Kuala Lumpur and the Klang Valley."
+    },
+    {
+      "question": "Can I commute from Cheras to KLCC easily?",
+      "answer": "Yes. The MRT Kajang Line provides convenient access to Bukit Bintang, TRX, Pasar Seni and central Kuala Lumpur, while major highways also make commuting by car straightforward."
+    },
+    {
+      "question": "Are there rental properties near Taman Connaught Night Market?",
+      "answer": "Yes. Many apartments, condominiums and landed homes around Taman Connaught offer rooms for rent within easy reach of the weekly night market, supermarkets and restaurants."
+    },
+    {
+      "question": "Is Cheras a good place for first-time renters?",
+      "answer": "Yes. Cheras offers a wide variety of affordable rooms, apartments and condominiums with excellent transportation, making it one of the best locations in Kuala Lumpur for first-time renters."
+    },
+    {
+      "question": "Do most room rentals in Cheras include air conditioning?",
+      "answer": "Many fully furnished rooms include air conditioning, although the available furnishings and appliances vary between landlords and individual properties."
+    },
+    {
+      "question": "Are there rental rooms close to supermarkets in Cheras?",
+      "answer": "Yes. Most residential areas in Cheras are located near supermarkets, convenience stores and shopping centres such as AEON, Lotus's, Giant and EkoCheras Mall for everyday shopping."
+    },
+    {
+      "question": "Can students easily find accommodation in Cheras?",
+      "answer": "Yes. Students studying at UCSI University and nearby colleges can choose from a wide range of affordable single rooms, shared rooms, master rooms and studio apartments throughout Cheras."
+    },
+    {
+      "question": "What makes Cheras different from other rental areas in Kuala Lumpur?",
+      "answer": "Cheras combines relatively affordable rental prices with excellent MRT connectivity, mature neighbourhoods, modern condominiums, shopping malls, hospitals, universities and a vibrant food scene, making it attractive to a wide range of tenants."
+    },
+    {
+      "question": "Are serviced apartments available for rent in Cheras?",
+      "answer": "Yes. Serviced apartments are available across Cheras, offering modern facilities such as swimming pools, gyms, security, covered parking and convenient access to MRT stations and commercial centres."
+    },
+    {
+      "question": "Which MRT station is best for renting a room in Cheras?",
+      "answer": "Popular MRT stations include Taman Mutiara MRT, Taman Connaught MRT, Taman Midah MRT, Taman Suntex MRT and Maluri MRT, as these areas offer a large selection of rental rooms with excellent connectivity."
+    },
+    {
+      "question": "Is Cheras a safe place to rent a room?",
+      "answer": "Many condominiums and gated residential developments in Cheras provide 24-hour security, CCTV surveillance, access card systems and guarded entrances, offering a secure living environment for tenants."
+    },
+    {
+      "question": "Can I find luxury rental properties in Cheras?",
+      "answer": "Yes. Developments such as EkoCheras Residences, M Vertica, Lavile Kuala Lumpur and You City offer premium apartments and serviced residences with modern facilities and convenient transportation."
+    },
+    {
+      "question": "How do I choose between different rental properties in Cheras?",
+      "answer": "Compare rental price, room size, furnishing, transportation access, condominium facilities, nearby amenities, lease terms and your daily commuting needs before selecting a property."
+    },
+    {
+      "question": "Why should I rent a room in Cheras?",
+      "answer": "Cheras is one of Kuala Lumpur's most established residential areas, offering affordable rental options, excellent MRT connectivity, quality shopping malls, universities, healthcare facilities, diverse dining options and easy access to major business districts, making it an excellent choice for students, professionals, couples and families."
+    }
+  ],
+  "focusKeywords": [
+    "Cheras room for rent",
+    "Cheras condo for rent",
+    "Cheras apartment for rent",
+    "room near Cheras MRT",
+    "room near Taman Connaught MRT",
+    "room near Taman Mutiara MRT",
+    "furnished room Cheras",
+    "cheap room Cheras Kuala Lumpur",
+    "affordable room rental Cheras",
+    "Cheras rental property",
+    "Cheras condominium for rent",
+    "Cheras serviced apartment for rent",
+    "studio apartment Cheras",
+    "master room Cheras",
+    "single room Cheras",
+    "medium room Cheras",
+    "monthly rental Cheras",
+    "fully furnished room Cheras",
+    "room near UCSI University",
+    "student room rental Cheras",
+    "room near UKMMC Cheras",
+    "room near Hospital Canselor Tuanku Muhriz",
+    "room near EkoCheras Mall",
+    "room near Leisure Mall Cheras",
+    "room near Sunway Velocity",
+    "luxury condo Cheras for rent",
+    "premium condo Cheras",
+    "family apartment Cheras",
+    "cheap condo rental Cheras",
+    "MRT room rental Cheras",
+    "room rental Cheras Kuala Lumpur",
+    "apartment rental Cheras Kuala Lumpur",
+    "condominium rental Cheras Kuala Lumpur",
+    "expat housing Cheras",
+    "couple room rental Cheras",
+    "female room rental Cheras",
+    "private room Cheras",
+    "shared room Cheras",
+    "room near TRX",
+    "room near KLCC from Cheras"
+  ],
+  "longTailKeywords": [
+    "fully furnished room for rent near Cheras MRT station",
+    "cheap room rental in Cheras for working professionals",
+    "affordable room rental in Cheras Kuala Lumpur",
+    "luxury condo for rent in Cheras Kuala Lumpur",
+    "expat friendly apartment for rent in Cheras",
+    "master room with private bathroom in Cheras",
+    "serviced apartment near Cheras MRT station",
+    "monthly room rental near Taman Connaught MRT",
+    "studio apartment for rent in Cheras fully furnished",
+    "room near UCSI University Cheras for students",
+    "room near Taman Mutiara MRT station Cheras",
+    "room near EkoCheras Mall fully furnished",
+    "premium condominium rental in Cheras for professionals",
+    "fully furnished condo room near Sunway Velocity Cheras",
+    "cheap master room rental near MRT Cheras",
+    "room for rent near UKMMC Hospital Cheras",
+    "affordable apartment rental near Taman Connaught Cheras",
+    "private room with attached bathroom for rent in Cheras",
+    "room rental near Taman Midah MRT for working adults",
+    "modern serviced residence for rent in Cheras Kuala Lumpur"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Cheras",
+      "budget room near Cheras MRT",
+      "student room near UCSI University",
+      "affordable room rental near Taman Connaught",
+      "student accommodation Cheras Kuala Lumpur"
+    ],
+    "expat": [
+      "expat housing Cheras",
+      "furnished condo Cheras",
+      "serviced apartment Cheras",
+      "international tenant friendly condo Cheras",
+      "modern apartment rental Cheras Kuala Lumpur"
+    ],
+    "professional": [
+      "Cheras condo near office",
+      "room near MRT Cheras for working professionals",
+      "room near TRX from Cheras",
+      "premium apartment Cheras",
+      "condo near Kuala Lumpur City Centre Cheras"
+    ],
+    "shortStay": [
+      "short term rental Cheras",
+      "monthly rental Cheras",
+      "serviced residence Cheras",
+      "flexible room rental Cheras",
+      "short stay apartment Cheras Kuala Lumpur"
+    ],
+    "premiumIntent": [
+      "luxury condo Cheras for rent",
+      "high end apartment Cheras",
+      "executive residence Cheras",
+      "premium serviced apartment Cheras",
+      "luxury condominium rental near MRT Cheras"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Cheras room for rent",
+    "secondaryKeywords": [
+      "Cheras condo for rent",
+      "Cheras apartment for rent",
+      "room near Cheras MRT",
+      "furnished room Cheras",
+      "cheap room Cheras Kuala Lumpur",
+      "Cheras condominium rental",
+      "student room rental Cheras",
+      "room near UCSI University",
+      "serviced apartment Cheras",
+      "master room Cheras"
+    ],
+    "seoScore": 98,
+    "canonicalUrl": "https://roomrentalkl.com/kuala-lumpur/cheras/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "affordable-connected-urban-rentals",
+    "contentCluster": [
+      "Cheras room rental",
+      "Cheras MRT accommodation",
+      "student housing Cheras Kuala Lumpur",
+      "professional housing Cheras",
+      "affordable condominiums Cheras",
+      "MRT connected rentals Cheras",
+      "serviced apartments Cheras",
+      "UCSI University accommodation",
+      "family apartments Cheras"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Maluri",
+        "Taman Connaught",
+        "Bandar Tun Razak",
+        "Sungai Besi",
+        "Bukit Jalil",
+        "Ampang",
+        "TRX",
+        "KLCC"
+      ],
+      "nearbyHotspots": [
+        "EkoCheras Mall",
+        "Leisure Mall Cheras",
+        "Sunway Velocity Mall",
+        "AEON Mall Taman Maluri",
+        "Taman Connaught Night Market",
+        "UCSI University",
+        "Hospital Canselor Tuanku Muhriz",
+        "UKMMC"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Cheras Rooms for Rent",
+        "url": "/room-rental-cheras",
+        "keyword": "cheras room for rent"
+      },
+      {
+        "title": "Cheras Condos for Rent",
+        "url": "/condo-for-rent-cheras",
+        "keyword": "cheras condo for rent"
+      },
+      {
+        "title": "Cheap Rooms in Cheras",
+        "url": "/cheap-room-cheras",
+        "keyword": "cheap room cheras"
+      },
+      {
+        "title": "Rooms Near Cheras MRT",
+        "url": "/room-near-cheras-mrt",
+        "keyword": "room near cheras mrt"
+      },
+      {
+        "title": "Taman Connaught Room Rental",
+        "url": "/taman-connaught-room-rental",
+        "keyword": "taman connaught room rental"
+      },
+      {
+        "title": "UCSI University Accommodation",
+        "url": "/room-near-ucsi-university",
+        "keyword": "room near ucsi university"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Cheras Area Guide",
+        "url": "/area-guide-cheras",
+        "type": "guide"
+      },
+      {
+        "title": "Cheras Price Guide 2026",
+        "url": "/price-guide-cheras",
+        "type": "pricing"
+      },
+      {
+        "title": "Cheras MRT Guide",
+        "url": "/cheras-mrt-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in Cheras",
+        "url": "/luxury-condo-cheras",
+        "type": "listing-category"
+      },
+      {
+        "title": "Student Housing Cheras",
+        "url": "/student-housing-cheras",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Cheras",
+        "url": "/furnished-room-cheras",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Cheras",
+        "url": "/short-term-rental-cheras",
+        "type": "rental-type"
+      },
+      {
+        "title": "Rooms Near MRT Cheras",
+        "url": "/room-near-mrt-cheras",
+        "type": "transport-rental"
+      },
+      {
+        "title": "Affordable Apartments Cheras",
+        "url": "/affordable-apartment-cheras",
+        "type": "listing-category"
+      }
+    ]
+  }
+}

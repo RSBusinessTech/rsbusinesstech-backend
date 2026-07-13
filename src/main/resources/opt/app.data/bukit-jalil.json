@@ -1,0 +1,1290 @@
+{
+  "area": {
+    "name": "Bukit Jalil",
+    "slug": "bukit-jalil",
+    "heroImage": "assets/images/areas/bukit-jalil.jpg",
+    "metaTitle": "Rooms for Rent in Bukit Jalil | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Bukit Jalil near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Bukit Jalil – Complete Guide to Room Rental, Condo & Apartment Rental in Kuala Lumpur",
+    "description": "Bukit Jalil is one of Kuala Lumpur's fastest-growing and most desirable residential townships for room rental, condominium rental, serviced apartment rental and apartment rental. Well known for its modern developments, excellent infrastructure, world-class sports facilities, universities, shopping malls and outstanding public transportation, Bukit Jalil has become a preferred destination for students, working professionals, expatriates, digital nomads, couples and families. Whether you are searching for a master room for rent in Bukit Jalil, a fully furnished single room, medium room, condo room, studio apartment, serviced residence, luxury condominium or affordable apartment rental, Bukit Jalil offers accommodation choices suitable for every budget and lifestyle. Residents enjoy excellent connectivity through Bukit Jalil LRT Station, Muhibbah LRT Station, Awan Besar LRT Station, Sri Petaling LRT Station, the MEX Highway, KESAS Highway, Bukit Jalil Highway and major roads connecting Kuala Lumpur City Centre, TRX, Bukit Bintang, Mid Valley City, Bangsar South, Petaling Jaya, Puchong and Subang Jaya. The township is home to iconic landmarks including Pavilion Bukit Jalil, National Stadium Bukit Jalil, Axiata Arena, Bukit Jalil Recreational Park, Technology Park Malaysia and International Medical University (IMU), making Bukit Jalil one of Kuala Lumpur's strongest rental property markets with consistently high demand from students, professionals and families.",
+    "buttonText": "Explore Bukit Jalil Rental Guide",
+    "buttonLink": "/room-rental-bukit-jalil",
+    "highlights": [
+      "Wide selection of master rooms, single rooms, medium rooms, serviced apartments and condominiums for rent in Bukit Jalil",
+      "One of Kuala Lumpur's fastest-growing residential and rental property hotspots",
+      "Excellent connectivity via LRT, MEX Highway, KESAS and Bukit Jalil Highway",
+      "Highly popular among students, professionals, expatriates and families",
+      "Close to Pavilion Bukit Jalil, National Stadium and Technology Park Malaysia",
+      "Affordable room rentals alongside premium luxury condominiums",
+      "Excellent public transport with multiple nearby LRT stations",
+      "Strong rental demand due to universities, offices and commercial developments",
+      "Modern condominiums featuring swimming pools, gyms, security and lifestyle facilities",
+      "Convenient access to KLCC, TRX, Mid Valley City, Bangsar South and Petaling Jaya",
+      "Ideal location for professionals working throughout Kuala Lumpur",
+      "Perfect balance of urban convenience, green spaces and modern living"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Excellent LRT & Highway Connectivity",
+        "description": "Bukit Jalil enjoys outstanding connectivity through Bukit Jalil LRT Station, Muhibbah LRT Station, Sri Petaling LRT Station and Awan Besar LRT Station together with MEX Highway, KESAS Highway and Bukit Jalil Highway, making commuting throughout Kuala Lumpur quick and convenient."
+      },
+      {
+        "icon": "fas fa-home",
+        "title": "Wide Variety of Rental Properties",
+        "description": "Tenants can choose from affordable single rooms, master bedrooms, medium rooms, studio apartments, serviced residences, family apartments and luxury condominiums with modern facilities."
+      },
+      {
+        "icon": "fas fa-briefcase",
+        "title": "Popular Among Working Professionals",
+        "description": "Bukit Jalil is highly popular among professionals working in Technology Park Malaysia, Bukit Jalil City, Bangsar South, Mid Valley City, KL Sentral, TRX and Kuala Lumpur City Centre."
+      },
+      {
+        "icon": "fas fa-graduation-cap",
+        "title": "Excellent Student Accommodation",
+        "description": "Students choose Bukit Jalil because of its close proximity to International Medical University (IMU), Asia Pacific University (APU), nearby universities and excellent public transportation."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Lifestyle Convenience",
+        "description": "Residents enjoy direct access to Pavilion Bukit Jalil, restaurants, cafes, supermarkets, entertainment centres, sports facilities and everyday conveniences within the township."
+      },
+      {
+        "icon": "fas fa-futbol",
+        "title": "Sports & Recreation Hub",
+        "description": "Bukit Jalil is home to the National Stadium Bukit Jalil, Axiata Arena and Bukit Jalil Recreational Park, providing outstanding sports, fitness and outdoor recreational opportunities."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Modern Condominiums & Serviced Residences",
+        "description": "Many residential developments offer premium facilities including swimming pools, gyms, co-working spaces, BBQ areas, children's playgrounds, landscaped gardens, multi-tier security and covered parking."
+      },
+      {
+        "icon": "fas fa-users",
+        "title": "Ideal for Families, Students & Professionals",
+        "description": "Bukit Jalil combines excellent education, healthcare, shopping, recreation, transportation and employment opportunities, making it one of Kuala Lumpur's best neighbourhoods for long-term rental living."
+      }
+    ],
+    "popularResidences": [
+      "The Park Sky Residence",
+      "The Park 2 Bukit Jalil",
+      "The Link 2 Residences",
+      "Aurora Place",
+      "CloudTree Residence",
+      "KM1 East",
+      "Kiara Residence 2",
+      "Kiara Residence",
+      "Covillea",
+      "Jalil Damai",
+      "Jalil Impian",
+      "Savanna Executive Suites",
+      "Twin Arkz",
+      "Bukit OUG Condominium",
+      "Vista Komanwel",
+      "Vista Residency",
+      "Z Residence",
+      "Arena Green",
+      "Green Avenue",
+      "Residensi Bukit Jalil"
+    ],
+    "nearbyLandmarks": [
+      "Pavilion Bukit Jalil",
+      "National Stadium Bukit Jalil",
+      "Axiata Arena",
+      "Bukit Jalil Recreational Park",
+      "Bukit Jalil Golf & Country Resort",
+      "Technology Park Malaysia",
+      "Bukit Jalil LRT Station",
+      "Muhibbah LRT Station",
+      "Awan Besar LRT Station",
+      "Sri Petaling LRT Station",
+      "International Medical University (IMU)",
+      "Bukit Jalil City",
+      "TPM MRT Station",
+      "KL Sports City",
+      "Bukit Jalil National Aquatic Centre",
+      "Puchong",
+      "Bangsar South",
+      "Mid Valley City",
+      "TRX",
+      "Kuala Lumpur City Centre"
+    ],
+    "nearbyUniversities": [
+      "International Medical University (IMU)",
+      "Asia Pacific University (APU)",
+      "Universiti Teknologi Malaysia Kuala Lumpur (UTM KL)",
+      "Universiti Malaya (UM)",
+      "Taylor's University",
+      "Sunway University",
+      "INTI International University",
+      "Monash University Malaysia",
+      "Tunku Abdul Rahman University of Management and Technology (TAR UMT)",
+      "Open University Malaysia"
+    ],
+    "majorEmployers": [
+      "Technology Park Malaysia",
+      "Axiata Group",
+      "Petronas",
+      "Maybank",
+      "CIMB Group",
+      "Public Bank",
+      "Grab Malaysia",
+      "IBM Malaysia",
+      "Microsoft Malaysia",
+      "Accenture Malaysia",
+      "Deloitte Malaysia",
+      "PwC Malaysia",
+      "EY Malaysia",
+      "KPMG Malaysia",
+      "Maxis",
+      "CelcomDigi",
+      "International Medical University (IMU)",
+      "Bukit Jalil City",
+      "TRX Business District",
+      "KLCC Business District"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Bukit Jalil LRT Station",
+      "slug": "bukit-jalil-lrt",
+      "stationType": "LRT",
+      "line": "Sri Petaling Line",
+      "walkingTime": "3 mins drive",
+      "distanceMeters": 900,
+      "distanceText": "3 mins drive (900 m)",
+      "title": "Bukit Jalil LRT Station",
+      "shortDescription": "Bukit Jalil LRT Station is the primary public transport hub serving Bukit Jalil. It provides direct access to KL Sentral, Masjid Jamek, Chan Sow Lin and other major destinations, making it one of the most popular locations for tenants searching for rooms, condominiums and apartments for rent in Bukit Jalil.",
+      "averageRoomRent": 1200,
+      "nearbyLandmarks": [
+        "Pavilion Bukit Jalil",
+        "National Stadium Bukit Jalil",
+        "Axiata Arena"
+      ],
+      "nearbyResidences": [
+        "The Park Sky Residence",
+        "Aurora Place",
+        "The Park 2"
+      ],
+      "popularSearches": [
+        "Room near Bukit Jalil LRT",
+        "Bukit Jalil room rental",
+        "Condo near Bukit Jalil LRT"
+      ]
+    },
+    {
+      "name": "Awan Besar LRT Station",
+      "slug": "awan-besar-lrt",
+      "stationType": "LRT",
+      "line": "Sri Petaling Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1800,
+      "distanceText": "5 mins drive (1.8 km)",
+      "title": "Awan Besar LRT Station",
+      "shortDescription": "Awan Besar LRT Station is a convenient transit option for residents living in northern Bukit Jalil. It offers quick public transport access to Kuala Lumpur city centre and surrounding townships.",
+      "averageRoomRent": 1150,
+      "nearbyLandmarks": [
+        "Bukit Jalil Golf & Country Resort",
+        "Pavilion Bukit Jalil",
+        "Bukit Jalil City"
+      ],
+      "nearbyResidences": [
+        "Kiara Residence",
+        "Kiara Residence 2",
+        "Twin Arkz"
+      ],
+      "popularSearches": [
+        "Room near Awan Besar LRT",
+        "Bukit Jalil apartment rental",
+        "Condo near Awan Besar"
+      ]
+    },
+    {
+      "name": "Muhibbah LRT Station",
+      "slug": "muhibbah-lrt",
+      "stationType": "LRT",
+      "line": "Sri Petaling Line",
+      "walkingTime": "4 mins drive",
+      "distanceMeters": 1400,
+      "distanceText": "4 mins drive (1.4 km)",
+      "title": "Muhibbah LRT Station",
+      "shortDescription": "Muhibbah LRT Station serves residents in Bukit Jalil and nearby residential neighbourhoods. It is popular among students and professionals seeking affordable rental properties with convenient public transport.",
+      "averageRoomRent": 1050,
+      "nearbyLandmarks": [
+        "Bukit Jalil Recreational Park",
+        "International Medical University",
+        "Technology Park Malaysia"
+      ],
+      "nearbyResidences": [
+        "Jalil Damai",
+        "Jalil Impian",
+        "Savanna Executive Suites"
+      ],
+      "popularSearches": [
+        "Room near Muhibbah LRT",
+        "Cheap room Bukit Jalil",
+        "Apartment near LRT Bukit Jalil"
+      ]
+    },
+    {
+      "name": "Sri Petaling LRT Station",
+      "slug": "sri-petaling-lrt",
+      "stationType": "LRT",
+      "line": "Sri Petaling Line",
+      "walkingTime": "6 mins drive",
+      "distanceMeters": 2600,
+      "distanceText": "6 mins drive (2.6 km)",
+      "title": "Sri Petaling LRT Station",
+      "shortDescription": "Sri Petaling LRT Station provides excellent connectivity for Bukit Jalil residents travelling to central Kuala Lumpur. The surrounding area is popular for condominium and room rentals.",
+      "averageRoomRent": 1200,
+      "nearbyLandmarks": [
+        "Sri Petaling Commercial Centre",
+        "Bukit Jalil",
+        "Endah Parade"
+      ],
+      "nearbyResidences": [
+        "Covillea",
+        "Z Residence",
+        "Arena Green"
+      ],
+      "popularSearches": [
+        "Room near Sri Petaling LRT",
+        "Sri Petaling condo rental",
+        "Bukit Jalil rental near LRT"
+      ]
+    },
+    {
+      "name": "TPM MRT Station",
+      "slug": "tpm-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 2200,
+      "distanceText": "5 mins drive (2.2 km)",
+      "title": "TPM MRT Station",
+      "shortDescription": "TPM MRT Station connects Bukit Jalil residents with the MRT Putrajaya Line, providing convenient travel to TRX, Ampang Park, Persiaran KLCC and other major employment hubs.",
+      "averageRoomRent": 1250,
+      "nearbyLandmarks": [
+        "Technology Park Malaysia",
+        "APU",
+        "Bukit Jalil City"
+      ],
+      "nearbyResidences": [
+        "CloudTree Residence",
+        "The Link 2",
+        "KM1 East"
+      ],
+      "popularSearches": [
+        "Room near TPM MRT",
+        "Apartment near TPM MRT",
+        "Technology Park Malaysia rental"
+      ]
+    },
+    {
+      "name": "Sungai Besi LRT Station",
+      "slug": "sungai-besi-lrt",
+      "stationType": "LRT",
+      "line": "Sri Petaling Line",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 5200,
+      "distanceText": "10 mins drive (5.2 km)",
+      "title": "Sungai Besi LRT Station",
+      "shortDescription": "Sungai Besi LRT Station offers additional connectivity for residents commuting between Bukit Jalil and Kuala Lumpur city centre, making nearby rental properties attractive to working professionals.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "Sungai Besi",
+        "Bandar Tasik Selatan",
+        "Bukit Jalil"
+      ],
+      "nearbyResidences": [
+        "The Leafz",
+        "Parc3 KL South",
+        "Residensi Bukit Jalil"
+      ],
+      "popularSearches": [
+        "Room near Sungai Besi LRT",
+        "Apartment Bukit Jalil",
+        "Rental near Sungai Besi"
+      ]
+    },
+    {
+      "name": "Bandar Tasik Selatan Station",
+      "slug": "bandar-tasik-selatan",
+      "stationType": "Transit Hub",
+      "line": "LRT, MRT, KTM & ERL",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 4200,
+      "distanceText": "8 mins drive (4.2 km)",
+      "title": "Bandar Tasik Selatan Station",
+      "shortDescription": "Bandar Tasik Selatan is one of Kuala Lumpur's largest integrated transport hubs, providing LRT, MRT, KTM Komuter and ERL services. It is a popular commuting point for Bukit Jalil residents.",
+      "averageRoomRent": 1150,
+      "nearbyLandmarks": [
+        "Terminal Bersepadu Selatan (TBS)",
+        "Bandar Tasik Selatan",
+        "Sungai Besi"
+      ],
+      "nearbyResidences": [
+        "The Leafz",
+        "Parc3 KL South",
+        "CloudTree Residence"
+      ],
+      "popularSearches": [
+        "Room near TBS",
+        "Rental near Bandar Tasik Selatan",
+        "Condo near BTS Station"
+      ]
+    },
+    {
+      "name": "Chan Sow Lin LRT & MRT Station",
+      "slug": "chan-sow-lin",
+      "stationType": "LRT & MRT",
+      "line": "Sri Petaling Line & Putrajaya Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 9500,
+      "distanceText": "15 mins drive (9.5 km)",
+      "title": "Chan Sow Lin LRT & MRT Station",
+      "shortDescription": "Chan Sow Lin Station is a major interchange connecting Bukit Jalil residents with multiple rail networks and convenient access to TRX, Bukit Bintang and Kuala Lumpur city centre.",
+      "averageRoomRent": 1350,
+      "nearbyLandmarks": [
+        "TRX",
+        "Pudu",
+        "Bukit Bintang"
+      ],
+      "nearbyResidences": [
+        "Lavile Kuala Lumpur",
+        "M Vertica",
+        "UNA Serviced Apartment"
+      ],
+      "popularSearches": [
+        "Room near Chan Sow Lin",
+        "Bukit Jalil to TRX rental",
+        "Condo near MRT interchange"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 700,
+      "maxPrice": 1300
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 950,
+      "maxPrice": 1700
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1400,
+      "maxPrice": 2600
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 2200,
+      "maxPrice": 4200
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1400,
+    "priceGrowth": 5.8,
+    "demandLevel": "Very High",
+    "vacancyRate": 2.3
+  },
+  "nearbyAreas": [
+    {
+      "name": "Sri Petaling",
+      "slug": "sri-petaling",
+      "averageRent": 1250,
+      "mrtAccess": false,
+      "distanceFromArea": 2,
+      "popularFor": "Professionals, Families, Students",
+      "description": "Sri Petaling is one of the closest neighbourhoods to Bukit Jalil, offering excellent dining options, established residential communities, LRT connectivity and a wide selection of condominiums, apartments and room rentals."
+    },
+    {
+      "name": "Bandar Sunway",
+      "slug": "bandar-sunway",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Students, Professionals, Expats",
+      "description": "Bandar Sunway is a vibrant education and commercial hub popular for its universities, Sunway Pyramid, healthcare facilities and modern rental properties with convenient BRT and public transport connections."
+    },
+    {
+      "name": "Puchong",
+      "slug": "puchong",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 7,
+      "popularFor": "Families, Professionals",
+      "description": "Puchong offers a wide variety of affordable condominiums, serviced apartments and landed homes with excellent LRT connectivity and convenient access to Bukit Jalil."
+    },
+    {
+      "name": "Old Klang Road",
+      "slug": "old-klang-road",
+      "averageRent": 1300,
+      "mrtAccess": false,
+      "distanceFromArea": 6,
+      "popularFor": "Professionals, Families",
+      "description": "Old Klang Road is a mature residential corridor offering numerous high-rise condominiums, serviced residences, shopping centres and excellent road connectivity to Bukit Jalil and Kuala Lumpur city centre."
+    },
+    {
+      "name": "Bangsar South",
+      "slug": "bangsar-south",
+      "averageRent": 1700,
+      "mrtAccess": true,
+      "distanceFromArea": 9,
+      "popularFor": "Professionals, Digital Nomads",
+      "description": "Bangsar South is a major business district with Grade A offices, technology companies, modern serviced apartments and convenient public transport, making it a popular destination for professionals living in Bukit Jalil."
+    },
+    {
+      "name": "Mid Valley City",
+      "slug": "mid-valley",
+      "averageRent": 1800,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Professionals, Executives",
+      "description": "Mid Valley City is one of Kuala Lumpur's largest commercial and retail districts. Bukit Jalil residents enjoy convenient commuting via highways and public transport while benefiting from more affordable rental options."
+    },
+    {
+      "name": "KL Sentral",
+      "slug": "kl-sentral",
+      "averageRent": 1900,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Executives, Professionals",
+      "description": "KL Sentral is Malaysia's largest transportation hub and an important business district. Bukit Jalil provides an attractive residential alternative with excellent LRT connectivity."
+    },
+    {
+      "name": "Tun Razak Exchange (TRX)",
+      "slug": "trx",
+      "averageRent": 2000,
+      "mrtAccess": true,
+      "distanceFromArea": 13,
+      "popularFor": "Finance Professionals, Executives",
+      "description": "TRX is Kuala Lumpur's international financial district. Many professionals working in TRX choose Bukit Jalil because of its modern residential developments, lifestyle amenities and convenient rail connections."
+    },
+    {
+      "name": "Cheras",
+      "slug": "cheras",
+      "averageRent": 1150,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Students, Professionals, Families",
+      "description": "Cheras is a large residential township with affordable room rentals, condominiums, apartments, MRT connectivity and easy access to central Kuala Lumpur."
+    },
+    {
+      "name": "Kuala Lumpur City Centre (KLCC)",
+      "slug": "klcc",
+      "averageRent": 2200,
+      "mrtAccess": true,
+      "distanceFromArea": 15,
+      "popularFor": "Executives, Expats, Professionals",
+      "description": "KLCC is Kuala Lumpur's premier business and lifestyle district. Bukit Jalil is a preferred residential location for professionals seeking modern accommodation with lower rental costs while maintaining convenient access to the city centre."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Bukit Jalil",
+      "url": "/master-room-rental-bukit-jalil"
+    },
+    {
+      "title": "Single Room Bukit Jalil",
+      "url": "/single-room-rental-bukit-jalil"
+    },
+    {
+      "title": "Condo Room Bukit Jalil",
+      "url": "/condo-room-rental-bukit-jalil"
+    },
+    {
+      "title": "Room Near Bukit Jalil LRT",
+      "url": "/room-near-bukit-jalil-lrt"
+    },
+    {
+      "title": "Room Near TPM MRT",
+      "url": "/room-near-tpm-mrt"
+    },
+    {
+      "title": "Bukit Jalil Student Room Rental",
+      "url": "/bukit-jalil-student-room-rental"
+    },
+    {
+      "title": "Studio Apartment Bukit Jalil",
+      "url": "/studio-apartment-bukit-jalil"
+    },
+    {
+      "title": "Luxury Condo Bukit Jalil",
+      "url": "/luxury-condo-bukit-jalil"
+    },
+    {
+      "title": "Serviced Apartment Bukit Jalil",
+      "url": "/serviced-apartment-bukit-jalil"
+    },
+    {
+      "title": "Affordable Room Rental Bukit Jalil",
+      "url": "/cheap-room-rental-bukit-jalil"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at The Park Sky Residence",
+      "price": 1650,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Aurora Place",
+      "price": 900,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 1000,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1300,
+      "occupation": "Medical Student"
+    },
+    {
+      "gender": "Any",
+      "budget": 1600,
+      "occupation": "Marketing Executive"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a room for rent in Bukit Jalil cost?",
+      "answer": "Room rental prices in Bukit Jalil generally range from RM700 to RM2,600 per month depending on the room type, furnishing, condominium facilities, property age and proximity to LRT or MRT stations."
+    },
+    {
+      "question": "Where can I find affordable rooms for rent in Bukit Jalil?",
+      "answer": "Affordable room rentals can be found throughout Bukit Jalil, especially in established condominiums, apartments and shared residences near Bukit Jalil LRT Station, Muhibbah LRT Station and Awan Besar LRT Station."
+    },
+    {
+      "question": "Are fully furnished rooms available for rent in Bukit Jalil?",
+      "answer": "Yes. Many rental rooms in Bukit Jalil come fully furnished with beds, wardrobes, air conditioning, WiFi, washing machines, kitchen access and condominium facilities."
+    },
+    {
+      "question": "What types of rooms are available for rent in Bukit Jalil?",
+      "answer": "Bukit Jalil offers single rooms, medium rooms, master rooms, private rooms, shared rooms, studio apartments, serviced apartments and condominium units suitable for students, professionals and families."
+    },
+    {
+      "question": "How much is a master room for rent in Bukit Jalil?",
+      "answer": "Master room rentals typically range from RM1,400 to RM2,600 per month depending on the condominium, attached bathroom, furnishing and available facilities."
+    },
+    {
+      "question": "How much is a single room for rent in Bukit Jalil?",
+      "answer": "Single rooms generally cost between RM700 and RM1,300 per month depending on the location, property type and included amenities."
+    },
+    {
+      "question": "How much is a medium room for rent in Bukit Jalil?",
+      "answer": "Medium rooms usually range from RM950 to RM1,700 per month depending on the property, facilities and room size."
+    },
+    {
+      "question": "Are studio apartments available for rent in Bukit Jalil?",
+      "answer": "Yes. Bukit Jalil offers modern studio apartments and serviced residences with private kitchens, bathrooms and condominium facilities suitable for professionals and couples."
+    },
+    {
+      "question": "Is Bukit Jalil a good place to rent a room in Kuala Lumpur?",
+      "answer": "Yes. Bukit Jalil is a popular residential township with excellent public transport, shopping malls, parks, universities, sports facilities and convenient access to major employment centres."
+    },
+    {
+      "question": "Is Bukit Jalil suitable for working professionals?",
+      "answer": "Yes. Many professionals choose Bukit Jalil because of its convenient access to Technology Park Malaysia, Bangsar South, Mid Valley City, TRX and Kuala Lumpur city centre."
+    },
+    {
+      "question": "Are there rooms near Bukit Jalil LRT Station?",
+      "answer": "Yes. Many condominiums and serviced apartments are located within a short distance of Bukit Jalil LRT Station, making commuting convenient for tenants."
+    },
+    {
+      "question": "Are there rooms near TPM MRT Station?",
+      "answer": "Yes. Properties near TPM MRT Station are popular among professionals and students because of convenient MRT access and proximity to Technology Park Malaysia."
+    },
+    {
+      "question": "Can I find rental rooms near Pavilion Bukit Jalil?",
+      "answer": "Yes. Numerous condominiums and serviced residences are located around Pavilion Bukit Jalil, offering convenient access to shopping, dining and entertainment."
+    },
+    {
+      "question": "Is Bukit Jalil popular among students?",
+      "answer": "Yes. Bukit Jalil is a preferred location for students due to its proximity to International Medical University (IMU), Asia Pacific University (APU) and other nearby educational institutions."
+    },
+    {
+      "question": "Can foreigners rent rooms in Bukit Jalil?",
+      "answer": "Yes. Many landlords and property managers rent to international tenants, subject to standard tenancy requirements and documentation."
+    },
+    {
+      "question": "Are there luxury condominiums for rent in Bukit Jalil?",
+      "answer": "Yes. Bukit Jalil offers many modern condominiums and serviced residences featuring swimming pools, gyms, landscaped gardens, co-working spaces, security and covered parking."
+    },
+    {
+      "question": "Which are the popular condominiums in Bukit Jalil?",
+      "answer": "Popular developments include The Park Sky Residence, Aurora Place, The Park 2, CloudTree Residence, Twin Arkz, Kiara Residence, Savanna Executive Suites and The Link 2."
+    },
+    {
+      "question": "Is Bukit Jalil more affordable than Kuala Lumpur City Centre?",
+      "answer": "Generally yes. Bukit Jalil often offers more spacious accommodation and modern facilities at lower rental prices than Kuala Lumpur City Centre while maintaining good transport connections."
+    },
+    {
+      "question": "Are there affordable apartments for rent in Bukit Jalil?",
+      "answer": "Yes. Bukit Jalil offers apartments and condominium units across different budgets, making it suitable for students, young professionals and families."
+    },
+    {
+      "question": "Are student rooms available in Bukit Jalil?",
+      "answer": "Yes. Many landlords offer student-friendly rooms with furnished living spaces and convenient access to universities and public transport."
+    },
+    {
+      "question": "Are female-only rooms available in Bukit Jalil?",
+      "answer": "Yes. Some landlords provide female-only accommodation depending on the property and tenancy preferences."
+    },
+    {
+      "question": "Are couple-friendly rooms available in Bukit Jalil?",
+      "answer": "Many master rooms, studio apartments and entire units may be suitable for couples, subject to the landlord's tenancy terms."
+    },
+    {
+      "question": "Are rooms with private bathrooms available in Bukit Jalil?",
+      "answer": "Yes. Master bedrooms and selected premium rooms commonly include attached private bathrooms."
+    },
+    {
+      "question": "Are utilities included in Bukit Jalil room rentals?",
+      "answer": "Some rentals include utilities such as internet, water and electricity, while others charge separately. The terms vary by listing."
+    },
+    {
+      "question": "Do Bukit Jalil rental rooms include WiFi?",
+      "answer": "Many furnished rooms include WiFi, especially in shared apartments and modern serviced residences."
+    },
+    {
+      "question": "Can I find short-term rental rooms in Bukit Jalil?",
+      "answer": "Some landlords offer flexible or short-term rental arrangements, depending on availability and building management policies."
+    },
+    {
+      "question": "What documents are usually required to rent a room in Bukit Jalil?",
+      "answer": "Most landlords require identification, a signed tenancy agreement and rental deposits before move-in."
+    },
+    {
+      "question": "How much deposit is usually required for a room rental in Bukit Jalil?",
+      "answer": "Many landlords request a security deposit together with a utility deposit, although the exact amount depends on the tenancy agreement."
+    },
+    {
+      "question": "Can I live in Bukit Jalil without owning a car?",
+      "answer": "Yes. Bukit Jalil has LRT access, MRT connections nearby, bus services, ride-hailing options and many everyday amenities within easy reach."
+    },
+    {
+      "question": "What facilities do Bukit Jalil condominiums usually provide?",
+      "answer": "Common facilities include swimming pools, fitness centres, security, playgrounds, BBQ areas, multipurpose halls, gardens and covered parking."
+    },
+    {
+      "question": "Is parking available with Bukit Jalil room rentals?",
+      "answer": "Many condominiums offer parking spaces, although availability depends on the specific property and rental agreement."
+    },
+    {
+      "question": "Is Bukit Jalil suitable for remote workers?",
+      "answer": "Yes. The area offers reliable internet, modern residential developments, cafés, co-working spaces and convenient lifestyle amenities."
+    },
+    {
+      "question": "Why do many people choose to live in Bukit Jalil?",
+      "answer": "Residents are attracted by modern housing, convenient transport, parks, shopping centres, universities, sports facilities and good connectivity to major business districts."
+    },
+    {
+      "question": "What are some popular residential areas within Bukit Jalil?",
+      "answer": "Popular residential developments include The Park Sky Residence, Aurora Place, The Park 2, Twin Arkz, CloudTree Residence, Kiara Residence and Savanna Executive Suites."
+    },
+    {
+      "question": "Is Bukit Jalil considered a safe place to live?",
+      "answer": "Many residential developments in Bukit Jalil are gated or provide 24-hour security, access control and CCTV, contributing to a secure living environment."
+    },
+    {
+      "question": "Are serviced apartments available for rent in Bukit Jalil?",
+      "answer": "Yes. The area has a variety of serviced apartments offering furnished units and lifestyle facilities suitable for professionals, students and long-term residents."
+    },
+    {
+      "question": "How can I choose the right room for rent in Bukit Jalil?",
+      "answer": "Compare rental prices, room size, furnishing, transport access, facilities, tenancy terms and nearby amenities to find a property that best matches your needs and budget."
+    }
+  ],
+  "focusKeywords": [
+    "Bukit Jalil room for rent",
+    "Bukit Jalil condo for rent",
+    "Bukit Jalil apartment for rent",
+    "room near Bukit Jalil LRT",
+    "room near TPM MRT",
+    "furnished room Bukit Jalil",
+    "affordable room rental Bukit Jalil",
+    "Bukit Jalil rental property",
+    "Bukit Jalil condominium rental",
+    "luxury condo Bukit Jalil for rent",
+    "serviced apartment Bukit Jalil",
+    "studio apartment Bukit Jalil",
+    "master room Bukit Jalil",
+    "single room Bukit Jalil",
+    "medium room Bukit Jalil",
+    "monthly rental Bukit Jalil",
+    "fully furnished room Bukit Jalil",
+    "student room rental Bukit Jalil",
+    "private room Bukit Jalil",
+    "shared room Bukit Jalil",
+    "family apartment Bukit Jalil",
+    "premium condo Bukit Jalil",
+    "executive apartment Bukit Jalil",
+    "rental near Pavilion Bukit Jalil",
+    "rental near Axiata Arena",
+    "rental near National Stadium Bukit Jalil",
+    "rental near International Medical University",
+    "rental near Technology Park Malaysia",
+    "LRT connected rental Bukit Jalil",
+    "MRT connected rental Bukit Jalil"
+  ],
+  "longTailKeywords": [
+    "fully furnished room for rent near Bukit Jalil LRT station",
+    "affordable room rental in Bukit Jalil for working professionals",
+    "condo room rental near Pavilion Bukit Jalil",
+    "luxury condo for rent in Bukit Jalil Kuala Lumpur",
+    "student accommodation near International Medical University Bukit Jalil",
+    "master room with private bathroom in Bukit Jalil",
+    "serviced apartment near Technology Park Malaysia",
+    "monthly room rental near Bukit Jalil LRT",
+    "studio apartment for rent in Bukit Jalil fully furnished",
+    "room near TPM MRT station for professionals",
+    "premium condominium rental in Bukit Jalil",
+    "room for rent near Axiata Arena Bukit Jalil",
+    "apartment rental near National Stadium Bukit Jalil",
+    "affordable apartment rental near Pavilion Bukit Jalil",
+    "private room with attached bathroom for rent in Bukit Jalil",
+    "best residential areas to rent in Bukit Jalil",
+    "fully furnished condo room near The Park Bukit Jalil",
+    "budget master room rental near Bukit Jalil LRT",
+    "student accommodation near APU Bukit Jalil",
+    "modern serviced residence for rent in Bukit Jalil Kuala Lumpur"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Bukit Jalil",
+      "budget room near Bukit Jalil LRT",
+      "student room near International Medical University Bukit Jalil",
+      "student accommodation near Asia Pacific University Bukit Jalil",
+      "affordable accommodation Bukit Jalil Kuala Lumpur",
+      "student rental room Bukit Jalil",
+      "shared room Bukit Jalil for students",
+      "furnished student room Bukit Jalil",
+      "room near university Bukit Jalil",
+      "monthly student rental Bukit Jalil"
+    ],
+    "expat": [
+      "expat housing Bukit Jalil",
+      "furnished condo Bukit Jalil",
+      "serviced apartment Bukit Jalil",
+      "international tenant friendly condo Bukit Jalil",
+      "luxury apartment rental Bukit Jalil",
+      "premium residence Bukit Jalil",
+      "fully furnished condo for foreigners Bukit Jalil",
+      "executive serviced apartment Bukit Jalil",
+      "comfortable long term rental Bukit Jalil"
+    ],
+    "professional": [
+      "Bukit Jalil condo near Technology Park Malaysia",
+      "room near Bukit Jalil LRT for professionals",
+      "room near TPM MRT station",
+      "premium apartment Bukit Jalil",
+      "executive residence Bukit Jalil",
+      "condo near Pavilion Bukit Jalil for working adults",
+      "professional accommodation Bukit Jalil",
+      "rental near Kuala Lumpur business districts",
+      "furnished room near Bukit Jalil offices"
+    ],
+    "shortStay": [
+      "short term rental Bukit Jalil",
+      "monthly rental Bukit Jalil",
+      "serviced residence Bukit Jalil",
+      "flexible room rental Bukit Jalil",
+      "short stay apartment Bukit Jalil Kuala Lumpur",
+      "temporary accommodation Bukit Jalil",
+      "fully furnished short term stay Bukit Jalil",
+      "business stay Bukit Jalil",
+      "short lease condo Bukit Jalil"
+    ],
+    "premiumIntent": [
+      "luxury condo Bukit Jalil for rent",
+      "high end apartment Bukit Jalil",
+      "executive residence Bukit Jalil",
+      "premium serviced apartment Bukit Jalil",
+      "luxury condominium rental Bukit Jalil",
+      "premium furnished condo Bukit Jalil",
+      "exclusive residence near Pavilion Bukit Jalil",
+      "high floor condo rental Bukit Jalil",
+      "modern luxury apartment Bukit Jalil"
+    ],
+    "family": [
+      "family apartment Bukit Jalil",
+      "3 bedroom condo rental Bukit Jalil",
+      "family friendly condo Bukit Jalil",
+      "apartment near Bukit Jalil schools",
+      "safe residential area Bukit Jalil",
+      "spacious condo for family rental Bukit Jalil",
+      "long term family rental Bukit Jalil"
+    ],
+    "budgetTenant": [
+      "cheap room rental Bukit Jalil",
+      "affordable room Bukit Jalil",
+      "low budget accommodation Bukit Jalil",
+      "shared room near Bukit Jalil LRT",
+      "budget apartment Bukit Jalil",
+      "cheap furnished room Bukit Jalil"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Bukit Jalil room for rent",
+    "secondaryKeywords": [
+      "Bukit Jalil condo for rent",
+      "Bukit Jalil apartment for rent",
+      "room near Bukit Jalil LRT",
+      "room near TPM MRT",
+      "furnished room Bukit Jalil",
+      "affordable room rental Bukit Jalil",
+      "luxury condo Bukit Jalil",
+      "student accommodation Bukit Jalil",
+      "serviced apartment Bukit Jalil",
+      "master room Bukit Jalil",
+      "room near Pavilion Bukit Jalil"
+    ],
+    "seoScore": 98,
+    "canonicalUrl": "https://yourdomain.com/kuala-lumpur/bukit-jalil/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "connected-urban-residential-rentals",
+    "contentCluster": [
+      "Bukit Jalil room rental",
+      "Bukit Jalil condo accommodation",
+      "student housing Kuala Lumpur",
+      "premium condominiums Bukit Jalil",
+      "LRT MRT connected rentals Bukit Jalil",
+      "serviced apartments Bukit Jalil",
+      "affordable rental properties Kuala Lumpur",
+      "professional housing near Technology Park Malaysia",
+      "family friendly residential areas Bukit Jalil"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Sri Petaling",
+        "Old Klang Road",
+        "Puchong",
+        "Bandar Sunway",
+        "Bangsar South",
+        "Mid Valley",
+        "KL Sentral",
+        "Cheras",
+        "KLCC",
+        "TRX"
+      ],
+      "nearbyHotspots": [
+        "Pavilion Bukit Jalil",
+        "Bukit Jalil LRT Station",
+        "TPM MRT Station",
+        "Axiata Arena",
+        "National Stadium Bukit Jalil",
+        "Bukit Jalil Recreational Park",
+        "Technology Park Malaysia",
+        "International Medical University (IMU)",
+        "Asia Pacific University (APU)"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Bukit Jalil Rooms for Rent",
+        "url": "/room-rental-bukit-jalil",
+        "keyword": "bukit jalil room for rent"
+      },
+      {
+        "title": "Bukit Jalil Condos for Rent",
+        "url": "/condo-for-rent-bukit-jalil",
+        "keyword": "bukit jalil condo for rent"
+      },
+      {
+        "title": "Cheap Rooms in Bukit Jalil",
+        "url": "/cheap-room-bukit-jalil",
+        "keyword": "cheap room bukit jalil"
+      },
+      {
+        "title": "Rooms Near Bukit Jalil LRT",
+        "url": "/room-near-bukit-jalil-lrt",
+        "keyword": "room near bukit jalil lrt"
+      },
+      {
+        "title": "Rooms Near TPM MRT",
+        "url": "/room-near-tpm-mrt",
+        "keyword": "room near tpm mrt"
+      },
+      {
+        "title": "Bukit Jalil Pavilion Rental Guide",
+        "url": "/room-near-pavilion-bukit-jalil",
+        "keyword": "rental near pavilion bukit jalil"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Bukit Jalil Area Guide",
+        "url": "/area-guide-bukit-jalil",
+        "type": "guide"
+      },
+      {
+        "title": "Bukit Jalil Rental Price Guide 2026",
+        "url": "/price-guide-bukit-jalil",
+        "type": "pricing"
+      },
+      {
+        "title": "Bukit Jalil LRT MRT Transport Guide",
+        "url": "/bukit-jalil-transport-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in Bukit Jalil",
+        "url": "/luxury-condo-bukit-jalil",
+        "type": "listing-category"
+      },
+      {
+        "title": "Student Housing Bukit Jalil",
+        "url": "/student-housing-bukit-jalil",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Bukit Jalil",
+        "url": "/furnished-room-bukit-jalil",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Bukit Jalil",
+        "url": "/short-term-rental-bukit-jalil",
+        "type": "rental-type"
+      },
+      {
+        "title": "Rooms Near Pavilion Bukit Jalil",
+        "url": "/room-near-pavilion-bukit-jalil",
+        "type": "location-intent-page"
+      }
+    ]
+  }
+}

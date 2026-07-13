@@ -1,0 +1,1545 @@
+{
+  "area": {
+    "name": "Cyberjaya",
+    "slug": "cyberjaya",
+    "heroImage": "assets/images/areas/cyberjaya.jpg",
+    "metaTitle": "Rooms for Rent in Cyberjaya | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Cyberjaya near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Cyberjaya – Complete Guide to Room Rental in Cyberjaya Malaysia",
+    "description": "Cyberjaya is one of Malaysia's leading technology and innovation hubs, offering modern residential developments, affordable room rental options and excellent lifestyle facilities. The area attracts university students, IT professionals, digital workers, entrepreneurs, government employees and expatriates seeking comfortable accommodation near technology companies and educational institutions. Whether you are searching for a master room for rent in Cyberjaya, a single room near Cyberjaya MRT, a fully furnished room close to Multimedia University, a studio apartment in Cyberjaya or an affordable shared room, Cyberjaya provides a wide range of rental choices. Residents enjoy modern condominiums, green surroundings, shopping malls, cafes, universities, business parks and convenient connections to Putrajaya, Kuala Lumpur International Airport and surrounding areas, making Cyberjaya one of the most attractive affordable rental locations in Klang Valley.",
+    "buttonText": "Explore Cyberjaya Rental Guide",
+    "buttonLink": "/room-rental-cyberjaya",
+    "highlights": [
+      "Large selection of master rooms, medium rooms, single rooms, studio rooms and shared rooms for rent in Cyberjaya",
+      "Close to Multimedia University, Cyberjaya MRT Station, D'Pulze Shopping Centre and technology offices",
+      "Excellent connectivity via Cyberjaya MRT Station, ERL Putrajaya Sentral and major highways",
+      "Popular among students, IT professionals, digital workers and expatriates",
+      "Close to major employment hubs including Cyberjaya technology companies and Putrajaya government offices",
+      "Wide range of fully furnished, semi-furnished and budget-friendly room rental options",
+      "Modern condominiums with swimming pools, gyms, security and lifestyle facilities",
+      "One of Malaysia's most established technology and smart city residential areas"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Transportation & MRT Connectivity",
+        "description": "Cyberjaya provides convenient connectivity through Cyberjaya MRT Station, Putrajaya Sentral ERL Station and major highways including ELITE, MEX and SKVE. Residents can travel easily to Putrajaya, Kuala Lumpur International Airport, Puchong, Subang and Kuala Lumpur."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Popular Condominiums & Rental Choices",
+        "description": "Cyberjaya offers many accommodation options including master rooms, single rooms, studio units and condominium rooms. Popular developments include Tamarind Square, Shaftsbury Residences, Cybersquare, Verdi Eco-dominiums, Garden Residence and Lakefront Residence."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Lifestyle",
+        "description": "Residents enjoy easy access to D'Pulze Shopping Centre, Tamarind Square, DPULZE Mall, Shaftsbury Square and nearby Putrajaya shopping areas. The area offers cafes, restaurants, supermarkets, entertainment and lifestyle facilities."
+      },
+      {
+        "icon": "fas fa-utensils",
+        "title": "Food & Dining",
+        "description": "Cyberjaya has a growing food scene featuring cafes, restaurants, food courts, international cuisine, local Malaysian food and lifestyle dining areas popular among students and working professionals."
+      },
+      {
+        "icon": "fas fa-user-tie",
+        "title": "Ideal for Students & Technology Professionals",
+        "description": "Cyberjaya is a preferred residential location for students, IT professionals and employees working in technology companies, startups, universities and government-linked organisations."
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "title": "Safety & Quality Living",
+        "description": "Most Cyberjaya residential developments provide 24-hour security, access card systems, CCTV monitoring, swimming pools, gyms and professional property management for comfortable urban living."
+      }
+    ],
+    "popularResidences": [
+      "Tamarind Square",
+      "Cybersquare",
+      "Shaftsbury Residences",
+      "Verdi Eco-dominiums",
+      "Garden Residence",
+      "Lakefront Residence",
+      "Cristal Serin Residence",
+      "Hyve Soho Suites",
+      "Cyber Heights Villa",
+      "Kenwingston Square Garden"
+    ],
+    "nearbyLandmarks": [
+      "Cyberjaya MRT Station",
+      "Multimedia University (MMU)",
+      "D'Pulze Shopping Centre",
+      "Tamarind Square",
+      "Shaftsbury Square",
+      "Putrajaya Sentral",
+      "Putrajaya International Convention Centre",
+      "IOI City Mall Putrajaya",
+      "Malaysia Agro Exposition Park Serdang",
+      "Cyberjaya Lake Gardens"
+    ],
+    "nearbyUniversities": [
+      "Multimedia University (MMU) Cyberjaya",
+      "Limkokwing University of Creative Technology",
+      "University of Cyberjaya",
+      "Asia Metropolitan University",
+      "Universiti Islam Malaysia",
+      "International Islamic University Malaysia (Gombak Campus)"
+    ],
+    "majorEmployers": [
+      "Dell Technologies",
+      "Huawei Malaysia",
+      "Shell Malaysia",
+      "CIMB Cyberjaya",
+      "HSBC Cyberjaya",
+      "IBM Malaysia",
+      "NTT Data",
+      "Cyberview",
+      "MDEC",
+      "Malaysia Digital Economy Corporation",
+      "Putrajaya Government Offices",
+      "Multimedia Super Corridor Companies"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Cyberjaya MRT Station",
+      "slug": "cyberjaya-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "5 mins walk",
+      "distanceMeters": 350,
+      "distanceText": "5 mins walk (350 m)",
+      "title": "Cyberjaya MRT Station",
+      "shortDescription": "Cyberjaya MRT Station is the main rail connection serving Cyberjaya residents. It provides direct access to Putrajaya, KL city areas and major employment hubs, making it convenient for students and technology professionals.",
+      "averageRoomRent": 1000,
+      "nearbyLandmarks": [
+        "Cyberjaya Lake Gardens",
+        "Cyberjaya City Centre",
+        "Tamarind Square",
+        "D'Pulze Shopping Centre"
+      ],
+      "nearbyResidences": [
+        "Tamarind Square",
+        "Cybersquare",
+        "Shaftsbury Residences",
+        "Verdi Eco-dominiums"
+      ],
+      "popularSearches": [
+        "Room near Cyberjaya MRT",
+        "Cyberjaya MRT room rent",
+        "Studio near Cyberjaya MRT"
+      ]
+    },
+    {
+      "name": "Putrajaya Sentral Station",
+      "slug": "putrajaya-sentral",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 5000,
+      "distanceText": "10 mins drive (5 km)",
+      "title": "Putrajaya Sentral Station",
+      "shortDescription": "Putrajaya Sentral is a major transportation hub connecting Cyberjaya and Putrajaya through MRT, ERL and bus services. It provides convenient access to Kuala Lumpur International Airport and city destinations.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "Putrajaya Sentral",
+        "Putrajaya Government Offices",
+        "IOI City Mall"
+      ],
+      "nearbyResidences": [
+        "Lakefront Residence",
+        "Garden Residence",
+        "Cyber Heights Villa"
+      ],
+      "popularSearches": [
+        "Room near Putrajaya Sentral",
+        "Cyberjaya room near ERL"
+      ]
+    },
+    {
+      "name": "Serdang Raya MRT Station",
+      "slug": "serdang-raya-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "20 mins drive",
+      "distanceMeters": 15000,
+      "distanceText": "20 mins drive (15 km)",
+      "title": "Serdang Raya MRT Station",
+      "shortDescription": "Serdang Raya MRT provides additional connectivity towards Kuala Lumpur, universities and commercial areas. It offers alternative transport options for Cyberjaya residents.",
+      "averageRoomRent": 900,
+      "nearbyLandmarks": [
+        "Serdang",
+        "UPM",
+        "The Mines Shopping Mall"
+      ],
+      "nearbyResidences": [
+        "Cyberjaya Condominiums",
+        "Garden Residence",
+        "Lakefront Residence"
+      ],
+      "popularSearches": [
+        "Room near Serdang MRT",
+        "Cyberjaya nearby MRT room"
+      ]
+    },
+    {
+      "name": "Salak Tinggi ERL Station",
+      "slug": "salak-tinggi-erl",
+      "stationType": "ERL",
+      "line": "KLIA Transit Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 12000,
+      "distanceText": "15 mins drive (12 km)",
+      "title": "Salak Tinggi ERL Station",
+      "shortDescription": "Salak Tinggi ERL Station provides fast airport connectivity and is useful for Cyberjaya residents working near KLIA, Sepang and aviation-related industries.",
+      "averageRoomRent": 950,
+      "nearbyLandmarks": [
+        "KLIA Transit",
+        "Sepang",
+        "KLIA Airport"
+      ],
+      "nearbyResidences": [
+        "Cyberjaya Residences",
+        "Hyve Soho Suites",
+        "Cybersquare"
+      ],
+      "popularSearches": [
+        "Room near Salak Tinggi ERL",
+        "Cyberjaya airport rental room"
+      ]
+    },
+    {
+      "name": "Putrajaya & Cyberjaya Bus Terminal",
+      "slug": "putrajaya-cyberjaya-bus-terminal",
+      "stationType": "BUS",
+      "line": "RapidKL Bus Network",
+      "walkingTime": "8 mins walk",
+      "distanceMeters": 600,
+      "distanceText": "8 mins walk (600 m)",
+      "title": "Putrajaya & Cyberjaya Bus Terminal",
+      "shortDescription": "The bus network connects Cyberjaya residential areas with shopping centres, universities, offices and nearby transport hubs.",
+      "averageRoomRent": 950,
+      "nearbyLandmarks": [
+        "Cyberjaya City Centre",
+        "Multimedia University",
+        "D'Pulze Shopping Centre"
+      ],
+      "nearbyResidences": [
+        "Cybersquare",
+        "Tamarind Square",
+        "Shaftsbury Residences"
+      ],
+      "popularSearches": [
+        "Room near Cyberjaya bus terminal",
+        "Cyberjaya cheap room rental"
+      ]
+    },
+    {
+      "name": "Kuala Lumpur International Airport Station",
+      "slug": "klia-station",
+      "stationType": "ERL",
+      "line": "KLIA Transit Line",
+      "walkingTime": "25 mins drive",
+      "distanceMeters": 30000,
+      "distanceText": "25 mins drive (30 km)",
+      "title": "KLIA Station",
+      "shortDescription": "KLIA Station provides direct airport access and benefits Cyberjaya residents working in aviation, logistics and international companies.",
+      "averageRoomRent": 1000,
+      "nearbyLandmarks": [
+        "KLIA Terminal 1",
+        "KLIA Terminal 2",
+        "Mitsui Outlet Park"
+      ],
+      "nearbyResidences": [
+        "Cyberjaya Residences",
+        "Garden Residence",
+        "Lakefront Residence"
+      ],
+      "popularSearches": [
+        "Room near KLIA from Cyberjaya",
+        "Airport worker room Cyberjaya"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 500,
+      "maxPrice": 900
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 700,
+      "maxPrice": 1200
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1000,
+      "maxPrice": 1600
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 1200,
+      "maxPrice": 2500
+    },
+    {
+      "roomType": "Condominium Rental",
+      "minPrice": 1500,
+      "maxPrice": 3500
+    },
+    {
+      "roomType": "Whole Unit Rental",
+      "minPrice": 1800,
+      "maxPrice": 4500
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1200,
+    "priceGrowth": 3.8,
+    "demandLevel": "High",
+    "vacancyRate": 3.2,
+    "marketOverview": "Cyberjaya rental property market continues to grow due to strong demand from technology professionals, university students, expatriates, government employees and young working adults. The city offers affordable rooms, furnished apartments, studio units and condominium rentals compared with Kuala Lumpur city centre.",
+    "rentalDemandDrivers": [
+      "Multimedia University (MMU) students looking for affordable rooms near campus",
+      "IT and technology professionals working in Cyberjaya technology companies",
+      "Employees from MSC Malaysia and multinational companies",
+      "Government employees working in nearby Putrajaya",
+      "Expats seeking modern and affordable condominium rentals"
+    ],
+    "popularRentalTypes": [
+      "Furnished room rental Cyberjaya",
+      "Master room rental Cyberjaya",
+      "Studio apartment rental Cyberjaya",
+      "Condo rental Cyberjaya",
+      "Affordable room for rent Cyberjaya"
+    ],
+    "investmentPotential": "Cyberjaya remains one of Malaysia's attractive rental property locations due to its technology ecosystem, education institutions, planned infrastructure, modern residential developments and proximity to Putrajaya and Kuala Lumpur."
+  },
+  "nearbyAreas": [
+    {
+      "name": "Putrajaya",
+      "slug": "putrajaya",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Government Staff, Families, Professionals",
+      "description": "Putrajaya is Malaysia's administrative capital located next to Cyberjaya. It is a popular nearby rental location for government employees and professionals looking for affordable apartments, landed homes and modern residential properties near Cyberjaya."
+    },
+    {
+      "name": "Dengkil",
+      "slug": "dengkil",
+      "averageRent": 700,
+      "mrtAccess": false,
+      "distanceFromArea": 8,
+      "popularFor": "Budget Renters, Workers, Students",
+      "description": "Dengkil offers affordable room rentals and budget-friendly accommodation options near Cyberjaya, Putrajaya and major highways."
+    },
+    {
+      "name": "Bangi",
+      "slug": "bangi",
+      "averageRent": 900,
+      "mrtAccess": true,
+      "distanceFromArea": 18,
+      "popularFor": "Students, Families, Professionals",
+      "description": "Bangi is a growing residential area with affordable rental homes, universities, commercial facilities and convenient access towards Cyberjaya."
+    },
+    {
+      "name": "Puchong",
+      "slug": "puchong",
+      "averageRent": 900,
+      "mrtAccess": true,
+      "distanceFromArea": 20,
+      "popularFor": "Families, Professionals, Working Adults",
+      "description": "Puchong is a well-developed township offering affordable condos, rooms for rent and easy highway connectivity to Cyberjaya."
+    },
+    {
+      "name": "Seri Kembangan",
+      "slug": "seri-kembangan",
+      "averageRent": 850,
+      "mrtAccess": true,
+      "distanceFromArea": 22,
+      "popularFor": "Students, Professionals",
+      "description": "Seri Kembangan provides affordable rental properties with access to universities, shopping centres and major roads connecting to Cyberjaya."
+    },
+    {
+      "name": "Subang Jaya",
+      "slug": "subang-jaya",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 28,
+      "popularFor": "Students, Professionals, Families",
+      "description": "Subang Jaya is a popular rental destination with universities, commercial areas and convenient connectivity to Cyberjaya through major highways."
+    },
+    {
+      "name": "Sunway",
+      "slug": "sunway",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 30,
+      "popularFor": "Students, Young Professionals",
+      "description": "Sunway offers modern apartments, student accommodation and lifestyle facilities with access towards Cyberjaya via major expressways."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 35,
+      "popularFor": "Professionals, Expats, Families",
+      "description": "Petaling Jaya is a major commercial hub with premium rental properties, offices and lifestyle amenities connected to Cyberjaya."
+    },
+    {
+      "name": "Kuala Lumpur",
+      "slug": "kuala-lumpur",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 35,
+      "popularFor": "Professionals, Expats, International Tenants",
+      "description": "Kuala Lumpur remains Malaysia's main business hub. Many professionals working in Cyberjaya choose affordable suburban rentals while maintaining access to KL."
+    },
+    {
+      "name": "Kajang",
+      "slug": "kajang",
+      "averageRent": 850,
+      "mrtAccess": true,
+      "distanceFromArea": 25,
+      "popularFor": "Students, Families, Budget Renters",
+      "description": "Kajang provides affordable rental houses and rooms with convenient transportation options towards Cyberjaya and surrounding areas."
+    },
+    {
+      "name": "Semenyih",
+      "slug": "semenyih",
+      "averageRent": 750,
+      "mrtAccess": false,
+      "distanceFromArea": 35,
+      "popularFor": "Budget Renters, Families",
+      "description": "Semenyih offers lower-cost rental homes for tenants looking for affordable accommodation within reasonable driving distance of Cyberjaya."
+    },
+    {
+      "name": "Cyberjaya",
+      "slug": "cyberjaya",
+      "averageRent": 1200,
+      "mrtAccess": false,
+      "distanceFromArea": 0,
+      "popularFor": "IT Professionals, MMU Students, Expats, Young Professionals",
+      "description": "Cyberjaya is Malaysia's leading technology city offering thousands of rental options including rooms, studio apartments, serviced residences and condominium units. Popular residential areas include Tamarind Square, Shaftsbury Residences, Cyber Heights Villa, Garden Residence, Verdi Eco-dominium and Lakefront Residence. The area is highly preferred for affordable rental properties near Multimedia University, technology companies, offices, shopping malls and modern lifestyle facilities."
+    },
+    {
+      "name": "Taman Equine",
+      "slug": "taman-equine",
+      "averageRent": 850,
+      "mrtAccess": true,
+      "distanceFromArea": 23,
+      "popularFor": "Families, Professionals",
+      "description": "Taman Equine offers affordable condominium rentals and easy connectivity to Cyberjaya through major highways."
+    },
+    {
+      "name": "Nilai",
+      "slug": "nilai",
+      "averageRent": 750,
+      "mrtAccess": false,
+      "distanceFromArea": 25,
+      "popularFor": "Students, Budget Renters",
+      "description": "Nilai is a popular affordable rental location with universities, residential areas and convenient access towards Cyberjaya."
+    },
+    {
+      "name": "Sepang",
+      "slug": "sepang",
+      "averageRent": 800,
+      "mrtAccess": false,
+      "distanceFromArea": 20,
+      "popularFor": "Airport Staff, Professionals",
+      "description": "Sepang provides affordable rental houses and rooms near Cyberjaya, KLIA and major transportation routes."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Cyberjaya",
+      "url": "/master-room-rental-cyberjaya"
+    },
+    {
+      "title": "Single Room Cyberjaya",
+      "url": "/single-room-rental-cyberjaya"
+    },
+    {
+      "title": "Medium Room Cyberjaya",
+      "url": "/medium-room-rental-cyberjaya"
+    },
+    {
+      "title": "Studio Room Cyberjaya",
+      "url": "/studio-room-rental-cyberjaya"
+    },
+    {
+      "title": "Cheap Room Rental Cyberjaya",
+      "url": "/cheap-room-rental-cyberjaya"
+    },
+    {
+      "title": "Furnished Room Cyberjaya",
+      "url": "/furnished-room-rental-cyberjaya"
+    },
+    {
+      "title": "Condo Room Cyberjaya",
+      "url": "/condo-room-rental-cyberjaya"
+    },
+    {
+      "title": "Condo Rental Cyberjaya",
+      "url": "/condo-rental-cyberjaya"
+    },
+    {
+      "title": "Room Near MMU Cyberjaya",
+      "url": "/room-near-mmu-cyberjaya"
+    },
+    {
+      "title": "Room Near Cyberjaya MRT",
+      "url": "/room-near-cyberjaya-mrt"
+    },
+    {
+      "title": "Room Near Tamarind Square Cyberjaya",
+      "url": "/room-near-tamarind-square-cyberjaya"
+    },
+    {
+      "title": "Room Near DPULZE Cyberjaya",
+      "url": "/room-near-dpulze-cyberjaya"
+    },
+    {
+      "title": "Room Near Shaftsbury Cyberjaya",
+      "url": "/room-near-shaftsbury-cyberjaya"
+    },
+    {
+      "title": "Room For Rent Cyberjaya",
+      "url": "/room-for-rent-cyberjaya"
+    },
+    {
+      "title": "Apartment For Rent Cyberjaya",
+      "url": "/apartment-for-rent-cyberjaya"
+    },
+    {
+      "title": "House For Rent Cyberjaya",
+      "url": "/house-for-rent-cyberjaya"
+    },
+    {
+      "title": "Fully Furnished Condo Cyberjaya",
+      "url": "/fully-furnished-condo-cyberjaya"
+    },
+    {
+      "title": "Serviced Apartment Cyberjaya",
+      "url": "/serviced-apartment-rental-cyberjaya"
+    },
+    {
+      "title": "Rental Property Near Putrajaya",
+      "url": "/rental-property-near-putrajaya"
+    },
+    {
+      "title": "Student Room Rental Cyberjaya",
+      "url": "/student-room-rental-cyberjaya"
+    },
+    {
+      "title": "Room Rental Near Multimedia University",
+      "url": "/room-rental-near-multimedia-university-cyberjaya"
+    },
+    {
+      "title": "Room Rental Near Cyberjaya Technology Hub",
+      "url": "/room-rental-near-cyberjaya-technology-hub"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a room for rent in Cyberjaya cost?",
+      "answer": "Room rental prices in Cyberjaya generally range from RM500 to RM1600 per month depending on room type, condominium facilities, furnishing level, location and distance to universities, offices and shopping areas."
+    },
+    {
+      "question": "What is the average rental price in Cyberjaya?",
+      "answer": "The average rental price in Cyberjaya is around RM1200 per month, with affordable rooms available for students and premium condominiums available for professionals and expatriates."
+    },
+    {
+      "question": "Is Cyberjaya a good place to rent a room?",
+      "answer": "Yes, Cyberjaya is one of Malaysia's popular rental locations due to its technology hub, universities, modern condominiums, affordable rental prices and close proximity to Putrajaya."
+    },
+    {
+      "question": "Where can I find cheap rooms for rent in Cyberjaya?",
+      "answer": "Affordable rooms for rent in Cyberjaya can be found near areas such as MMU Cyberjaya, Tamarind Square, DPULZE, Shaftsbury and other residential developments."
+    },
+    {
+      "question": "Are furnished rooms available for rent in Cyberjaya?",
+      "answer": "Yes, many Cyberjaya rental properties offer fully furnished rooms with beds, wardrobes, study tables, air conditioning and access to condominium facilities."
+    },
+    {
+      "question": "What types of rooms are available for rent in Cyberjaya?",
+      "answer": "Cyberjaya offers various rental options including single rooms, medium rooms, master rooms, studio apartments, condominium rooms and entire apartment units."
+    },
+    {
+      "question": "Is Cyberjaya suitable for students?",
+      "answer": "Yes, Cyberjaya is highly suitable for students because of Multimedia University, affordable accommodation options and easy access to food, shopping and transportation facilities."
+    },
+    {
+      "question": "How much is a master room rental in Cyberjaya?",
+      "answer": "Master room rental prices in Cyberjaya usually range from RM1000 to RM1600 per month depending on the condominium, room size, furnishing and attached bathroom facilities."
+    },
+    {
+      "question": "How much is a single room rental in Cyberjaya?",
+      "answer": "Single rooms in Cyberjaya typically cost between RM500 and RM900 per month depending on location, facilities and whether utilities are included."
+    },
+    {
+      "question": "Are there condo rooms for rent in Cyberjaya?",
+      "answer": "Yes, many condominium rooms are available for rent in Cyberjaya with facilities such as swimming pools, gyms, security, parking and landscaped gardens."
+    },
+    {
+      "question": "Can foreigners rent properties in Cyberjaya?",
+      "answer": "Yes, Cyberjaya has many rental properties suitable for foreigners, including furnished condominiums and serviced apartments near business areas."
+    },
+    {
+      "question": "Is Cyberjaya popular among expats?",
+      "answer": "Yes, Cyberjaya attracts expatriates working in technology companies, multinational corporations and nearby Putrajaya government offices."
+    },
+    {
+      "question": "Which are the best areas to rent in Cyberjaya?",
+      "answer": "Popular rental areas in Cyberjaya include Tamarind Square, DPULZE area, Shaftsbury, Verdi Eco-dominium, Cyber Heights Villa, Garden Residence and Lakefront Residence."
+    },
+    {
+      "question": "Is Cyberjaya cheaper than Kuala Lumpur for rental properties?",
+      "answer": "Yes, Cyberjaya generally offers more affordable rental prices compared with Kuala Lumpur city centre while providing modern residential facilities."
+    },
+    {
+      "question": "How do I find a room near MMU Cyberjaya?",
+      "answer": "You can find rooms near Multimedia University Cyberjaya by searching rental listings around MMU campus, Tamarind Square and nearby condominium developments."
+    },
+    {
+      "question": "What is the closest accommodation near Multimedia University Cyberjaya?",
+      "answer": "Many students choose rental rooms and apartments around Cyberjaya residential areas close to Multimedia University for convenience and shorter travel time."
+    },
+    {
+      "question": "Are utilities included in Cyberjaya room rentals?",
+      "answer": "Some Cyberjaya room rentals include utilities such as electricity, water and internet, while others require tenants to pay separately depending on the landlord agreement."
+    },
+    {
+      "question": "Can I rent a room monthly in Cyberjaya?",
+      "answer": "Yes, monthly room rentals are widely available in Cyberjaya for students, professionals and temporary residents."
+    },
+    {
+      "question": "Are short-term rentals available in Cyberjaya?",
+      "answer": "Yes, short-term rental options including serviced apartments and furnished units are available for business travellers and temporary stays."
+    },
+    {
+      "question": "Is Cyberjaya safe for tenants?",
+      "answer": "Cyberjaya is considered a safe residential area with modern developments, security facilities, planned infrastructure and a professional community."
+    },
+    {
+      "question": "What facilities do Cyberjaya condominiums provide?",
+      "answer": "Most Cyberjaya condominiums offer facilities such as swimming pools, gyms, security access, parking areas, playgrounds and common spaces."
+    },
+    {
+      "question": "Can I find studio apartments for rent in Cyberjaya?",
+      "answer": "Yes, studio apartments are available in Cyberjaya and are popular among professionals, students and individuals seeking private living spaces."
+    },
+    {
+      "question": "How much does a studio apartment cost in Cyberjaya?",
+      "answer": "Studio apartments in Cyberjaya generally range from RM1200 to RM2500 per month depending on size, location and facilities."
+    },
+    {
+      "question": "Is Cyberjaya good for working professionals?",
+      "answer": "Yes, Cyberjaya is ideal for professionals working in technology companies, offices and business hubs due to its modern infrastructure and convenient lifestyle."
+    },
+    {
+      "question": "What companies are located near Cyberjaya rental areas?",
+      "answer": "Cyberjaya hosts many technology companies, MSC Malaysia organisations, startups and multinational companies, creating strong demand for nearby rental properties."
+    },
+    {
+      "question": "Are there houses for rent in Cyberjaya?",
+      "answer": "Yes, Cyberjaya offers landed houses, terrace houses and residential properties suitable for families looking for long-term rentals."
+    },
+    {
+      "question": "Can students share rental rooms in Cyberjaya?",
+      "answer": "Yes, shared room rentals are available in Cyberjaya and are popular among students looking for affordable accommodation."
+    },
+    {
+      "question": "How can I find a furnished condo in Cyberjaya?",
+      "answer": "You can search for furnished condo rentals in Cyberjaya through rental platforms offering verified listings with photos, facilities and pricing details."
+    },
+    {
+      "question": "What is the best condo to rent in Cyberjaya?",
+      "answer": "Popular condominium choices in Cyberjaya include Tamarind Square residences, Shaftsbury Residences, Verdi Eco-dominium, Garden Residence and Lakefront Residence."
+    },
+    {
+      "question": "How far is Cyberjaya from Putrajaya?",
+      "answer": "Cyberjaya is located next to Putrajaya and most areas are only around 5 to 10 minutes away by car, making it popular among government employees and professionals."
+    },
+    {
+      "question": "How far is Cyberjaya from Kuala Lumpur?",
+      "answer": "Cyberjaya is approximately 30 to 40 kilometres from Kuala Lumpur city centre depending on the route and traffic conditions."
+    },
+    {
+      "question": "Is Cyberjaya connected by public transport?",
+      "answer": "Yes, Cyberjaya has public transportation options including buses and MRT connectivity through nearby stations, providing access to surrounding areas."
+    },
+    {
+      "question": "Are there rooms near Cyberjaya MRT available?",
+      "answer": "Yes, tenants can find rental rooms near Cyberjaya MRT and other transport connections for easier daily commuting."
+    },
+    {
+      "question": "What are the cheapest rental options in Cyberjaya?",
+      "answer": "The cheapest rental options in Cyberjaya are usually single rooms, shared rooms and budget condominium rooms suitable for students and young professionals."
+    },
+    {
+      "question": "Can I rent a room in Cyberjaya without a deposit?",
+      "answer": "Some landlords may offer flexible rental arrangements including lower deposit options, depending on availability and agreement terms."
+    },
+    {
+      "question": "Are there female-only rooms for rent in Cyberjaya?",
+      "answer": "Yes, some Cyberjaya rental listings provide female-only rooms with shared facilities and secure residential environments."
+    },
+    {
+      "question": "Are male-only rooms available in Cyberjaya?",
+      "answer": "Yes, male-only room rentals are available in Cyberjaya, especially around student and working professional areas."
+    },
+    {
+      "question": "Are pets allowed in Cyberjaya rental properties?",
+      "answer": "Pet policies depend on each landlord and condominium management. Tenants should confirm pet rules before renting."
+    },
+    {
+      "question": "What documents are needed to rent a room in Cyberjaya?",
+      "answer": "Most landlords require identification documents, employment or student information and rental agreement confirmation before moving in."
+    },
+    {
+      "question": "How long is the typical rental contract in Cyberjaya?",
+      "answer": "Most Cyberjaya rental agreements are for 12 months, although some landlords offer shorter rental periods depending on availability."
+    },
+    {
+      "question": "Are there fully furnished apartments for rent in Cyberjaya?",
+      "answer": "Yes, many Cyberjaya apartments come fully furnished with essential furniture and appliances for immediate move-in."
+    },
+    {
+      "question": "Which Cyberjaya condos are popular for rental?",
+      "answer": "Popular rental condominiums in Cyberjaya include Tamarind Square, Shaftsbury Residences, Verdi Eco-dominium, Lakefront Residence and Garden Residence."
+    },
+    {
+      "question": "Is Tamarind Square Cyberjaya a good place to rent?",
+      "answer": "Yes, Tamarind Square is popular because of its lifestyle facilities, restaurants, shops and convenient access to residential units."
+    },
+    {
+      "question": "Are rooms near Tamarind Square Cyberjaya available?",
+      "answer": "Yes, many rooms and condominium rentals are available near Tamarind Square for students and working professionals."
+    },
+    {
+      "question": "Is DPULZE Cyberjaya area good for rental?",
+      "answer": "Yes, the DPULZE area is highly convenient due to shopping, restaurants, entertainment facilities and nearby residential developments."
+    },
+    {
+      "question": "Can I find accommodation near DPULZE Cyberjaya?",
+      "answer": "Yes, many rental rooms, studio apartments and condominiums are located near DPULZE Cyberjaya."
+    },
+    {
+      "question": "Is Cyberjaya suitable for long-term rental?",
+      "answer": "Yes, Cyberjaya is suitable for long-term rentals due to its stable job market, universities, infrastructure and residential communities."
+    },
+    {
+      "question": "What is the average deposit required for Cyberjaya rental?",
+      "answer": "Rental deposits in Cyberjaya commonly depend on landlord requirements and may vary based on monthly rental price and agreement terms."
+    },
+    {
+      "question": "Are there luxury condos for rent in Cyberjaya?",
+      "answer": "Yes, Cyberjaya has premium condominiums offering modern facilities, spacious layouts, security and comfortable living environments."
+    },
+    {
+      "question": "Where do IT professionals rent in Cyberjaya?",
+      "answer": "IT professionals often choose condominiums near Cyberjaya technology hubs, office areas, shopping centres and major roads."
+    },
+    {
+      "question": "Is Cyberjaya good for remote workers?",
+      "answer": "Yes, Cyberjaya offers modern apartments, reliable internet availability, cafes and peaceful surroundings suitable for remote workers."
+    },
+    {
+      "question": "Are there affordable apartments near Cyberjaya offices?",
+      "answer": "Yes, many affordable apartments and rooms are available close to Cyberjaya business areas and technology companies."
+    },
+    {
+      "question": "How do I search for rental properties in Cyberjaya?",
+      "answer": "You can search Cyberjaya rental properties by filtering based on room type, budget, location, furnishing level and preferred facilities."
+    },
+    {
+      "question": "What makes Cyberjaya different from other rental areas?",
+      "answer": "Cyberjaya combines affordable rental prices, modern developments, technology companies, universities and a planned city environment."
+    },
+    {
+      "question": "Are there condominium rooms near Cyberjaya offices?",
+      "answer": "Yes, many condominium rooms are located close to office buildings and technology companies for convenient commuting."
+    },
+    {
+      "question": "Can foreigners rent rooms in Cyberjaya?",
+      "answer": "Yes, foreigners can rent rooms and apartments in Cyberjaya, especially in furnished condominiums suitable for international tenants."
+    },
+    {
+      "question": "What is the best area for students to rent in Cyberjaya?",
+      "answer": "Areas close to Multimedia University, Tamarind Square and major student facilities are popular choices for students."
+    },
+    {
+      "question": "Are there affordable rooms near MMU Cyberjaya?",
+      "answer": "Yes, many affordable rooms are available near Multimedia University Cyberjaya for students seeking convenient accommodation."
+    },
+    {
+      "question": "Does Cyberjaya have nightlife and entertainment?",
+      "answer": "Cyberjaya offers restaurants, cafes, shopping centres, entertainment venues and lifestyle areas suitable for residents."
+    },
+    [
+      {
+        "question": "What are the best condominiums for families in Cyberjaya?",
+        "answer": "Families often choose Cyberjaya condominiums with larger layouts, security facilities, swimming pools, playgrounds and nearby schools such as Garden Residence, Lakefront Residence and other family-friendly developments."
+      },
+      {
+        "question": "Are there 2 bedroom apartments for rent in Cyberjaya?",
+        "answer": "Yes, Cyberjaya has many 2 bedroom apartments and condominium units suitable for couples, small families and professionals."
+      },
+      {
+        "question": "Are there 3 bedroom condos for rent in Cyberjaya?",
+        "answer": "Yes, spacious 3 bedroom condominium units are available in Cyberjaya for families and tenants who need larger living spaces."
+      },
+      {
+        "question": "What is included in a furnished Cyberjaya rental room?",
+        "answer": "A furnished Cyberjaya rental room usually includes a bed, wardrobe, study table, air conditioning and access to shared condominium facilities."
+      },
+      {
+        "question": "Can I find a private room in Cyberjaya?",
+        "answer": "Yes, private single rooms and master rooms are available in Cyberjaya condominiums and residential properties."
+      },
+      {
+        "question": "What is the cheapest room type in Cyberjaya?",
+        "answer": "Single rooms and shared rooms are usually the most affordable rental options in Cyberjaya."
+      },
+      {
+        "question": "Are there rooms for rent near Cyberjaya technology companies?",
+        "answer": "Yes, many rental rooms are available near Cyberjaya technology companies and business parks for working professionals."
+      },
+      {
+        "question": "Why do people choose to rent in Cyberjaya?",
+        "answer": "People choose Cyberjaya because of affordable rentals, modern condominiums, job opportunities, universities and convenient access to Putrajaya and Kuala Lumpur."
+      },
+      {
+        "question": "Is Cyberjaya a good investment area for rental properties?",
+        "answer": "Yes, Cyberjaya has strong rental demand due to its technology ecosystem, student population, professional workforce and growing infrastructure."
+      },
+      {
+        "question": "What are the popular rental properties near Cyberjaya Lake Gardens?",
+        "answer": "Several residential developments near Cyberjaya Lake Gardens offer comfortable rooms, apartments and condominium rentals."
+      },
+      {
+        "question": "Can I rent a condo in Cyberjaya monthly?",
+        "answer": "Yes, monthly condominium rentals are available in Cyberjaya depending on landlord terms and property availability."
+      },
+      {
+        "question": "Are there co-living spaces in Cyberjaya?",
+        "answer": "Yes, Cyberjaya has co-living style accommodations suitable for students, professionals and tenants seeking flexible rental options."
+      },
+      {
+        "question": "Is Cyberjaya suitable for fresh graduates?",
+        "answer": "Yes, Cyberjaya is suitable for fresh graduates because of nearby employment opportunities and affordable rental choices."
+      },
+      {
+        "question": "Where can I find budget accommodation near Cyberjaya?",
+        "answer": "Budget accommodation can be found around residential areas near MMU, Cyberjaya town centre and nearby affordable housing developments."
+      },
+      {
+        "question": "Are there rental rooms near Cyberjaya restaurants and cafes?",
+        "answer": "Yes, many rental properties are located near lifestyle areas with restaurants, cafes and shopping facilities."
+      },
+      {
+        "question": "How early should I search for a Cyberjaya rental room?",
+        "answer": "It is recommended to start searching a few weeks before moving in to find suitable rooms with preferred locations and budgets."
+      },
+      {
+        "question": "Can I negotiate rental prices in Cyberjaya?",
+        "answer": "Some landlords may allow rental negotiations depending on property demand, rental duration and tenant profile."
+      },
+      {
+        "question": "Are there parking facilities in Cyberjaya condos?",
+        "answer": "Most Cyberjaya condominiums provide dedicated parking facilities for residents and tenants."
+      },
+      {
+        "question": "Are Cyberjaya rentals suitable for couples?",
+        "answer": "Yes, couples can find studio apartments, one-bedroom units and condominium rentals suitable for comfortable living."
+      },
+      {
+        "question": "Is internet included in Cyberjaya room rentals?",
+        "answer": "Some rental rooms include internet access while others require tenants to arrange or share internet costs with housemates."
+      },
+      {
+        "question": "What amenities are available near Cyberjaya rental properties?",
+        "answer": "Cyberjaya rental areas offer supermarkets, shopping malls, restaurants, cafes, parks, education facilities and healthcare services."
+      },
+      {
+        "question": "How convenient is Cyberjaya for commuting?",
+        "answer": "Cyberjaya offers good road connectivity through highways and access to nearby transport options connecting Putrajaya, Kuala Lumpur and surrounding areas."
+      },
+      {
+        "question": "Are there rental properties near Cyberjaya MRT station?",
+        "answer": "Yes, tenants can find rental options near Cyberjaya MRT connectivity areas for easier transportation."
+      },
+      {
+        "question": "What is the best rental option for MMU students in Cyberjaya?",
+        "answer": "MMU students usually prefer affordable rooms, shared rooms and condominium units located close to the university campus."
+      },
+      {
+        "question": "Can I rent a room in Cyberjaya for six months?",
+        "answer": "Some landlords offer shorter rental agreements such as six-month stays depending on property availability and agreement terms."
+      },
+      {
+        "question": "Are Cyberjaya rental homes suitable for families with children?",
+        "answer": "Yes, many Cyberjaya residential developments provide family-friendly environments with security, parks and recreational facilities."
+      },
+      {
+        "question": "What documents do international tenants need for Cyberjaya rentals?",
+        "answer": "International tenants usually need identification documents, passport details and proof of employment or study status."
+      },
+      {
+        "question": "Are there premium furnished apartments in Cyberjaya?",
+        "answer": "Yes, Cyberjaya offers premium furnished apartments with modern interiors, facilities and convenient locations."
+      },
+      {
+        "question": "Which Cyberjaya rental areas are closest to Putrajaya?",
+        "answer": "Most Cyberjaya residential areas are close to Putrajaya, making them popular among government employees and professionals."
+      },
+      {
+        "question": "How can I choose the right rental property in Cyberjaya?",
+        "answer": "Choose based on budget, workplace or university location, room type, facilities, transportation access and preferred lifestyle."
+      },
+      {
+        "question": "Are Cyberjaya rooms available for immediate move-in?",
+        "answer": "Yes, many rental listings offer rooms and apartments that are ready for immediate move-in depending on availability."
+      },
+      {
+        "question": "What is the demand for rental rooms in Cyberjaya?",
+        "answer": "Rental demand in Cyberjaya remains strong due to students, technology professionals, expatriates and nearby employment opportunities."
+      },
+      {
+        "question": "Are there affordable condo rentals near Cyberjaya shopping malls?",
+        "answer": "Yes, many affordable condominium rentals are available near shopping and lifestyle areas such as DPULZE and Tamarind Square."
+      },
+      {
+        "question": "Can I find rental properties close to Cyberjaya offices?",
+        "answer": "Yes, many apartments and rooms are located near office buildings and business zones for convenient daily commuting."
+      },
+      {
+        "question": "Is Cyberjaya better than Putrajaya for rental?",
+        "answer": "Cyberjaya and Putrajaya both offer quality rentals. Cyberjaya is often preferred by students and technology professionals, while Putrajaya is popular among government employees and families."
+      },
+      {
+        "question": "What makes Cyberjaya condos attractive to tenants?",
+        "answer": "Cyberjaya condos attract tenants because of modern facilities, security, affordable prices and proximity to workplaces and universities."
+      },
+      {
+        "question": "Are there rental rooms suitable for remote workers in Cyberjaya?",
+        "answer": "Yes, Cyberjaya has quiet residential areas, modern apartments and good facilities suitable for remote workers."
+      },
+      {
+        "question": "How do I find verified rental rooms in Cyberjaya?",
+        "answer": "You can find verified Cyberjaya rental rooms through trusted property listing platforms with detailed information, photos and landlord details."
+      },
+      {
+        "question": "Why should I rent a property in Cyberjaya?",
+        "answer": "Cyberjaya offers affordable rental prices, modern housing options, excellent lifestyle facilities and strong connectivity, making it one of Malaysia's attractive rental destinations."
+      }
+  ],
+  "focusKeywords": [
+    "Cyberjaya room for rent",
+    "Cyberjaya condo for rent",
+    "Cyberjaya apartment for rent",
+    "room near Cyberjaya MRT",
+    "furnished room Cyberjaya",
+    "cheap room Cyberjaya Malaysia",
+    "Cyberjaya rental property",
+    "Cyberjaya house for rent",
+    "Cyberjaya studio apartment for rent",
+    "Cyberjaya serviced apartment for rent",
+    "MMU Cyberjaya room rental",
+    "student accommodation Cyberjaya",
+    "IT professional housing Cyberjaya",
+    "expat housing Cyberjaya Malaysia",
+    "monthly rental Cyberjaya",
+    "fully furnished condo Cyberjaya",
+    "luxury condo Cyberjaya for rent",
+    "affordable room rental Cyberjaya",
+    "master room rental Cyberjaya",
+    "single room rental Cyberjaya",
+    "room for rent near Multimedia University Cyberjaya",
+    "room for rent near Tamarind Square Cyberjaya",
+    "room for rent near DPULZE Cyberjaya",
+    "condo rental near Cyberjaya technology hub"
+  ],
+  "longTailKeywords": [
+    "furnished room for rent in Cyberjaya near Multimedia University and technology companies",
+    "cheap room rental Cyberjaya for students and working professionals Malaysia",
+    "fully furnished studio apartment Cyberjaya for rent near MMU campus",
+    "affordable condo rental Cyberjaya near Tamarind Square and DPULZE shopping mall",
+    "monthly rental apartment Cyberjaya walking distance to offices and lifestyle facilities",
+    "master room for rent Cyberjaya with private bathroom and furnished facilities",
+    "high floor condominium Cyberjaya with city view for rent Malaysia",
+    "short term rental Cyberjaya furnished apartment for business professionals",
+    "no deposit room for rent Cyberjaya for students and young professionals",
+    "premium condo rental Cyberjaya near technology companies and Putrajaya",
+    "executive apartment Cyberjaya near Multimedia University for expats",
+    "best room rental Cyberjaya near public transport and shopping malls",
+    "cheap furnished room near Cyberjaya Lake Gardens for rent",
+    "condo room rental Cyberjaya for IT professionals working in MSC companies",
+    "safe and comfortable room for rent Cyberjaya near universities and offices"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Cyberjaya",
+      "budget room Cyberjaya",
+      "student room Cyberjaya",
+      "affordable accommodation Cyberjaya Malaysia",
+      "student rental room Cyberjaya",
+      "shared room rental Cyberjaya",
+      "cheap furnished room Cyberjaya",
+      "budget apartment Cyberjaya",
+      "student accommodation near MMU Cyberjaya",
+      "room near Multimedia University Cyberjaya",
+      "student friendly room rental Cyberjaya",
+      "room near Cyberjaya campus",
+      "affordable student housing Cyberjaya",
+      "cheap room near Cyberjaya university",
+      "student apartment rental Cyberjaya"
+    ],
+    "expat": [
+      "expat housing Cyberjaya",
+      "furnished condo Cyberjaya",
+      "serviced apartment Cyberjaya",
+      "international tenant friendly condo Cyberjaya",
+      "luxury apartment rental Cyberjaya",
+      "premium condo Cyberjaya for rent",
+      "fully furnished apartment Cyberjaya Malaysia",
+      "expat friendly residence Cyberjaya",
+      "high end condo rental Cyberjaya",
+      "foreign tenant apartment Cyberjaya",
+      "international professional accommodation Cyberjaya",
+      "executive condo Cyberjaya rental"
+    ],
+    "professional": [
+      "Cyberjaya condo near offices",
+      "room near Cyberjaya for professionals",
+      "room near Cyberjaya technology hub",
+      "room near MSC Malaysia companies Cyberjaya",
+      "room near Cyberjaya business district",
+      "premium apartment Cyberjaya",
+      "executive residence Cyberjaya",
+      "working professional room rental Cyberjaya",
+      "corporate housing Cyberjaya Malaysia",
+      "office worker accommodation Cyberjaya",
+      "IT professional room rental Cyberjaya",
+      "condo near Cyberjaya technology companies"
+    ],
+    "shortStay": [
+      "short term rental Cyberjaya",
+      "monthly rental Cyberjaya",
+      "serviced residence Cyberjaya",
+      "flexible room rental Cyberjaya",
+      "short stay apartment Cyberjaya Malaysia",
+      "temporary accommodation Cyberjaya",
+      "monthly furnished room Cyberjaya",
+      "weekly apartment rental Cyberjaya",
+      "business stay Cyberjaya",
+      "holiday rental Cyberjaya apartment",
+      "short term condo rental Cyberjaya",
+      "corporate short stay Cyberjaya"
+    ],
+    "premiumIntent": [
+      "luxury condo Cyberjaya for rent",
+      "high end apartment Cyberjaya",
+      "executive residence Cyberjaya",
+      "premium serviced apartment Cyberjaya",
+      "luxury condominium rental Cyberjaya Malaysia",
+      "modern condo rental Cyberjaya",
+      "premium furnished room Cyberjaya",
+      "exclusive apartment Cyberjaya",
+      "premium serviced residence Cyberjaya",
+      "luxury lake view condo Cyberjaya",
+      "high floor condominium Cyberjaya for rent",
+      "exclusive furnished condo near Tamarind Square Cyberjaya"
+    ],
+    "family": [
+      "family apartment Cyberjaya",
+      "3 bedroom condo Cyberjaya rental",
+      "family friendly condo Cyberjaya",
+      "safe residential area Cyberjaya",
+      "large apartment rental Cyberjaya Malaysia",
+      "family condo near Cyberjaya Lake Gardens",
+      "child friendly apartment Cyberjaya",
+      "long term family rental Cyberjaya",
+      "spacious condominium Cyberjaya",
+      "family house for rent Cyberjaya",
+      "landed house rental Cyberjaya",
+      "quiet residential area Cyberjaya for families"
+    ],
+    "budgetTenant": [
+      "cheap room Cyberjaya Malaysia",
+      "low budget rental Cyberjaya",
+      "affordable apartment Cyberjaya",
+      "room under RM1000 Cyberjaya",
+      "budget friendly room Cyberjaya",
+      "cheap furnished room Cyberjaya",
+      "affordable condo room Cyberjaya",
+      "low cost accommodation Cyberjaya",
+      "budget room near MMU Cyberjaya",
+      "cheap rental near Putrajaya",
+      "affordable room near Cyberjaya offices",
+      "low price room rental Cyberjaya"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Cyberjaya condo for rent",
+    "secondaryKeywords": [
+      "Cyberjaya room for rent",
+      "Cyberjaya apartment for rent",
+      "Cyberjaya serviced apartment for rent",
+      "luxury condo Cyberjaya Malaysia",
+      "room near Multimedia University Cyberjaya",
+      "MMU Cyberjaya accommodation",
+      "Cyberjaya rental property",
+      "Cyberjaya studio apartment for rent",
+      "furnished room Cyberjaya",
+      "expat housing Cyberjaya Malaysia",
+      "high rise condo Cyberjaya",
+      "cheap room rental Cyberjaya",
+      "room near Tamarind Square Cyberjaya",
+      "room near DPULZE Cyberjaya",
+      "condo near Cyberjaya technology companies"
+    ],
+    "seoScore": 97,
+    "canonicalUrl": "https://roomrentalkl.com/cyberjaya/condo-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "technology-city-rentals",
+    "contentCluster": [
+      "affordable condos Cyberjaya",
+      "serviced apartments Cyberjaya",
+      "student housing Cyberjaya",
+      "expat housing Cyberjaya Malaysia",
+      "technology professional rentals Cyberjaya",
+      "MMU student accommodation",
+      "furnished condominium Cyberjaya",
+      "modern high rise apartments Cyberjaya",
+      "Putrajaya nearby rentals",
+      "Cyberjaya office area rentals"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Putrajaya",
+        "Dengkil",
+        "Puchong",
+        "Bangi",
+        "Kajang",
+        "Subang Jaya",
+        "Seri Kembangan"
+      ],
+      "nearbyHotspots": [
+        "Multimedia University Cyberjaya",
+        "Tamarind Square",
+        "DPULZE Shopping Centre",
+        "Cyberjaya Lake Gardens",
+        "Cyberjaya Technology Hub",
+        "Shaftsbury Square",
+        "Persiaran Multimedia",
+        "Cyberjaya MRT Station"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Cyberjaya Rooms for Rent",
+        "url": "/room-rental-cyberjaya",
+        "keyword": "cyberjaya room for rent"
+      },
+      {
+        "title": "Cyberjaya Condos for Rent",
+        "url": "/condo-for-rent-cyberjaya",
+        "keyword": "cyberjaya condo for rent"
+      },
+      {
+        "title": "Cheap Rooms Cyberjaya",
+        "url": "/cheap-room-cyberjaya",
+        "keyword": "cheap room cyberjaya"
+      },
+      {
+        "title": "Rooms Near MMU Cyberjaya",
+        "url": "/room-near-mmu-cyberjaya",
+        "keyword": "room near multimedia university cyberjaya"
+      },
+      {
+        "title": "Cyberjaya Apartment Rentals",
+        "url": "/cyberjaya-apartment-rental",
+        "keyword": "cyberjaya apartment for rent"
+      },
+      {
+        "title": "Cyberjaya Student Accommodation",
+        "url": "/student-accommodation-cyberjaya",
+        "keyword": "student accommodation cyberjaya"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Cyberjaya Area Guide",
+        "url": "/area-guide-cyberjaya",
+        "type": "guide"
+      },
+      {
+        "title": "Cyberjaya Price Guide 2026",
+        "url": "/price-guide-cyberjaya",
+        "type": "pricing"
+      },
+      {
+        "title": "Cyberjaya Transport & Connectivity Guide",
+        "url": "/cyberjaya-transport-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in Cyberjaya",
+        "url": "/luxury-condo-cyberjaya",
+        "type": "listing-category"
+      },
+      {
+        "title": "Student Housing in Cyberjaya",
+        "url": "/student-housing-cyberjaya",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Cyberjaya",
+        "url": "/furnished-room-cyberjaya",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Cyberjaya",
+        "url": "/short-term-rental-cyberjaya",
+        "type": "rental-type"
+      },
+      {
+        "title": "Rooms Near Multimedia University Cyberjaya",
+        "url": "/room-near-mmu-cyberjaya",
+        "type": "location-page"
+      },
+      {
+        "title": "Rooms Near Tamarind Square Cyberjaya",
+        "url": "/room-near-tamarind-square-cyberjaya",
+        "type": "hotspot-page"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1425 @@
+{
+  "area": {
+    "name": "Seputeh",
+    "slug": "seputeh",
+    "heroImage": "assets/images/areas/seputeh.jpg",
+    "metaTitle": "Rooms for Rent in Seputeh | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Seputeh near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Seputeh – Complete Guide to Room Rental in Kuala Lumpur",
+    "description": "Seputeh is one of the most established residential neighbourhoods in Kuala Lumpur, offering a peaceful yet strategic location for room rental. The area attracts working professionals, families, students and long-term tenants who want convenient access to Kuala Lumpur city centre, Mid Valley, Bangsar and major business districts. Whether you are searching for a master room for rent in Seputeh, a single room near Seputeh KTM Station, a fully furnished room close to Mid Valley Megamall, a condo room in Seputeh or an affordable shared room, Seputeh provides a wide range of accommodation choices. Residents enjoy excellent connectivity, established residential communities, shopping malls, food options, healthcare facilities and easy access to major highways, making Seputeh a desirable place to rent a room in Kuala Lumpur.",
+    "buttonText": "Explore Seputeh Rental Guide",
+    "buttonLink": "/room-rental-seputeh",
+    "highlights": [
+      "Wide selection of master rooms, medium rooms, single rooms, studio rooms and shared rooms for rent in Seputeh",
+      "Close to Mid Valley Megamall, The Gardens Mall, Bangsar and Kuala Lumpur city centre",
+      "Convenient access via Seputeh KTM Station, Abdullah Hukum LRT and nearby public transport connections",
+      "Popular among working professionals, families, students and long-term tenants",
+      "Strategic location near major employment areas including Bangsar South, KL Sentral and Petaling Jaya",
+      "Many fully furnished, semi-furnished and affordable room rental options available",
+      "Established condominiums with security, swimming pools, gyms and lifestyle facilities",
+      "Peaceful residential neighbourhood with excellent access to city amenities"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Transportation & Connectivity",
+        "description": "Seputeh provides convenient connectivity through Seputeh KTM Station, Abdullah Hukum LRT Station and nearby public transport routes. Residents can easily travel to KL Sentral, Mid Valley, Bangsar, Petaling Jaya, Kuala Lumpur city centre and other major areas."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Popular Condominiums & Rental Choices",
+        "description": "Seputeh offers various rental options including master rooms, single rooms, condo rooms, studio units and serviced apartments. Popular residences include Thean Hou View, The Leafz Residence, Southbank Residence, Scott Garden, Pearl Point and nearby Seputeh condominium developments."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Lifestyle",
+        "description": "Residents enjoy easy access to Mid Valley Megamall, The Gardens Mall, Bangsar Village, KL Eco City and other lifestyle destinations offering shopping, entertainment, cinemas, cafes and daily necessities."
+      },
+      {
+        "icon": "fas fa-utensils",
+        "title": "Food & Dining",
+        "description": "Seputeh has a variety of local restaurants, cafes, kopitiams and international dining options. Nearby areas such as Bangsar, Brickfields and Mid Valley provide even more food choices."
+      },
+      {
+        "icon": "fas fa-user-tie",
+        "title": "Ideal for Professionals & Families",
+        "description": "Seputeh is popular among professionals working in KL Sentral, Bangsar South, Mid Valley, Petaling Jaya and Kuala Lumpur city centre. Families also prefer the area due to its established neighbourhood and convenient facilities."
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "title": "Safety & Quality Living",
+        "description": "Many Seputeh residential developments provide 24-hour security, CCTV monitoring, access card systems and professional management, creating a comfortable living environment for tenants."
+      }
+    ],
+    "popularResidences": [
+      "The Leafz Residence",
+      "Southbank Residence",
+      "Scott Garden",
+      "Thean Hou View",
+      "Pearl Point Condominium",
+      "KL Eco City Residences",
+      "Bangsar South Residences",
+      "Nexus Residence",
+      "Mid Valley City Residences",
+      "The Gardens Residences"
+    ],
+    "nearbyLandmarks": [
+      "Mid Valley Megamall",
+      "The Gardens Mall",
+      "KL Eco City",
+      "Bangsar South",
+      "Thean Hou Temple",
+      "KL Sentral",
+      "Bangsar Village",
+      "Brickfields",
+      "Universiti Malaya Medical Centre",
+      "Kuala Lumpur city centre"
+    ],
+    "nearbyUniversities": [
+      "University of Malaya",
+      "Asia Pacific University",
+      "INTI International College Kuala Lumpur",
+      "SEGi College Kuala Lumpur",
+      "Open University Malaysia",
+      "Taylor's University Lakeside Campus"
+    ],
+    "majorEmployers": [
+      "Maybank",
+      "CIMB",
+      "Public Bank",
+      "Hong Leong Bank",
+      "Bangsar South Companies",
+      "KL Eco City Companies",
+      "Petronas",
+      "Telekom Malaysia",
+      "Accenture",
+      "PwC",
+      "Deloitte",
+      "KPMG"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Seputeh KTM Station",
+      "slug": "seputeh-ktm",
+      "stationType": "KTM",
+      "line": "Port Klang Line",
+      "walkingTime": "3 mins walk",
+      "distanceMeters": 250,
+      "distanceText": "3 mins walk (250 m)",
+      "title": "Seputeh KTM Station",
+      "shortDescription": "Seputeh KTM Station is the main railway connection serving the Seputeh residential area. It provides convenient access to KL Sentral, Mid Valley, Bangsar and other key locations in Kuala Lumpur.",
+      "averageRoomRent": 1000,
+      "nearbyLandmarks": [
+        "Mid Valley Megamall",
+        "The Gardens Mall",
+        "Thean Hou Temple",
+        "KL Eco City"
+      ],
+      "nearbyResidences": [
+        "The Leafz Residence",
+        "Southbank Residence",
+        "Scott Garden",
+        "Pearl Point Condominium"
+      ],
+      "popularSearches": [
+        "Room near Seputeh KTM",
+        "Seputeh KTM room rent",
+        "Studio near Seputeh Station"
+      ]
+    },
+    {
+      "name": "Abdullah Hukum LRT Station",
+      "slug": "abdullah-hukum-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 1500,
+      "distanceText": "10 mins drive (1.5 km)",
+      "title": "Abdullah Hukum LRT Station",
+      "shortDescription": "Abdullah Hukum LRT Station connects Seputeh residents to Bangsar South, KL Eco City, KL Sentral and Kuala Lumpur city centre. It is highly convenient for professionals.",
+      "averageRoomRent": 1200,
+      "nearbyLandmarks": [
+        "Bangsar South",
+        "KL Eco City",
+        "The Gardens Mall",
+        "Mid Valley Megamall"
+      ],
+      "nearbyResidences": [
+        "Southbank Residence",
+        "KL Eco City Residences",
+        "Nexus Residence"
+      ],
+      "popularSearches": [
+        "Room near Abdullah Hukum LRT",
+        "Bangsar South room rental",
+        "KL Eco City room rent"
+      ]
+    },
+    {
+      "name": "Kerinchi LRT Station",
+      "slug": "kerinchi-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 2500,
+      "distanceText": "12 mins drive (2.5 km)",
+      "title": "Kerinchi LRT Station",
+      "shortDescription": "Kerinchi LRT Station provides easy access to Bangsar South, universities and office areas. It is popular among professionals working nearby.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "Bangsar South",
+        "University Malaya",
+        "Pantai Hospital Kuala Lumpur"
+      ],
+      "nearbyResidences": [
+        "Southbank Residence",
+        "The Horizon Residences",
+        "Nadi Bangsar"
+      ],
+      "popularSearches": [
+        "Room near Kerinchi LRT",
+        "Bangsar South room rental",
+        "Kerinchi apartment rent"
+      ]
+    },
+    {
+      "name": "KL Sentral Station",
+      "slug": "kl-sentral-station",
+      "stationType": "MRT/LRT/KTM",
+      "line": "Multiple Transit Lines",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 3500,
+      "distanceText": "10 mins drive (3.5 km)",
+      "title": "KL Sentral Station",
+      "shortDescription": "KL Sentral is Malaysia's largest transportation hub connecting KTM, MRT, LRT, Monorail and airport rail services. Seputeh tenants benefit from fast access to business districts.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "KL Sentral",
+        "NU Sentral",
+        "Brickfields",
+        "Little India"
+      ],
+      "nearbyResidences": [
+        "The Sentral Residences",
+        "St Regis Residences",
+        "Suasana Sentral"
+      ],
+      "popularSearches": [
+        "Room near KL Sentral",
+        "KL Sentral room rent",
+        "Studio near KL Sentral"
+      ]
+    },
+    {
+      "name": "Bangsar LRT Station",
+      "slug": "bangsar-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 3000,
+      "distanceText": "12 mins drive (3 km)",
+      "title": "Bangsar LRT Station",
+      "shortDescription": "Bangsar LRT Station connects Seputeh to Bangsar, KL Sentral and Petaling Jaya. The area is popular among young professionals and expatriates.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "Bangsar Village",
+        "Bangsar South",
+        "Telawi Street"
+      ],
+      "nearbyResidences": [
+        "Bangsar Puteri",
+        "Nadi Bangsar",
+        "Bangsar Heights"
+      ],
+      "popularSearches": [
+        "Room near Bangsar LRT",
+        "Bangsar room rental",
+        "Apartment near Bangsar"
+      ]
+    },
+    {
+      "name": "Muzium Negara MRT Station",
+      "slug": "muzium-negara-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 4000,
+      "distanceText": "12 mins drive (4 km)",
+      "title": "Muzium Negara MRT Station",
+      "shortDescription": "Muzium Negara MRT Station provides direct MRT connectivity to major Kuala Lumpur areas including Bukit Bintang, TRX and Kajang.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "National Museum",
+        "KL Sentral",
+        "Brickfields"
+      ],
+      "nearbyResidences": [
+        "St Regis Residences",
+        "Suasana Sentral",
+        "Sentral Suites"
+      ],
+      "popularSearches": [
+        "Room near Muzium Negara MRT",
+        "KL MRT room rental",
+        "MRT connected room Kuala Lumpur"
+      ]
+    },
+    {
+      "name": "Pasar Seni MRT Station",
+      "slug": "pasar-seni-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 5000,
+      "distanceText": "15 mins drive (5 km)",
+      "title": "Pasar Seni MRT Station",
+      "shortDescription": "Pasar Seni MRT connects residents to Chinatown, Bukit Bintang, TRX and central Kuala Lumpur destinations.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "Central Market",
+        "Petaling Street",
+        "Merdeka 118"
+      ],
+      "nearbyResidences": [
+        "Arte Mont Kiara",
+        "Swiss Garden Residences",
+        "Lucentia Residence"
+      ],
+      "popularSearches": [
+        "Room near Pasar Seni MRT",
+        "Central KL room rental",
+        "Cheap room Kuala Lumpur"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 600,
+      "maxPrice": 1000
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 850,
+      "maxPrice": 1300
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1200,
+      "maxPrice": 1800
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 1600,
+      "maxPrice": 2800
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1000,
+    "priceGrowth": 4.8,
+    "demandLevel": "High",
+    "vacancyRate": 3.2
+  },
+  "nearbyAreas": [
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 1400,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Professionals, Expats, Lifestyle Living",
+      "description": "Bangsar is a premium neighbourhood near Seputeh known for cafes, restaurants, offices, lifestyle facilities and convenient public transport access."
+    },
+    {
+      "name": "Brickfields",
+      "slug": "brickfields",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Students, Professionals, Budget Renters",
+      "description": "Brickfields near KL Sentral offers affordable rooms, excellent transportation connectivity and easy access to Kuala Lumpur city centre."
+    },
+    {
+      "name": "KL Sentral",
+      "slug": "kl-sentral",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Professionals, Business Travellers, Students",
+      "description": "KL Sentral is a major transportation and business hub with offices, shopping malls, hotels and excellent connectivity."
+    },
+    {
+      "name": "Mid Valley",
+      "slug": "mid-valley",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 2,
+      "popularFor": "Professionals, Shoppers, Families",
+      "description": "Mid Valley is one of Kuala Lumpur's most popular commercial areas with shopping malls, offices, dining options and residential developments."
+    },
+    {
+      "name": "Bangsar South",
+      "slug": "bangsar-south",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Professionals, Expats",
+      "description": "Bangsar South is a modern business district with offices, premium residences, restaurants and strong rental demand."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Professionals, Students",
+      "description": "Petaling Jaya is a major employment area offering affordable rooms, universities, shopping centres and commercial facilities."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 2500,
+      "mrtAccess": false,
+      "distanceFromArea": 12,
+      "popularFor": "Expats, Executives, Families",
+      "description": "Mont Kiara is a premium expatriate neighbourhood with luxury condominiums and international facilities."
+    },
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 2500,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Executives, Expats, Luxury Living",
+      "description": "KLCC is Kuala Lumpur's prime business district with luxury residences, corporate offices and world-class lifestyle facilities."
+    },
+    {
+      "name": "Pudu",
+      "slug": "pudu",
+      "averageRent": 850,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Budget Renters, Workers",
+      "description": "Pudu offers affordable rooms, convenient MRT access, local food options and easy connections to central Kuala Lumpur."
+    },
+    {
+      "name": "Chow Kit",
+      "slug": "chow-kit",
+      "averageRent": 750,
+      "mrtAccess": true,
+      "distanceFromArea": 9,
+      "popularFor": "Budget Renters, Workers",
+      "description": "Chow Kit provides affordable city-centre accommodation with convenient access to KLCC, shopping areas and public transport."
+    },
+    {
+      "name": "Setapak",
+      "slug": "setapak",
+      "averageRent": 750,
+      "mrtAccess": true,
+      "distanceFromArea": 14,
+      "popularFor": "Students, Working Adults",
+      "description": "Setapak is a popular affordable rental area near universities, shopping centres and public transport connections."
+    },
+    {
+      "name": "Cheras",
+      "slug": "cheras",
+      "averageRent": 850,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Students, Families, Budget Renters",
+      "description": "Cheras offers affordable rooms, established residential communities and good MRT connectivity."
+    },
+    {
+      "name": "TTDI",
+      "slug": "ttdi",
+      "averageRent": 1400,
+      "mrtAccess": true,
+      "distanceFromArea": 15,
+      "popularFor": "Professionals, Expats",
+      "description": "TTDI is a premium neighbourhood known for parks, cafes, restaurants and convenient MRT access."
+    },
+    {
+      "name": "Damansara",
+      "slug": "damansara",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 15,
+      "popularFor": "Professionals, Families",
+      "description": "Damansara offers modern residences, lifestyle facilities, offices and strong public transport connectivity."
+    },
+    {
+      "name": "Sunway",
+      "slug": "sunway",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 15,
+      "popularFor": "Students, Young Professionals",
+      "description": "Sunway is a popular education and lifestyle hub with universities, shopping malls, hospitals and many rental choices."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Seputeh",
+      "url": "/master-room-rental-seputeh"
+    },
+    {
+      "title": "Single Room Seputeh",
+      "url": "/single-room-rental-seputeh"
+    },
+    {
+      "title": "Condo Room Seputeh",
+      "url": "/condo-room-rental-seputeh"
+    },
+    {
+      "title": "Room Near Seputeh KTM",
+      "url": "/room-near-seputeh-ktm"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Seputeh a good place to rent a room in Kuala Lumpur?",
+      "answer": "Yes, Seputeh is a popular residential area because of its peaceful environment, strategic location, KTM connectivity and access to Mid Valley, Bangsar and KL city centre."
+    },
+    {
+      "question": "What types of rooms are available for rent in Seputeh?",
+      "answer": "Seputeh offers single rooms, medium rooms, master rooms, studio apartments, condo rooms and shared accommodation options."
+    },
+    {
+      "question": "How much is the average room rental price in Seputeh?",
+      "answer": "The average room rental price in Seputeh is around RM1000 depending on room size, furnishing, building facilities and location."
+    },
+    {
+      "question": "Can I find cheap rooms in Seputeh?",
+      "answer": "Yes, Seputeh has affordable room rental options compared with nearby premium areas like Bangsar and KL Eco City."
+    },
+    {
+      "question": "Are furnished rooms available in Seputeh?",
+      "answer": "Yes, many rooms and condominiums in Seputeh offer fully furnished rental options."
+    },
+    {
+      "question": "Is Seputeh suitable for students?",
+      "answer": "Yes, students choose Seputeh because of affordable rentals and convenient access to universities and public transport."
+    },
+    {
+      "question": "Is Seputeh suitable for working professionals?",
+      "answer": "Yes, Seputeh is popular among professionals working in Mid Valley, KL Sentral, Bangsar South and Kuala Lumpur city centre."
+    },
+    {
+      "question": "How far is Seputeh from Mid Valley Megamall?",
+      "answer": "Seputeh is very close to Mid Valley Megamall, with many areas reachable within a few minutes by car or public transport."
+    },
+    {
+      "question": "Can I find a room near Seputeh KTM Station?",
+      "answer": "Yes, many rental rooms and apartments are available near Seputeh KTM Station."
+    },
+    {
+      "question": "Is Seputeh connected by public transport?",
+      "answer": "Yes, Seputeh has KTM connectivity and access to nearby LRT and MRT stations."
+    },
+    {
+      "question": "Are there condos for rent in Seputeh?",
+      "answer": "Yes, Seputeh has many condominiums and serviced residences suitable for rental."
+    },
+    {
+      "question": "Can foreigners rent rooms in Seputeh?",
+      "answer": "Yes, many landlords accept foreign tenants depending on rental terms and building policies."
+    },
+    {
+      "question": "Is Seputeh cheaper than Bangsar?",
+      "answer": "Yes, Seputeh generally offers more affordable rental prices while remaining close to Bangsar."
+    },
+    {
+      "question": "Are there studio apartments in Seputeh?",
+      "answer": "Yes, studio units are available in selected condominium developments."
+    },
+    {
+      "question": "Is Seputeh good for office workers?",
+      "answer": "Yes, Seputeh is convenient for people working around Mid Valley, KL Sentral, Bangsar South and PJ."
+    },
+    {
+      "question": "Are there rooms near Mid Valley offices?",
+      "answer": "Yes, Seputeh is a popular choice for tenants working near Mid Valley and KL Eco City."
+    },
+    {
+      "question": "Is Seputeh safe for tenants?",
+      "answer": "Many Seputeh residential buildings provide security guards, CCTV monitoring and access card systems."
+    },
+    {
+      "question": "Can I rent a room monthly in Seputeh?",
+      "answer": "Yes, monthly room rentals are commonly available in Seputeh."
+    },
+    {
+      "question": "Are there short-term rentals in Seputeh?",
+      "answer": "Yes, selected serviced apartments and residences offer flexible rental options."
+    },
+    {
+      "question": "Is Seputeh close to KL Sentral?",
+      "answer": "Yes, KL Sentral is nearby and easily accessible from Seputeh."
+    },
+    {
+      "question": "Is Seputeh close to Bangsar?",
+      "answer": "Yes, Bangsar is one of the nearest lifestyle and business areas to Seputeh."
+    },
+    {
+      "question": "Are there rooms near The Gardens Mall?",
+      "answer": "Yes, many rental properties in Seputeh provide easy access to The Gardens Mall."
+    },
+    {
+      "question": "Can I find a master room in Seputeh?",
+      "answer": "Yes, master rooms are available in many condominiums and apartments around Seputeh."
+    },
+    {
+      "question": "Are single rooms available in Seputeh?",
+      "answer": "Yes, single rooms are one of the common rental choices in Seputeh."
+    },
+    {
+      "question": "Is Seputeh suitable for budget tenants?",
+      "answer": "Yes, Seputeh provides affordable housing options near premium city areas."
+    },
+    {
+      "question": "Can I find rooms near KL Eco City from Seputeh?",
+      "answer": "Yes, KL Eco City is close to Seputeh and easily accessible."
+    },
+    {
+      "question": "Are there apartments with swimming pools in Seputeh?",
+      "answer": "Yes, many condominiums offer swimming pools, gyms and lifestyle facilities."
+    },
+    {
+      "question": "Is Seputeh suitable for expatriates?",
+      "answer": "Yes, expatriates looking for convenient access to Bangsar and KL city centre may consider Seputeh."
+    },
+    {
+      "question": "Are there restaurants near Seputeh rental rooms?",
+      "answer": "Yes, Seputeh has many restaurants, cafes and food options nearby."
+    },
+    {
+      "question": "Does Seputeh have supermarkets?",
+      "answer": "Yes, residents have easy access to shopping malls and daily necessities."
+    },
+    {
+      "question": "Can I rent a room near University of Malaya from Seputeh?",
+      "answer": "Yes, University of Malaya is nearby and accessible from Seputeh."
+    },
+    {
+      "question": "Is Seputeh suitable for remote workers?",
+      "answer": "Yes, many residences provide a comfortable environment for remote working."
+    },
+    {
+      "question": "Are there female-friendly rooms in Seputeh?",
+      "answer": "Yes, some landlords offer female-friendly rental options."
+    },
+    {
+      "question": "Are there male-friendly rooms in Seputeh?",
+      "answer": "Yes, rental rooms are available for male tenants based on landlord requirements."
+    },
+    {
+      "question": "Can couples rent rooms in Seputeh?",
+      "answer": "Some properties allow couples depending on landlord and building rules."
+    },
+    {
+      "question": "Is parking available in Seputeh condos?",
+      "answer": "Many condominium units provide parking facilities for residents."
+    },
+    {
+      "question": "Are there rooms near Bangsar South offices?",
+      "answer": "Yes, Seputeh offers convenient access to Bangsar South business areas."
+    },
+    {
+      "question": "How long does it take from Seputeh to KLCC?",
+      "answer": "Travel time from Seputeh to KLCC depends on traffic and transport route but is generally convenient."
+    },
+    {
+      "question": "Is Seputeh a good alternative to Bangsar rental?",
+      "answer": "Yes, Seputeh provides lower rental prices while staying close to Bangsar."
+    },
+    {
+      "question": "Are there rooms near KL Sentral from Seputeh?",
+      "answer": "Yes, many tenants choose Seputeh because KL Sentral is nearby and easily accessible by KTM and road connections."
+    },
+    {
+      "question": "Can I find affordable rooms near Mid Valley?",
+      "answer": "Yes, Seputeh offers more affordable rental options while being close to Mid Valley Megamall and The Gardens Mall."
+    },
+    {
+      "question": "Is Seputeh suitable for people without cars?",
+      "answer": "Yes, Seputeh is suitable for car-free living because of KTM access and nearby public transport options."
+    },
+    {
+      "question": "Are there rooms near Seputeh KTM with furnished facilities?",
+      "answer": "Yes, many nearby apartments and condominiums offer furnished rooms for rent."
+    },
+    {
+      "question": "Can students find cheap accommodation in Seputeh?",
+      "answer": "Yes, students can find budget-friendly rooms with convenient access to universities and city areas."
+    },
+    {
+      "question": "Are there apartments near Thean Hou Temple?",
+      "answer": "Yes, Seputeh has several residential developments located near Thean Hou Temple."
+    },
+    {
+      "question": "Does Seputeh have good road access?",
+      "answer": "Yes, Seputeh connects easily to Federal Highway, Jalan Syed Putra, Bangsar and Kuala Lumpur city roads."
+    },
+    {
+      "question": "Can I find fully furnished condo rooms in Seputeh?",
+      "answer": "Yes, many condo rooms are available with beds, wardrobes, tables and basic household facilities."
+    },
+    {
+      "question": "Are Seputeh rentals suitable for young professionals?",
+      "answer": "Yes, young professionals prefer Seputeh because of its location near offices and lifestyle areas."
+    },
+    {
+      "question": "Is Seputeh close to Petaling Jaya?",
+      "answer": "Yes, Petaling Jaya is accessible from Seputeh through major roads and public transport."
+    },
+    {
+      "question": "Can I find budget studio apartments in Seputeh?",
+      "answer": "Yes, some developments offer studio apartments suitable for individuals."
+    },
+    {
+      "question": "Are there apartments with gyms in Seputeh?",
+      "answer": "Yes, many condominium developments provide gym facilities."
+    },
+    {
+      "question": "Is Seputeh suitable for families?",
+      "answer": "Yes, Seputeh is a family-friendly residential area with schools, shopping and healthcare facilities nearby."
+    },
+    {
+      "question": "Can I find rooms near Abdullah Hukum LRT Station?",
+      "answer": "Yes, tenants in Seputeh can access Abdullah Hukum LRT Station conveniently."
+    },
+    {
+      "question": "Are there rooms suitable for interns in Seputeh?",
+      "answer": "Yes, Seputeh is suitable for interns because of affordable rental and easy commuting options."
+    },
+    {
+      "question": "Is Seputeh a peaceful residential area?",
+      "answer": "Yes, Seputeh is known as an established residential neighbourhood with a quieter environment."
+    },
+    {
+      "question": "Can I find rooms near Bangsar from Seputeh?",
+      "answer": "Yes, Bangsar is nearby and easily accessible from Seputeh."
+    },
+    {
+      "question": "Are there shared rooms available in Seputeh?",
+      "answer": "Yes, shared rooms are available for tenants looking for lower rental costs."
+    },
+    {
+      "question": "Can foreigners find accommodation near Mid Valley?",
+      "answer": "Yes, Seputeh offers convenient accommodation options for foreign tenants working nearby."
+    },
+    {
+      "question": "Is Seputeh a good rental investment area?",
+      "answer": "Yes, its location near Mid Valley, KL Sentral and Bangsar creates strong rental demand."
+    },
+    {
+      "question": "Are utilities included in Seputeh room rentals?",
+      "answer": "Some rental listings include utilities while others require separate payment based on the agreement."
+    },
+    {
+      "question": "Can I find no-deposit rooms in Seputeh?",
+      "answer": "Some listings may provide flexible rental terms depending on landlord conditions."
+    },
+    {
+      "question": "Are there rooms near shopping malls in Seputeh?",
+      "answer": "Yes, Seputeh is close to Mid Valley Megamall, The Gardens Mall and other shopping destinations."
+    },
+    {
+      "question": "Is Seputeh suitable for business travellers?",
+      "answer": "Yes, its location near KL Sentral and major commercial areas makes it convenient for business stays."
+    },
+    {
+      "question": "Can I rent a room near KTM station in Seputeh?",
+      "answer": "Yes, rooms near Seputeh KTM Station are available for convenient commuting."
+    },
+    {
+      "question": "Are there high-rise condos in Seputeh?",
+      "answer": "Yes, Seputeh has several high-rise condominium developments with modern facilities."
+    },
+    {
+      "question": "Is Seputeh cheaper than KL Sentral?",
+      "answer": "Generally, Seputeh offers more affordable rental options compared with KL Sentral."
+    },
+    {
+      "question": "Can I find long-term rental rooms in Seputeh?",
+      "answer": "Yes, many tenants choose Seputeh for long-term accommodation."
+    },
+    {
+      "question": "Are there rooms near hospitals from Seputeh?",
+      "answer": "Yes, healthcare facilities such as University Malaya Medical Centre are accessible from Seputeh."
+    },
+    {
+      "question": "Does Seputeh have cafes and lifestyle areas nearby?",
+      "answer": "Yes, nearby Bangsar, Mid Valley and KL Eco City offer many cafes and lifestyle options."
+    },
+    {
+      "question": "Can I find rooms near offices in KL Eco City?",
+      "answer": "Yes, Seputeh is one of the convenient residential areas for KL Eco City workers."
+    },
+    {
+      "question": "Is Seputeh suitable for fresh graduates?",
+      "answer": "Yes, fresh graduates often choose Seputeh because it balances affordability and location."
+    },
+    {
+      "question": "Are there rooms with private bathrooms in Seputeh?",
+      "answer": "Yes, some master rooms and studio units offer private bathroom facilities."
+    },
+    {
+      "question": "Can I find affordable condo rooms near Bangsar South?",
+      "answer": "Yes, Seputeh provides affordable alternatives close to Bangsar South."
+    },
+    {
+      "question": "Is Seputeh convenient for daily shopping?",
+      "answer": "Yes, residents have easy access to malls, supermarkets and local shops."
+    },
+    {
+      "question": "Are pets allowed in Seputeh condos?",
+      "answer": "Pet policies depend on individual condominium management and landlord approval."
+    },
+    {
+      "question": "Can I rent a room near Mid Valley without staying in a busy area?",
+      "answer": "Yes, Seputeh provides a quieter residential option close to Mid Valley."
+    },
+    {
+      "question": "Is Seputeh good for long-term family living?",
+      "answer": "Yes, Seputeh is suitable for families looking for convenience and established neighbourhood facilities."
+    },
+    {
+      "question": "What makes Seputeh popular among renters?",
+      "answer": "Seputeh is popular because of its strategic location, KTM connectivity, nearby malls, affordable rentals and access to major employment areas."
+    },
+    {
+      "question": "How can I search for a room for rent in Seputeh?",
+      "answer": "You can search based on budget, room type, furnishing, transport access and preferred residential facilities."
+    },
+    {
+      "question": "What is the best area to rent a room in Seputeh?",
+      "answer": "Popular rental areas in Seputeh include locations near Seputeh KTM Station, Mid Valley, KL Eco City and major condominium developments."
+    },
+    {
+      "question": "How much is a master room rental in Seputeh?",
+      "answer": "Master rooms in Seputeh usually range from around RM1200 to RM1800 depending on size, furnishing and condominium facilities."
+    },
+    {
+      "question": "How much is a single room rental in Seputeh?",
+      "answer": "Single rooms in Seputeh typically range from around RM600 to RM1000 depending on location and amenities."
+    },
+    {
+      "question": "Are there condo rooms near Mid Valley in Seputeh?",
+      "answer": "Yes, many condominium rooms in Seputeh provide convenient access to Mid Valley Megamall and The Gardens Mall."
+    },
+    {
+      "question": "Is Seputeh suitable for people working in Kuala Lumpur city centre?",
+      "answer": "Yes, Seputeh offers convenient commuting options to Kuala Lumpur city centre, KL Sentral and major business districts."
+    },
+    {
+      "question": "Can I rent a room near Bangsar South from Seputeh?",
+      "answer": "Yes, Bangsar South is nearby and many professionals choose Seputeh as a more affordable residential option."
+    },
+    {
+      "question": "Are there luxury condos in Seputeh?",
+      "answer": "Yes, Seputeh has several premium condominium developments with modern facilities and security features."
+    },
+    {
+      "question": "Does Seputeh have MRT access?",
+      "answer": "Seputeh mainly relies on KTM connectivity, while nearby MRT and LRT stations provide additional transport options."
+    },
+    {
+      "question": "Is Seputeh a good place for first-time renters?",
+      "answer": "Yes, Seputeh is suitable for first-time renters because it offers different price ranges and convenient facilities."
+    },
+    {
+      "question": "Can I find rooms below RM800 in Seputeh?",
+      "answer": "Yes, budget rooms may be available depending on room type, sharing arrangement and building location."
+    },
+    {
+      "question": "Are there co-living options in Seputeh?",
+      "answer": "Some shared accommodation and flexible rental options are available in the Seputeh area."
+    },
+    {
+      "question": "Is Seputeh close to universities?",
+      "answer": "Yes, Seputeh has convenient access to several universities and educational institutions around Kuala Lumpur."
+    },
+    {
+      "question": "Can students travel easily from Seputeh?",
+      "answer": "Yes, students can use KTM and nearby public transport routes to reach campuses and city areas."
+    },
+    {
+      "question": "Are there rooms near KL Sentral transport hub?",
+      "answer": "Yes, Seputeh is close to KL Sentral, one of Kuala Lumpur's largest transportation hubs."
+    },
+    {
+      "question": "Can I find furnished apartments for rent in Seputeh?",
+      "answer": "Yes, furnished apartments and rooms are available in many residential developments."
+    },
+    {
+      "question": "Is Seputeh affected by city traffic?",
+      "answer": "Traffic conditions vary by time, but Seputeh has multiple routes connecting to surrounding areas."
+    },
+    {
+      "question": "Are there affordable rooms near Mid Valley offices?",
+      "answer": "Yes, Seputeh is one of the preferred areas for affordable accommodation near Mid Valley offices."
+    },
+    {
+      "question": "Can couples rent a condo in Seputeh?",
+      "answer": "Yes, couples may rent selected condo units depending on landlord approval and rental policies."
+    },
+    {
+      "question": "Are there rooms with parking facilities in Seputeh?",
+      "answer": "Many condominium units in Seputeh provide resident parking facilities."
+    },
+    {
+      "question": "Is Seputeh suitable for elderly residents?",
+      "answer": "Yes, some residential areas in Seputeh offer convenient access to healthcare, shopping and daily amenities."
+    }
+  ],
+  "focusKeywords": [
+    "Seputeh room for rent",
+    "Seputeh condo for rent",
+    "Seputeh apartment for rent",
+    "room near Seputeh KTM Station",
+    "furnished room Seputeh",
+    "cheap room Seputeh Kuala Lumpur",
+    "Mid Valley room rental",
+    "KL city rental Seputeh",
+    "condo room Seputeh",
+    "Seputeh serviced apartment for rent",
+    "student accommodation Seputeh Kuala Lumpur",
+    "professional room rental Seputeh",
+    "studio apartment Seputeh for rent",
+    "monthly rental Seputeh",
+    "Bangsar South room rental"
+  ],
+  "longTailKeywords": [
+    "furnished room for rent near Seputeh KTM Station Kuala Lumpur",
+    "cheap room near Mid Valley Megamall for professionals",
+    "affordable condo room Seputeh near KL Sentral",
+    "studio apartment Seputeh fully furnished for rent Kuala Lumpur",
+    "monthly rental room Seputeh near public transport",
+    "room near Bangsar South office area from Seputeh",
+    "high floor condo Seputeh with city view for rent",
+    "short term rental Seputeh furnished apartment Kuala Lumpur",
+    "no deposit room for rent Seputeh Kuala Lumpur",
+    "premium condo rental near Mid Valley and KL Sentral"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Seputeh",
+      "budget room near Seputeh",
+      "student room Seputeh Kuala Lumpur",
+      "affordable accommodation Seputeh",
+      "student rental room Seputeh",
+      "shared room rental Seputeh",
+      "cheap furnished room Seputeh",
+      "budget apartment near Seputeh KTM",
+      "student accommodation near Mid Valley",
+      "room near University of Malaya Seputeh",
+      "student friendly room rental Seputeh"
+    ],
+    "expat": [
+      "expat housing Seputeh",
+      "furnished condo Seputeh",
+      "serviced apartment Seputeh",
+      "international tenant friendly condo Seputeh",
+      "modern apartment rental Seputeh",
+      "condo near Mid Valley Kuala Lumpur",
+      "fully furnished apartment Seputeh Kuala Lumpur",
+      "expat friendly residence Seputeh",
+      "premium condo rental Seputeh",
+      "foreign tenant apartment Seputeh"
+    ],
+    "professional": [
+      "Seputeh condo near KTM",
+      "room near Seputeh for professionals",
+      "room near Mid Valley offices",
+      "room near KL Sentral from Seputeh",
+      "room near Bangsar South",
+      "premium apartment Seputeh",
+      "executive residence Seputeh",
+      "working professional room rental Seputeh",
+      "corporate housing Seputeh Kuala Lumpur",
+      "office worker accommodation Seputeh"
+    ],
+    "shortStay": [
+      "short term rental Seputeh",
+      "monthly rental Seputeh",
+      "serviced residence Seputeh",
+      "flexible room rental Seputeh",
+      "short stay apartment Seputeh Kuala Lumpur",
+      "temporary accommodation Seputeh",
+      "monthly furnished room Seputeh",
+      "weekly apartment rental Seputeh",
+      "business stay Seputeh",
+      "holiday rental Seputeh apartment"
+    ],
+    "premiumIntent": [
+      "luxury condo Seputeh for rent",
+      "high end apartment Seputeh",
+      "executive residence Seputeh",
+      "premium serviced apartment Seputeh",
+      "modern condominium rental Seputeh Kuala Lumpur",
+      "luxury apartment near Mid Valley",
+      "premium furnished room Seputeh",
+      "exclusive apartment Seputeh",
+      "five star serviced residence Seputeh",
+      "city view condo Seputeh"
+    ],
+    "family": [
+      "family apartment Seputeh",
+      "3 bedroom condo Seputeh rental",
+      "family friendly condo Seputeh",
+      "safe residential area Seputeh",
+      "large apartment rental Seputeh Kuala Lumpur",
+      "family condo near Mid Valley",
+      "child friendly apartment Seputeh",
+      "long term family rental Seputeh",
+      "spacious condominium Seputeh"
+    ],
+    "budgetTenant": [
+      "cheap room Seputeh Kuala Lumpur",
+      "low budget rental Seputeh",
+      "affordable apartment Seputeh",
+      "room under RM1000 Seputeh",
+      "budget friendly room near Seputeh KTM",
+      "cheap furnished room Seputeh",
+      "affordable condo room Seputeh",
+      "low cost accommodation Kuala Lumpur",
+      "budget room walking distance Seputeh KTM",
+      "cheap rental near Mid Valley"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Seputeh room for rent",
+    "secondaryKeywords": [
+      "Seputeh condo for rent",
+      "Seputeh apartment for rent",
+      "Seputeh serviced apartment for rent",
+      "cheap room Seputeh Kuala Lumpur",
+      "room near Seputeh KTM Station",
+      "Mid Valley room rental",
+      "KL Sentral room rental Seputeh",
+      "Bangsar South room rental",
+      "furnished room Seputeh"
+    ],
+    "seoScore": 96,
+    "canonicalUrl": "https://roomrentalkl.com/kuala-lumpur/seputeh/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "established-residential-rentals",
+    "contentCluster": [
+      "affordable rooms Seputeh",
+      "condo rentals near Mid Valley",
+      "KL Sentral connected rentals",
+      "professional housing Seputeh",
+      "student accommodation Kuala Lumpur",
+      "KTM connected residential areas"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Bangsar",
+        "Brickfields",
+        "KL Sentral",
+        "Mid Valley",
+        "Bangsar South",
+        "Petaling Jaya"
+      ],
+      "nearbyHotspots": [
+        "Mid Valley Megamall",
+        "The Gardens Mall",
+        "KL Eco City",
+        "Thean Hou Temple",
+        "Bangsar South",
+        "KL Sentral"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Seputeh Rooms for Rent",
+        "url": "/room-rental-seputeh",
+        "keyword": "seputeh room for rent"
+      },
+      {
+        "title": "Seputeh Condos for Rent",
+        "url": "/condo-for-rent-seputeh",
+        "keyword": "seputeh condo for rent"
+      },
+      {
+        "title": "Cheap Rooms Near Seputeh",
+        "url": "/cheap-room-seputeh",
+        "keyword": "cheap room near seputeh"
+      },
+      {
+        "title": "Rooms Near Seputeh KTM",
+        "url": "/room-near-seputeh-ktm",
+        "keyword": "room near seputeh ktm"
+      },
+      {
+        "title": "Mid Valley Area Rentals",
+        "url": "/mid-valley-rentals",
+        "keyword": "mid valley room rental"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Seputeh Area Guide",
+        "url": "/area-guide-seputeh",
+        "type": "guide"
+      },
+      {
+        "title": "Seputeh Price Guide 2026",
+        "url": "/price-guide-seputeh",
+        "type": "pricing"
+      },
+      {
+        "title": "Seputeh Transport Guide",
+        "url": "/seputeh-transport-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Condo Rooms in Seputeh",
+        "url": "/condo-room-seputeh",
+        "type": "listing-category"
+      },
+      {
+        "title": "Professional Housing Seputeh",
+        "url": "/professional-housing-seputeh",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Seputeh",
+        "url": "/furnished-room-seputeh",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Seputeh",
+        "url": "/short-term-rental-seputeh",
+        "type": "rental-type"
+      }
+    ]
+  }
+}

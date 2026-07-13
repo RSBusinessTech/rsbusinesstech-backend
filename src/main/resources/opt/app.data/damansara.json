@@ -1,0 +1,1864 @@
+{
+  "area": {
+    "name": "Damansara",
+    "slug": "damansara",
+    "heroImage": "assets/images/areas/damansara.jpg",
+    "metaTitle": "Rooms for Rent in Damansara | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Damansara near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Damansara – Complete Guide to Room Rental, Condo & Apartment Rental in Kuala Lumpur",
+    "description": "Damansara is one of the most established and highly sought-after residential areas in Greater Kuala Lumpur, offering a wide range of room rental, condominium rental and apartment rental options for professionals, expatriates, students and families. Known for its premium lifestyle environment, excellent connectivity, mature neighbourhoods and proximity to major business districts, Damansara continues to be one of the strongest rental markets in Kuala Lumpur. Whether you are searching for a master room for rent in Damansara, single room rental near MRT Damansara, fully furnished condo room, studio apartment, affordable apartment rental or luxury condominium residence, Damansara provides diverse accommodation choices for different budgets and lifestyles. The area includes popular locations such as Bandar Utama, Mutiara Damansara, Kota Damansara, Damansara Perdana, Damansara Jaya, Damansara Heights and Ara Damansara, each offering unique residential advantages. Damansara is highly preferred by professionals working in Kuala Lumpur, Petaling Jaya, Bangsar South, Mont Kiara, Sri Hartamas, KL Sentral and major corporate hubs due to its strategic location. Residents enjoy excellent public transportation access through MRT stations including Bandar Utama MRT Station, Mutiara Damansara MRT Station, Surian MRT Station, Semantan MRT Station and Phileo Damansara MRT Station. Major highways including LDP, Sprint Highway, Penchala Link and NKVE provide convenient access to Kuala Lumpur and surrounding areas. Popular landmarks such as 1 Utama Shopping Centre, The Curve, IKEA Damansara, IPC Shopping Centre, Tropicana Gardens Mall, Centrepoint Bandar Utama, Desa ParkCity, Damansara Heights and major healthcare facilities make Damansara one of the most attractive rental locations in Kuala Lumpur. With premium residential developments, excellent lifestyle facilities, strong transportation connectivity and proximity to business districts, Damansara remains a top choice for tenants searching for quality rental properties in Kuala Lumpur.",
+    "buttonText": "Explore Damansara Rental Guide",
+    "buttonLink": "/room-rental-damansara",
+    "highlights": [
+      "Wide selection of master rooms, single rooms, medium rooms, studio apartments and condominiums for rent in Damansara",
+      "Premium rental location near Kuala Lumpur, Petaling Jaya, Mont Kiara, Sri Hartamas and Bangsar South",
+      "Excellent MRT connectivity through Bandar Utama MRT, Mutiara Damansara MRT, Surian MRT and Phileo Damansara MRT stations",
+      "Highly popular among professionals working in Kuala Lumpur CBD, Petaling Jaya and major corporate offices",
+      "Suitable for expatriates, students, young professionals and families",
+      "Premium residential environment with luxury condominiums and serviced apartments",
+      "Close to major shopping destinations including 1 Utama, The Curve, IKEA Damansara and Tropicana Gardens Mall",
+      "Strong rental demand due to lifestyle convenience and strategic location",
+      "Wide range of fully furnished rooms and condominium rentals",
+      "Excellent access to highways connecting Kuala Lumpur and Selangor",
+      "Safe and mature neighbourhood with established amenities",
+      "One of Greater Kuala Lumpur's strongest premium rental markets"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Excellent MRT & Highway Connectivity",
+        "description": "Damansara provides excellent transportation connectivity through MRT Kajang Line stations including Bandar Utama MRT Station, Mutiara Damansara MRT Station, Surian MRT Station and Phileo Damansara MRT Station. Major highways including LDP, Sprint Highway, Penchala Link and NKVE provide convenient access to Kuala Lumpur, Petaling Jaya and surrounding areas."
+      },
+      {
+        "icon": "fas fa-home",
+        "title": "Premium Rental Properties",
+        "description": "Damansara offers a wide range of rental properties including master rooms, single rooms, medium rooms, private rooms, studio apartments, serviced residences, luxury condominiums and family apartments suitable for different tenant requirements."
+      },
+      {
+        "icon": "fas fa-briefcase",
+        "title": "Ideal Location for Professionals",
+        "description": "Many working professionals choose Damansara because of its convenient access to Kuala Lumpur CBD, Bangsar South, Mont Kiara, Sri Hartamas, Petaling Jaya and major corporate offices. The area provides excellent rental value compared with central Kuala Lumpur premium locations."
+      },
+      {
+        "icon": "fas fa-graduation-cap",
+        "title": "Popular Among Students",
+        "description": "Damansara provides suitable accommodation options for students due to affordable room rentals, MRT connectivity, nearby universities and easy access to education hubs around Kuala Lumpur and Petaling Jaya."
+      },
+      {
+        "icon": "fas fa-tree",
+        "title": "Green & Premium Lifestyle Environment",
+        "description": "Damansara offers a balanced urban lifestyle with greenery, parks, recreational facilities and premium residential communities. Nearby destinations such as Desa ParkCity provide additional lifestyle attractions for residents."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "World-Class Shopping & Dining Facilities",
+        "description": "Residents enjoy convenient access to major shopping destinations including 1 Utama Shopping Centre, The Curve, IKEA Damansara, IPC Shopping Centre and Tropicana Gardens Mall with extensive dining, entertainment and retail options."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Luxury Condominiums & Modern Apartments",
+        "description": "Damansara features many premium residential developments offering facilities such as swimming pools, gyms, security services, parking spaces, playgrounds, landscaped gardens and lifestyle amenities."
+      },
+      {
+        "icon": "fas fa-users",
+        "title": "Suitable for Families, Expats & Professionals",
+        "description": "With excellent schools, healthcare facilities, shopping centres, transportation access and premium residences, Damansara attracts families, expatriates, professionals and long-term tenants looking for quality accommodation."
+      }
+    ],
+    "popularResidences": [
+      "Tropicana Gardens Residences",
+      "Tropicana Grande",
+      "Riana Green East",
+      "Armanee Terrace",
+      "Pelangi Damansara",
+      "Casa Indah Damansara",
+      "Surian Condominiums",
+      "Eve Suite Damansara",
+      "PJ Centrestage",
+      "The Z Residence",
+      "The Edge Residence Damansara",
+      "Neo Damansara",
+      "Empire Damansara",
+      "Damansara Foresta",
+      "The Azure Residences",
+      "Casa Tropicana",
+      "Damansara Perdana Residences",
+      "Sunway Damansara",
+      "Ativo Suites",
+      "Menara Rajawali Residences"
+    ],
+    "nearbyLandmarks": [
+      "Bandar Utama MRT Station",
+      "Mutiara Damansara MRT Station",
+      "Surian MRT Station",
+      "Semantan MRT Station",
+      "Phileo Damansara MRT Station",
+      "1 Utama Shopping Centre",
+      "The Curve",
+      "IKEA Damansara",
+      "IPC Shopping Centre",
+      "Tropicana Gardens Mall",
+      "Centrepoint Bandar Utama",
+      "Damansara Heights",
+      "Desa ParkCity",
+      "Mont Kiara",
+      "Sri Hartamas",
+      "Bangsar South",
+      "KL Sentral",
+      "Petaling Jaya",
+      "Kuala Lumpur City Centre",
+      "LDP Highway"
+    ],
+    "nearbyUniversities": [
+      "Universiti Malaya (UM)",
+      "HELP University",
+      "SEGi University Kota Damansara",
+      "Tunku Abdul Rahman University of Management and Technology (TAR UMT)",
+      "Taylor's University",
+      "Sunway University",
+      "Asia Pacific University (APU)",
+      "Open University Malaysia",
+      "UCSI University",
+      "Monash University Malaysia"
+    ],
+    "majorEmployers": [
+      "IBM Malaysia",
+      "Microsoft Malaysia",
+      "Accenture Malaysia",
+      "Deloitte Malaysia",
+      "PwC Malaysia",
+      "EY Malaysia",
+      "KPMG Malaysia",
+      "Maybank",
+      "CIMB Group",
+      "Public Bank",
+      "Hong Leong Bank",
+      "Standard Chartered Malaysia",
+      "HSBC Malaysia",
+      "Petronas",
+      "Grab Malaysia",
+      "Maxis",
+      "CelcomDigi",
+      "Malaysia Digital Economy Corporation (MDEC)",
+      "Kuala Lumpur corporate offices",
+      "Petaling Jaya business districts"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Kepong Baru MRT Station",
+      "slug": "kepong-baru-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "3 mins drive",
+      "distanceMeters": 800,
+      "distanceText": "3 mins drive (800 m)",
+      "title": "Kepong Baru MRT Station",
+      "shortDescription": "Kepong Baru MRT Station is one of the most important transportation hubs serving Kepong residents. It provides direct MRT connectivity towards central Kuala Lumpur, making nearby rooms and condominiums highly searched by professionals and students looking for convenient public transport access.",
+      "averageRoomRent": 900,
+      "nearbyLandmarks": [
+        "Kepong Baru Town Centre",
+        "AEON Mall Metro Prima",
+        "Jalan Kepong"
+      ],
+      "nearbyResidences": [
+        "M Centura Residences",
+        "Metro Prima Kepong",
+        "Kepong Baru Residences"
+      ],
+      "popularSearches": [
+        "Room near Kepong Baru MRT",
+        "Kepong Baru room rental",
+        "Condo near Kepong Baru MRT"
+      ]
+    },
+    {
+      "name": "Metro Prima MRT Station",
+      "slug": "metro-prima-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1200,
+      "distanceText": "5 mins drive (1.2 km)",
+      "title": "Metro Prima MRT Station",
+      "shortDescription": "Metro Prima MRT Station serves one of Kepong's busiest residential and commercial areas. The station is highly popular among tenants searching for affordable rooms near shopping malls, restaurants and convenient MRT transportation.",
+      "averageRoomRent": 1000,
+      "nearbyLandmarks": [
+        "AEON Mall Metro Prima",
+        "Metro Prima Shopping Centre",
+        "Jalan Metro Perdana"
+      ],
+      "nearbyResidences": [
+        "Residensi Metro Kepong",
+        "Vista Magna Kepong",
+        "M Arisa Residences"
+      ],
+      "popularSearches": [
+        "Room near Metro Prima MRT",
+        "Metro Prima room rental",
+        "Kepong condo near MRT"
+      ]
+    },
+    {
+      "name": "Jinjang MRT Station",
+      "slug": "jinjang-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "7 mins drive",
+      "distanceMeters": 2500,
+      "distanceText": "7 mins drive (2.5 km)",
+      "title": "Jinjang MRT Station",
+      "shortDescription": "Jinjang MRT Station provides additional MRT connectivity for Kepong residents. The surrounding neighbourhood offers affordable rental properties suitable for students, young professionals and tenants seeking budget-friendly accommodation.",
+      "averageRoomRent": 800,
+      "nearbyLandmarks": [
+        "Jinjang Town Centre",
+        "Jalan Kepong",
+        "Kepong Metropolitan Park"
+      ],
+      "nearbyResidences": [
+        "Kepong Urban Residences",
+        "Casa Prima Kepong",
+        "Affordable Apartments Jinjang"
+      ],
+      "popularSearches": [
+        "Room near Jinjang MRT",
+        "Cheap room Kepong",
+        "Affordable rental Jinjang"
+      ]
+    },
+    {
+      "name": "Kepong KTM Station",
+      "slug": "kepong-ktm",
+      "stationType": "KTM",
+      "line": "Port Klang Line",
+      "walkingTime": "5 mins drive",
+      "distanceMeters": 1500,
+      "distanceText": "5 mins drive (1.5 km)",
+      "title": "Kepong KTM Station",
+      "shortDescription": "Kepong KTM Station provides commuter rail connectivity to Kuala Lumpur and surrounding areas. It is frequently searched by tenants looking for affordable rooms with easy access to public transportation.",
+      "averageRoomRent": 850,
+      "nearbyLandmarks": [
+        "Kepong Town Centre",
+        "Jalan Kepong",
+        "Brem Mall"
+      ],
+      "nearbyResidences": [
+        "Casa Prima Kepong",
+        "Kepong Sentral Residences",
+        "Kepong Apartments"
+      ],
+      "popularSearches": [
+        "Room near Kepong KTM",
+        "Kepong KTM room rental",
+        "Apartment near KTM Kepong"
+      ]
+    },
+    {
+      "name": "Kepong Sentral KTM Station",
+      "slug": "kepong-sentral-ktm",
+      "stationType": "KTM",
+      "line": "Port Klang Line",
+      "walkingTime": "6 mins drive",
+      "distanceMeters": 2200,
+      "distanceText": "6 mins drive (2.2 km)",
+      "title": "Kepong Sentral KTM Station",
+      "shortDescription": "Kepong Sentral KTM Station is a convenient transport option for residents travelling between Kepong, Kuala Lumpur and nearby areas. Rental properties around this area attract professionals and students who prefer affordable housing with rail connectivity.",
+      "averageRoomRent": 900,
+      "nearbyLandmarks": [
+        "Kepong Sentral",
+        "Jalan Kepong",
+        "Metro Prima"
+      ],
+      "nearbyResidences": [
+        "Kepong Sentral Residences",
+        "M Centura Residences",
+        "Metro Prima Apartments"
+      ],
+      "popularSearches": [
+        "Room near Kepong Sentral",
+        "Kepong Sentral rental",
+        "Condo near KTM Kepong"
+      ]
+    },
+    {
+      "name": "Sri Delima MRT Station",
+      "slug": "sri-delima-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 3500,
+      "distanceText": "8 mins drive (3.5 km)",
+      "title": "Sri Delima MRT Station",
+      "shortDescription": "Sri Delima MRT Station provides connectivity for residents around northern Kuala Lumpur. It improves accessibility for tenants searching for affordable rental homes around Kepong and nearby residential communities.",
+      "averageRoomRent": 850,
+      "nearbyLandmarks": [
+        "Sri Delima",
+        "Kepong",
+        "Jalan Ipoh"
+      ],
+      "nearbyResidences": [
+        "Kepong Residential Apartments",
+        "Vista Magna Kepong",
+        "Affordable Condo Kepong"
+      ],
+      "popularSearches": [
+        "Room near Sri Delima MRT",
+        "Kepong MRT room rental",
+        "Cheap room near MRT"
+      ]
+    },
+    {
+      "name": "Segambut KTM Station",
+      "slug": "segambut-ktm",
+      "stationType": "KTM",
+      "line": "Port Klang Line",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 5000,
+      "distanceText": "10 mins drive (5 km)",
+      "title": "Segambut KTM Station",
+      "shortDescription": "Segambut KTM Station is a nearby transport option connecting Kepong residents towards central Kuala Lumpur. Many tenants compare Kepong and Segambut rentals due to proximity to Mont Kiara, Sri Hartamas and city employment areas.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "Mont Kiara",
+        "Sri Hartamas",
+        "Publika Shopping Gallery"
+      ],
+      "nearbyResidences": [
+        "Desa ParkCity",
+        "Segambut Residences",
+        "Premium Apartments Near Mont Kiara"
+      ],
+      "popularSearches": [
+        "Room near Mont Kiara from Kepong",
+        "Kepong Sri Hartamas rental",
+        "Affordable room near Publika"
+      ]
+    },
+    {
+      "name": "Mutiara Damansara MRT Station",
+      "slug": "mutiara-damansara-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 9000,
+      "distanceText": "15 mins drive (9 km)",
+      "title": "Mutiara Damansara MRT Station",
+      "shortDescription": "Mutiara Damansara MRT Station provides connectivity towards Petaling Jaya and commercial areas. It is relevant for Kepong tenants working in nearby business districts and looking for affordable rental alternatives.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "The Curve",
+        "IKEA Damansara",
+        "1 Utama Shopping Centre"
+      ],
+      "nearbyResidences": [
+        "Desa ParkCity",
+        "Kepong Premium Residences",
+        "Modern Condominiums Kepong"
+      ],
+      "popularSearches": [
+        "Room near Mutiara Damansara",
+        "Kepong near PJ rental",
+        "Affordable room near Petaling Jaya"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 800,
+      "maxPrice": 1500
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 1100,
+      "maxPrice": 1800
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1600,
+      "maxPrice": 2800
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 2000,
+      "maxPrice": 4500
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 1500,
+    "priceGrowth": 6.1,
+    "demandLevel": "Very High",
+    "vacancyRate": 2.0
+  },
+  "nearbyAreas": [
+    {
+      "name": "Mutiara Damansara",
+      "slug": "mutiara-damansara",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 1,
+      "popularFor": "Professionals, Families, Expats",
+      "description": "Mutiara Damansara is one of the most popular residential areas in Damansara, offering excellent MRT connectivity, modern condominiums, shopping convenience and premium lifestyle facilities. It is highly preferred by professionals working in Petaling Jaya, Kuala Lumpur and nearby corporate districts."
+    },
+    {
+      "name": "Bandar Utama",
+      "slug": "bandar-utama",
+      "averageRent": 2000,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Executives, Professionals, Expats",
+      "description": "Bandar Utama is a premium residential and commercial district famous for 1 Utama Shopping Centre, corporate offices and MRT connectivity. Damansara provides attractive rental alternatives for tenants seeking access to Bandar Utama while maintaining competitive rental prices."
+    },
+    {
+      "name": "Kota Damansara",
+      "slug": "kota-damansara",
+      "averageRent": 1400,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Professionals, Students, Families",
+      "description": "Kota Damansara is a mature township offering affordable condominiums, apartments and landed properties. With MRT access, shopping malls and commercial centres, it is a popular rental choice among tenants working around Petaling Jaya and northern Kuala Lumpur."
+    },
+    {
+      "name": "Damansara Perdana",
+      "slug": "damansara-perdana",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Young Professionals, Students, Budget Tenants",
+      "description": "Damansara Perdana offers affordable rental properties near Mutiara Damansara, IKEA, The Curve and MRT connectivity. It is popular among young professionals and tenants looking for modern condominium living at reasonable prices."
+    },
+    {
+      "name": "Taman Tun Dr Ismail (TTDI)",
+      "slug": "ttdi",
+      "averageRent": 2000,
+      "mrtAccess": true,
+      "distanceFromArea": 6,
+      "popularFor": "Professionals, Families, Expats",
+      "description": "TTDI is a premium residential neighbourhood near Damansara known for greenery, lifestyle amenities, restaurants and MRT connectivity. Many tenants choose Damansara as a more affordable rental option while maintaining access to TTDI."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 2500,
+      "mrtAccess": false,
+      "distanceFromArea": 8,
+      "popularFor": "Expats, Executives, Families",
+      "description": "Mont Kiara is one of Kuala Lumpur's most prestigious expatriate neighbourhoods featuring luxury condominiums, international schools and premium lifestyle facilities. Damansara attracts tenants who want easier access to Mont Kiara with more competitive rental prices."
+    },
+    {
+      "name": "Sri Hartamas",
+      "slug": "sri-hartamas",
+      "averageRent": 2200,
+      "mrtAccess": false,
+      "distanceFromArea": 9,
+      "popularFor": "Expats, Professionals",
+      "description": "Sri Hartamas is a popular lifestyle district offering premium residences, restaurants, cafes and international amenities. Damansara provides a strategic rental location for professionals working around Sri Hartamas and Kuala Lumpur."
+    },
+    {
+      "name": "Bangsar South",
+      "slug": "bangsar-south",
+      "averageRent": 1800,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Office Workers, Professionals",
+      "description": "Bangsar South is a major business district with multinational companies, offices and modern residential developments. Damansara is increasingly popular among professionals who want affordable rentals with access to major employment hubs."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1600,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Professionals, Office Workers, Families",
+      "description": "Petaling Jaya is one of Malaysia's largest commercial hubs with offices, universities, shopping malls and business centres. Damansara offers convenient rental options for tenants working in PJ due to its strategic location and transportation connectivity."
+    },
+    {
+      "name": "KL Sentral",
+      "slug": "kl-sentral",
+      "averageRent": 2300,
+      "mrtAccess": true,
+      "distanceFromArea": 15,
+      "popularFor": "Executives, Expats, Frequent Travellers",
+      "description": "KL Sentral is Kuala Lumpur's main transportation and business hub. Damansara attracts tenants working near KL Sentral because it provides larger living spaces and better rental value while maintaining accessibility through MRT and highways."
+    },
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 2800,
+      "mrtAccess": true,
+      "distanceFromArea": 18,
+      "popularFor": "Executives, Expats, Corporate Professionals",
+      "description": "KLCC is Kuala Lumpur's premier business and lifestyle district. Damansara offers a more affordable rental alternative for professionals working in KLCC while providing access through public transportation and major highways."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Damansara",
+      "url": "/master-room-rental-damansara"
+    },
+    {
+      "title": "Single Room Damansara",
+      "url": "/single-room-rental-damansara"
+    },
+    {
+      "title": "Condo Room Damansara",
+      "url": "/condo-room-rental-damansara"
+    },
+    {
+      "title": "Room Near Mutiara Damansara MRT",
+      "url": "/room-near-mutiara-damansara-mrt"
+    },
+    {
+      "title": "Room Near Bandar Utama MRT",
+      "url": "/room-near-bandar-utama-mrt"
+    },
+    {
+      "title": "Damansara Room Rental",
+      "url": "/damansara-room-rental"
+    },
+    {
+      "title": "Cheap Room Rental Damansara",
+      "url": "/cheap-room-rental-damansara"
+    },
+    {
+      "title": "Affordable Apartment Damansara",
+      "url": "/affordable-apartment-damansara"
+    },
+    {
+      "title": "Luxury Condo Damansara For Rent",
+      "url": "/luxury-condo-damansara"
+    },
+    {
+      "title": "Studio Apartment Damansara",
+      "url": "/studio-apartment-damansara"
+    },
+    {
+      "title": "Fully Furnished Room Damansara",
+      "url": "/fully-furnished-room-damansara"
+    },
+    {
+      "title": "Room Near Surian MRT",
+      "url": "/room-near-surian-mrt"
+    },
+    {
+      "title": "Room Near Damansara MRT",
+      "url": "/room-near-damansara-mrt"
+    },
+    {
+      "title": "Room Near 1 Utama Damansara",
+      "url": "/room-near-1-utama-damansara"
+    },
+    {
+      "title": "Expat Room Rental Damansara",
+      "url": "/expat-room-rental-damansara"
+    },
+    {
+      "title": "Family Apartment Rental Damansara",
+      "url": "/family-apartment-rental-damansara"
+    },
+    {
+      "title": "Room Near IKEA Damansara",
+      "url": "/room-near-ikea-damansara"
+    },
+    {
+      "title": "Room Near The Curve Damansara",
+      "url": "/room-near-the-curve-damansara"
+    },
+    {
+      "title": "Room Near Kota Damansara",
+      "url": "/room-near-kota-damansara"
+    },
+    {
+      "title": "Room Near TTDI MRT",
+      "url": "/room-near-ttdi-mrt"
+    },
+    {
+      "title": "Serviced Apartment Damansara",
+      "url": "/serviced-apartment-damansara"
+    },
+    {
+      "title": "Premium Condo Damansara",
+      "url": "/premium-condo-damansara"
+    },
+    {
+      "title": "Executive Apartment Damansara",
+      "url": "/executive-apartment-damansara"
+    },
+    {
+      "title": "Student Room Rental Damansara",
+      "url": "/student-room-rental-damansara"
+    },
+    {
+      "title": "Professional Room Rental Damansara",
+      "url": "/professional-room-rental-damansara"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at M Centura Residences Kepong",
+      "price": 1500,
+      "rentedDate": "2026-06-10"
+    },
+    {
+      "title": "Single Room at Metro Prima Kepong",
+      "price": 850,
+      "rentedDate": "2026-06-05"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Marketing Executive"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "University Student"
+    },
+    {
+      "gender": "Male",
+      "budget": 1300,
+      "occupation": "Account Executive"
+    },
+    {
+      "gender": "Female",
+      "budget": 1000,
+      "occupation": "Nurse"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Damansara suitable for families looking for rental homes?",
+      "answer": "Yes. Damansara is one of the preferred residential areas for families because it offers spacious apartments, condominiums, good schools, healthcare facilities, shopping malls, parks and safe neighbourhoods."
+    },
+    {
+      "question": "Are family apartments available for rent in Damansara?",
+      "answer": "Yes. Damansara offers many family-friendly apartments and condominiums with multiple bedrooms, parking facilities, swimming pools, gyms, playgrounds and security services."
+    },
+    {
+      "question": "What are the best areas to rent for families in Damansara?",
+      "answer": "Popular family-friendly rental areas include Bandar Utama, Mutiara Damansara, Kota Damansara, Damansara Perdana and TTDI due to lifestyle facilities and accessibility."
+    },
+    {
+      "question": "Is Damansara safe for families?",
+      "answer": "Yes. Many residential developments in Damansara provide gated security, CCTV monitoring, controlled access and family-oriented facilities."
+    },
+    {
+      "question": "Are affordable rooms available in Damansara?",
+      "answer": "Yes. Tenants can find affordable rooms in Damansara starting from budget-friendly options in apartments and shared accommodations while still enjoying good connectivity."
+    },
+    {
+      "question": "Where can budget tenants find cheap rooms in Damansara?",
+      "answer": "Budget tenants can explore rental options around Kota Damansara, Damansara Perdana, Sungai Buloh and older apartment developments offering better rental value."
+    },
+    {
+      "question": "Is Damansara cheaper than Mont Kiara for rental?",
+      "answer": "Generally, Damansara offers more affordable rental options compared with Mont Kiara while maintaining convenient access to business districts and lifestyle facilities."
+    },
+    {
+      "question": "Is Damansara cheaper than Bangsar for rental?",
+      "answer": "Yes. Damansara usually provides better rental value compared with Bangsar while offering modern residences, shopping facilities and MRT connectivity."
+    },
+    {
+      "question": "What is the cheapest room rental option in Damansara?",
+      "answer": "The cheapest room rental options in Damansara are usually single rooms and shared rooms in apartments located slightly away from premium commercial areas."
+    },
+    {
+      "question": "Are low budget apartments available in Damansara?",
+      "answer": "Yes. Damansara has various affordable apartments suitable for students, young professionals and tenants looking for budget-friendly accommodation."
+    },
+    {
+      "question": "Are luxury condos available for rent in Damansara?",
+      "answer": "Yes. Damansara offers premium condominiums and serviced residences with facilities such as swimming pools, gyms, security, landscaped gardens and modern lifestyle features."
+    },
+    {
+      "question": "What are the best luxury condos for rent in Damansara?",
+      "answer": "Popular premium residences around Damansara include developments around Bandar Utama, Mutiara Damansara, Damansara Perdana and Desa ParkCity areas."
+    },
+    {
+      "question": "Are serviced apartments available in Damansara?",
+      "answer": "Yes. Damansara has serviced apartments suitable for professionals, expatriates and tenants looking for flexible rental options with hotel-style facilities."
+    },
+    {
+      "question": "Are premium condominium rentals popular in Damansara?",
+      "answer": "Yes. Premium condominium rentals in Damansara are highly searched because of excellent locations, lifestyle facilities and access to commercial hubs."
+    },
+    {
+      "question": "What facilities do Damansara condominiums provide?",
+      "answer": "Most Damansara condominiums provide facilities including swimming pools, gyms, security services, parking spaces, playgrounds, gardens and recreational areas."
+    },
+    {
+      "question": "Are condos near 1 Utama available for rent?",
+      "answer": "Yes. Many rental properties around Bandar Utama and Damansara provide quick access to 1 Utama Shopping Centre and surrounding commercial areas."
+    },
+    {
+      "question": "Are rooms near The Curve Damansara available?",
+      "answer": "Yes. Rental rooms near The Curve and Mutiara Damansara are popular among professionals who want convenient access to shopping, dining and workplaces."
+    },
+    {
+      "question": "Are rooms near IKEA Damansara available?",
+      "answer": "Yes. Tenants can find rooms and apartments near IKEA Damansara with convenient access to retail facilities and public transportation."
+    },
+    {
+      "question": "Are rooms near One Utama MRT available?",
+      "answer": "Yes. Residential properties near Bandar Utama MRT provide easy access to 1 Utama and major business areas around Petaling Jaya."
+    },
+    {
+      "question": "Is Damansara good for people working in Petaling Jaya?",
+      "answer": "Yes. Damansara is one of the best rental locations for professionals working in Petaling Jaya due to short travel distances and excellent connectivity."
+    },
+    {
+      "question": "Is Damansara suitable for people working in KLCC?",
+      "answer": "Yes. Many tenants working in KLCC choose Damansara because it provides more affordable rental options while maintaining access through highways and public transport."
+    },
+    {
+      "question": "Is Damansara convenient for people working in Bangsar?",
+      "answer": "Yes. Damansara provides convenient access to Bangsar through major roads and public transportation connections."
+    },
+    {
+      "question": "Is Damansara suitable for people working in KL Sentral?",
+      "answer": "Yes. Professionals working in KL Sentral often consider Damansara due to its accessibility, rental value and comfortable residential environment."
+    },
+    {
+      "question": "Are remote workers suitable for living in Damansara?",
+      "answer": "Yes. Damansara is suitable for remote workers because many residences offer high-speed internet access, cafes, shopping facilities and comfortable living environments."
+    },
+    {
+      "question": "Can couples rent rooms in Damansara?",
+      "answer": "Yes. Couples can find suitable rental options including master rooms, studio apartments and serviced residences depending on landlord approval."
+    },
+    {
+      "question": "Are rooms with attached bathrooms available in Damansara?",
+      "answer": "Yes. Many master rooms and premium rooms in Damansara include attached bathrooms for tenants seeking additional privacy."
+    },
+    {
+      "question": "Do Damansara rental rooms include WiFi?",
+      "answer": "Many fully furnished rental rooms in Damansara include WiFi or allow tenants to arrange internet services based on rental agreements."
+    },
+    {
+      "question": "Are utilities included in Damansara room rental?",
+      "answer": "Some Damansara room rentals include electricity, water and internet while others require separate utility payments depending on landlord terms."
+    },
+    {
+      "question": "Are monthly room rentals available in Damansara?",
+      "answer": "Yes. Monthly rental rooms are available throughout Damansara for professionals, students, expatriates and temporary residents."
+    },
+    {
+      "question": "Are short-term rentals available in Damansara?",
+      "answer": "Some serviced apartments and selected residences in Damansara provide short-term rental options depending on availability and building regulations."
+    },
+    {
+      "question": "What documents are required to rent a room in Damansara?",
+      "answer": "Tenants usually need identification documents, employment or student details, rental deposits and a signed tenancy agreement before moving into a Damansara rental property."
+    },
+    {
+      "question": "How much deposit is required for Damansara room rental?",
+      "answer": "Most Damansara rental properties require security and utility deposits based on landlord terms, commonly calculated according to the monthly rental amount."
+    },
+    {
+      "question": "Can foreigners rent rooms in Damansara without a Malaysian guarantor?",
+      "answer": "Many landlords in Damansara accept foreign tenants depending on tenancy requirements, employment status, documentation and landlord approval."
+    },
+    {
+      "question": "What is the minimum rental period for rooms in Damansara?",
+      "answer": "Most Damansara room rentals have minimum tenancy periods ranging from several months to one year, although some serviced residences may offer flexible rental arrangements."
+    },
+    {
+      "question": "Can I rent a room monthly in Damansara?",
+      "answer": "Yes. Monthly room rentals are available in Damansara, especially in furnished rooms, serviced apartments and flexible accommodation options."
+    },
+    {
+      "question": "Are short-term rental rooms available near Damansara MRT?",
+      "answer": "Some properties near Damansara MRT stations offer short-term rental options depending on building policies, landlord approval and availability."
+    },
+    {
+      "question": "Is Damansara suitable for long-term rental?",
+      "answer": "Yes. Damansara is highly suitable for long-term rental because of stable residential communities, excellent facilities, transportation connectivity and strong rental demand."
+    },
+    {
+      "question": "Why is Damansara popular for rental properties?",
+      "answer": "Damansara is popular because it combines strategic location, MRT connectivity, shopping destinations, business accessibility, modern condominiums and diverse rental choices."
+    },
+    {
+      "question": "Why rent in Damansara instead of Kuala Lumpur city centre?",
+      "answer": "Many tenants choose Damansara because it offers larger living spaces, better rental value, greener surroundings and convenient access to Kuala Lumpur."
+    },
+    {
+      "question": "Is Damansara a good alternative to KLCC rental?",
+      "answer": "Yes. Damansara provides more affordable rental options compared with KLCC while allowing tenants to access major business districts through public transport and highways."
+    },
+    {
+      "question": "What are the advantages of renting in Damansara?",
+      "answer": "The main advantages include excellent connectivity, premium lifestyle facilities, shopping convenience, access to employment areas and a wide range of affordable to luxury homes."
+    },
+    {
+      "question": "Is Damansara a good investment rental area?",
+      "answer": "Yes. Damansara has strong rental demand due to its strategic location, MRT connectivity, commercial hubs and popularity among professionals and families."
+    },
+    {
+      "question": "Which Damansara areas have the highest rental demand?",
+      "answer": "Areas such as Bandar Utama, Mutiara Damansara, Kota Damansara and Damansara Perdana generally experience strong rental demand due to transportation and lifestyle facilities."
+    },
+    {
+      "question": "What are the best residential areas in Damansara?",
+      "answer": "Popular residential areas include Bandar Utama, Mutiara Damansara, Kota Damansara, Damansara Perdana, TTDI and Damansara Heights."
+    },
+    {
+      "question": "Are there rooms near Bandar Utama MRT Station?",
+      "answer": "Yes. Bandar Utama MRT Station is surrounded by premium residences and rental properties suitable for professionals working in Petaling Jaya and Kuala Lumpur."
+    },
+    {
+      "question": "Are there rooms near Mutiara Damansara MRT Station?",
+      "answer": "Yes. Mutiara Damansara MRT Station has many nearby rental options including apartments, condominiums and serviced residences."
+    },
+    {
+      "question": "Are there rooms near Kota Damansara MRT Station?",
+      "answer": "Yes. Kota Damansara offers many affordable rooms and condominium rentals with convenient access to MRT and commercial areas."
+    },
+    {
+      "question": "Are there rooms near TTDI MRT Station?",
+      "answer": "Yes. TTDI MRT Station provides access to nearby residential areas where tenants can find rooms and apartments for rent."
+    },
+    {
+      "question": "Is Damansara connected to Petaling Jaya?",
+      "answer": "Yes. Damansara is closely connected to Petaling Jaya through major highways, roads and public transportation networks."
+    },
+    {
+      "question": "How far is Damansara from Kuala Lumpur city centre?",
+      "answer": "Damansara is approximately 10 to 15 kilometres from Kuala Lumpur city centre depending on the specific Damansara neighbourhood and route taken."
+    },
+    {
+      "question": "How long does it take from Damansara to KLCC?",
+      "answer": "Travel time from Damansara to KLCC usually ranges from 25 to 45 minutes depending on traffic conditions and transportation method."
+    },
+    {
+      "question": "How long does it take from Damansara to KL Sentral?",
+      "answer": "Damansara residents can reach KL Sentral through MRT connections, highways and road networks with travel times depending on the exact location."
+    },
+    {
+      "question": "How long does it take from Damansara to Bangsar?",
+      "answer": "Damansara provides convenient access to Bangsar through major roads and public transportation routes."
+    },
+    {
+      "question": "Is Damansara near Mont Kiara?",
+      "answer": "Yes. Damansara is relatively close to Mont Kiara and Sri Hartamas, making it attractive for professionals working in those areas."
+    },
+    {
+      "question": "Are there rooms near Mont Kiara from Damansara?",
+      "answer": "Yes. Many professionals choose Damansara as a more affordable rental option while working in Mont Kiara due to convenient road connectivity."
+    },
+    {
+      "question": "Are there rooms near Sri Hartamas from Damansara?",
+      "answer": "Yes. Damansara provides access to Sri Hartamas through major roads, making it a practical rental choice for nearby workers."
+    },
+    {
+      "question": "Is Damansara suitable for office workers?",
+      "answer": "Yes. Damansara is suitable for office workers due to its proximity to major employment centres, commercial areas and transportation options."
+    },
+    {
+      "question": "Are Damansara rentals suitable for young professionals?",
+      "answer": "Yes. Young professionals prefer Damansara because of affordable rental choices, lifestyle facilities, cafes, shopping malls and MRT connectivity."
+    },
+    {
+      "question": "Are Damansara rooms suitable for fresh graduates?",
+      "answer": "Yes. Fresh graduates can find budget-friendly rooms in Damansara while enjoying access to workplaces, transportation and daily conveniences."
+    },
+    {
+      "question": "What are the best condos for rent in Damansara?",
+      "answer": "Popular condominium rental options in Damansara include residences around Bandar Utama, Mutiara Damansara, Damansara Perdana, Kota Damansara and Damansara Heights offering modern facilities and strategic locations."
+    },
+    {
+      "question": "Are condominiums near 1 Utama available for rent?",
+      "answer": "Yes. Many condominiums around Bandar Utama and Damansara provide convenient access to 1 Utama Shopping Centre, MRT stations, restaurants and business areas."
+    },
+    {
+      "question": "Are condos near The Curve Damansara available for rent?",
+      "answer": "Yes. Mutiara Damansara offers various condominium and apartment rental options near The Curve, IKEA Damansara and lifestyle destinations."
+    },
+    {
+      "question": "Are apartments available for rent in Damansara?",
+      "answer": "Yes. Damansara offers a wide range of apartment rentals including affordable apartments, serviced apartments, studio units and condominium apartments."
+    },
+    {
+      "question": "Where can I find affordable apartments in Damansara?",
+      "answer": "Affordable apartments can be found around Kota Damansara, Damansara Perdana and selected residential developments offering good value rental options."
+    },
+    {
+      "question": "Where can I find luxury apartments in Damansara?",
+      "answer": "Luxury apartments are available around Bandar Utama, Mutiara Damansara and Damansara Heights featuring premium facilities, security and high-end lifestyle amenities."
+    },
+    {
+      "question": "Are furnished apartments available in Damansara?",
+      "answer": "Yes. Many apartments in Damansara come fully furnished with essential furniture, kitchen appliances, air conditioning and internet-ready facilities."
+    },
+    {
+      "question": "Are there new condominiums for rent in Damansara?",
+      "answer": "Yes. Damansara has several newer residential developments offering modern layouts, contemporary facilities and attractive rental options."
+    },
+    {
+      "question": "Are high-rise residences available in Damansara?",
+      "answer": "Yes. Damansara has many high-rise residences including condominiums, serviced apartments and premium apartments suitable for different tenant profiles."
+    },
+    {
+      "question": "What facilities do Damansara condos usually have?",
+      "answer": "Most Damansara condos provide swimming pools, gyms, security, parking spaces, playgrounds, gardens, function rooms and recreational facilities."
+    },
+    {
+      "question": "Are there gated and guarded residences in Damansara?",
+      "answer": "Yes. Many residential developments in Damansara provide gated security, controlled access and professional security services."
+    },
+    {
+      "question": "Is Damansara good for luxury living?",
+      "answer": "Yes. Areas such as Damansara Heights, Bandar Utama and Mutiara Damansara offer premium residences suitable for tenants seeking upscale lifestyles."
+    },
+    {
+      "question": "Is Damansara suitable for executives?",
+      "answer": "Yes. Executives often choose Damansara because of premium condominiums, business accessibility, shopping convenience and excellent connectivity."
+    },
+    {
+      "question": "Are executive rooms available in Damansara?",
+      "answer": "Yes. Executive-style rooms with better furnishing, larger layouts and private facilities are available in selected Damansara residences."
+    },
+    {
+      "question": "Are premium master rooms available in Damansara?",
+      "answer": "Yes. Premium master rooms with attached bathrooms, larger spaces and condominium facilities are available throughout Damansara."
+    },
+    {
+      "question": "Are there rooms near Damansara shopping malls?",
+      "answer": "Yes. Tenants can find rental rooms near major shopping destinations including 1 Utama, The Curve, IKEA Damansara and IPC Shopping Centre."
+    },
+    {
+      "question": "Is Damansara convenient for shopping and dining?",
+      "answer": "Yes. Damansara provides excellent lifestyle convenience with shopping malls, cafes, restaurants, supermarkets and entertainment options nearby."
+    },
+    {
+      "question": "What are the popular landmarks near Damansara?",
+      "answer": "Popular landmarks include 1 Utama Shopping Centre, The Curve, IKEA Damansara, IPC Shopping Centre, KidZania Kuala Lumpur, Tropicana City Mall and MRT stations."
+    },
+    {
+      "question": "Are there rooms near IKEA Damansara?",
+      "answer": "Yes. Rental properties near IKEA Damansara are popular among tenants who want easy access to shopping, dining and lifestyle facilities."
+    },
+    {
+      "question": "Are there rooms near The Curve Shopping Mall?",
+      "answer": "Yes. Mutiara Damansara provides rental options close to The Curve Shopping Mall with excellent lifestyle convenience."
+    },
+    {
+      "question": "Are there rooms near 1 Utama Shopping Centre?",
+      "answer": "Yes. Bandar Utama and surrounding Damansara areas offer many rental properties close to 1 Utama Shopping Centre."
+    },
+    {
+      "question": "Is Damansara suitable for people who enjoy city lifestyle?",
+      "answer": "Yes. Damansara provides a balanced lifestyle with urban convenience, shopping, dining, entertainment and peaceful residential communities."
+    },
+    {
+      "question": "Does Damansara have good food options?",
+      "answer": "Yes. Damansara offers many restaurants, cafes, food courts and local dining options suitable for residents from different backgrounds."
+    },
+    {
+      "question": "Is Damansara a convenient place for daily living?",
+      "answer": "Yes. Residents enjoy easy access to supermarkets, malls, healthcare facilities, schools, public transportation and essential services."
+    },
+    {
+      "question": "Are healthcare facilities available near Damansara?",
+      "answer": "Yes. Damansara has access to various healthcare facilities including hospitals, clinics and medical centres around Petaling Jaya and Kuala Lumpur."
+    },
+    {
+      "question": "Are schools available near Damansara rental properties?",
+      "answer": "Yes. Families renting in Damansara benefit from access to local schools, international schools and educational facilities in nearby areas."
+    },
+    {
+      "question": "Is Damansara suitable for international families?",
+      "answer": "Yes. International families choose Damansara because of international lifestyle facilities, quality residences, schools and accessibility."
+    },
+    {
+      "question": "Can I find pet-friendly rentals in Damansara?",
+      "answer": "Some Damansara condominiums allow pets depending on management rules and landlord approval. Tenants should confirm pet policies before renting."
+    },
+    {
+      "question": "Are parking facilities available in Damansara condos?",
+      "answer": "Yes. Most condominium developments in Damansara provide resident parking facilities, with some offering multiple parking spaces."
+    },
+    {
+      "question": "What is the best area to rent a room in Damansara?",
+      "answer": "The best area depends on tenant needs. Bandar Utama is popular for professionals, Mutiara Damansara for lifestyle convenience, Kota Damansara for affordable rentals and Damansara Heights for premium living."
+    },
+    {
+      "question": "Which Damansara area is best for budget tenants?",
+      "answer": "Budget tenants usually prefer Kota Damansara, Damansara Perdana and selected apartment areas because they offer more affordable room and apartment rental options."
+    },
+    {
+      "question": "Which Damansara area is best for professionals?",
+      "answer": "Professionals often choose Bandar Utama, Mutiara Damansara and Damansara Perdana because of MRT connectivity, business accessibility and lifestyle facilities."
+    },
+    {
+      "question": "Which Damansara area is best for expatriates?",
+      "answer": "Expatriates often prefer Damansara Heights, Bandar Utama and premium condominium areas because of international facilities, security and convenient access to business districts."
+    },
+    {
+      "question": "Which Damansara area is best for families?",
+      "answer": "Families commonly choose Bandar Utama, Mutiara Damansara and Damansara Heights due to schools, shopping malls, healthcare facilities and family-friendly communities."
+    },
+    {
+      "question": "Is Damansara suitable for first-time renters?",
+      "answer": "Yes. Damansara is suitable for first-time renters because it offers many rental choices, good transportation access and convenient daily amenities."
+    },
+    {
+      "question": "Can fresh graduates find affordable rooms in Damansara?",
+      "answer": "Yes. Fresh graduates can find affordable single rooms and shared rooms in Damansara while staying close to employment areas and public transport."
+    },
+    {
+      "question": "Are working adults choosing Damansara for rental?",
+      "answer": "Yes. Working adults frequently choose Damansara because of its location between Kuala Lumpur and Petaling Jaya employment hubs."
+    },
+    {
+      "question": "Is Damansara good for remote workers and freelancers?",
+      "answer": "Yes. Damansara is suitable for remote workers due to reliable internet availability, cafes, coworking spaces, shopping facilities and comfortable residences."
+    },
+    {
+      "question": "Are there coworking spaces near Damansara?",
+      "answer": "Yes. Damansara and nearby Petaling Jaya areas offer coworking spaces, cafes and business facilities suitable for remote professionals."
+    },
+    {
+      "question": "Are rooms near Petaling Jaya available from Damansara?",
+      "answer": "Yes. Damansara is strategically located near Petaling Jaya, making it popular among tenants working in PJ commercial areas."
+    },
+    {
+      "question": "Are rooms near Bandar Utama offices available?",
+      "answer": "Yes. Many rental properties around Bandar Utama provide convenient access to offices, shopping malls and MRT transportation."
+    },
+    {
+      "question": "Are rooms near Kota Damansara available for rent?",
+      "answer": "Yes. Kota Damansara offers many affordable rooms, apartments and condominiums suitable for students, professionals and families."
+    },
+    {
+      "question": "Are rooms near Damansara Perdana available?",
+      "answer": "Yes. Damansara Perdana has many condominium and apartment rental options with access to shopping areas and business locations."
+    },
+    {
+      "question": "Are rooms near Damansara Heights available?",
+      "answer": "Yes. Premium rental properties near Damansara Heights are available for tenants looking for upscale residences and convenient access to Kuala Lumpur."
+    },
+    {
+      "question": "What is the difference between Damansara and Petaling Jaya rental?",
+      "answer": "Damansara generally offers more residential-focused neighbourhoods with modern developments, while Petaling Jaya provides wider commercial and business connectivity."
+    },
+    {
+      "question": "Is Damansara better than Petaling Jaya for rental?",
+      "answer": "The choice depends on lifestyle and work location. Damansara offers strong residential value, while Petaling Jaya provides closer access to major business areas."
+    },
+    {
+      "question": "Is Damansara better than Mont Kiara for rental?",
+      "answer": "Damansara often provides better rental value and MRT access, while Mont Kiara is preferred by tenants seeking premium expatriate-focused communities."
+    },
+    {
+      "question": "Is Damansara better than Bangsar for rental?",
+      "answer": "Damansara generally offers more affordable rental options compared with Bangsar while still providing excellent lifestyle facilities and connectivity."
+    },
+    {
+      "question": "Can I find cheap condo rooms in Damansara?",
+      "answer": "Yes. Affordable condo rooms are available in selected Damansara developments offering access to facilities at reasonable rental prices."
+    },
+    {
+      "question": "Are fully furnished condo rooms available in Damansara?",
+      "answer": "Yes. Many condo rooms in Damansara come fully furnished with beds, wardrobes, air conditioning and shared condominium facilities."
+    },
+    {
+      "question": "Are rooms with private bathrooms available in Damansara?",
+      "answer": "Yes. Master rooms and premium rooms in Damansara often include private bathrooms for tenants who prefer additional privacy."
+    },
+    {
+      "question": "Are female-only rooms available in Damansara?",
+      "answer": "Yes. Some landlords offer female-only rental rooms in Damansara depending on availability and tenant preferences."
+    },
+    {
+      "question": "Are male-only rooms available in Damansara?",
+      "answer": "Yes. Male-only room rentals may be available in selected apartments and condominiums in Damansara."
+    },
+    {
+      "question": "Are student-friendly rooms available near Damansara MRT?",
+      "answer": "Yes. Students can find affordable rooms near Damansara MRT stations with convenient access to transportation and daily necessities."
+    },
+    {
+      "question": "Are working professionals preferred tenants in Damansara?",
+      "answer": "Many landlords in Damansara prefer working professionals due to stable income and long-term rental potential."
+    },
+    {
+      "question": "What makes Damansara rental properties attractive?",
+      "answer": "Damansara rental properties are attractive because of strategic location, MRT connectivity, lifestyle facilities, shopping destinations and diverse accommodation choices."
+    },
+    {
+      "question": "Why should I choose Damansara for rental property?",
+      "answer": "Damansara offers a balanced lifestyle with affordable to luxury rental options, excellent connectivity, modern residences and access to major Kuala Lumpur and Petaling Jaya areas."
+    },
+    {
+      "question": "Where can I search for the best room rental in Damansara?",
+      "answer": "Tenants can explore room rentals in Damansara by comparing location, rental price, facilities, transportation access and property suitability before choosing the ideal home."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Damansara",
+      "url": "/master-room-rental-damansara"
+    },
+    {
+      "title": "Single Room Damansara",
+      "url": "/single-room-rental-damansara"
+    },
+    {
+      "title": "Condo Room Damansara",
+      "url": "/condo-room-rental-damansara"
+    },
+    {
+      "title": "Room Near Mutiara Damansara MRT",
+      "url": "/room-near-mutiara-damansara-mrt"
+    },
+    {
+      "title": "Room Near Bandar Utama MRT",
+      "url": "/room-near-bandar-utama-mrt"
+    },
+    {
+      "title": "Damansara Room Rental",
+      "url": "/damansara-room-rental"
+    },
+    {
+      "title": "Cheap Room Rental Damansara",
+      "url": "/cheap-room-rental-damansara"
+    },
+    {
+      "title": "Affordable Apartment Damansara",
+      "url": "/affordable-apartment-damansara"
+    },
+    {
+      "title": "Luxury Condo Damansara For Rent",
+      "url": "/luxury-condo-damansara"
+    },
+    {
+      "title": "Studio Apartment Damansara",
+      "url": "/studio-apartment-damansara"
+    },
+    {
+      "title": "Fully Furnished Room Damansara",
+      "url": "/fully-furnished-room-damansara"
+    },
+    {
+      "title": "Room Near Surian MRT",
+      "url": "/room-near-surian-mrt"
+    },
+    {
+      "title": "Room Near Damansara MRT",
+      "url": "/room-near-damansara-mrt"
+    },
+    {
+      "title": "Room Near 1 Utama Damansara",
+      "url": "/room-near-1-utama-damansara"
+    },
+    {
+      "title": "Expat Room Rental Damansara",
+      "url": "/expat-room-rental-damansara"
+    },
+    {
+      "title": "Family Apartment Rental Damansara",
+      "url": "/family-apartment-rental-damansara"
+    },
+    {
+      "title": "Room Near IKEA Damansara",
+      "url": "/room-near-ikea-damansara"
+    },
+    {
+      "title": "Room Near The Curve Damansara",
+      "url": "/room-near-the-curve-damansara"
+    },
+    {
+      "title": "Room Near Kota Damansara",
+      "url": "/room-near-kota-damansara"
+    },
+    {
+      "title": "Room Near TTDI MRT",
+      "url": "/room-near-ttdi-mrt"
+    },
+    {
+      "title": "Serviced Apartment Damansara",
+      "url": "/serviced-apartment-damansara"
+    },
+    {
+      "title": "Premium Condo Damansara",
+      "url": "/premium-condo-damansara"
+    },
+    {
+      "title": "Executive Apartment Damansara",
+      "url": "/executive-apartment-damansara"
+    },
+    {
+      "title": "Student Room Rental Damansara",
+      "url": "/student-room-rental-damansara"
+    },
+    {
+      "title": "Professional Room Rental Damansara",
+      "url": "/professional-room-rental-damansara"
+    }
+  ],
+  "focusKeywords": [
+    "Damansara room for rent",
+    "Damansara room rental",
+    "Damansara condo for rent",
+    "Damansara apartment for rent",
+    "room near Damansara MRT",
+    "room near Mutiara Damansara MRT",
+    "room near Bandar Utama MRT",
+    "room near Surian MRT",
+    "room near Semantan MRT",
+    "furnished room Damansara",
+    "fully furnished room Damansara",
+    "cheap room Damansara Kuala Lumpur",
+    "affordable room rental Damansara",
+    "Damansara rental property",
+    "Damansara condominium rental",
+    "luxury condo Damansara for rent",
+    "studio apartment Damansara",
+    "master room Damansara",
+    "single room Damansara",
+    "medium room Damansara",
+    "monthly rental Damansara",
+    "private room Damansara",
+    "shared room Damansara",
+    "Damansara apartment rental Kuala Lumpur",
+    "Damansara housing rental",
+    "Damansara accommodation Kuala Lumpur",
+    "room near 1 Utama Shopping Centre",
+    "room near The Curve Damansara",
+    "room near IKEA Damansara",
+    "room near Bandar Utama",
+    "room near Mutiara Damansara",
+    "room near Kota Damansara",
+    "room near Damansara Perdana",
+    "room near Damansara Heights",
+    "student room rental Damansara",
+    "professional room rental Damansara",
+    "expat housing Damansara",
+    "serviced apartment Damansara",
+    "family apartment Damansara",
+    "premium condo Damansara",
+    "executive apartment Damansara",
+    "MRT connected rental Damansara",
+    "room near Petaling Jaya from Damansara",
+    "room near Mont Kiara from Damansara",
+    "room near Sri Hartamas from Damansara",
+    "room near Kuala Lumpur from Damansara",
+    "room near Tropicana Mall",
+    "room near Desa ParkCity from Damansara"
+  ],
+  "longTailKeywords": [
+    "fully furnished room for rent near Mutiara Damansara MRT station",
+    "cheap room rental in Damansara for working professionals",
+    "affordable room rental near Bandar Utama MRT Kuala Lumpur",
+    "best room rental in Damansara Kuala Lumpur",
+    "luxury condo for rent in Damansara Kuala Lumpur",
+    "expat friendly apartment for rent in Damansara",
+    "master room with private bathroom in Damansara",
+    "studio apartment for rent in Damansara fully furnished",
+    "room near Damansara MRT station for professionals",
+    "room near Mutiara Damansara MRT with easy transportation",
+    "premium condominium rental in Damansara Kuala Lumpur",
+    "fully furnished condo room near Bandar Utama Damansara",
+    "cheap master room rental near Damansara MRT",
+    "affordable apartment rental near The Curve Damansara",
+    "private room with attached bathroom for rent in Damansara",
+    "best area to rent room near 1 Utama Shopping Centre",
+    "room rental near IKEA Damansara Kuala Lumpur",
+    "student accommodation near Damansara MRT station",
+    "modern serviced residence for rent in Damansara Kuala Lumpur",
+    "monthly room rental near Damansara shopping malls",
+    "budget room rental near Kota Damansara",
+    "condo room rental near Mutiara Damansara MRT",
+    "room for rent near Bandar Utama MRT station",
+    "professional accommodation near Damansara MRT",
+    "family apartment rental near Bandar Utama",
+    "cheap furnished room near Damansara Kuala Lumpur",
+    "high quality condo rental near Damansara MRT",
+    "room rental for foreigners in Damansara Kuala Lumpur",
+    "affordable housing near Mont Kiara and Sri Hartamas from Damansara",
+    "best furnished room rental area in Petaling Jaya and Damansara",
+    "room near One Utama office area for rent",
+    "condo rental near Damansara Perdana",
+    "affordable master room near Mutiara Damansara",
+    "room near Surian MRT station for working adults",
+    "fully furnished apartment near Bandar Utama",
+    "cheap room rental near Tropicana Mall",
+    "executive condo rental in Damansara for expatriates",
+    "family friendly condo rental near Damansara International School",
+    "short term rental room Damansara Kuala Lumpur",
+    "long term rental apartment Damansara Petaling Jaya"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Damansara",
+      "budget room near Damansara MRT",
+      "student room near Mutiara Damansara MRT",
+      "affordable accommodation Damansara Kuala Lumpur",
+      "student rental room Damansara",
+      "shared room rental Damansara",
+      "cheap furnished room Damansara",
+      "budget apartment near Bandar Utama MRT",
+      "student accommodation near Damansara MRT",
+      "affordable room near 1 Utama Shopping Centre",
+      "student housing near Petaling Jaya from Damansara"
+    ],
+    "expat": [
+      "expat housing Damansara",
+      "furnished condo Damansara",
+      "serviced apartment Damansara",
+      "international tenant friendly condo Damansara",
+      "luxury apartment rental Damansara",
+      "premium condo near Bandar Utama",
+      "comfortable rental near Mutiara Damansara",
+      "fully furnished apartment Damansara Kuala Lumpur",
+      "expat friendly residence near The Curve Damansara",
+      "premium rental near Damansara Heights"
+    ],
+    "professional": [
+      "Damansara condo near MRT",
+      "room near Bandar Utama MRT for professionals",
+      "room near Mutiara Damansara offices",
+      "room near Petaling Jaya from Damansara",
+      "room near Mont Kiara from Damansara",
+      "room near Sri Hartamas from Damansara",
+      "premium apartment Damansara",
+      "executive residence Damansara",
+      "working professional room rental Damansara",
+      "office worker accommodation Damansara",
+      "room near 1 Utama business district"
+    ],
+    "shortStay": [
+      "short term rental Damansara",
+      "monthly rental Damansara",
+      "serviced residence Damansara",
+      "flexible room rental Damansara",
+      "short stay apartment Damansara Kuala Lumpur",
+      "temporary accommodation Damansara",
+      "monthly furnished room Damansara",
+      "short term condo rental Damansara",
+      "weekly rental room Damansara",
+      "business traveller accommodation Damansara"
+    ],
+    "premiumIntent": [
+      "luxury condo Damansara for rent",
+      "high end apartment Damansara",
+      "executive residence Damansara",
+      "premium serviced apartment Damansara",
+      "luxury condominium rental near Bandar Utama",
+      "modern condo rental Damansara Kuala Lumpur",
+      "premium furnished room Damansara",
+      "exclusive apartment near Damansara Heights",
+      "luxury residence near 1 Utama",
+      "premium condo near Mutiara Damansara MRT"
+    ],
+    "family": [
+      "family apartment Damansara",
+      "3 bedroom condo Damansara rental",
+      "family friendly condo near Bandar Utama",
+      "safe residential area Damansara",
+      "large apartment rental Damansara Kuala Lumpur",
+      "family condo near Mutiara Damansara",
+      "quiet neighbourhood rental Damansara",
+      "condo near international schools Damansara",
+      "spacious family home Damansara",
+      "family friendly residence near The Curve"
+    ],
+    "budgetTenant": [
+      "cheap room Damansara Kuala Lumpur",
+      "low budget rental Damansara",
+      "affordable apartment Damansara",
+      "room under RM1000 Damansara",
+      "budget friendly room near Damansara MRT",
+      "cheap furnished room Damansara",
+      "affordable shared room Damansara",
+      "low cost apartment rental Petaling Jaya Damansara",
+      "budget accommodation near Bandar Utama",
+      "cheap rental room near Kota Damansara"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Damansara room for rent",
+    "secondaryKeywords": [
+      "Damansara condo for rent",
+      "Damansara apartment for rent",
+      "room near Damansara MRT",
+      "room near Mutiara Damansara MRT",
+      "room near Bandar Utama MRT",
+      "room near Surian MRT",
+      "furnished room Damansara",
+      "cheap room Damansara Kuala Lumpur",
+      "luxury condo Damansara",
+      "expat housing Damansara",
+      "serviced apartment Damansara",
+      "master room Damansara",
+      "room near 1 Utama Shopping Centre",
+      "room near The Curve Damansara",
+      "room near IKEA Damansara",
+      "room near Kota Damansara",
+      "room near Damansara Perdana",
+      "room near Damansara Heights"
+    ],
+    "seoScore": 98,
+    "canonicalUrl": "https://yourdomain.com/kuala-lumpur/damansara/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "premium-connected-pj-kl-rentals",
+    "contentCluster": [
+      "Damansara room rental",
+      "Damansara condo rental",
+      "MRT connected rentals Damansara",
+      "affordable rental properties Kuala Lumpur",
+      "Petaling Jaya nearby accommodation",
+      "student accommodation Damansara",
+      "professional housing Damansara",
+      "expat housing Kuala Lumpur",
+      "Bandar Utama nearby accommodation",
+      "Mutiara Damansara rental properties",
+      "furnished rooms Damansara",
+      "premium condominiums Damansara",
+      "family friendly rentals Damansara",
+      "luxury apartment rental Damansara"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Bandar Utama",
+        "Mutiara Damansara",
+        "Kota Damansara",
+        "Damansara Perdana",
+        "Damansara Heights",
+        "Tropicana",
+        "Petaling Jaya",
+        "Mont Kiara",
+        "Sri Hartamas",
+        "Bangsar",
+        "KLCC",
+        "Subang Jaya"
+      ],
+      "nearbyHotspots": [
+        "1 Utama Shopping Centre",
+        "The Curve",
+        "IKEA Damansara",
+        "IPC Shopping Centre",
+        "Surian MRT Station",
+        "Mutiara Damansara MRT Station",
+        "Bandar Utama MRT Station",
+        "Tropicana Mall",
+        "Damansara International School",
+        "KPJ Damansara Specialist Hospital",
+        "Mutiara Damansara Commercial Area"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Damansara Rooms for Rent",
+        "url": "/room-rental-damansara",
+        "keyword": "damansara room for rent"
+      },
+      {
+        "title": "Damansara Condos for Rent",
+        "url": "/condo-for-rent-damansara",
+        "keyword": "damansara condo for rent"
+      },
+      {
+        "title": "Cheap Rooms in Damansara",
+        "url": "/cheap-room-damansara",
+        "keyword": "cheap room damansara"
+      },
+      {
+        "title": "Rooms Near Damansara MRT",
+        "url": "/room-near-damansara-mrt",
+        "keyword": "room near damansara mrt"
+      },
+      {
+        "title": "Rooms Near Mutiara Damansara MRT",
+        "url": "/room-near-mutiara-damansara-mrt",
+        "keyword": "room near mutiara damansara mrt"
+      },
+      {
+        "title": "Rooms Near Bandar Utama MRT",
+        "url": "/room-near-bandar-utama-mrt",
+        "keyword": "room near bandar utama mrt"
+      },
+      {
+        "title": "Damansara 1 Utama Rental",
+        "url": "/damansara-1-utama-room-rental",
+        "keyword": "room near 1 utama shopping centre"
+      },
+      {
+        "title": "Damansara Petaling Jaya Rental",
+        "url": "/damansara-petaling-jaya-room-rental",
+        "keyword": "room near petaling jaya from damansara"
+      },
+      {
+        "title": "Damansara Luxury Condo Rental",
+        "url": "/luxury-condo-rental-damansara",
+        "keyword": "luxury condo damansara"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Damansara Area Guide",
+        "url": "/area-guide-damansara",
+        "type": "guide"
+      },
+      {
+        "title": "Damansara Price Guide 2026",
+        "url": "/price-guide-damansara",
+        "type": "pricing"
+      },
+      {
+        "title": "Damansara MRT Guide",
+        "url": "/damansara-mrt-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in Damansara",
+        "url": "/luxury-condo-damansara",
+        "type": "listing-category"
+      },
+      {
+        "title": "Expat Housing Damansara",
+        "url": "/expat-housing-damansara",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Damansara",
+        "url": "/furnished-room-damansara",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Damansara",
+        "url": "/short-term-rental-damansara",
+        "type": "rental-type"
+      },
+      {
+        "title": "Rooms Near 1 Utama From Damansara",
+        "url": "/room-near-1-utama-damansara",
+        "type": "location-intent-page"
+      },
+      {
+        "title": "Rooms Near Mutiara Damansara MRT",
+        "url": "/room-near-mutiara-damansara-mrt",
+        "type": "location-intent-page"
+      },
+      {
+        "title": "Rooms Near Bandar Utama MRT",
+        "url": "/room-near-bandar-utama-mrt",
+        "type": "location-intent-page"
+      },
+      {
+        "title": "Family Apartments Damansara",
+        "url": "/family-apartment-damansara",
+        "type": "audience-page"
+      },
+      {
+        "title": "Budget Rooms Damansara",
+        "url": "/budget-room-damansara",
+        "type": "rental-category"
+      }
+    ]
+  }
+}

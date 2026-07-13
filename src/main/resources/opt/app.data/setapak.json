@@ -1,0 +1,1252 @@
+{
+  "area": {
+    "name": "Setapak",
+    "slug": "setapak",
+    "heroImage": "assets/images/areas/setapak.jpg",
+    "metaTitle": "Rooms for Rent in Setapak | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Setapak near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Setapak – Complete Guide to Room Rental, Condo & Apartment Rental in Kuala Lumpur",
+    "description": "Setapak is one of Kuala Lumpur's most established and affordable residential areas, offering a wide range of room rental, condominium rental and apartment rental options for students, working professionals, families and long-term tenants. Located in the northern part of Kuala Lumpur, Setapak provides excellent access to major educational institutions, business districts, shopping destinations and public transportation networks. Whether you are searching for a master room for rent in Setapak, single room rental, fully furnished condo room, studio apartment, serviced apartment or affordable apartment rental, Setapak offers diverse accommodation choices suitable for different lifestyles and budgets. The area is especially popular among students due to its close proximity to Universiti Tunku Abdul Rahman (UTAR) Kuala Lumpur Campus, Tunku Abdul Rahman University of Management and Technology (TAR UMT), and other educational institutions. Working professionals also choose Setapak because of its convenient access to KLCC, Jalan Tun Razak, Wangsa Maju, Sentul and central Kuala Lumpur. Residents enjoy easy connectivity through Wangsa Maju LRT Station, Sri Rampai LRT Station, Setiawangsa LRT Station, major highways including DUKE and MRR2, and extensive road networks connecting Setapak with other parts of the Klang Valley. Popular lifestyle destinations such as Wangsa Walk Mall, Setapak Central, Melawati Mall, KL Festival City and AEON Big provide convenient shopping, dining and entertainment options. With affordable rental prices, mature infrastructure, universities, commercial areas and a wide range of condominiums, Setapak remains one of Kuala Lumpur's preferred rental locations.",
+    "buttonText": "Explore Setapak Rental Guide",
+    "buttonLink": "/room-rental-setapak",
+    "highlights": [
+      "Wide selection of master rooms, single rooms, medium rooms, studio apartments and condominiums for rent in Setapak",
+      "Affordable rental location with convenient access to Kuala Lumpur city centre",
+      "Popular among students due to nearby universities and education centres",
+      "Excellent connectivity through Wangsa Maju LRT, Sri Rampai LRT and major highways",
+      "Strong rental demand from students, young professionals and families",
+      "Close to KLCC, Jalan Tun Razak, Wangsa Maju and central Kuala Lumpur",
+      "Many condominiums offering swimming pools, gyms, security and modern facilities",
+      "Suitable for tenants looking for affordable housing near universities and workplaces",
+      "Wide range of furnished rooms and apartments available for monthly rental",
+      "Mature neighbourhood with shopping malls, restaurants and daily amenities",
+      "Popular choice for tenants seeking value-for-money accommodation in Kuala Lumpur",
+      "One of Kuala Lumpur's established residential areas with strong rental demand"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Excellent LRT & Transportation Connectivity",
+        "description": "Setapak residents enjoy convenient public transportation access through nearby Wangsa Maju LRT Station, Sri Rampai LRT Station and Setiawangsa LRT Station. Major highways including DUKE, MRR2 and Jalan Genting Klang provide easy access to KLCC, Bukit Bintang, Jalan Tun Razak and other Kuala Lumpur business areas."
+      },
+      {
+        "icon": "fas fa-home",
+        "title": "Affordable Rental Properties",
+        "description": "Setapak offers a wide range of rental properties including master rooms, single rooms, medium rooms, shared rooms, studio apartments, serviced residences and condominium units suitable for students, professionals and families."
+      },
+      {
+        "icon": "fas fa-graduation-cap",
+        "title": "Popular Student Rental Location",
+        "description": "Setapak is highly preferred by students due to its proximity to TAR UMT, UTAR Kuala Lumpur Campus and other education centres. The area provides affordable rooms, convenient transportation and student-friendly amenities."
+      },
+      {
+        "icon": "fas fa-briefcase",
+        "title": "Convenient Location for Working Professionals",
+        "description": "Professionals choose Setapak because of its accessibility to KLCC, Jalan Tun Razak, Wangsa Maju, Sentul and Kuala Lumpur city centre while enjoying more affordable rental prices compared with central city areas."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Lifestyle Convenience",
+        "description": "Residents have easy access to Setapak Central, Wangsa Walk Mall, Melawati Mall, KL Festival City, AEON Big and many restaurants, cafes and retail outlets."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Wide Range of Condominiums & Apartments",
+        "description": "Setapak features many established residential developments with facilities including swimming pools, gyms, security services, parking spaces, playgrounds and landscaped areas."
+      },
+      {
+        "icon": "fas fa-users",
+        "title": "Suitable for Students, Families & Professionals",
+        "description": "With affordable housing choices, education facilities, shopping areas and convenient transportation, Setapak attracts diverse tenant groups including students, young professionals and families."
+      },
+      {
+        "icon": "fas fa-road",
+        "title": "Strategic Access to Kuala Lumpur",
+        "description": "Setapak provides convenient road access to KLCC, Bukit Bintang, Mont Kiara, Wangsa Maju, Sentul and other major Kuala Lumpur locations through highways and main roads."
+      }
+    ],
+    "popularResidences": [
+      "PV Residence Setapak",
+      "PV21 Setapak",
+      "PV5 Setapak",
+      "PV6 Setapak",
+      "PV8 Setapak",
+      "M3 Residency",
+      "The Nest Residences",
+      "Danau Kota Apartment",
+      "Platinum Arena Residence",
+      "Setapak Ria",
+      "Residensi Setapak",
+      "Sri Pelangi Apartment",
+      "Prima Setapak",
+      "Greenwood Residency",
+      "Royal Regent",
+      "Melawati Corporate Residences",
+      "G Residence Setapak",
+      "Hampshire Residences Setapak",
+      "Diamond Residences",
+      "Villa Danau"
+    ],
+    "nearbyLandmarks": [
+      "Wangsa Walk Mall",
+      "Setapak Central",
+      "KL Festival City",
+      "Melawati Mall",
+      "TAR UMT Kuala Lumpur Campus",
+      "UTAR Kuala Lumpur Campus",
+      "Wangsa Maju LRT Station",
+      "Sri Rampai LRT Station",
+      "Setiawangsa LRT Station",
+      "Jalan Genting Klang",
+      "DUKE Highway",
+      "MRR2 Highway",
+      "KLCC",
+      "Bukit Bintang",
+      "Jalan Tun Razak",
+      "National Zoo Malaysia",
+      "Taman Melawati",
+      "Wangsa Maju",
+      "Sentul",
+      "Kuala Lumpur City Centre"
+    ],
+    "nearbyUniversities": [
+      "Tunku Abdul Rahman University of Management and Technology (TAR UMT)",
+      "Universiti Tunku Abdul Rahman (UTAR) Kuala Lumpur Campus",
+      "International Islamic University Malaysia (IIUM)",
+      "Universiti Teknologi Malaysia Kuala Lumpur (UTM KL)",
+      "HELP University",
+      "Asia Pacific University (APU)",
+      "Taylor's University",
+      "Sunway University",
+      "Universiti Malaya (UM)",
+      "Open University Malaysia"
+    ],
+    "majorEmployers": [
+      "Petronas",
+      "Maybank",
+      "CIMB Group",
+      "Public Bank",
+      "HSBC Malaysia",
+      "Standard Chartered Malaysia",
+      "Suria KLCC",
+      "Kuala Lumpur City Centre companies",
+      "Shell Malaysia",
+      "Accenture Malaysia",
+      "Deloitte Malaysia",
+      "PwC Malaysia",
+      "EY Malaysia",
+      "KPMG Malaysia",
+      "IBM Malaysia",
+      "Microsoft Malaysia",
+      "Grab Malaysia",
+      "Maxis",
+      "CelcomDigi",
+      "Technology Park Malaysia",
+      "KLCC business district companies"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Wangsa Maju LRT Station",
+      "slug": "wangsa-maju-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "8 mins drive",
+      "distanceMeters": 2500,
+      "distanceText": "8 mins drive (2.5 km)",
+      "title": "Wangsa Maju LRT Station",
+      "shortDescription": "Wangsa Maju LRT Station is one of the most important transit hubs near Setapak, providing convenient connectivity to KLCC, Bukit Bintang, Masjid Jamek and other major Kuala Lumpur destinations. Many tenants searching for Setapak room rental choose properties with easy access to Wangsa Maju LRT due to affordable rental prices and reliable public transportation.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "Wangsa Walk Mall",
+        "Wangsa Maju Town Centre",
+        "Setapak"
+      ],
+      "nearbyResidences": [
+        "PV Residence Setapak",
+        "PV5 Setapak",
+        "M3 Residency"
+      ],
+      "popularSearches": [
+        "Room near Wangsa Maju LRT",
+        "Setapak room rental",
+        "Condo near Wangsa Maju LRT"
+      ]
+    },
+    {
+      "name": "Sri Rampai LRT Station",
+      "slug": "sri-rampai-lrt",
+      "stationType": "LRT",
+      "line": "Kelana Jaya Line",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 3200,
+      "distanceText": "10 mins drive (3.2 km)",
+      "title": "Sri Rampai LRT Station",
+      "shortDescription": "Sri Rampai LRT Station serves residential communities around Setapak and Wangsa Maju. It is popular among students and working professionals looking for affordable rooms and apartments with convenient access to Kuala Lumpur city centre.",
+      "averageRoomRent": 1000,
+      "nearbyLandmarks": [
+        "Sri Rampai",
+        "Wangsa Walk Mall",
+        "Jalan Genting Klang"
+      ],
+      "nearbyResidences": [
+        "PV6 Setapak",
+        "PV8 Setapak",
+        "The Nest Residences"
+      ],
+      "popularSearches": [
+        "Room near Sri Rampai LRT",
+        "Affordable room Setapak",
+        "Rental near Sri Rampai"
+      ]
+    },
+    {
+      "name": "Setiawangsa LRT Station",
+      "slug": "setiawangsa-lrt",
+      "stationType": "LRT",
+      "line": "Ampang Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 4500,
+      "distanceText": "12 mins drive (4.5 km)",
+      "title": "Setiawangsa LRT Station",
+      "shortDescription": "Setiawangsa LRT Station provides additional public transportation access for Setapak residents travelling towards KLCC, Ampang and central Kuala Lumpur. The surrounding areas offer mature residential communities and rental options suitable for professionals.",
+      "averageRoomRent": 1200,
+      "nearbyLandmarks": [
+        "Setiawangsa",
+        "Jalan Tun Razak",
+        "KLCC"
+      ],
+      "nearbyResidences": [
+        "Royal Regent",
+        "PV Residence Setapak",
+        "Premium Setapak Condominiums"
+      ],
+      "popularSearches": [
+        "Room near Setiawangsa LRT",
+        "Setapak near KLCC room rental",
+        "Condo near Setiawangsa"
+      ]
+    },
+    {
+      "name": "Bukit Nanas LRT Station",
+      "slug": "bukit-nanas-lrt",
+      "stationType": "LRT",
+      "line": "Ampang Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 7000,
+      "distanceText": "15 mins drive (7 km)",
+      "title": "Bukit Nanas LRT Station",
+      "shortDescription": "Bukit Nanas LRT Station provides access towards Kuala Lumpur city centre and KLCC areas. Setapak tenants benefit from nearby rental options that offer better value compared with central city accommodation while maintaining city accessibility.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "KL Tower",
+        "Bukit Bintang",
+        "KLCC"
+      ],
+      "nearbyResidences": [
+        "Setapak condominiums",
+        "Wangsa Maju residences",
+        "Central Kuala Lumpur apartments"
+      ],
+      "popularSearches": [
+        "Room near KLCC from Setapak",
+        "Setapak KLCC rental",
+        "Affordable room Kuala Lumpur"
+      ]
+    },
+    {
+      "name": "Titiwangsa MRT Station",
+      "slug": "titiwangsa-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 6500,
+      "distanceText": "15 mins drive (6.5 km)",
+      "title": "Titiwangsa MRT Station",
+      "shortDescription": "Titiwangsa MRT Station connects residents to major Kuala Lumpur destinations through integrated MRT, LRT and monorail networks. It is useful for Setapak tenants working in central business districts.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "Titiwangsa Lake Gardens",
+        "Hospital Kuala Lumpur",
+        "KLCC"
+      ],
+      "nearbyResidences": [
+        "Setapak residences",
+        "Central KL apartments",
+        "Wangsa Maju condominiums"
+      ],
+      "popularSearches": [
+        "Room near Titiwangsa MRT",
+        "Setapak public transport rental",
+        "KL rental near MRT"
+      ]
+    },
+    {
+      "name": "Hospital Kuala Lumpur MRT Station",
+      "slug": "hospital-kuala-lumpur-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "18 mins drive",
+      "distanceMeters": 7500,
+      "distanceText": "18 mins drive (7.5 km)",
+      "title": "Hospital Kuala Lumpur MRT Station",
+      "shortDescription": "Hospital Kuala Lumpur MRT Station offers convenient connectivity to healthcare facilities and central Kuala Lumpur. It is attractive for healthcare workers and professionals searching for rental accommodation around Setapak.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "Hospital Kuala Lumpur",
+        "Jalan Tun Razak",
+        "Titiwangsa"
+      ],
+      "nearbyResidences": [
+        "Setapak apartments",
+        "Central Kuala Lumpur residences",
+        "Affordable condominiums"
+      ],
+      "popularSearches": [
+        "Room near Hospital Kuala Lumpur",
+        "Setapak healthcare worker rental",
+        "Room near MRT Kuala Lumpur"
+      ]
+    },
+    {
+      "name": "PWTC LRT Station",
+      "slug": "pwtc-lrt",
+      "stationType": "LRT",
+      "line": "Ampang Line",
+      "walkingTime": "18 mins drive",
+      "distanceMeters": 8500,
+      "distanceText": "18 mins drive (8.5 km)",
+      "title": "PWTC LRT Station",
+      "shortDescription": "PWTC LRT Station provides access towards central Kuala Lumpur, business areas and commercial districts. Setapak residents can benefit from lower rental costs while maintaining accessibility to city locations.",
+      "averageRoomRent": 1500,
+      "nearbyLandmarks": [
+        "Putra World Trade Centre",
+        "Chow Kit",
+        "Kuala Lumpur City Centre"
+      ],
+      "nearbyResidences": [
+        "Setapak apartments",
+        "KL city condominiums",
+        "Affordable rental residences"
+      ],
+      "popularSearches": [
+        "Room near PWTC",
+        "Setapak city access rental",
+        "Affordable KL room rental"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 350,
+      "maxPrice": 800
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 500,
+      "maxPrice": 1000
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 800,
+      "maxPrice": 1400
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 1200,
+      "maxPrice": 2500
+    },
+    {
+      "roomType": "Condominium Entire Unit",
+      "minPrice": 1800,
+      "maxPrice": 3500
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 850,
+    "priceGrowth": 4.5,
+    "demandLevel": "Very High",
+    "vacancyRate": 3.2
+  },
+  "nearbyAreas": [
+    {
+      "name": "Wangsa Maju",
+      "slug": "wangsa-maju",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Students, Professionals, Families",
+      "description": "Wangsa Maju is one of the most popular nearby residential areas for Setapak tenants due to LRT connectivity, shopping facilities and easy access to KLCC. Many renters choose Setapak and Wangsa Maju because they provide affordable accommodation with convenient city access."
+    },
+    {
+      "name": "Taman Melati",
+      "slug": "taman-melati",
+      "averageRent": 950,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Students, Young Professionals",
+      "description": "Taman Melati offers affordable rooms and apartments near public transportation. Its proximity to educational institutions and residential developments makes it a popular rental choice around northern Kuala Lumpur."
+    },
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 2000,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Professionals, Executives, Expats",
+      "description": "KLCC is Kuala Lumpur's main business and lifestyle district. Many professionals working in KLCC choose Setapak because it offers more affordable rental options while maintaining accessibility through LRT and major roads."
+    },
+    {
+      "name": "Sentul",
+      "slug": "sentul",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 6,
+      "popularFor": "Professionals, Families",
+      "description": "Sentul is a growing residential area with modern condominiums, MRT connectivity and convenient access to central Kuala Lumpur. It provides an alternative rental location for tenants comparing Setapak properties."
+    },
+    {
+      "name": "Setiawangsa",
+      "slug": "setiawangsa",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Professionals, Families",
+      "description": "Setiawangsa offers mature residential communities and excellent LRT connectivity. It is popular among professionals who want convenient access to KLCC and eastern Kuala Lumpur."
+    },
+    {
+      "name": "Bukit Bintang",
+      "slug": "bukit-bintang",
+      "averageRent": 1800,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Professionals, Expats",
+      "description": "Bukit Bintang is Kuala Lumpur's entertainment and lifestyle district. Tenants working in central Kuala Lumpur often compare Setapak rentals because of the lower monthly cost and reasonable travel distance."
+    },
+    {
+      "name": "Bangsar South",
+      "slug": "bangsar-south",
+      "averageRent": 1700,
+      "mrtAccess": true,
+      "distanceFromArea": 13,
+      "popularFor": "Professionals, Corporate Employees",
+      "description": "Bangsar South is a major commercial district with multinational companies and modern offices. Setapak remains attractive for renters seeking more affordable accommodation while commuting to business areas."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 2200,
+      "mrtAccess": false,
+      "distanceFromArea": 12,
+      "popularFor": "Expats, Families",
+      "description": "Mont Kiara is a premium expatriate neighbourhood known for international schools and luxury condominiums. Setapak provides a more budget-friendly alternative for tenants seeking Kuala Lumpur housing."
+    },
+    {
+      "name": "Cheras",
+      "slug": "cheras",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Students, Professionals",
+      "description": "Cheras offers diverse rental choices with MRT connectivity, shopping facilities and affordable residential options. It is another popular comparison area for budget-conscious Kuala Lumpur renters."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Setapak",
+      "url": "/master-room-rental-setapak"
+    },
+    {
+      "title": "Single Room Setapak",
+      "url": "/single-room-rental-setapak"
+    },
+    {
+      "title": "Condo Room Setapak",
+      "url": "/condo-room-rental-setapak"
+    },
+    {
+      "title": "Room Near Setapak LRT",
+      "url": "/room-near-setapak-lrt"
+    },
+    {
+      "title": "Room Near Wangsa Maju LRT",
+      "url": "/room-near-wangsa-maju-lrt"
+    },
+    {
+      "title": "Setapak KL Room Rental",
+      "url": "/setapak-kl-room-rental"
+    },
+    {
+      "title": "Studio Apartment Setapak",
+      "url": "/studio-apartment-setapak"
+    },
+    {
+      "title": "Luxury Condo Setapak",
+      "url": "/luxury-condo-setapak"
+    },
+    {
+      "title": "Fully Furnished Room Setapak",
+      "url": "/fully-furnished-room-setapak"
+    },
+    {
+      "title": "Cheap Room Rental Setapak",
+      "url": "/cheap-room-rental-setapak"
+    },
+    {
+      "title": "Room Near TAR UMT Setapak",
+      "url": "/room-near-tar-umt-setapak"
+    },
+    {
+      "title": "Student Room Rental Setapak",
+      "url": "/student-room-rental-setapak"
+    },
+    {
+      "title": "Room Near Setapak Central Mall",
+      "url": "/room-near-setapak-central-mall"
+    },
+    {
+      "title": "Room Near PV Setapak",
+      "url": "/room-near-pv-setapak"
+    },
+    {
+      "title": "Master Room Near Wangsa Maju",
+      "url": "/master-room-near-wangsa-maju"
+    },
+    {
+      "title": "Private Room Setapak",
+      "url": "/private-room-setapak"
+    },
+    {
+      "title": "Shared Room Setapak",
+      "url": "/shared-room-setapak"
+    },
+    {
+      "title": "Female Room Rental Setapak",
+      "url": "/female-room-rental-setapak"
+    },
+    {
+      "title": "Room Near KLCC From Setapak",
+      "url": "/room-near-klcc-from-setapak"
+    },
+    {
+      "title": "Expat Room Rental Setapak",
+      "url": "/expat-room-rental-setapak"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at M Astra Setapak",
+      "price": 1000,
+      "rentedDate": "2026-06-10"
+    },
+    {
+      "title": "Fully Furnished Room at PV20 Setapak",
+      "price": 650,
+      "rentedDate": "2026-06-05"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 700,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 900,
+      "occupation": "TAR UMT Student"
+    },
+    {
+      "gender": "Any",
+      "budget": 1200,
+      "occupation": "Working Professional"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a room for rent in Setapak cost?",
+      "answer": "Room rental prices in Setapak generally range from RM350 to RM1400 per month depending on room type, condominium facilities, furnishing, location, privacy level and distance to LRT stations. Affordable rooms are popular among students while premium master rooms and serviced residences attract professionals."
+    },
+    {
+      "question": "Where can I find cheap rooms for rent in Setapak?",
+      "answer": "Affordable rooms in Setapak can be found around Setapak Jaya, Danau Kota, Jalan Genting Klang, Wangsa Maju border areas and older apartment developments. These areas provide budget-friendly accommodation with convenient access to shops, universities and public transportation."
+    },
+    {
+      "question": "Are fully furnished rooms available for rent in Setapak?",
+      "answer": "Yes. Many Setapak rental rooms come fully furnished with beds, wardrobes, air conditioning, WiFi, washing machines, kitchen facilities and condominium amenities suitable for students and working professionals."
+    },
+    {
+      "question": "What types of rooms are available for rent in Setapak?",
+      "answer": "Setapak offers single rooms, medium rooms, master rooms, private rooms, shared rooms, studio apartments, serviced apartments and condominium rooms suitable for different rental budgets."
+    },
+    {
+      "question": "How much is a master room for rent in Setapak?",
+      "answer": "Master rooms in Setapak typically range from RM800 to RM1400 per month depending on attached bathroom, condominium quality, furnishing, facilities and proximity to LRT stations."
+    },
+    {
+      "question": "How much is a single room for rent in Setapak?",
+      "answer": "Single rooms in Setapak generally range from RM350 to RM800 per month and are popular among students and young professionals looking for affordable accommodation in Kuala Lumpur."
+    },
+    {
+      "question": "Is Setapak a good place to rent a room in Kuala Lumpur?",
+      "answer": "Yes. Setapak is one of Kuala Lumpur's popular rental locations because of its affordable housing options, proximity to universities, shopping malls, food areas, LRT connectivity and access to KL city centre."
+    },
+    {
+      "question": "Is Setapak suitable for students?",
+      "answer": "Yes. Setapak is highly popular among students because of its proximity to Tunku Abdul Rahman University of Management and Technology (TAR UMT), affordable rental prices and convenient amenities."
+    },
+    {
+      "question": "Are there rooms near TAR UMT Setapak?",
+      "answer": "Yes. Many apartments and condominiums around Setapak provide rooms within convenient distance to TAR UMT, making the area one of the most searched student rental locations in Kuala Lumpur."
+    },
+    {
+      "question": "Are there rooms near Wangsa Maju LRT?",
+      "answer": "Yes. Many Setapak rental properties are located close to Wangsa Maju LRT Station, providing convenient access to KLCC, Ampang Park and central Kuala Lumpur."
+    },
+    {
+      "question": "Can I find rooms near Setapak Central Mall?",
+      "answer": "Yes. Setapak Central Mall is surrounded by many apartments and condominiums offering affordable rooms for rent with easy access to restaurants, supermarkets and daily necessities."
+    },
+    {
+      "question": "Are luxury condominiums available for rent in Setapak?",
+      "answer": "Yes. Setapak has modern condominium developments offering facilities such as swimming pools, gyms, security services, parking spaces and landscaped gardens."
+    },
+    {
+      "question": "Why do people choose Setapak instead of KLCC?",
+      "answer": "Many tenants choose Setapak because rental prices are more affordable compared with KLCC while still providing reasonable commuting access to Kuala Lumpur city centre."
+    },
+    {
+      "question": "Are foreigners allowed to rent rooms in Setapak?",
+      "answer": "Yes. Many landlords accept foreign tenants, especially in condominiums and serviced residences suitable for expatriates and international students."
+    },
+    {
+      "question": "Can I find rooms near KLCC from Setapak?",
+      "answer": "Yes. Setapak is a popular residential choice for tenants working in KLCC because it offers lower rental costs while maintaining access through major roads and public transportation."
+    },
+    {
+      "question": "Are utilities included in Setapak room rentals?",
+      "answer": "Some Setapak room rentals include electricity, water and internet while others require tenants to pay separately depending on landlord agreements."
+    },
+    {
+      "question": "Do Setapak rooms include WiFi?",
+      "answer": "Many fully furnished Setapak rooms include WiFi, making them suitable for students, professionals and remote workers."
+    },
+    {
+      "question": "What are the best condominiums for rent in Setapak?",
+      "answer": "Popular residential developments include PV series condominiums, M Astra Setapak, Platinum Lake, Kenwingston Platz, SkyAwani Residences and other modern apartments around Setapak."
+    },
+    {
+      "question": "How can I find the best room rental deals in Setapak?",
+      "answer": "Compare rental prices, check transport accessibility, review facilities, confirm tenancy terms and search early because affordable rooms in popular Setapak locations have strong demand."
+    }
+  ],
+  "focusKeywords": [
+    "Setapak room for rent",
+    "Setapak condo for rent",
+    "Setapak apartment for rent",
+    "room rental Setapak Kuala Lumpur",
+    "cheap room Setapak Kuala Lumpur",
+    "affordable room rental Setapak",
+    "furnished room Setapak",
+    "fully furnished room Setapak",
+    "master room Setapak",
+    "single room Setapak",
+    "medium room Setapak",
+    "private room Setapak",
+    "shared room Setapak",
+    "studio apartment Setapak",
+    "serviced apartment Setapak",
+    "Setapak rental property",
+    "Setapak condominium rental",
+    "luxury condo Setapak for rent",
+    "premium condo Setapak",
+    "executive apartment Setapak",
+    "monthly rental Setapak",
+    "short term rental Setapak",
+    "student room rental Setapak",
+    "TAR UMT room rental",
+    "room near TAR UMT Setapak",
+    "room near Setapak Central Mall",
+    "room near Wangsa Maju LRT",
+    "room near Setapak LRT",
+    "room near KLCC from Setapak",
+    "room near Jalan Genting Klang",
+    "room near PV Setapak",
+    "PV Setapak room rental",
+    "PV20 room for rent",
+    "PV21 room rental",
+    "PV6 Setapak room rental",
+    "M Astra Setapak rental",
+    "Kenwingston Platz Setapak rental",
+    "Platinum Lake Setapak rental",
+    "Setapak student accommodation",
+    "Setapak accommodation Kuala Lumpur",
+    "Setapak housing for students",
+    "Setapak housing for professionals",
+    "expat room rental Setapak",
+    "international student room Setapak",
+    "cheap apartment Setapak",
+    "family apartment Setapak",
+    "condo room near TAR UMT",
+    "LRT connected rental Setapak",
+    "Kuala Lumpur affordable rental Setapak",
+    "room for rent near Wangsa Maju",
+    "room for rent near Taman Melati",
+    "room for rent near KLCC Kuala Lumpur"
+  ],
+  "longTailKeywords": [
+    "fully furnished room for rent in Setapak Kuala Lumpur",
+    "cheap room rental in Setapak for students and working professionals",
+    "affordable room for rent near TAR UMT Setapak",
+    "room for rent near Wangsa Maju LRT station Setapak",
+    "room near Setapak Central Mall with furnished facilities",
+    "master room with private bathroom for rent in Setapak",
+    "single room rental near TAR UMT Kuala Lumpur",
+    "medium room for rent in Setapak condominium",
+    "private room for rent in Setapak with WiFi included",
+    "fully furnished condo room near PV Setapak",
+    "cheap master room rental near Wangsa Maju LRT",
+    "student accommodation near TAR UMT Setapak Kuala Lumpur",
+    "best room rental area near KLCC from Setapak",
+    "affordable apartment rental near Jalan Genting Klang",
+    "luxury condominium rental in Setapak Kuala Lumpur",
+    "premium condo room for rent in Setapak with facilities",
+    "serviced apartment for rent in Setapak fully furnished",
+    "modern studio apartment for rent in Setapak Kuala Lumpur",
+    "room for rent near Setapak Central Mall Kuala Lumpur",
+    "room rental near PV20 Setapak with swimming pool",
+    "room rental near PV21 Setapak for students",
+    "room rental near M Astra Setapak for professionals",
+    "condo room rental near TAR UMT with easy access",
+    "cheap furnished room near Wangsa Maju LRT station",
+    "monthly room rental in Setapak Kuala Lumpur",
+    "short term room rental in Setapak Kuala Lumpur",
+    "female room rental in Setapak Kuala Lumpur",
+    "male room rental in Setapak Kuala Lumpur",
+    "couple room rental in Setapak condominium",
+    "room with attached bathroom for rent in Setapak",
+    "room near LRT station in Setapak Kuala Lumpur",
+    "affordable condo rental near KLCC Setapak",
+    "working professional room rental in Setapak",
+    "expat friendly apartment rental in Setapak",
+    "international student accommodation in Setapak Kuala Lumpur",
+    "best condo for rent in Setapak Kuala Lumpur",
+    "cheap apartment for rent near TAR UMT",
+    "fully furnished studio apartment near Wangsa Maju",
+    "condominium room rental near Genting Klang Setapak",
+    "room for rent near Taman Melati and Setapak",
+    "budget accommodation near TAR UMT Kuala Lumpur",
+    "room rental for students near Setapak campus",
+    "safe and affordable room rental in Setapak",
+    "modern condo room near Setapak Central Mall",
+    "room near KLCC for working professionals in Setapak",
+    "Setapak room rental near public transportation",
+    "affordable master room near LRT Kuala Lumpur",
+    "private condominium room rental in Setapak",
+    "best affordable rental property in Setapak Kuala Lumpur",
+    "fully furnished rental room near Wangsa Maju Setapak"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Setapak",
+      "budget room near TAR UMT",
+      "student room rental Setapak Kuala Lumpur",
+      "affordable accommodation near TAR UMT",
+      "student accommodation Setapak",
+      "room near TAR UMT Setapak",
+      "cheap furnished room Setapak",
+      "shared room Setapak for students",
+      "budget rental room near Wangsa Maju LRT",
+      "student apartment Setapak Kuala Lumpur"
+    ],
+    "expat": [
+      "expat housing Setapak",
+      "furnished condo Setapak",
+      "serviced apartment Setapak",
+      "international tenant friendly condo Setapak",
+      "luxury apartment rental Setapak",
+      "premium condominium Setapak",
+      "fully furnished condo rental Setapak",
+      "expat friendly room rental Kuala Lumpur",
+      "modern serviced residence Setapak",
+      "comfortable apartment near KLCC from Setapak"
+    ],
+    "professional": [
+      "Setapak condo near KLCC",
+      "room near Wangsa Maju LRT for professionals",
+      "room near Genting Klang offices",
+      "professional room rental Setapak",
+      "executive apartment Setapak",
+      "premium apartment Setapak Kuala Lumpur",
+      "fully furnished room for working professionals Setapak",
+      "condo room near LRT Setapak",
+      "affordable housing near KL city centre",
+      "Setapak rental near Kuala Lumpur business districts"
+    ],
+    "shortStay": [
+      "short term rental Setapak",
+      "monthly rental Setapak",
+      "flexible room rental Setapak",
+      "short stay apartment Setapak Kuala Lumpur",
+      "serviced residence Setapak",
+      "temporary room rental Setapak",
+      "one month room rental Setapak",
+      "short lease room Setapak",
+      "furnished short term accommodation Setapak",
+      "weekly room rental Setapak"
+    ],
+    "premiumIntent": [
+      "luxury condo Setapak for rent",
+      "high end apartment Setapak",
+      "premium serviced apartment Setapak",
+      "executive residence Setapak",
+      "luxury condominium rental Setapak Kuala Lumpur",
+      "best condo Setapak for professionals",
+      "modern condo with facilities Setapak",
+      "premium master room Setapak",
+      "fully furnished luxury room Setapak",
+      "exclusive condominium rental near KLCC Setapak"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Setapak room for rent",
+    "secondaryKeywords": [
+      "Setapak condo for rent",
+      "Setapak apartment for rent",
+      "room rental Setapak Kuala Lumpur",
+      "furnished room Setapak",
+      "cheap room Setapak Kuala Lumpur",
+      "student room rental Setapak",
+      "room near TAR UMT",
+      "room near Wangsa Maju LRT",
+      "luxury condo Setapak",
+      "expat housing Setapak",
+      "serviced apartment Setapak",
+      "master room Setapak",
+      "room near KLCC from Setapak"
+    ],
+    "seoScore": 98,
+    "canonicalUrl": "https://yourdomain.com/kuala-lumpur/setapak/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "affordable-student-professional-connected-rentals",
+    "contentCluster": [
+      "Setapak room rental",
+      "TAR UMT student accommodation",
+      "KLCC nearby affordable accommodation",
+      "premium condominiums Setapak",
+      "LRT connected rentals Setapak",
+      "Wangsa Maju nearby rentals",
+      "serviced apartments Setapak",
+      "affordable rental properties Kuala Lumpur",
+      "student housing Kuala Lumpur",
+      "professional housing near KLCC"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Wangsa Maju",
+        "Taman Melati",
+        "Setiawangsa",
+        "KLCC",
+        "Jalan Genting Klang",
+        "Sentul",
+        "Cheras",
+        "Bukit Jalil",
+        "Mont Kiara",
+        "Bangsar"
+      ],
+      "nearbyHotspots": [
+        "Tunku Abdul Rahman University of Management and Technology (TAR UMT)",
+        "Setapak Central Mall",
+        "Wangsa Maju LRT Station",
+        "Sri Rampai LRT Station",
+        "PV Setapak",
+        "M Astra Setapak",
+        "Platinum Lake Condominium",
+        "Jalan Genting Klang",
+        "Danau Kota",
+        "KLCC"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Setapak Rooms for Rent",
+        "url": "/room-rental-setapak",
+        "keyword": "setapak room for rent"
+      },
+      {
+        "title": "Setapak Condos for Rent",
+        "url": "/condo-for-rent-setapak",
+        "keyword": "setapak condo for rent"
+      },
+      {
+        "title": "Cheap Rooms in Setapak",
+        "url": "/cheap-room-setapak",
+        "keyword": "cheap room setapak"
+      },
+      {
+        "title": "Rooms Near TAR UMT Setapak",
+        "url": "/room-near-tar-umt-setapak",
+        "keyword": "room near tar umt"
+      },
+      {
+        "title": "Rooms Near Wangsa Maju LRT",
+        "url": "/room-near-wangsa-maju-lrt",
+        "keyword": "room near wangsa maju lrt"
+      },
+      {
+        "title": "Setapak KLCC Rental",
+        "url": "/setapak-klcc-room-rental",
+        "keyword": "room near klcc from setapak"
+      },
+      {
+        "title": "PV Setapak Room Rental",
+        "url": "/pv-setapak-room-rental",
+        "keyword": "pv setapak room rental"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Setapak Area Guide",
+        "url": "/area-guide-setapak",
+        "type": "guide"
+      },
+      {
+        "title": "Setapak Rental Price Guide 2026",
+        "url": "/price-guide-setapak",
+        "type": "pricing"
+      },
+      {
+        "title": "Setapak LRT & Transport Guide",
+        "url": "/setapak-transport-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Luxury Condos in Setapak",
+        "url": "/luxury-condo-setapak",
+        "type": "listing-category"
+      },
+      {
+        "title": "Student Housing Setapak",
+        "url": "/student-housing-setapak",
+        "type": "audience-page"
+      },
+      {
+        "title": "TAR UMT Accommodation Guide",
+        "url": "/tar-umt-room-rental",
+        "type": "education-location-page"
+      },
+      {
+        "title": "Furnished Rooms Setapak",
+        "url": "/furnished-room-setapak",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Setapak",
+        "url": "/short-term-rental-setapak",
+        "type": "rental-type"
+      },
+      {
+        "title": "Rooms Near KLCC From Setapak",
+        "url": "/room-near-klcc-setapak",
+        "type": "location-intent-page"
+      }
+    ]
+  }
+}

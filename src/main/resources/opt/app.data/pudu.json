@@ -1,0 +1,1453 @@
+{
+  "area": {
+    "name": "Pudu",
+    "slug": "pudu",
+    "heroImage": "assets/images/areas/pudu.jpg",
+    "metaTitle": "Rooms for Rent in Pudu | RoomRentalKL",
+    "metaDescription": "Find rooms for rent in Pudu near MRT stations, offices, shopping malls and universities. Browse master rooms, medium rooms and single rooms.",
+    "averageRent": 1300,
+    "totalListings": 128
+  },
+  "featuredRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ],
+  "areaGuide": {
+    "title": "Living in Pudu – Complete Guide to Room Rental in Kuala Lumpur",
+    "description": "Pudu is one of Kuala Lumpur's most strategic and affordable residential areas for room rental. Located close to Bukit Bintang, KLCC, TRX and major city-centre business districts, Pudu attracts students, working professionals, budget tenants, entrepreneurs and long-term residents looking for convenient urban living. Whether you are searching for a master room for rent in Pudu, a single room near Pudu MRT, a fully furnished room close to Berjaya Times Square, a studio apartment in Pudu Kuala Lumpur or an affordable shared room, Pudu offers a wide range of rental choices. Residents enjoy excellent public transportation, shopping malls, local food streets, commercial areas and easy access to Kuala Lumpur city centre, making Pudu one of the best affordable locations to rent a room in Kuala Lumpur.",
+    "buttonText": "Explore Pudu Rental Guide",
+    "buttonLink": "/room-rental-pudu",
+    "highlights": [
+      "Wide selection of master rooms, medium rooms, single rooms, studio rooms and shared rooms for rent in Pudu",
+      "Close to Bukit Bintang, TRX, KLCC, Berjaya Times Square and Kuala Lumpur city centre",
+      "Excellent connectivity via Pudu MRT Station, Chan Sow Lin MRT Station and nearby LRT connections",
+      "Popular among students, working professionals, young adults and budget renters",
+      "Affordable rental alternative compared with Bukit Bintang and KLCC",
+      "Many fully furnished and semi-furnished room rental options available",
+      "Convenient access to shopping malls, restaurants, supermarkets and daily amenities",
+      "One of Kuala Lumpur's established neighbourhoods with strong rental demand"
+    ],
+    "features": [
+      {
+        "icon": "fas fa-train",
+        "title": "Transportation & MRT Connectivity",
+        "description": "Pudu offers excellent public transport access through Pudu MRT Station, Chan Sow Lin MRT Station, Hang Tuah LRT and Monorail connections. Residents can easily travel to Bukit Bintang, TRX, KLCC, KL Sentral, Petaling Jaya and other major areas in Kuala Lumpur."
+      },
+      {
+        "icon": "fas fa-building",
+        "title": "Popular Condominiums & Rental Choices",
+        "description": "Pudu provides various accommodation options including master rooms, single rooms, studio units, serviced apartments and condo rooms. Popular residences include Times Square Residences, Miharja Residences, One Residency, Dorsett Residences and nearby city-centre apartments."
+      },
+      {
+        "icon": "fas fa-shopping-bag",
+        "title": "Shopping & Entertainment",
+        "description": "Residents enjoy easy access to Berjaya Times Square, Pavilion Kuala Lumpur, The Exchange TRX, Sungei Wang Plaza, Fahrenheit88 and Bukit Bintang shopping areas. Pudu is also surrounded by local markets and convenient retail options."
+      },
+      {
+        "icon": "fas fa-utensils",
+        "title": "Food & Dining",
+        "description": "Pudu is well known for its diverse food scene including local Malaysian restaurants, Chinese cuisine, cafes, hawker centres, coffee shops and popular food streets around Jalan Pudu and nearby Bukit Bintang."
+      },
+      {
+        "icon": "fas fa-user-tie",
+        "title": "Ideal for Professionals & Students",
+        "description": "Pudu attracts office workers, students and young professionals because of its affordable rental prices and convenient access to Kuala Lumpur business districts, universities and commercial areas."
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "title": "Safety & Quality Living",
+        "description": "Many residential developments in Pudu provide security features including CCTV monitoring, access card systems, security guards and professional building management for comfortable urban living."
+      }
+    ],
+    "popularResidences": [
+      "Times Square Residences",
+      "Miharja Residences",
+      "One Residency",
+      "Dorsett Residences Kuala Lumpur",
+      "Lavile KL",
+      "Lucentia Residence",
+      "Bukit Bintang City Centre Residences",
+      "The Robertson Residences",
+      "Pudu Plaza Apartments",
+      "Berjaya Times Square Residences"
+    ],
+    "nearbyLandmarks": [
+      "Berjaya Times Square",
+      "Bukit Bintang",
+      "Pudu MRT Station",
+      "Chan Sow Lin MRT Station",
+      "The Exchange TRX",
+      "Pavilion Kuala Lumpur",
+      "Jalan Alor",
+      "KLCC",
+      "Petaling Street",
+      "Kuala Lumpur City Centre"
+    ],
+    "nearbyUniversities": [
+      "Tunku Abdul Rahman University College",
+      "UCSI University",
+      "Asia Pacific University",
+      "Open University Malaysia",
+      "SEGi College Kuala Lumpur",
+      "University of Malaya"
+    ],
+    "majorEmployers": [
+      "Maybank",
+      "CIMB",
+      "Public Bank",
+      "HSBC",
+      "Standard Chartered",
+      "Petronas",
+      "PwC",
+      "Deloitte",
+      "KPMG",
+      "EY",
+      "Accenture",
+      "Bukit Bintang Retail Companies"
+    ]
+  },
+  "transitStations": [
+    {
+      "name": "Pudu MRT Station",
+      "slug": "pudu-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "3 mins walk",
+      "distanceMeters": 250,
+      "distanceText": "3 mins walk (250 m)",
+      "title": "Pudu MRT Station",
+      "shortDescription": "Pudu MRT Station is the main transit hub serving Pudu residents, providing convenient access to Bukit Bintang, TRX, KLCC and major Kuala Lumpur business areas. The station is surrounded by apartments, shops and affordable rental options.",
+      "averageRoomRent": 950,
+      "nearbyLandmarks": [
+        "Pudu Plaza",
+        "Jalan Pudu",
+        "Berjaya Times Square",
+        "Bukit Bintang"
+      ],
+      "nearbyResidences": [
+        "Times Square Residences",
+        "Pudu Plaza Apartments",
+        "One Residency",
+        "The Robertson Residences"
+      ],
+      "popularSearches": [
+        "Room near Pudu MRT",
+        "Pudu MRT room rent",
+        "Studio near Pudu MRT"
+      ]
+    },
+    {
+      "name": "Chan Sow Lin MRT Station",
+      "slug": "chan-sow-lin-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "8 mins walk",
+      "distanceMeters": 650,
+      "distanceText": "8 mins walk (650 m)",
+      "title": "Chan Sow Lin MRT Station",
+      "shortDescription": "Chan Sow Lin MRT Station connects Pudu with TRX, Sungai Besi and other major districts. The area is popular among professionals looking for affordable rentals near Kuala Lumpur city centre.",
+      "averageRoomRent": 900,
+      "nearbyLandmarks": [
+        "Chan Sow Lin Industrial Area",
+        "TRX",
+        "Pudu"
+      ],
+      "nearbyResidences": [
+        "Miharja Residences",
+        "Lavile KL",
+        "Lucentia Residence"
+      ],
+      "popularSearches": [
+        "Room near Chan Sow Lin MRT",
+        "Pudu studio room rent"
+      ]
+    },
+    {
+      "name": "Hang Tuah LRT Station",
+      "slug": "hang-tuah-lrt",
+      "stationType": "LRT",
+      "line": "Ampang Line",
+      "walkingTime": "10 mins walk",
+      "distanceMeters": 800,
+      "distanceText": "10 mins walk (800 m)",
+      "title": "Hang Tuah LRT Station",
+      "shortDescription": "Hang Tuah LRT Station provides easy access between Pudu, Bukit Bintang and central Kuala Lumpur. It is highly convenient for tenants working in shopping and business districts.",
+      "averageRoomRent": 1100,
+      "nearbyLandmarks": [
+        "Berjaya Times Square",
+        "Bukit Bintang",
+        "Jalan Imbi"
+      ],
+      "nearbyResidences": [
+        "Times Square Residences",
+        "Dorsett Residences",
+        "Lucentia Residence"
+      ],
+      "popularSearches": [
+        "Room near Hang Tuah LRT",
+        "Bukit Bintang room rental"
+      ]
+    },
+    {
+      "name": "Bukit Bintang MRT Station",
+      "slug": "bukit-bintang-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "12 mins walk",
+      "distanceMeters": 1000,
+      "distanceText": "12 mins walk (1 km)",
+      "title": "Bukit Bintang MRT Station",
+      "shortDescription": "Bukit Bintang MRT Station connects Pudu residents to Kuala Lumpur's main shopping and entertainment district. It is a highly searched location for professionals and young tenants.",
+      "averageRoomRent": 1300,
+      "nearbyLandmarks": [
+        "Pavilion Kuala Lumpur",
+        "Jalan Alor",
+        "Fahrenheit88"
+      ],
+      "nearbyResidences": [
+        "Dorsett Residences",
+        "The Robertson Residences",
+        "Lucentia Residence"
+      ],
+      "popularSearches": [
+        "Room near Bukit Bintang MRT",
+        "Bukit Bintang studio room"
+      ]
+    },
+    {
+      "name": "TRX MRT Station",
+      "slug": "trx-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "15 mins walk",
+      "distanceMeters": 1200,
+      "distanceText": "15 mins walk (1.2 km)",
+      "title": "Tun Razak Exchange MRT Station",
+      "shortDescription": "TRX MRT Station connects Pudu with Malaysia's international financial district. The area has growing rental demand among professionals working in financial and corporate sectors.",
+      "averageRoomRent": 1400,
+      "nearbyLandmarks": [
+        "The Exchange TRX",
+        "TRX Financial District",
+        "Bukit Bintang"
+      ],
+      "nearbyResidences": [
+        "The Exchange Residence",
+        "Lavile KL",
+        "TRX City Residences"
+      ],
+      "popularSearches": [
+        "Room near TRX MRT",
+        "TRX room rental"
+      ]
+    },
+    {
+      "name": "Imbi Monorail Station",
+      "slug": "imbi-monorail",
+      "stationType": "MONORAIL",
+      "line": "KL Monorail Line",
+      "walkingTime": "12 mins walk",
+      "distanceMeters": 1000,
+      "distanceText": "12 mins walk (1 km)",
+      "title": "Imbi Monorail Station",
+      "shortDescription": "Imbi Monorail Station provides convenient access to Berjaya Times Square and Bukit Bintang. It is popular among tenants who want affordable housing close to entertainment areas.",
+      "averageRoomRent": 1200,
+      "nearbyLandmarks": [
+        "Berjaya Times Square",
+        "Jalan Alor",
+        "Bukit Bintang"
+      ],
+      "nearbyResidences": [
+        "Times Square Residences",
+        "Lucentia Residence",
+        "Dorsett Residences"
+      ],
+      "popularSearches": [
+        "Room near Imbi Monorail",
+        "Cheap room near Bukit Bintang"
+      ]
+    },
+    {
+      "name": "Cochrane MRT Station",
+      "slug": "cochrane-mrt",
+      "stationType": "MRT",
+      "line": "Kajang Line",
+      "walkingTime": "15 mins walk",
+      "distanceMeters": 1200,
+      "distanceText": "15 mins walk (1.2 km)",
+      "title": "Cochrane MRT Station",
+      "shortDescription": "Cochrane MRT Station provides access to IKEA Cheras, MyTOWN Shopping Centre and central Kuala Lumpur areas. It is a practical option for Pudu residents.",
+      "averageRoomRent": 1000,
+      "nearbyLandmarks": [
+        "MyTOWN Shopping Centre",
+        "IKEA Cheras",
+        "Sunway Velocity"
+      ],
+      "nearbyResidences": [
+        "Sunway Velocity Residences",
+        "Miharja Residences",
+        "Lavile KL"
+      ],
+      "popularSearches": [
+        "Room near Cochrane MRT",
+        "Velocity room rental"
+      ]
+    }
+  ],
+  "priceGuide": [
+    {
+      "roomType": "Single Room",
+      "minPrice": 500,
+      "maxPrice": 900
+    },
+    {
+      "roomType": "Medium Room",
+      "minPrice": 700,
+      "maxPrice": 1200
+    },
+    {
+      "roomType": "Master Room",
+      "minPrice": 1000,
+      "maxPrice": 1600
+    },
+    {
+      "roomType": "Studio Room",
+      "minPrice": 1500,
+      "maxPrice": 2500
+    }
+  ],
+  "marketInsights": {
+    "averageRent": 950,
+    "priceGrowth": 4.6,
+    "demandLevel": "High",
+    "vacancyRate": 2.8
+  },
+  "nearbyAreas": [
+    {
+      "name": "Bukit Bintang",
+      "slug": "bukit-bintang",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 2,
+      "popularFor": "Professionals, Expats, Tourists",
+      "description": "Bukit Bintang is Kuala Lumpur's premier shopping and entertainment district. Pudu offers a more affordable rental option while remaining close to this lifestyle hub."
+    },
+    {
+      "name": "KLCC",
+      "slug": "klcc",
+      "averageRent": 2500,
+      "mrtAccess": true,
+      "distanceFromArea": 4,
+      "popularFor": "Executives, Expats, Luxury Living",
+      "description": "KLCC is Kuala Lumpur's main business district with luxury residences, offices and shopping malls. Pudu provides affordable accommodation with convenient city access."
+    },
+    {
+      "name": "TRX",
+      "slug": "trx",
+      "averageRent": 1800,
+      "mrtAccess": true,
+      "distanceFromArea": 3,
+      "popularFor": "Professionals, Corporate Tenants",
+      "description": "Tun Razak Exchange is a growing financial district near Pudu. Many professionals choose Pudu for lower rental prices and easy commuting."
+    },
+    {
+      "name": "Cheras",
+      "slug": "cheras",
+      "averageRent": 850,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Students, Budget Renters, Families",
+      "description": "Cheras offers affordable rooms and apartments with MRT connectivity, making it a popular nearby alternative for budget tenants."
+    },
+    {
+      "name": "Bukit Jalil",
+      "slug": "bukit-jalil",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 10,
+      "popularFor": "Students, Professionals",
+      "description": "Bukit Jalil is a growing residential area with universities, sports facilities and modern condominiums."
+    },
+    {
+      "name": "KL Sentral",
+      "slug": "kl-sentral",
+      "averageRent": 1400,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Professionals, Students",
+      "description": "KL Sentral is Malaysia's major transportation hub with offices, shopping and excellent rail connectivity."
+    },
+    {
+      "name": "Brickfields",
+      "slug": "brickfields",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 5,
+      "popularFor": "Students, Professionals, Expats",
+      "description": "Brickfields provides affordable city-centre rentals near KL Sentral with excellent transport connections."
+    },
+    {
+      "name": "Bangsar",
+      "slug": "bangsar",
+      "averageRent": 1500,
+      "mrtAccess": true,
+      "distanceFromArea": 7,
+      "popularFor": "Professionals, Expats",
+      "description": "Bangsar is a premium lifestyle neighbourhood with cafes, restaurants and offices. Pudu offers lower rental prices with central access."
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara",
+      "averageRent": 2500,
+      "mrtAccess": false,
+      "distanceFromArea": 12,
+      "popularFor": "Expats, Families, Executives",
+      "description": "Mont Kiara is known for luxury condominiums and international facilities. Pudu is a more affordable alternative near the city centre."
+    },
+    {
+      "name": "Petaling Jaya",
+      "slug": "petaling-jaya",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 12,
+      "popularFor": "Students, Professionals",
+      "description": "Petaling Jaya is a major employment and education hub with many offices, universities and residential options."
+    },
+    {
+      "name": "Subang Jaya",
+      "slug": "subang-jaya",
+      "averageRent": 1000,
+      "mrtAccess": true,
+      "distanceFromArea": 18,
+      "popularFor": "Students, Families",
+      "description": "Subang Jaya is popular for universities, shopping centres and affordable rentals."
+    },
+    {
+      "name": "Sunway",
+      "slug": "sunway",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 20,
+      "popularFor": "Students, Young Professionals",
+      "description": "Sunway is a major education and lifestyle hub with universities, shopping malls and medical facilities."
+    },
+    {
+      "name": "Pudu",
+      "slug": "pudu",
+      "averageRent": 950,
+      "mrtAccess": true,
+      "distanceFromArea": 0,
+      "popularFor": "Budget Renters, Professionals, Students",
+      "description": "Pudu is an established Kuala Lumpur neighbourhood offering affordable rooms, city access, MRT connectivity and convenient amenities."
+    },
+    {
+      "name": "Setapak",
+      "slug": "setapak",
+      "averageRent": 800,
+      "mrtAccess": true,
+      "distanceFromArea": 9,
+      "popularFor": "Students, Working Adults",
+      "description": "Setapak offers affordable accommodation near universities and shopping areas."
+    },
+    {
+      "name": "Kepong",
+      "slug": "kepong",
+      "averageRent": 750,
+      "mrtAccess": true,
+      "distanceFromArea": 15,
+      "popularFor": "Families, Budget Renters",
+      "description": "Kepong provides affordable rental options with improving MRT connectivity."
+    },
+    {
+      "name": "Ampang",
+      "slug": "ampang",
+      "averageRent": 1100,
+      "mrtAccess": true,
+      "distanceFromArea": 8,
+      "popularFor": "Families, Professionals",
+      "description": "Ampang offers residential neighbourhoods close to embassies, offices and Kuala Lumpur city centre."
+    },
+    {
+      "name": "Damansara",
+      "slug": "damansara",
+      "averageRent": 1300,
+      "mrtAccess": true,
+      "distanceFromArea": 14,
+      "popularFor": "Professionals, Families",
+      "description": "Damansara is a well-developed area with modern residences, offices and lifestyle facilities."
+    },
+    {
+      "name": "Bandar Utama",
+      "slug": "bandar-utama",
+      "averageRent": 1200,
+      "mrtAccess": true,
+      "distanceFromArea": 15,
+      "popularFor": "Families, Professionals",
+      "description": "Bandar Utama is known for One Utama Shopping Centre, offices and premium residential developments."
+    }
+  ],
+  "popularSearches": [
+    {
+      "title": "Master Room Pudu",
+      "url": "/master-room-rental-pudu"
+    },
+    {
+      "title": "Single Room Pudu",
+      "url": "/single-room-rental-pudu"
+    },
+    {
+      "title": "Condo Room Pudu",
+      "url": "/condo-room-rental-pudu"
+    },
+    {
+      "title": "Room Near Pudu MRT",
+      "url": "/room-near-pudu-mrt"
+    }
+  ],
+  "recentlyRented": [
+    {
+      "title": "Master Room at Sky Suites",
+      "price": 1600,
+      "rentedDate": "2026-06-01"
+    },
+    {
+      "title": "Single Room at Parkview",
+      "price": 850,
+      "rentedDate": "2026-05-29"
+    }
+  ],
+  "roomRequests": [
+    {
+      "gender": "Male",
+      "budget": 900,
+      "occupation": "Software Engineer"
+    },
+    {
+      "gender": "Female",
+      "budget": 1200,
+      "occupation": "Accountant"
+    },
+    {
+      "gender": "Any",
+      "budget": 1500,
+      "occupation": "Student"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Pudu a good place to rent a room in Kuala Lumpur?",
+      "answer": "Yes, Pudu is a popular rental location because it offers affordable rooms, excellent public transport, convenient city access and proximity to Bukit Bintang, TRX and KLCC."
+    },
+    {
+      "question": "What types of rooms are available for rent in Pudu?",
+      "answer": "Pudu offers single rooms, medium rooms, master rooms, studio units, condo rooms and shared rooms suitable for different budgets."
+    },
+    {
+      "question": "How much does it cost to rent a room in Pudu?",
+      "answer": "Room rental prices in Pudu usually range from affordable single rooms to premium master rooms depending on property type, location and facilities."
+    },
+    {
+      "question": "Is Pudu cheaper than Bukit Bintang?",
+      "answer": "Yes, Pudu generally offers more affordable rental prices while remaining close to Bukit Bintang shopping and entertainment areas."
+    },
+    {
+      "question": "Is Pudu near KLCC?",
+      "answer": "Yes, Pudu is located close to KLCC and residents can reach KLCC through MRT, public transport or major roads."
+    },
+    {
+      "question": "Are there rooms near Pudu MRT?",
+      "answer": "Yes, many rental rooms are available within walking distance of Pudu MRT Station."
+    },
+    {
+      "question": "Is Pudu suitable for working professionals?",
+      "answer": "Yes, Pudu is popular among professionals working in KLCC, TRX, Bukit Bintang and Kuala Lumpur city centre."
+    },
+    {
+      "question": "Is Pudu suitable for students?",
+      "answer": "Yes, students choose Pudu because of affordable rentals, convenient transport and easy access to colleges and universities."
+    },
+    {
+      "question": "Can foreigners rent rooms in Pudu?",
+      "answer": "Yes, many landlords in Pudu accept foreign tenants, especially professionals and students."
+    },
+    {
+      "question": "Are furnished rooms available in Pudu?",
+      "answer": "Yes, many Pudu rental rooms come fully furnished with beds, wardrobes, tables and basic appliances."
+    },
+    {
+      "question": "Can I find a master room for rent in Pudu?",
+      "answer": "Yes, master rooms with attached bathrooms are available in many condominiums and apartments around Pudu."
+    },
+    {
+      "question": "Are there studio apartments in Pudu?",
+      "answer": "Yes, studio apartments are available in selected serviced residences and newer developments around Pudu."
+    },
+    {
+      "question": "Is Pudu MRT convenient for daily travel?",
+      "answer": "Yes, Pudu MRT provides convenient access to major areas including Bukit Bintang, TRX and other Kuala Lumpur locations."
+    },
+    {
+      "question": "What are the nearest shopping malls to Pudu?",
+      "answer": "Residents can easily access Berjaya Times Square, Pavilion Kuala Lumpur, Sungei Wang Plaza and MyTOWN Shopping Centre."
+    },
+    {
+      "question": "Is Pudu close to Berjaya Times Square?",
+      "answer": "Yes, Pudu is located very close to Berjaya Times Square and Bukit Bintang entertainment areas."
+    },
+    {
+      "question": "Are there cheap rooms in Pudu Kuala Lumpur?",
+      "answer": "Yes, Pudu is known for affordable room rentals compared with many central Kuala Lumpur neighbourhoods."
+    },
+    {
+      "question": "Is Pudu safe for tenants?",
+      "answer": "Many residential buildings in Pudu provide security features such as CCTV, access cards and management services."
+    },
+    {
+      "question": "Can I rent a room in Pudu without a car?",
+      "answer": "Yes, Pudu is suitable for car-free living because of MRT, LRT, buses and nearby amenities."
+    },
+    {
+      "question": "Is Pudu a good area for young professionals?",
+      "answer": "Yes, young professionals prefer Pudu because it offers affordable city living near workplaces and entertainment areas."
+    },
+    {
+      "question": "Are there condo rooms for rent in Pudu?",
+      "answer": "Yes, many condominiums and serviced residences around Pudu offer rooms for rent."
+    },
+    {
+      "question": "How far is Pudu from Bukit Bintang?",
+      "answer": "Pudu is only a short distance from Bukit Bintang and can be reached by MRT, walking routes or public transport."
+    },
+    {
+      "question": "How far is Pudu from KL Sentral?",
+      "answer": "Pudu has convenient access to KL Sentral through public transportation connections."
+    },
+    {
+      "question": "Is Pudu good for long-term rental?",
+      "answer": "Yes, Pudu is suitable for long-term tenants because of affordable prices and convenient facilities."
+    },
+    {
+      "question": "Are utilities included in Pudu room rental?",
+      "answer": "Utility arrangements depend on the landlord and rental agreement."
+    },
+    {
+      "question": "Can couples rent rooms in Pudu?",
+      "answer": "Some landlords allow couples depending on property rules and tenancy conditions."
+    },
+    {
+      "question": "Are pets allowed in Pudu rental properties?",
+      "answer": "Pet policies vary by condominium and landlord approval."
+    },
+    {
+      "question": "Are there no deposit rooms in Pudu?",
+      "answer": "Some listings may offer flexible deposit arrangements depending on landlord terms."
+    },
+    {
+      "question": "Is Pudu suitable for expats?",
+      "answer": "Yes, expats looking for affordable city-centre housing may consider Pudu due to its location and transport access."
+    },
+    {
+      "question": "What amenities are available near Pudu rooms?",
+      "answer": "Residents have access to restaurants, supermarkets, shopping malls, clinics, banks and convenience stores."
+    },
+    {
+      "question": "Can I find short-term rental rooms in Pudu?",
+      "answer": "Yes, short-term rental options are available in selected serviced apartments and residences."
+    },
+    {
+      "question": "Is Pudu connected to TRX?",
+      "answer": "Yes, Pudu residents can conveniently travel to TRX through MRT connectivity."
+    },
+    {
+      "question": "What makes Pudu popular among renters?",
+      "answer": "Affordable pricing, central location, transport connectivity and nearby business districts make Pudu attractive."
+    },
+    {
+      "question": "Are Pudu apartments suitable for families?",
+      "answer": "Yes, larger apartments and condominiums are available for families seeking city convenience."
+    },
+    {
+      "question": "Is Pudu crowded?",
+      "answer": "Pudu is an active urban neighbourhood with busy commercial areas and established residential communities."
+    },
+    {
+      "question": "Are there supermarkets near Pudu?",
+      "answer": "Yes, residents have access to supermarkets, convenience stores and shopping centres nearby."
+    },
+    {
+      "question": "How long does it take from Pudu to KLCC?",
+      "answer": "Travel time depends on transport method, but Pudu provides quick access to KLCC through city connections."
+    },
+    {
+      "question": "Can students find budget rooms near Pudu?",
+      "answer": "Yes, Pudu has many affordable rooms suitable for students and interns."
+    },
+    {
+      "question": "Are Pudu rooms suitable for office workers?",
+      "answer": "Yes, Pudu is convenient for employees working in central Kuala Lumpur offices."
+    },
+    {
+      "question": "Is Pudu better than Cheras for rental?",
+      "answer": "Pudu offers stronger city-centre access, while Cheras generally offers lower rental prices."
+    },
+    {
+      "question": "Is Pudu better than Bukit Bintang for affordable housing?",
+      "answer": "Yes, Pudu provides a more budget-friendly option while staying close to Bukit Bintang."
+    },
+    {
+      "question": "Are there rooms near Jalan Pudu?",
+      "answer": "Yes, many rental rooms and apartments are available around Jalan Pudu with easy access to shops, restaurants and transport."
+    },
+    {
+      "question": "Can I find a room near Berjaya Times Square?",
+      "answer": "Yes, Pudu is one of the closest affordable residential areas near Berjaya Times Square."
+    },
+    {
+      "question": "Is Pudu suitable for interns?",
+      "answer": "Yes, interns often choose Pudu because of affordable rentals and convenient access to city workplaces."
+    },
+    {
+      "question": "Are there female-friendly rooms in Pudu?",
+      "answer": "Yes, some landlords provide female-only rooms or female-friendly rental arrangements depending on availability."
+    },
+    {
+      "question": "Are there male-friendly rooms in Pudu?",
+      "answer": "Yes, rooms are available for male tenants depending on landlord preferences."
+    },
+    {
+      "question": "Can I rent a room monthly in Pudu?",
+      "answer": "Yes, monthly room rental options are available in many apartments and serviced residences."
+    },
+    {
+      "question": "Are there luxury condos in Pudu?",
+      "answer": "Yes, Pudu has several modern serviced residences and condominiums offering premium facilities."
+    },
+    {
+      "question": "What facilities do Pudu condos usually provide?",
+      "answer": "Many condos offer swimming pools, gyms, security services, parking and common facilities."
+    },
+    {
+      "question": "Is Pudu good for remote workers?",
+      "answer": "Yes, Pudu offers convenient cafes, internet access, affordable rentals and easy city connectivity for remote workers."
+    },
+    {
+      "question": "Are there cafes near Pudu rental properties?",
+      "answer": "Yes, Pudu has many cafes, coffee shops and food outlets nearby."
+    },
+    {
+      "question": "Can I find a room near Pudu Plaza?",
+      "answer": "Yes, rental options are available around Pudu Plaza and nearby residential buildings."
+    },
+    {
+      "question": "Is Pudu close to Sungei Wang Plaza?",
+      "answer": "Yes, Sungei Wang Plaza is located nearby in the Bukit Bintang area."
+    },
+    {
+      "question": "Are there rooms near Chan Sow Lin MRT?",
+      "answer": "Yes, several apartments and residences around Pudu provide access to Chan Sow Lin MRT."
+    },
+    {
+      "question": "Is Pudu a good alternative to KLCC rental?",
+      "answer": "Yes, Pudu offers lower rental prices while still providing access to KLCC and major business areas."
+    },
+    {
+      "question": "Can I find rooms under RM1000 in Pudu?",
+      "answer": "Yes, budget rooms under RM1000 are commonly available depending on room type and facilities."
+    },
+    {
+      "question": "Are Pudu rooms suitable for fresh graduates?",
+      "answer": "Yes, fresh graduates often choose Pudu because of affordable rental options near employment areas."
+    },
+    {
+      "question": "Is parking available in Pudu condos?",
+      "answer": "Many condominium properties provide parking facilities, but availability depends on the unit."
+    },
+    {
+      "question": "Are there apartments near Pudu MRT with lifts?",
+      "answer": "Yes, most modern apartment buildings near Pudu MRT provide lift facilities."
+    },
+    {
+      "question": "Can foreigners rent short-term apartments in Pudu?",
+      "answer": "Yes, selected serviced apartments accept short-term foreign tenants."
+    },
+    {
+      "question": "Is Pudu suitable for business travellers?",
+      "answer": "Yes, Pudu's central location makes it convenient for business travellers visiting Kuala Lumpur."
+    },
+    {
+      "question": "Are there co-living spaces in Pudu?",
+      "answer": "Yes, some properties offer co-living style accommodation with shared facilities."
+    },
+    {
+      "question": "What is the average room rental demand in Pudu?",
+      "answer": "Pudu has strong rental demand due to its location near business districts and transportation hubs."
+    },
+    {
+      "question": "Does Pudu have good food options?",
+      "answer": "Yes, Pudu is well known for diverse local food options, restaurants and traditional eateries."
+    },
+    {
+      "question": "Are there hospitals near Pudu?",
+      "answer": "Yes, several healthcare facilities are accessible from Pudu and surrounding Kuala Lumpur areas."
+    },
+    {
+      "question": "Can I travel from Pudu to Bukit Bintang daily?",
+      "answer": "Yes, daily commuting between Pudu and Bukit Bintang is convenient through public transport."
+    },
+    {
+      "question": "Is Pudu suitable for couples looking for rental rooms?",
+      "answer": "Some landlords allow couples depending on property rules and rental conditions."
+    },
+    {
+      "question": "Are furnished apartments common in Pudu?",
+      "answer": "Yes, furnished apartments and rooms are commonly available in Pudu."
+    },
+    {
+      "question": "Can I find affordable studio rooms in Pudu?",
+      "answer": "Yes, affordable studio units are available in selected residential developments."
+    },
+    {
+      "question": "Are there rooms near shopping malls in Pudu?",
+      "answer": "Yes, many rooms are located close to shopping malls and commercial areas."
+    },
+    {
+      "question": "Is Pudu suitable for long-term foreigners working in Kuala Lumpur?",
+      "answer": "Yes, Pudu provides convenient city living with affordable rental options for foreign workers."
+    },
+    {
+      "question": "Does Pudu have good road connectivity?",
+      "answer": "Yes, Pudu connects easily to major roads including Jalan Pudu and Kuala Lumpur city routes."
+    },
+    {
+      "question": "Are there affordable condo rooms near TRX?",
+      "answer": "Yes, Pudu is a nearby affordable alternative for tenants working near TRX."
+    },
+    {
+      "question": "Can I rent a room close to public transport in Pudu?",
+      "answer": "Yes, many rooms are located near MRT, LRT and bus routes."
+    },
+    {
+      "question": "Are Pudu rentals suitable for working women?",
+      "answer": "Yes, many female tenants choose Pudu because of convenience and transport accessibility."
+    },
+    {
+      "question": "Is Pudu close to Kuala Lumpur city centre?",
+      "answer": "Yes, Pudu is considered part of the greater Kuala Lumpur city-centre area."
+    },
+    {
+      "question": "Are there cheap apartments near Pudu MRT?",
+      "answer": "Yes, affordable apartments and rooms are available near Pudu MRT."
+    },
+    {
+      "question": "Can I find rental rooms near offices in Kuala Lumpur?",
+      "answer": "Yes, Pudu provides access to many office districts including KLCC and TRX."
+    },
+    {
+      "question": "Does Pudu have convenience stores?",
+      "answer": "Yes, convenience stores and daily shopping facilities are available throughout Pudu."
+    },
+    {
+      "question": "Is Pudu a good rental choice in 2026?",
+      "answer": "Yes, Pudu remains attractive due to affordable pricing, strong connectivity and proximity to major city developments."
+    },
+    {
+      "question": "How do I search for a room for rent in Pudu?",
+      "answer": "You can search by room type, budget, MRT distance, furnishing and preferred residence facilities."
+    },
+    {
+      "question": "What is the best area to rent a room near Pudu MRT?",
+      "answer": "Areas around Pudu MRT, Jalan Pudu and nearby residential developments are popular because they provide easy access to transport, shops and Kuala Lumpur city centre."
+    },
+    {
+      "question": "Are there rooms near MyTOWN Shopping Centre from Pudu?",
+      "answer": "Yes, MyTOWN Shopping Centre is easily accessible from Pudu, and nearby residences offer various rental options."
+    },
+    {
+      "question": "Is Pudu suitable for people working in Bukit Bintang?",
+      "answer": "Yes, many Bukit Bintang employees choose Pudu because it offers affordable rentals and short commuting distance."
+    },
+    {
+      "question": "Can I find a private room in Pudu apartments?",
+      "answer": "Yes, private single rooms and master rooms are available in many apartments and condominiums around Pudu."
+    },
+    {
+      "question": "Are there rooms with WiFi included in Pudu?",
+      "answer": "Some rental rooms include WiFi, while others require tenants to arrange their own internet service depending on the landlord agreement."
+    },
+    {
+      "question": "Is Pudu suitable for people who work night shifts?",
+      "answer": "Yes, Pudu is convenient for night-shift workers because of its central location, transport options and nearby food outlets."
+    },
+    {
+      "question": "Are there affordable rooms close to Kuala Lumpur hospitals?",
+      "answer": "Yes, Pudu provides convenient access to several healthcare facilities around Kuala Lumpur."
+    },
+    {
+      "question": "Can I rent a room near Hang Tuah Station from Pudu?",
+      "answer": "Yes, Hang Tuah Station is nearby and provides connections to LRT and Monorail services."
+    },
+    {
+      "question": "Are Pudu rental rooms suitable for first-time Kuala Lumpur residents?",
+      "answer": "Yes, Pudu is a practical choice for newcomers because of affordable housing, transport access and central location."
+    },
+    {
+      "question": "Does Pudu have convenience for daily commuting?",
+      "answer": "Yes, residents can easily commute using MRT, LRT, buses and major city roads."
+    },
+    {
+      "question": "Are there rooms near Jalan Imbi from Pudu?",
+      "answer": "Yes, Jalan Imbi and Bukit Bintang areas are close to Pudu and offer additional rental choices."
+    },
+    {
+      "question": "Can I find affordable master rooms in Pudu?",
+      "answer": "Yes, master rooms are available at different price points depending on the building and facilities."
+    },
+    {
+      "question": "Is Pudu suitable for young couples?",
+      "answer": "Yes, some apartments and serviced residences in Pudu are suitable for young couples depending on rental policies."
+    },
+    {
+      "question": "Are there rooms near Kuala Lumpur shopping areas?",
+      "answer": "Yes, Pudu residents have quick access to Bukit Bintang shopping areas and major malls."
+    },
+    {
+      "question": "Does Pudu have good access to restaurants?",
+      "answer": "Yes, Pudu has many restaurants, cafes, food courts and local eateries within walking distance."
+    },
+    {
+      "question": "Are there affordable apartments near TRX from Pudu?",
+      "answer": "Yes, Pudu is a popular affordable residential option for people working near TRX."
+    },
+    {
+      "question": "Can I rent a room close to MRT and shopping malls in Pudu?",
+      "answer": "Yes, many rental properties are located near both MRT stations and shopping areas."
+    },
+    {
+      "question": "Is Pudu a good choice for budget-conscious professionals?",
+      "answer": "Yes, Pudu offers city-centre convenience at lower rental prices compared with premium areas like KLCC and Bukit Bintang."
+    },
+    {
+      "question": "Are there modern serviced apartments in Pudu?",
+      "answer": "Yes, newer serviced apartments and condominium developments are available around Pudu."
+    },
+    {
+      "question": "Why should tenants choose Pudu for room rental?",
+      "answer": "Tenants choose Pudu because of affordable rental prices, strategic location, MRT connectivity and easy access to Kuala Lumpur attractions and workplaces."
+    }
+  ],
+  "focusKeywords": [
+    "Pudu room for rent",
+    "Pudu condo for rent",
+    "Pudu apartment for rent",
+    "room near Pudu MRT",
+    "furnished room Pudu Kuala Lumpur",
+    "cheap room Pudu Kuala Lumpur",
+    "affordable rental Pudu KL",
+    "Pudu city centre room rental",
+    "condo room Pudu near MRT",
+    "Pudu serviced apartment for rent",
+    "monthly rental Pudu Kuala Lumpur",
+    "studio apartment Pudu for rent",
+    "room near Berjaya Times Square",
+    "budget room near Bukit Bintang",
+    "KL city centre affordable room rental"
+  ],
+  "longTailKeywords": [
+    "furnished room for rent near Pudu MRT Kuala Lumpur walking distance",
+    "cheap room near Berjaya Times Square for working professionals",
+    "affordable condo room Pudu Kuala Lumpur near MRT station",
+    "studio apartment Pudu fully furnished for rent Kuala Lumpur",
+    "monthly rental room Pudu near Bukit Bintang and KLCC",
+    "budget room rental Pudu Kuala Lumpur city centre",
+    "high floor condo room Pudu with city view for rent",
+    "short term rental Pudu furnished apartment Kuala Lumpur",
+    "no deposit room for rent Pudu Kuala Lumpur",
+    "premium condo rental near Pudu MRT and TRX",
+    "student friendly room near Pudu MRT Kuala Lumpur",
+    "cheap furnished room walking distance to Bukit Bintang",
+    "master room Pudu near public transport Kuala Lumpur",
+    "single room rental Pudu for professionals",
+    "affordable studio near Pudu and Bukit Bintang"
+  ],
+  "intentMapping": {
+    "student": [
+      "cheap room Pudu",
+      "budget room near Pudu MRT",
+      "student room Pudu Kuala Lumpur",
+      "affordable accommodation Pudu",
+      "student rental room Pudu",
+      "shared room rental Pudu",
+      "cheap furnished room Pudu",
+      "budget apartment near Pudu MRT",
+      "student accommodation near Pudu transport",
+      "room near Tunku Abdul Rahman University College",
+      "student friendly room rental Pudu"
+    ],
+    "expat": [
+      "expat housing Pudu",
+      "furnished condo Pudu",
+      "serviced apartment Pudu",
+      "international tenant friendly condo Pudu",
+      "modern apartment rental Pudu",
+      "condo near Bukit Bintang Pudu",
+      "fully furnished apartment Pudu Kuala Lumpur",
+      "expat friendly residence Pudu",
+      "premium condo rental Pudu",
+      "foreign tenant apartment Pudu"
+    ],
+    "professional": [
+      "Pudu condo near MRT",
+      "room near Pudu for professionals",
+      "room near Berjaya Times Square",
+      "room near Kuala Lumpur city centre offices",
+      "room near TRX from Pudu",
+      "affordable apartment Pudu",
+      "executive residence Pudu",
+      "working professional room rental Pudu",
+      "corporate housing Pudu Kuala Lumpur",
+      "office worker accommodation Pudu"
+    ],
+    "shortStay": [
+      "short term rental Pudu",
+      "monthly rental Pudu",
+      "serviced residence Pudu",
+      "flexible room rental Pudu",
+      "short stay apartment Pudu Kuala Lumpur",
+      "temporary accommodation Pudu",
+      "monthly furnished room Pudu",
+      "weekly apartment rental Pudu",
+      "business stay Pudu",
+      "holiday rental apartment Pudu"
+    ],
+    "premiumIntent": [
+      "luxury condo Pudu for rent",
+      "high end apartment Pudu",
+      "executive residence Pudu",
+      "premium serviced apartment Pudu",
+      "luxury condominium rental near Bukit Bintang",
+      "modern condo rental Pudu Kuala Lumpur",
+      "premium furnished room Pudu",
+      "exclusive apartment Pudu",
+      "five star serviced residence near Pudu",
+      "city view condo Pudu Kuala Lumpur"
+    ],
+    "family": [
+      "family apartment Pudu",
+      "3 bedroom condo Pudu rental",
+      "family friendly condo near Pudu",
+      "safe residential area Pudu",
+      "large apartment rental Pudu Kuala Lumpur",
+      "family condo near city centre",
+      "child friendly apartment Pudu",
+      "long term family rental Pudu",
+      "spacious condominium Pudu"
+    ],
+    "budgetTenant": [
+      "cheap room Pudu Kuala Lumpur",
+      "low budget rental Pudu",
+      "affordable apartment Pudu",
+      "room under RM1000 Pudu",
+      "budget friendly room near Pudu MRT",
+      "cheap furnished room near Pudu",
+      "affordable condo room Pudu",
+      "low cost accommodation Kuala Lumpur city centre",
+      "budget room walking distance Pudu MRT",
+      "cheap rental near Berjaya Times Square"
+    ]
+  },
+  "seo": {
+    "primaryKeyword": "Pudu room for rent",
+    "secondaryKeywords": [
+      "Pudu condo for rent",
+      "Pudu apartment for rent",
+      "Pudu serviced apartment for rent",
+      "cheap room Pudu Kuala Lumpur",
+      "room near Pudu MRT",
+      "Pudu furnished room for rent",
+      "Bukit Bintang room rental near Pudu",
+      "KL city centre affordable room rental",
+      "Pudu condo room near MRT"
+    ],
+    "seoScore": 96,
+    "canonicalUrl": "https://roomrentalkl.com/kuala-lumpur/pudu/room-for-rent",
+    "schemaType": "Apartment",
+    "intentCluster": "affordable-city-center-rentals",
+    "contentCluster": [
+      "affordable rooms Pudu",
+      "condo rooms near Pudu MRT",
+      "budget housing Kuala Lumpur",
+      "city centre rental rooms",
+      "MRT connected rentals Pudu",
+      "Bukit Bintang nearby apartments"
+    ],
+    "internalLinking": {
+      "relatedAreas": [
+        "Bukit Bintang",
+        "KLCC",
+        "TRX",
+        "Cheras",
+        "Brickfields",
+        "KL Sentral"
+      ],
+      "nearbyHotspots": [
+        "Pudu MRT Station",
+        "Berjaya Times Square",
+        "Jalan Pudu",
+        "Bukit Bintang",
+        "The Exchange TRX",
+        "Pudu Plaza"
+      ]
+    },
+    "relatedSearchPages": [
+      {
+        "title": "Pudu Rooms for Rent",
+        "url": "/room-rental-pudu",
+        "keyword": "pudu room for rent"
+      },
+      {
+        "title": "Pudu Condos for Rent",
+        "url": "/condo-for-rent-pudu",
+        "keyword": "pudu condo for rent"
+      },
+      {
+        "title": "Cheap Rooms Near Pudu",
+        "url": "/cheap-room-pudu",
+        "keyword": "cheap room near pudu"
+      },
+      {
+        "title": "Rooms Near Pudu MRT",
+        "url": "/room-near-pudu-mrt",
+        "keyword": "room near pudu mrt"
+      },
+      {
+        "title": "KL City Centre Affordable Rentals",
+        "url": "/kl-city-centre-rentals",
+        "keyword": "affordable room kuala lumpur city centre"
+      }
+    ],
+    "internalPages": [
+      {
+        "title": "Pudu Area Guide",
+        "url": "/area-guide-pudu",
+        "type": "guide"
+      },
+      {
+        "title": "Pudu Price Guide 2026",
+        "url": "/price-guide-pudu",
+        "type": "pricing"
+      },
+      {
+        "title": "Pudu MRT Connectivity Guide",
+        "url": "/pudu-mrt-guide",
+        "type": "transport"
+      },
+      {
+        "title": "Affordable Condos in Pudu",
+        "url": "/affordable-condo-pudu",
+        "type": "listing-category"
+      },
+      {
+        "title": "Professional Housing in Pudu",
+        "url": "/professional-housing-pudu",
+        "type": "audience-page"
+      },
+      {
+        "title": "Furnished Rooms Pudu",
+        "url": "/furnished-room-pudu",
+        "type": "listing-category"
+      },
+      {
+        "title": "Short Term Rentals Pudu",
+        "url": "/short-term-rental-pudu",
+        "type": "rental-type"
+      }
+    ]
+  }
+}
