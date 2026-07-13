@@ -396,162 +396,162 @@
   },
   "transitStations": [
     {
-      "name": "Cyberjaya MRT Station",
-      "slug": "cyberjaya-mrt",
+      "name": "Cyberjaya City Centre MRT Station",
+      "slug": "cyberjaya-city-centre-mrt",
       "stationType": "MRT",
       "line": "Putrajaya Line",
       "walkingTime": "5 mins walk",
-      "distanceMeters": 350,
-      "distanceText": "5 mins walk (350 m)",
-      "title": "Cyberjaya MRT Station",
-      "shortDescription": "Cyberjaya MRT Station is the main rail connection serving Cyberjaya residents. It provides direct access to Putrajaya, KL city areas and major employment hubs, making it convenient for students and technology professionals.",
-      "averageRoomRent": 1000,
+      "distanceMeters": 400,
+      "distanceText": "5 mins walk (400 m)",
+      "title": "Cyberjaya City Centre MRT Station",
+      "shortDescription": "Cyberjaya City Centre MRT Station is the primary MRT station serving Cyberjaya, offering direct connectivity to Putrajaya, TRX, KLCC and central Kuala Lumpur. It is highly popular among students, IT professionals and daily commuters.",
+      "averageRoomRent": 950,
       "nearbyLandmarks": [
-        "Cyberjaya Lake Gardens",
         "Cyberjaya City Centre",
+        "Cyberjaya Lake Gardens",
         "Tamarind Square",
-        "D'Pulze Shopping Centre"
+        "DPULZE Shopping Centre"
       ],
       "nearbyResidences": [
-        "Tamarind Square",
+        "Mutiara Ville",
         "Cybersquare",
-        "Shaftsbury Residences",
-        "Verdi Eco-dominiums"
+        "Garden Plaza",
+        "The Arc Cyberjaya"
       ],
       "popularSearches": [
-        "Room near Cyberjaya MRT",
-        "Cyberjaya MRT room rent",
-        "Studio near Cyberjaya MRT"
+        "Room near Cyberjaya City Centre MRT",
+        "Cyberjaya MRT room rental",
+        "Apartment near Cyberjaya MRT"
       ]
     },
     {
-      "name": "Putrajaya Sentral Station",
-      "slug": "putrajaya-sentral",
+      "name": "Putrajaya Sentral MRT Station",
+      "slug": "putrajaya-sentral-mrt",
       "stationType": "MRT",
       "line": "Putrajaya Line",
       "walkingTime": "10 mins drive",
-      "distanceMeters": 5000,
-      "distanceText": "10 mins drive (5 km)",
-      "title": "Putrajaya Sentral Station",
-      "shortDescription": "Putrajaya Sentral is a major transportation hub connecting Cyberjaya and Putrajaya through MRT, ERL and bus services. It provides convenient access to Kuala Lumpur International Airport and city destinations.",
-      "averageRoomRent": 1100,
+      "distanceMeters": 7000,
+      "distanceText": "10 mins drive (7 km)",
+      "title": "Putrajaya Sentral MRT Station",
+      "shortDescription": "Putrajaya Sentral MRT Station connects Cyberjaya residents to Kuala Lumpur while integrating with KLIA Transit and bus services.",
+      "averageRoomRent": 900,
       "nearbyLandmarks": [
         "Putrajaya Sentral",
-        "Putrajaya Government Offices",
-        "IOI City Mall"
+        "IOI City Mall",
+        "Government Offices"
       ],
       "nearbyResidences": [
-        "Lakefront Residence",
-        "Garden Residence",
-        "Cyber Heights Villa"
+        "Conezion",
+        "Dwiputra Residences",
+        "Putra Harmoni"
       ],
       "popularSearches": [
         "Room near Putrajaya Sentral",
-        "Cyberjaya room near ERL"
+        "Cyberjaya MRT access room"
       ]
     },
     {
-      "name": "Serdang Raya MRT Station",
-      "slug": "serdang-raya-mrt",
+      "name": "Putrajaya & Cyberjaya ERL Station",
+      "slug": "putrajaya-cyberjaya-erl",
+      "stationType": "ERL",
+      "line": "KLIA Transit",
+      "walkingTime": "10 mins drive",
+      "distanceMeters": 8000,
+      "distanceText": "10 mins drive (8 km)",
+      "title": "Putrajaya & Cyberjaya ERL Station",
+      "shortDescription": "KLIA Transit station providing fast access to KL Sentral and Kuala Lumpur International Airport. Ideal for business travellers and airport staff.",
+      "averageRoomRent": 980,
+      "nearbyLandmarks": [
+        "Putrajaya Sentral",
+        "KLIA Transit",
+        "Express Rail Link"
+      ],
+      "nearbyResidences": [
+        "Mutiara Ville",
+        "Lakefront Residence",
+        "Garden Residence"
+      ],
+      "popularSearches": [
+        "Room near ERL Cyberjaya",
+        "Cyberjaya airport access room"
+      ]
+    },
+    {
+      "name": "16 Sierra MRT Station",
+      "slug": "16-sierra-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "12 mins drive",
+      "distanceMeters": 9000,
+      "distanceText": "12 mins drive (9 km)",
+      "title": "16 Sierra MRT Station",
+      "shortDescription": "16 Sierra MRT Station provides convenient access between Cyberjaya, Puchong South and Kuala Lumpur. Popular with working professionals.",
+      "averageRoomRent": 900,
+      "nearbyLandmarks": [
+        "16 Sierra",
+        "Puchong South",
+        "Cyberjaya"
+      ],
+      "nearbyResidences": [
+        "Symphony Hills",
+        "Lakefront Residence",
+        "Mutiara Ville"
+      ],
+      "popularSearches": [
+        "Room near 16 Sierra MRT",
+        "Cyberjaya MRT rental"
+      ]
+    },
+    {
+      "name": "Cybersouth MRT Station",
+      "slug": "cybersouth-mrt",
+      "stationType": "MRT",
+      "line": "Putrajaya Line",
+      "walkingTime": "15 mins drive",
+      "distanceMeters": 11000,
+      "distanceText": "15 mins drive (11 km)",
+      "title": "Cybersouth MRT Station",
+      "shortDescription": "Cybersouth MRT Station improves accessibility between Cyberjaya, Dengkil and southern Klang Valley, making commuting easier for residents.",
+      "averageRoomRent": 850,
+      "nearbyLandmarks": [
+        "CyberSouth",
+        "Dengkil",
+        "Gamuda Cove"
+      ],
+      "nearbyResidences": [
+        "Lakefront Homes",
+        "CyberSouth Residences",
+        "Dengkil Apartments"
+      ],
+      "popularSearches": [
+        "Room near CyberSouth MRT",
+        "CyberSouth apartment rental"
+      ]
+    },
+    {
+      "name": "Universiti Putra Malaysia MRT Station",
+      "slug": "upm-mrt",
       "stationType": "MRT",
       "line": "Putrajaya Line",
       "walkingTime": "20 mins drive",
-      "distanceMeters": 15000,
-      "distanceText": "20 mins drive (15 km)",
-      "title": "Serdang Raya MRT Station",
-      "shortDescription": "Serdang Raya MRT provides additional connectivity towards Kuala Lumpur, universities and commercial areas. It offers alternative transport options for Cyberjaya residents.",
+      "distanceMeters": 17000,
+      "distanceText": "20 mins drive (17 km)",
+      "title": "Universiti Putra Malaysia MRT Station",
+      "shortDescription": "UPM MRT Station connects Cyberjaya with Serdang, UPM campus and Kuala Lumpur. Frequently used by students and researchers.",
       "averageRoomRent": 900,
       "nearbyLandmarks": [
+        "Universiti Putra Malaysia",
         "Serdang",
-        "UPM",
-        "The Mines Shopping Mall"
+        "MAEPS"
       ],
       "nearbyResidences": [
-        "Cyberjaya Condominiums",
-        "Garden Residence",
-        "Lakefront Residence"
+        "South City Residence",
+        "Serdang Apartments",
+        "One South"
       ],
       "popularSearches": [
-        "Room near Serdang MRT",
-        "Cyberjaya nearby MRT room"
-      ]
-    },
-    {
-      "name": "Salak Tinggi ERL Station",
-      "slug": "salak-tinggi-erl",
-      "stationType": "ERL",
-      "line": "KLIA Transit Line",
-      "walkingTime": "15 mins drive",
-      "distanceMeters": 12000,
-      "distanceText": "15 mins drive (12 km)",
-      "title": "Salak Tinggi ERL Station",
-      "shortDescription": "Salak Tinggi ERL Station provides fast airport connectivity and is useful for Cyberjaya residents working near KLIA, Sepang and aviation-related industries.",
-      "averageRoomRent": 950,
-      "nearbyLandmarks": [
-        "KLIA Transit",
-        "Sepang",
-        "KLIA Airport"
-      ],
-      "nearbyResidences": [
-        "Cyberjaya Residences",
-        "Hyve Soho Suites",
-        "Cybersquare"
-      ],
-      "popularSearches": [
-        "Room near Salak Tinggi ERL",
-        "Cyberjaya airport rental room"
-      ]
-    },
-    {
-      "name": "Putrajaya & Cyberjaya Bus Terminal",
-      "slug": "putrajaya-cyberjaya-bus-terminal",
-      "stationType": "BUS",
-      "line": "RapidKL Bus Network",
-      "walkingTime": "8 mins walk",
-      "distanceMeters": 600,
-      "distanceText": "8 mins walk (600 m)",
-      "title": "Putrajaya & Cyberjaya Bus Terminal",
-      "shortDescription": "The bus network connects Cyberjaya residential areas with shopping centres, universities, offices and nearby transport hubs.",
-      "averageRoomRent": 950,
-      "nearbyLandmarks": [
-        "Cyberjaya City Centre",
-        "Multimedia University",
-        "D'Pulze Shopping Centre"
-      ],
-      "nearbyResidences": [
-        "Cybersquare",
-        "Tamarind Square",
-        "Shaftsbury Residences"
-      ],
-      "popularSearches": [
-        "Room near Cyberjaya bus terminal",
-        "Cyberjaya cheap room rental"
-      ]
-    },
-    {
-      "name": "Kuala Lumpur International Airport Station",
-      "slug": "klia-station",
-      "stationType": "ERL",
-      "line": "KLIA Transit Line",
-      "walkingTime": "25 mins drive",
-      "distanceMeters": 30000,
-      "distanceText": "25 mins drive (30 km)",
-      "title": "KLIA Station",
-      "shortDescription": "KLIA Station provides direct airport access and benefits Cyberjaya residents working in aviation, logistics and international companies.",
-      "averageRoomRent": 1000,
-      "nearbyLandmarks": [
-        "KLIA Terminal 1",
-        "KLIA Terminal 2",
-        "Mitsui Outlet Park"
-      ],
-      "nearbyResidences": [
-        "Cyberjaya Residences",
-        "Garden Residence",
-        "Lakefront Residence"
-      ],
-      "popularSearches": [
-        "Room near KLIA from Cyberjaya",
-        "Airport worker room Cyberjaya"
+        "Room near UPM MRT",
+        "Cyberjaya student accommodation"
       ]
     }
   ],
@@ -588,26 +588,10 @@
     }
   ],
   "marketInsights": {
-    "averageRent": 1200,
-    "priceGrowth": 3.8,
+    "averageRent": 950,
+    "priceGrowth": 4.2,
     "demandLevel": "High",
-    "vacancyRate": 3.2,
-    "marketOverview": "Cyberjaya rental property market continues to grow due to strong demand from technology professionals, university students, expatriates, government employees and young working adults. The city offers affordable rooms, furnished apartments, studio units and condominium rentals compared with Kuala Lumpur city centre.",
-    "rentalDemandDrivers": [
-      "Multimedia University (MMU) students looking for affordable rooms near campus",
-      "IT and technology professionals working in Cyberjaya technology companies",
-      "Employees from MSC Malaysia and multinational companies",
-      "Government employees working in nearby Putrajaya",
-      "Expats seeking modern and affordable condominium rentals"
-    ],
-    "popularRentalTypes": [
-      "Furnished room rental Cyberjaya",
-      "Master room rental Cyberjaya",
-      "Studio apartment rental Cyberjaya",
-      "Condo rental Cyberjaya",
-      "Affordable room for rent Cyberjaya"
-    ],
-    "investmentPotential": "Cyberjaya remains one of Malaysia's attractive rental property locations due to its technology ecosystem, education institutions, planned infrastructure, modern residential developments and proximity to Putrajaya and Kuala Lumpur."
+    "vacancyRate": 3.5
   },
   "nearbyAreas": [
     {
@@ -1102,7 +1086,6 @@
       "question": "Does Cyberjaya have nightlife and entertainment?",
       "answer": "Cyberjaya offers restaurants, cafes, shopping centres, entertainment venues and lifestyle areas suitable for residents."
     },
-    [
       {
         "question": "What are the best condominiums for families in Cyberjaya?",
         "answer": "Families often choose Cyberjaya condominiums with larger layouts, security facilities, swimming pools, playgrounds and nearby schools such as Garden Residence, Lakefront Residence and other family-friendly developments."
