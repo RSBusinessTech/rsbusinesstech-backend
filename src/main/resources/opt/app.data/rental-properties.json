@@ -1,0 +1,148 @@
+{
+  "latestRooms": [
+    {
+      "id": 1001,
+      "title": "Master Room Near KLCC MRT",
+      "slug": "master-room-near-klcc-mrt",
+      "description": "Spacious master room located just minutes from KLCC MRT with premium condo facilities and city views.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MASTER",
+      "propertyType": "CONDO",
+      "price": 1500,
+      "deposit": 3000,
+      "maintenanceFee": 150,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 2,
+      "sqft": 180,
+      "furnished": "Fully Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "2 mins (10 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-01",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 1200,
+      "likes": 98,
+      "isLiked": false,
+      "tags": [
+        "Near MRT",
+        "City View",
+        "Premium Condo"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1002,
+      "title": "Single Room at Binjai Residency",
+      "slug": "single-room-binjai-residency",
+      "description": "Affordable single room in a high-end residence with excellent security and amenities.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "SINGLE",
+      "propertyType": "CONDO",
+      "price": 850,
+      "deposit": 1700,
+      "maintenanceFee": 100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carparks": 1,
+      "sqft": 120,
+      "furnished": "Semi Furnished",
+      "address": "Binjai Residency, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "4 mins (200 m)",
+      "mrtStationName": "Ampang Park MRT",
+      "listedDate": "2026-06-03",
+      "isNew": true,
+      "featured": true,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 860,
+      "likes": 54,
+      "isLiked": false,
+      "tags": [
+        "Budget Friendly",
+        "Clean Unit"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    },
+    {
+      "id": 1003,
+      "title": "Medium Room Near Avenue K",
+      "slug": "medium-room-near-avenue-k",
+      "description": "Comfortable medium room with easy access to shopping malls and MRT stations.",
+      "images": [
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+        "https://res.cloudinary.com/divjzb0t3/image/upload/v1765060311/Vyen_Property_Advisor/lrmaczw15pdaqclgl38a.jpg"
+      ],
+      "thumbnail": "https://res.cloudinary.com/divjzb0t3/image/upload/v1775741816/Vyen_Property_Advisor/brdhcpmbhyw6l8zcy39j.jpg",
+      "roomType": "MEDIUM",
+      "propertyType": "SERVICE RESIDENCE",
+      "price": 1100,
+      "deposit": 2200,
+      "maintenanceFee": 120,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "sqft": 150,
+      "furnished": "Fully Furnished",
+      "address": "Avenue K Residences, KLCC",
+      "area": "KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "distanceToMrt": "3 mins (150 m)",
+      "mrtStationName": "KLCC MRT",
+      "listedDate": "2026-06-02",
+      "featured": true,
+      "carparks": 2,
+      "agent": {
+        "name": "Ahmad Rahman",
+        "phone": "+60 12-345 6789",
+        "whatsapp": "+60 12-345 6789",
+        "email": "ahmad@rentkl.com",
+        "avatar": "https://res.cloudinary.com/divjzb0t3/image/upload/v1781105766/agentpic_ci7aik.jpg",
+        "agencyName": "KL Property Experts",
+        "verified": true
+      },
+      "views": 940,
+      "likes": 70,
+      "isLiked": false,
+      "tags": [
+        "Near Mall",
+        "Convenient Location"
+      ],
+      "videoTourUrl": "",
+      "floorPlanUrl": ""
+    }
+  ]
+}

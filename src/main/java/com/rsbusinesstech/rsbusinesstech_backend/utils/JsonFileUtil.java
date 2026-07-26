@@ -8,6 +8,7 @@ import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.custom
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.owner.dto.OwnerDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.property.dto.PropertyDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.roomrentalkl.areas.dto.AreasResponseDTO;
+import com.rsbusinesstech.rsbusinesstech_backend.roomrentalkl.areas.dto.RentalPropertiesResponseDTO;
 import com.rsbusinesstech.rsbusinesstech_backend.springSecurity.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
@@ -227,6 +228,26 @@ public class JsonFileUtil {
             } else {
                 // Fallback: read from classpath resource.
                 ClassPathResource resource = new ClassPathResource(LOCAL_BASE_PATH + areaName.toLowerCase() + ".json");
+                return objectMapper.readValue(resource.getInputStream(), typeReference);
+            }
+        } catch (IOException e) {
+            throw new RuntimeException("Error reading JSON: " + externalFilePath, e);
+        }
+    }
+
+    // Read JSON file.
+    public RentalPropertiesResponseDTO getAllRentalProperties() {
+        String externalFilePath = EXTERNAL_BASE_PATH + "rental-properties" + ".json";
+        File externalFile = new File(externalFilePath);
+
+        TypeReference<RentalPropertiesResponseDTO> typeReference = new TypeReference<>() {};
+        try {
+            if (externalFile.exists()) {
+                // Read from external file if it exists.
+                return objectMapper.readValue(externalFile, typeReference);
+            } else {
+                // Fallback: read from classpath resource.
+                ClassPathResource resource = new ClassPathResource(LOCAL_BASE_PATH + "rental-properties" + ".json");
                 return objectMapper.readValue(resource.getInputStream(), typeReference);
             }
         } catch (IOException e) {

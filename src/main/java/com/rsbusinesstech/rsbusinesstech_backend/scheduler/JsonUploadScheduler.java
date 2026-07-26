@@ -85,7 +85,7 @@ public class JsonUploadScheduler {
         List<String> files = Arrays.asList("buy","commercial","mm2h","newprojects","rent","customer","owner","agent","user",
                 "klcc","bukit-bintang","mont-kiara","bangsar","cheras","ampang","bukit-jalil","setapak","kepong","kl-sentral",
                 "damansara","bandar-utama", "subang-jaya","pj","sunway","usj","brickfields","pudu", "chow-kit","seputeh", "ttdi",
-                "cyberjaya","putrajaya");
+                "cyberjaya","putrajaya", "rental-properties");
 
         for(String file: files){
             Map<String, String> responseMap = new HashMap<>();
