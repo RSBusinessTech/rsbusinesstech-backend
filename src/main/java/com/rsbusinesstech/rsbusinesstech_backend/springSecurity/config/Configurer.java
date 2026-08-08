@@ -137,6 +137,8 @@ public class Configurer
                                                     "https://www.lashmapbeautystudio.com", "https://lashmapbeautystudio.com",
                                                     "https://www.vyenpropertyadvisor.com", "https://vyenpropertyadvisor.com",
                                                     "https://www.roomrentalkl.com",        "https://roomrentalkl.com",
+                                                     "https://www.anaangproperty.com",      "https://www.anaangproperty.com",
+                                                     "https://www.1pavilionsquareklcc.com","https://www.1pavilionsquareklcc.com",
                                                      "https://roomrentalkl.netlify.app"
                                                     )
                                             );
