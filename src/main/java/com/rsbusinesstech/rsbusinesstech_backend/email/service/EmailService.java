@@ -4,12 +4,16 @@ import com.rsbusinesstech.rsbusinesstech_backend.contact.model.EmailRequest;
 import com.rsbusinesstech.rsbusinesstech_backend.propertyManagementSystem.email.model.RentalPaymentReminderRequest;
 import jakarta.mail.MessagingException;
 import jakarta.mail.internet.MimeMessage;
+import jakarta.servlet.http.HttpServletRequest;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.mail.javamail.MimeMessageHelper;
 import org.springframework.stereotype.Service;
+import org.springframework.web.client.RestTemplate;
+
+import java.util.Map;
 
 @Service
 public class EmailService
@@ -174,5 +178,70 @@ public class EmailService
 
         rsBusinessTechMailSender.send(mimeMessage);
 
+    }
+
+    public void trackTraffic(HttpServletRequest request, String ownerEmail){
+        SimpleMailMessage message = new SimpleMailMessage();
+        RestTemplate restTemplate = new RestTemplate();
+
+        Map response = null;
+        String city = null;
+        String region = null;
+        String country = null;
+        String isp = null;
+//        Double latitude = null;
+//        Double longitude = null;
+        String location = null;
+
+        try{
+            // 1. Get IP Address.
+            String ipAddress = request.getHeader("X-Forwarded-For");
+
+            if(ipAddress == null || ipAddress.isEmpty()){
+                ipAddress = request.getRemoteAddr();
+            }
+
+         /*
+             123.45.67.89, 10.0.0.1, 72.16.0.5 → real user IP, proxy server, another proxy layer
+         */
+            if(ipAddress.contains(",")){
+                ipAddress = ipAddress.split(",")[0].trim();
+            }
+
+            // 2. Call free API.
+            String apiUrl =  "http://ip-api.com/json/" + ipAddress;
+            response = restTemplate.getForObject(apiUrl, Map.class);
+
+            city = (String) response.get("city");
+            region = (String) response.get("regionName");
+            country = (String) response.get("country");
+            isp = (String) response.get("isp");
+//          latitude = (Double) response.get("lat");
+//          longitude = (Double) response.get("lon");
+
+            if (city != null && region != null && city.equalsIgnoreCase(region)) {
+                location = city + ", " + country;
+            } else {
+                location = city + ", " + region + ", " + country;
+            }
+
+            location = city + ", " +region +", "+ country;
+
+            // 3. Build email.
+            message.setFrom("rsbusinesstech@gmail.com");
+            message.setTo(ownerEmail);
+            message.setSubject("Someone visited your website just now");
+            message.setText(
+                    "Someone visited your website just now, Below are the visitor details.\n\n" +
+                            "Location: " + location + "\n" +
+                            "IP: " + ipAddress + "\n" +
+                            "ISP: " + isp
+            );
+
+            // 4.Send email.
+            rsBusinessTechMailSender.send(message);
+        }catch (Exception e){
+            e.printStackTrace();
+        }
     }
 }
