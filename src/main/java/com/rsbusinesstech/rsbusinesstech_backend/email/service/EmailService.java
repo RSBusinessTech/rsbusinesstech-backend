@@ -230,7 +230,7 @@ public class EmailService
             // 3. Build email.
             message.setFrom("rsbusinesstech@gmail.com");
             message.setTo(ownerEmail);
-            message.setSubject("Someone visited your website just now");
+            message.setSubject("Someone just visited your website");
             message.setText(
                     "Someone visited your website just now, Below are the visitor details.\n\n" +
                             "Location: " + location + "\n" +
