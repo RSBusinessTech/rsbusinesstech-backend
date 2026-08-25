@@ -138,9 +138,11 @@ public class Configurer
                                                     "https://www.lashmapbeautystudio.com", "https://lashmapbeautystudio.com",
                                                     "https://www.vyenpropertyadvisor.com", "https://vyenpropertyadvisor.com",
                                                     "https://www.roomrentalkl.com",        "https://roomrentalkl.com",
-                                                     "https://www.anaangproperty.com",     "https://anaangproperty.com",
-                                                     "https://www.1pavilionsquareklcc.com","https://1pavilionsquareklcc.com",
-                                                     "https://roomrentalkl.netlify.app"
+                                                    "https://www.anaangproperty.com",      "https://anaangproperty.com",
+                                                    "https://www.anaangproperty.my",       "https://anaangproperty.my",
+                                                    "https://www.homeinkl.com",            "https://homeinkl.com",
+                                                    "https://www.1pavilionsquareklcc.com","https://1pavilionsquareklcc.com",
+                                                    "https://roomrentalkl.netlify.app"
                                                     )
                                             );
         corsConfiguration.setAllowedMethods(List.of("GET","POST","PUT","DELETE","OPTIONS"));  //mapping the allowed methods.  [OPTIONS - Browser sends preflight requests to server to verify CORS before sending actual request.]

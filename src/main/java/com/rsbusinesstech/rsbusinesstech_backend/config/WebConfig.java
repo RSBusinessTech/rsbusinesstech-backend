@@ -19,6 +19,8 @@ public class WebConfig {
                                         "https://www.lashmapbeautystudio.com", "https://lashmapbeautystudio.com",
                                         "https://www.vyenpropertyadvisor.com", "https://vyenpropertyadvisor.com",
                                         "https://www.anaangproperty.com",      "https://anaangproperty.com",
+                                        "https://www.anaangproperty.my",      "https://anaangproperty.my",
+                                        "https://www.homeinkl.com",            "https://homeinkl.com",
                                         "https://www.1pavilionsquareklcc.com","https://1pavilionsquareklcc.com",
                                         "https://rsbusinesstech.netlify.app")                                     //for HttpOnly cookie, used in JWT authentication.
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")  //allowed methods.  [OPTIONS - Browser sends preflight requests to server to verify CORS before sending actual request.]

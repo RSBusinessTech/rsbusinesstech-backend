@@ -33,8 +33,8 @@ public class EmailService
     //method to send email to RS BusinessTech from "Contact" section.
     public void sendEmail(EmailRequest emailRequest){
         SimpleMailMessage message = new SimpleMailMessage();
-
-        message.setTo("rsbusinesstech@gmail.com");                                                                     //setting "to".
+        message.setTo(emailRequest.getOwnerEmail());
+        //message.setTo("rsbusinesstech@gmail.com");                                                                  //setting "to".
         message.setSubject("Enquiry from Customer || "+emailRequest.getName() +" || "+emailRequest.getEmail());       //setting "subject".
         message.setText(
                 "You have a new message from your website:\n\n" +                                                     //setting "body".
