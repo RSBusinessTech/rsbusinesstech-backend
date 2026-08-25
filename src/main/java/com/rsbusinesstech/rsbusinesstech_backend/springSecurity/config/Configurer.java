@@ -141,6 +141,7 @@ public class Configurer
                                                     "https://www.anaangproperty.com",      "https://anaangproperty.com",
                                                     "https://www.anaangproperty.my",       "https://anaangproperty.my",
                                                     "https://www.homeinkl.com",            "https://homeinkl.com",
+                                                    "https://www.homeinkl.netlify.app",    "https://homeinkl.netlify.app",   //remove later
                                                     "https://www.1pavilionsquareklcc.com","https://1pavilionsquareklcc.com",
                                                     "https://roomrentalkl.netlify.app"
                                                     )
