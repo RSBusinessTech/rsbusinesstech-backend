@@ -17,6 +17,22 @@
   },
   {
     "id": 2,
+    "username": "homeinkl",
+    "password": "$2a$10$hX9TxvmuudU0M0pgjEC3DOIeL2SXcBDyyHr9dt1OEEKV.EkUQl/ue",
+    "roles": [
+      {
+        "name": "ADMIN",
+        "permissions": [
+          "USER_READ",
+          "USER_CREATE",
+          "USER_UPDATE",
+          "USER_DELETE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
     "username": "rsbusinesstech",
     "password": "$2a$10$3oN.JBiGY/caepLbH9iLkeDEg5NHVzE7H0IN3lns8OrKF8LKZ1Gry",
     "roles": [
@@ -32,7 +48,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 4,
     "username": "rsbusinesstechclient",
     "password": "$2a$10$NIzeZvC.takhR8GP7Y3Fz.swJk7MnQPCTAH.vOEkYu/PzK/XkuuUe",
     "roles": [
